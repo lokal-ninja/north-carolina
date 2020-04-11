@@ -1,0 +1,4 @@
+---
+title: "Carolina Place Mall"
+url: /pineville/carolina-place-mall/
+---
