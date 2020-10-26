@@ -1,12 +1,12 @@
-id: 323193307
-type: way
+id: 7801947400
+type: node
 shop: supermarket
-latitude: 35.2192092
-longitude: -80.8103888
+latitude: 35.219709900000005
+longitude: -80.81036560000001
 postcode: "28205"
 city: Charlotte
 street: "Central Avenue"
 housenumber: 1704
 phone: ""
-opening_hours: "Mo-Su 06:00-00:00"
+opening_hours: "Mo-Su 06:00-24:00"
 website: ""

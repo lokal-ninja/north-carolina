@@ -5,8 +5,8 @@ latitude: 34.7707138
 longitude: -77.3873415
 postcode: "28546"
 city: Jacksonville
-street: "Western Blvd #J"
-housenumber: 431
-phone: "910-455-3368"
+street: "Western Boulevard"
+housenumber: 431 #J
+phone: "+1 910-455-3368"
 opening_hours: ""
 website: "http://luckytigertattoo.com"

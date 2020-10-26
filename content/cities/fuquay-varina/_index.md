@@ -1,6 +1,6 @@
 ---
-title: Fuquay Varina
+title: Fuquay-Varina
 url: /fuquay-varina/
-latitude: 
-longitude: 
+latitude: 35.5843849
+longitude: -78.79986910000001
 ---

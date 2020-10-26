@@ -1,0 +1,4 @@
+---
+title: "La Yurirense"
+url: /candor/la-yurirense/
+---

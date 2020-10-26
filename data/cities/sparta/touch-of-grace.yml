@@ -1,6 +1,6 @@
 id: 6993362158
 type: node
-shop: shop
+shop: clothes
 latitude: 36.5049603
 longitude: -81.1205169
 postcode: "28675"
@@ -8,5 +8,5 @@ city: Sparta
 street: "South Main Street"
 housenumber: 38
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-17:00"
 website: ""

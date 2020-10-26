@@ -1,0 +1,4 @@
+---
+title: "The Picket Fence"
+url: /goldsboro/the-picket-fence/
+---
