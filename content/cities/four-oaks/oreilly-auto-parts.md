@@ -1,4 +1,4 @@
 ---
-title: "OReilly Auto Parts"
+title: "O'Reilly Auto Parts"
 url: /four-oaks/oreilly-auto-parts/
 ---
