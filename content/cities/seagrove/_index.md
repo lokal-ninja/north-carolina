@@ -1,6 +1,6 @@
 ---
 title: Seagrove
 url: /seagrove/
-latitude: 35.5404147
-longitude: -79.7730901
+latitude: 35.540842500000004
+longitude: -79.7778859
 ---

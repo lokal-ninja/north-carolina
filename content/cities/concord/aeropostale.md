@@ -1,4 +1,4 @@
 ---
-title: "Aéropostale"
+title: "Aeropostale"
 url: /concord/aeropostale/
 ---

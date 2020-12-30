@@ -1,4 +1,4 @@
 ---
-title: "Sherwin Williams"
+title: "Sherwin-Williams"
 url: /garner/sherwin-williams/
 ---
