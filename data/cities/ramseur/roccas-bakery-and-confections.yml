@@ -1,12 +1,11 @@
-id: 7280021109
-type: node
-shop: bakery
-latitude: 35.7417737
-longitude: -79.6464122
-postcode: "17316"
+id: 904459484
+type: way
+latitude: 35.7417091
+longitude: -79.64636110000001
+postcode: "27316"
 city: Ramseur
-street: "NC-49"
+street: "NC Highway 49 N"
 housenumber: 176
-phone: "(336) 824-2200"
-opening_hours: "Mo-Sa 07:30-17:00"
+phone: ""
+opening_hours: ""
 website: ""
