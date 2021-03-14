@@ -1,5 +1,5 @@
 ---
 title: "Ssalefish Comics"
 url: /greensboro/ssalefish-comics/
-shop: shop
+shop: collector
 ---

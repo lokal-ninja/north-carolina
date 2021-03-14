@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /new-bern/fastenal/
-shop: hardware
+shop: trade
 ---
