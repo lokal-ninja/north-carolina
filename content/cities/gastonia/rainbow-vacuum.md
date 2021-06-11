@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Vacuum"
 url: /gastonia/rainbow-vacuum/
-shop: shop
+shop: vacuum cleaner
 ---
