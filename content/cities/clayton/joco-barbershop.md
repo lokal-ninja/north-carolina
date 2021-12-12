@@ -1,5 +1,5 @@
 ---
-title: "Joco Barbershop"
+title: "JoCo Barbershop"
 url: /clayton/joco-barbershop/
 shop: hairdresser
 ---
