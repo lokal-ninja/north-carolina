@@ -1,6 +1,6 @@
 ---
 title: Moncure
 url: /moncure/
-latitude: 35.6224994
-longitude: -79.0783143
+latitude: 35.643
+longitude: -79.006
 ---

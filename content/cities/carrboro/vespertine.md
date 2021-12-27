@@ -1,5 +1,5 @@
 ---
 title: "Vespertine"
 url: /carrboro/vespertine/
-shop: gift
+shop: Andenken
 ---

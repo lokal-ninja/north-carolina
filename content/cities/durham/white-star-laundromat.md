@@ -1,5 +1,5 @@
 ---
 title: "White Star Laundromat"
 url: /durham/white-star-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

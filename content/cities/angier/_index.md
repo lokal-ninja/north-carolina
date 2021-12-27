@@ -1,6 +1,6 @@
 ---
 title: Angier
 url: /angier/
-latitude: 35.507104500000004
-longitude: -78.7391813
+latitude: 35.493
+longitude: -78.76
 ---

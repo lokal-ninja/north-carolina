@@ -1,5 +1,5 @@
 ---
 title: "Leith Volkswagen of Cary"
 url: /cary/leith-volkswagen-of-cary/
-shop: car
+shop: Autohaus
 ---

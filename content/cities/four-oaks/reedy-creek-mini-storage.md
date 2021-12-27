@@ -1,5 +1,5 @@
 ---
 title: "Reedy Creek Mini Storage"
 url: /four-oaks/reedy-creek-mini-storage/
-shop: storage rental
+shop: Mieten
 ---

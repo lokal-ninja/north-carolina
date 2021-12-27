@@ -1,5 +1,5 @@
 ---
 title: "Dual Supply Hardware"
 url: /hillsborough/dual-supply-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Plymouth
 url: /plymouth/
-latitude: 35.8668281
-longitude: -76.74855550000001
+latitude: 35.859
+longitude: -76.737
 ---

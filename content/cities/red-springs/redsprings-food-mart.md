@@ -1,5 +1,5 @@
 ---
 title: "Redsprings food mart"
 url: /red-springs/redsprings-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

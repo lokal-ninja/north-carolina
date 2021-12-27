@@ -1,6 +1,6 @@
 ---
 title: Asheville
 url: /asheville/
-latitude: 35.6009498
-longitude: -82.5540161
+latitude: 35.596
+longitude: -82.555
 ---

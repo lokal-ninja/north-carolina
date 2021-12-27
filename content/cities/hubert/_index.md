@@ -1,6 +1,6 @@
 ---
 title: Hubert
 url: /hubert/
-latitude: 34.7137729
-longitude: -77.24523280000001
+latitude: 34.731
+longitude: -77.239
 ---

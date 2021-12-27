@@ -1,6 +1,6 @@
 ---
 title: Mint Hill
 url: /mint-hill/
-latitude: 
-longitude: 
+latitude: 35.172
+longitude: -80.657
 ---

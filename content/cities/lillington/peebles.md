@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /lillington/peebles/
-shop: clothes
+shop: Kleidung
 ---

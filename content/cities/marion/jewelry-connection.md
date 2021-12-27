@@ -1,5 +1,5 @@
 ---
 title: "Jewelry Connection"
 url: /marion/jewelry-connection/
-shop: jewelry
+shop: Schmuck
 ---

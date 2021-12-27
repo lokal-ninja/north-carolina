@@ -1,6 +1,6 @@
 ---
 title: Lexington
 url: /lexington/
-latitude: 35.8240265
-longitude: -80.25338380000001
+latitude: 35.795
+longitude: -80.26
 ---

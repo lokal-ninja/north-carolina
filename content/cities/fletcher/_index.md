@@ -1,6 +1,6 @@
 ---
 title: Fletcher
 url: /fletcher/
-latitude: 35.4306712
-longitude: -82.50123160000001
+latitude: 35.512
+longitude: -82.435
 ---

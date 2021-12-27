@@ -1,5 +1,5 @@
 ---
 title: "Black Mountain Mini Storage"
 url: /black-mountain/black-mountain-mini-storage/
-shop: storage rental
+shop: Mieten
 ---

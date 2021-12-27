@@ -1,6 +1,6 @@
 ---
 title: Biscoe
 url: /biscoe/
-latitude: 35.3600553
-longitude: -79.77965590000001
+latitude: 35.358
+longitude: -79.799
 ---

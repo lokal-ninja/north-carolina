@@ -1,6 +1,6 @@
 ---
 title: Raeford
 url: /raeford/
-latitude: 34.980999600000004
-longitude: -79.22419980000001
+latitude: 35.01
+longitude: -79.175
 ---

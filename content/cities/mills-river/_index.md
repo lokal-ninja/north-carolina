@@ -1,6 +1,6 @@
 ---
 title: Mills River
 url: /mills-river/
-latitude: 35.3884479
-longitude: -82.566789
+latitude: 35.409
+longitude: -82.571
 ---

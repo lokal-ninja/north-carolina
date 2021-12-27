@@ -1,5 +1,5 @@
 ---
 title: "GDI"
 url: /thomasville/gdi/
-shop: convenience
+shop: Lebensmittel
 ---

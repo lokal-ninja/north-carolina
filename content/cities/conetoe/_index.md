@@ -1,6 +1,6 @@
 ---
 title: Conetoe
 url: /conetoe/
-latitude: 35.8157136
-longitude: -77.4558025
+latitude: 35.819
+longitude: -77.452
 ---

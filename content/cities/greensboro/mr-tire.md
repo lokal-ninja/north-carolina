@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /greensboro/mr-tire/
-shop: tyres
+shop: Reifen
 ---

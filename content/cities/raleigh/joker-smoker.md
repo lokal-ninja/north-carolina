@@ -1,5 +1,5 @@
 ---
 title: "Joker Smoker"
 url: /raleigh/joker-smoker/
-shop: tobacco
+shop: Tabak
 ---

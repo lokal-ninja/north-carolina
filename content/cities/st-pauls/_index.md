@@ -1,6 +1,6 @@
 ---
 title: St. Pauls
 url: /st-pauls/
-latitude: 
-longitude: 
+latitude: 34.809
+longitude: -78.986
 ---

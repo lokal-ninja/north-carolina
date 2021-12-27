@@ -1,6 +1,6 @@
 ---
 title: Marshall
 url: /marshall/
-latitude: 35.7974807
-longitude: -82.68393130000001
+latitude: 35.808
+longitude: -82.67
 ---

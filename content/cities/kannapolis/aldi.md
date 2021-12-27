@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /kannapolis/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

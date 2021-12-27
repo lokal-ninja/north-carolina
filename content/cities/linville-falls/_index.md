@@ -1,6 +1,6 @@
 ---
 title: Linville Falls
 url: /linville-falls/
-latitude: 35.9592936
-longitude: -81.9428903
+latitude: 35.959
+longitude: -81.942
 ---

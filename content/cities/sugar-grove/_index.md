@@ -1,6 +1,6 @@
 ---
 title: Sugar Grove
 url: /sugar-grove/
-latitude: 36.2579045
-longitude: -81.7881668
+latitude: 36.21
+longitude: -81.782
 ---

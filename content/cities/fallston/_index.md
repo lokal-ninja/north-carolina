@@ -1,6 +1,6 @@
 ---
 title: Fallston
 url: /fallston/
-latitude: 35.428411700000005
-longitude: -81.5014757
+latitude: 35.431
+longitude: -81.502
 ---

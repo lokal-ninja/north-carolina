@@ -1,6 +1,6 @@
 ---
 title: Swansboro
 url: /swansboro/
-latitude: 34.689672800000004
-longitude: -77.1232174
+latitude: 34.703
+longitude: -77.157
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bakersville
 url: /bakersville/
-latitude: 35.3445655
-longitude: -81.91538200000001
+latitude: 35.962
+longitude: -82.11
 ---

@@ -1,6 +1,6 @@
 ---
 title: Archdale
 url: /archdale/
-latitude: 35.914581000000005
-longitude: -79.9719831
+latitude: 35.905
+longitude: -79.957
 ---

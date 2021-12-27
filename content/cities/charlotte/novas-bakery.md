@@ -1,5 +1,5 @@
 ---
 title: "Nova's Bakery"
 url: /charlotte/novas-bakery/
-shop: bakery
+shop: Bäckerei
 ---

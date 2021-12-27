@@ -1,6 +1,6 @@
 ---
 title: Supply
 url: /supply/
-latitude: 34.0176717
-longitude: -78.267499
+latitude: 33.979
+longitude: -78.327
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /brevard/headlines/
-shop: hairdresser
+shop: Friseur
 ---

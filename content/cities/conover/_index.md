@@ -1,6 +1,6 @@
 ---
 title: Conover
 url: /conover/
-latitude: 35.7065004
-longitude: -81.2184383
+latitude: 35.725
+longitude: -81.21
 ---

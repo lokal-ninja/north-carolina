@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /shelby/maurices/
-shop: clothes
+shop: Kleidung
 ---

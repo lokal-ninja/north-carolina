@@ -1,5 +1,5 @@
 ---
 title: "FireFold Tech and Repair"
 url: /concord/firefold-tech-and-repair/
-shop: electronics
+shop: Elektronik
 ---

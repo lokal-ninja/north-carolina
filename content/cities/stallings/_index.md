@@ -1,6 +1,6 @@
 ---
 title: Stallings
 url: /stallings/
-latitude: 35.0907026
-longitude: -80.6861799
+latitude: 35.14
+longitude: -80.624
 ---

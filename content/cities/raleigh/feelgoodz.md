@@ -1,5 +1,5 @@
 ---
 title: "Feelgoodz"
 url: /raleigh/feelgoodz/
-shop: shoes
+shop: Schuhe
 ---

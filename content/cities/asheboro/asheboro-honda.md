@@ -1,5 +1,5 @@
 ---
 title: "Asheboro Honda"
 url: /asheboro/asheboro-honda/
-shop: car
+shop: Autohaus
 ---

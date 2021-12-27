@@ -1,6 +1,6 @@
 ---
 title: Midway Park
 url: /midway-park/
-latitude: 34.7279201
-longitude: -77.3393728
+latitude: 34.72
+longitude: -77.32
 ---

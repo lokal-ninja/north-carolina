@@ -1,6 +1,6 @@
 ---
 title: Lawndale
 url: /lawndale/
-latitude: 35.4140187
-longitude: -81.5631474
+latitude: 35.48
+longitude: -81.517
 ---

@@ -1,6 +1,6 @@
 ---
 title: Apex
 url: /apex/
-latitude: 35.7325352
-longitude: -78.8505516
+latitude: 35.744
+longitude: -78.873
 ---

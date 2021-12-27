@@ -1,6 +1,6 @@
 ---
 title: Holden Beach
 url: /holden-beach/
-latitude: 33.9135061
-longitude: -78.3038892
+latitude: 33.924
+longitude: -78.27
 ---

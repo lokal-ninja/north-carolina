@@ -1,6 +1,6 @@
 ---
 title: Gastonia
 url: /gastonia/
-latitude: 35.2622158
-longitude: -81.18387940000001
+latitude: 35.261
+longitude: -81.205
 ---

@@ -1,6 +1,6 @@
 ---
 title: Greensboro
 url: /greensboro/
-latitude: 36.072635500000004
-longitude: -79.7919754
+latitude: 36.068
+longitude: -79.791
 ---

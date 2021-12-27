@@ -1,6 +1,6 @@
 ---
 title: Bostic
 url: /bostic/
-latitude: 35.362623
-longitude: -81.83565700000001
+latitude: 35.363
+longitude: -81.836
 ---

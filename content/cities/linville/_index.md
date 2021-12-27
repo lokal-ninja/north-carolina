@@ -1,6 +1,6 @@
 ---
 title: Linville
 url: /linville/
-latitude: 35.796515500000005
-longitude: -81.8903835
+latitude: 36.072
+longitude: -81.876
 ---

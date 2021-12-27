@@ -1,6 +1,6 @@
 ---
 title: Bolivia
 url: /bolivia/
-latitude: 34.0676715
-longitude: -78.1483283
+latitude: 33.975
+longitude: -78.132
 ---

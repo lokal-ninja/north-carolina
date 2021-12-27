@@ -1,6 +1,6 @@
 ---
 title: Fairview
 url: /fairview/
-latitude: 35.9098789
-longitude: -77.5452497
+latitude: 35.511
+longitude: -82.392
 ---

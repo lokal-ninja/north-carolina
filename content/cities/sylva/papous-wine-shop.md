@@ -1,5 +1,5 @@
 ---
 title: "Papou's Wine Shop"
 url: /sylva/papous-wine-shop/
-shop: wine
+shop: Wein
 ---

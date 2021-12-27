@@ -1,6 +1,6 @@
 ---
 title: Wingate
 url: /wingate/
-latitude: 34.984317600000004
-longitude: -80.4492319
+latitude: 34.981
+longitude: -80.453
 ---

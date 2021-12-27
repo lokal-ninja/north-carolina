@@ -1,6 +1,6 @@
 ---
 title: Tabor City
 url: /tabor-city/
-latitude: 34.1487804
-longitude: -78.8766916
+latitude: 34.05
+longitude: -78.673
 ---

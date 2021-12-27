@@ -1,5 +1,5 @@
 ---
 title: "O'Neal Drug Store"
 url: /belv/oneal-drug-store/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Double OO pawn"
 url: /walnut-cove/double-oo-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

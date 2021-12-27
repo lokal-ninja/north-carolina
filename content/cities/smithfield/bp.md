@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /smithfield/bp/
-shop: convenience
+shop: Lebensmittel
 ---

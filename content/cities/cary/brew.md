@@ -1,5 +1,5 @@
 ---
 title: "Brew"
 url: /cary/brew/
-shop: coffee
+shop: Kaffee
 ---

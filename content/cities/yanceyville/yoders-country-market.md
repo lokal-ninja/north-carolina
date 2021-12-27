@@ -1,5 +1,5 @@
 ---
 title: "Yoder's Country Market"
 url: /yanceyville/yoders-country-market/
-shop: supermarket
+shop: Supermarkt
 ---

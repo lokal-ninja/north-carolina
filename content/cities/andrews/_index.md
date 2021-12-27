@@ -1,6 +1,6 @@
 ---
 title: Andrews
 url: /andrews/
-latitude: 35.201749500000005
-longitude: -83.8240676
+latitude: 35.2
+longitude: -83.83
 ---

@@ -1,6 +1,6 @@
 ---
 title: Whiteville
 url: /whiteville/
-latitude: 34.3387802
-longitude: -78.7030721
+latitude: 34.303
+longitude: -78.725
 ---

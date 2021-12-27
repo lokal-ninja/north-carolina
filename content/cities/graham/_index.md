@@ -1,6 +1,6 @@
 ---
 title: Graham
 url: /graham/
-latitude: 35.359542000000005
-longitude: -83.83377850000001
+latitude: 36.061
+longitude: -79.413
 ---

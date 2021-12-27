@@ -1,5 +1,5 @@
 ---
 title: "Fatheadz"
 url: /clayton/fatheadz/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hurley Mills
 url: /hurley-mills/
-latitude: 
-longitude: 
+latitude: 36.304
+longitude: -79.096
 ---

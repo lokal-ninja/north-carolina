@@ -1,5 +1,5 @@
 ---
 title: "Quail Ridge Books"
 url: /raleigh/quail-ridge-books/
-shop: books
+shop: Bücher
 ---

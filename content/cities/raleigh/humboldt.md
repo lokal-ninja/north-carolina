@@ -1,5 +1,5 @@
 ---
 title: "Humboldt"
 url: /raleigh/humboldt/
-shop: trade
+shop: Baustoffe
 ---

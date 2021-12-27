@@ -1,6 +1,6 @@
 ---
 title: Coats
 url: /coats/
-latitude: 35.4079393
-longitude: -78.6719592
+latitude: 35.413
+longitude: -78.672
 ---

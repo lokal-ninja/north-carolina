@@ -1,5 +1,5 @@
 ---
 title: "Clayton Nail Salon"
 url: /clayton/clayton-nail-salon/
-shop: hairdresser
+shop: Friseur
 ---

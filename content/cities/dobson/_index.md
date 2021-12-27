@@ -1,6 +1,6 @@
 ---
 title: Dobson
 url: /dobson/
-latitude: 36.395689100000006
-longitude: -80.722567
+latitude: 36.396
+longitude: -80.724
 ---

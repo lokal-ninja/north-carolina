@@ -1,5 +1,5 @@
 ---
 title: "Cookie Cutters"
 url: /cary/cookie-cutters/
-shop: hairdresser
+shop: Friseur
 ---

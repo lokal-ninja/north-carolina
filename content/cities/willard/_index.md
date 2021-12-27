@@ -1,6 +1,6 @@
 ---
 title: Willard
 url: /willard/
-latitude: 34.690168
-longitude: -77.97970790000001
+latitude: 34.567
+longitude: -78.098
 ---

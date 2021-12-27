@@ -1,5 +1,5 @@
 ---
 title: "McClanahan's Collectibles"
 url: /bryson-city/mcclanahans-collectibles/
-shop: shop
+shop: Allgemein
 ---

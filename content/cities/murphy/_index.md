@@ -1,6 +1,6 @@
 ---
 title: Murphy
 url: /murphy/
-latitude: 35.0875836
-longitude: -84.0346315
+latitude: 35.11
+longitude: -84.006
 ---

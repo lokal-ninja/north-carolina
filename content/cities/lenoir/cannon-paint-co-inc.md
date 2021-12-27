@@ -1,5 +1,5 @@
 ---
 title: "Cannon Paint Co Inc"
 url: /lenoir/cannon-paint-co-inc/
-shop: paint
+shop: Farben
 ---

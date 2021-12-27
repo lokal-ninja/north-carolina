@@ -1,5 +1,5 @@
 ---
 title: "Wings"
 url: /avon/wings/
-shop: clothes
+shop: Kleidung
 ---

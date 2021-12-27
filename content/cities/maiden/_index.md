@@ -1,6 +1,6 @@
 ---
 title: Maiden
 url: /maiden/
-latitude: 35.576604800000005
-longitude: -81.2139216
+latitude: 35.574
+longitude: -81.194
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spejos Salon"
 url: /garner/spejos-salon/
-shop: beauty
+shop: Kosmetik
 ---

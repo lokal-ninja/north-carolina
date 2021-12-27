@@ -1,6 +1,6 @@
 ---
 title: Clemmons
 url: /clemmons/
-latitude: 36.0215258
-longitude: -80.3819984
+latitude: 36.021
+longitude: -80.38
 ---

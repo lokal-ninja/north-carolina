@@ -1,6 +1,6 @@
 ---
 title: Walnut Cove
 url: /walnut-cove/
-latitude: 36.0081967
-longitude: -79.09556780000001
+latitude: 36.4
+longitude: -80.201
 ---

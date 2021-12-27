@@ -1,6 +1,6 @@
 ---
 title: Sylva
 url: /sylva/
-latitude: 35.3737111
-longitude: -83.2259803
+latitude: 35.374
+longitude: -83.221
 ---

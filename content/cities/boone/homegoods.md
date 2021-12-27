@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /boone/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

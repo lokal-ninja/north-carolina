@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /erwin/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

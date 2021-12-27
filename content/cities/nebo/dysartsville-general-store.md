@@ -1,5 +1,5 @@
 ---
 title: "Dysartsville General Store"
 url: /nebo/dysartsville-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

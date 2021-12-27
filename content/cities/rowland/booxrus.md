@@ -1,5 +1,5 @@
 ---
 title: "BooxRUs"
 url: /rowland/booxrus/
-shop: books
+shop: Bücher
 ---

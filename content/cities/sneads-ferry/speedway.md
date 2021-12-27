@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sneads-ferry/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

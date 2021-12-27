@@ -1,6 +1,6 @@
 ---
 title: Louisburg
 url: /louisburg/
-latitude: 36.0990393
-longitude: -78.301106
+latitude: 36.096
+longitude: -78.295
 ---

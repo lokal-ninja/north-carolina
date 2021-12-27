@@ -1,6 +1,6 @@
 ---
 title: Elizabeth City
 url: /elizabeth-city/
-latitude: 36.295683600000004
-longitude: -76.22476970000001
+latitude: 36.294
+longitude: -76.239
 ---

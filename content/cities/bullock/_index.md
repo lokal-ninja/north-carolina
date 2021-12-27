@@ -1,6 +1,6 @@
 ---
 title: Bullock
 url: /bullock/
-latitude: 36.4912537
-longitude: -78.5450002
+latitude: 36.485
+longitude: -78.649
 ---

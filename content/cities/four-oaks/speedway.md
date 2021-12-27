@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /four-oaks/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

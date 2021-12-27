@@ -1,6 +1,6 @@
 ---
 title: Chapel Hill
 url: /chapel-hill/
-latitude: 35.9131542
-longitude: -79.05578
+latitude: 35.948
+longitude: -79.013
 ---

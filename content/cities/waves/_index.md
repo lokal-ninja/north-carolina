@@ -1,6 +1,6 @@
 ---
 title: Waves
 url: /waves/
-latitude: 35.5668467
-longitude: -75.4684908
+latitude: 35.58
+longitude: -75.467
 ---

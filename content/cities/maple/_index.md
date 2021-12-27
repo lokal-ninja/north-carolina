@@ -1,6 +1,6 @@
 ---
 title: Maple
 url: /maple/
-latitude: 36.414878
-longitude: -76.0040925
+latitude: 36.408
+longitude: -75.994
 ---

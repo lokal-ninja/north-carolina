@@ -1,6 +1,6 @@
 ---
 title: Goldston
 url: /goldston/
-latitude: 35.5932028
-longitude: -79.32835390000001
+latitude: 35.597
+longitude: -79.328
 ---

@@ -1,6 +1,6 @@
 ---
 title: Middlesex
 url: /middlesex/
-latitude: 35.7901316
-longitude: -78.2042904
+latitude: 35.681
+longitude: -78.209
 ---

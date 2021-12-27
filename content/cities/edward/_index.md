@@ -1,6 +1,6 @@
 ---
 title: Edward
 url: /edward/
-latitude: 35.3250107
-longitude: -76.8802812
+latitude: 35.312
+longitude: -76.862
 ---

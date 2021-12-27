@@ -1,6 +1,6 @@
 ---
 title: Robbinsville
 url: /robbinsville/
-latitude: 35.3227597
-longitude: -83.8069988
+latitude: 35.467
+longitude: -83.92
 ---

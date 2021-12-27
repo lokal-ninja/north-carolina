@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /cary/perfumania/
-shop: perfumery
+shop: Parfümerie
 ---

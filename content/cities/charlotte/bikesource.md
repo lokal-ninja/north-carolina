@@ -1,5 +1,5 @@
 ---
 title: "Bikesource"
 url: /charlotte/bikesource/
-shop: bicycle
+shop: Fahrrad
 ---

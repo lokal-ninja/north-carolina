@@ -1,6 +1,6 @@
 ---
 title: Timberlake
 url: /timberlake/
-latitude: 34.9737749
-longitude: -78.97947350000001
+latitude: 36.283
+longitude: -78.957
 ---

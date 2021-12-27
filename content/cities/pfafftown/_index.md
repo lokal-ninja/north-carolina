@@ -1,6 +1,6 @@
 ---
 title: Pfafftown
 url: /pfafftown/
-latitude: 36.1526379
-longitude: -80.36227530000001
+latitude: 36.202
+longitude: -80.388
 ---

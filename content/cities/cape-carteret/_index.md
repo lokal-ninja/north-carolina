@@ -1,6 +1,6 @@
 ---
 title: Cape Carteret
 url: /cape-carteret/
-latitude: 34.6915509
-longitude: -77.0630033
+latitude: 34.692
+longitude: -77.067
 ---

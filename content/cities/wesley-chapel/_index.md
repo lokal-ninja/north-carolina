@@ -1,6 +1,6 @@
 ---
 title: Wesley Chapel
 url: /wesley-chapel/
-latitude: 35.0070935
-longitude: -80.6745131
+latitude: 35.003
+longitude: -80.7
 ---

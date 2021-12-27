@@ -1,6 +1,6 @@
 ---
 title: Beulahville
 url: /beulahville/
-latitude: 
-longitude: 
+latitude: 34.927
+longitude: -77.794
 ---

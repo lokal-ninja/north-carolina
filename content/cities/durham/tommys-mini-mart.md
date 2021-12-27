@@ -1,5 +1,5 @@
 ---
 title: "Tommy's Mini Mart"
 url: /durham/tommys-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

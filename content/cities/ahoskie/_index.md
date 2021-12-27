@@ -1,6 +1,6 @@
 ---
 title: Ahoskie
 url: /ahoskie/
-latitude: 36.286822300000004
-longitude: -76.9846808
+latitude: 36.265
+longitude: -76.968
 ---

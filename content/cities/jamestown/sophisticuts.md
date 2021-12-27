@@ -1,5 +1,5 @@
 ---
 title: "Sophisticuts"
 url: /jamestown/sophisticuts/
-shop: hairdresser
+shop: Friseur
 ---

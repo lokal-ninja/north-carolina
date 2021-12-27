@@ -1,5 +1,5 @@
 ---
 title: "Joan’s"
 url: /mooresville/joans/
-shop: fabric
+shop: Textil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yoder's Dutch Pantry"
 url: /grifton/yoders-dutch-pantry/
-shop: bakery
+shop: Bäckerei
 ---

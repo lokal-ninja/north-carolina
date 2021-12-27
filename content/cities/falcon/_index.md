@@ -1,6 +1,6 @@
 ---
 title: Falcon
 url: /falcon/
-latitude: 35.189886800000004
-longitude: -78.6483498
+latitude: 35.195
+longitude: -78.65
 ---

@@ -1,6 +1,6 @@
 ---
 title: Calabash
 url: /calabash/
-latitude: 33.8907278
-longitude: -78.5683446
+latitude: 33.891
+longitude: -78.568
 ---

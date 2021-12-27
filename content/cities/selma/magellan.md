@@ -1,5 +1,5 @@
 ---
 title: "Magellan"
 url: /selma/magellan/
-shop: fuel
+shop: Treibstoff
 ---

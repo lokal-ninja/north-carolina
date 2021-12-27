@@ -1,6 +1,6 @@
 ---
 title: Newton Grove
 url: /newton-grove/
-latitude: 35.2454313
-longitude: -78.3543933
+latitude: 35.245
+longitude: -78.354
 ---

@@ -1,6 +1,6 @@
 ---
 title: Edwards
 url: /edwards/
-latitude: 
-longitude: 
+latitude: 36.206
+longitude: -81.005
 ---

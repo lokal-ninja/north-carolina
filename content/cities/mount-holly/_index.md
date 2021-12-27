@@ -1,6 +1,6 @@
 ---
 title: Mount Holly
 url: /mount-holly/
-latitude: 35.2976298
-longitude: -81.0161686
+latitude: 35.297
+longitude: -81.017
 ---

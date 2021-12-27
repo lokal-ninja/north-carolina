@@ -1,6 +1,6 @@
 ---
 title: Brevard
 url: /brevard/
-latitude: 35.2334472
-longitude: -82.7342919
+latitude: 35.233
+longitude: -82.735
 ---

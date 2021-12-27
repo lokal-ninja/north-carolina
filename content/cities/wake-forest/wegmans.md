@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /wake-forest/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

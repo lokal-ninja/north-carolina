@@ -1,5 +1,5 @@
 ---
 title: "Hospice Christmas Thrift Store"
 url: /bakersville/hospice-christmas-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

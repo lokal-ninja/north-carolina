@@ -1,6 +1,6 @@
 ---
 title: Marshville
 url: /marshville/
-latitude: 34.988486
-longitude: -80.36700850000001
+latitude: 34.988
+longitude: -80.369
 ---

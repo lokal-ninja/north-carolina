@@ -1,6 +1,6 @@
 ---
 title: Laurinburg
 url: /laurinburg/
-latitude: 34.774049500000004
-longitude: -79.4628248
+latitude: 34.762
+longitude: -79.484
 ---

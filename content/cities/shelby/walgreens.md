@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /shelby/walgreens/
-shop: chemist
+shop: Drogerie
 ---

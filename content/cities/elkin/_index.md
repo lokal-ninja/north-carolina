@@ -1,6 +1,6 @@
 ---
 title: Elkin
 url: /elkin/
-latitude: 36.2440516
-longitude: -80.85073440000001
+latitude: 36.258
+longitude: -80.847
 ---

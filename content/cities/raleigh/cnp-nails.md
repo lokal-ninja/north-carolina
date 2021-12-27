@@ -1,5 +1,5 @@
 ---
 title: "CNP Nails"
 url: /raleigh/cnp-nails/
-shop: beauty
+shop: Kosmetik
 ---

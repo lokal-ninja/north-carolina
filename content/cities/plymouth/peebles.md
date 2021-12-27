@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /plymouth/peebles/
-shop: clothes
+shop: Kleidung
 ---

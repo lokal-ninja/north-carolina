@@ -1,6 +1,6 @@
 ---
 title: Antioch
 url: /antioch/
-latitude: 34.8857201
-longitude: -79.2083681
+latitude: 36.191
+longitude: -80.984
 ---

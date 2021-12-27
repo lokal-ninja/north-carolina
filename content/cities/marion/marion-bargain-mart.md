@@ -1,5 +1,5 @@
 ---
 title: "Marion Bargain Mart"
 url: /marion/marion-bargain-mart/
-shop: hardware
+shop: Eisenwaren
 ---

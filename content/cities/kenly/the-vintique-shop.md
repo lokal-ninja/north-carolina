@@ -1,5 +1,5 @@
 ---
 title: "The Vintique Shop"
 url: /kenly/the-vintique-shop/
-shop: antiques
+shop: Antiquitäten
 ---

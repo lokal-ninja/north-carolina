@@ -1,5 +1,5 @@
 ---
 title: "Gardenspot Hardware Store"
 url: /la-grange/gardenspot-hardware-store/
-shop: hardware
+shop: Eisenwaren
 ---

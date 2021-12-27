@@ -1,5 +1,5 @@
 ---
 title: "Styles of Elegance"
 url: /carrboro/styles-of-elegance/
-shop: hairdresser
+shop: Friseur
 ---

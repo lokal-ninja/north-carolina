@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /winston-salem/aldi-2/
-shop: supermarket
+shop: Supermarkt
 ---

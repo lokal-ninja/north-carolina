@@ -1,6 +1,6 @@
 ---
 title: Waxhaw
 url: /waxhaw/
-latitude: 
-longitude: 
+latitude: 35.016
+longitude: -80.802
 ---

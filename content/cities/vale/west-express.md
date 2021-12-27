@@ -1,5 +1,5 @@
 ---
 title: "West Express"
 url: /vale/west-express/
-shop: convenience
+shop: Lebensmittel
 ---

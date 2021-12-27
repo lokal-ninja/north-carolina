@@ -1,5 +1,5 @@
 ---
 title: "Eaton Corporation"
 url: /la-grange/eaton-corporation/
-shop: electronics
+shop: Elektronik
 ---

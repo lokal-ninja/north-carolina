@@ -1,6 +1,6 @@
 ---
 title: Lake Lure
 url: /lake-lure/
-latitude: 35.4278969
-longitude: -82.2048343
+latitude: 35.434
+longitude: -82.23
 ---

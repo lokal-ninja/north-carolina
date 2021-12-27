@@ -1,5 +1,5 @@
 ---
 title: "Corner Stone Christian Book"
 url: /lenoir/corner-stone-christian-book/
-shop: books
+shop: Bücher
 ---

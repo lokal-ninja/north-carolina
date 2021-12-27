@@ -1,5 +1,5 @@
 ---
 title: "Brecotea"
 url: /cary/brecotea/
-shop: pastry
+shop: Konditorei
 ---

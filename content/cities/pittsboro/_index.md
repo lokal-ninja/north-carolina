@@ -1,6 +1,6 @@
 ---
 title: Pittsboro
 url: /pittsboro/
-latitude: 35.7201229
-longitude: -79.17715390000001
+latitude: 35.745
+longitude: -79.164
 ---

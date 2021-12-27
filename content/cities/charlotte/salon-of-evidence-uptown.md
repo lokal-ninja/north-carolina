@@ -1,5 +1,5 @@
 ---
 title: "Salon Of Evidence Uptown"
 url: /charlotte/salon-of-evidence-uptown/
-shop: hairdresser
+shop: Friseur
 ---

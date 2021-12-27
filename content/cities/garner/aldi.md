@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /garner/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

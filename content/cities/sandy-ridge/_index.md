@@ -1,6 +1,6 @@
 ---
 title: Sandy Ridge
 url: /sandy-ridge/
-latitude: 36.075969900000004
-longitude: -79.99531680000001
+latitude: 36.498
+longitude: -80.103
 ---

@@ -1,6 +1,6 @@
 ---
 title: North Wilkesboro
 url: /north-wilkesboro/
-latitude: 36.1584651
-longitude: -81.1475841
+latitude: 36.159
+longitude: -81.153
 ---

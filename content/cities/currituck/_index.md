@@ -1,6 +1,6 @@
 ---
 title: Currituck
 url: /currituck/
-latitude: 36.3918723
-longitude: -75.9118432
+latitude: 36.435
+longitude: -76.008
 ---

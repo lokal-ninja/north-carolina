@@ -1,5 +1,5 @@
 ---
 title: "Perfect Promotions"
 url: /apex/perfect-promotions/
-shop: photo
+shop: Foto
 ---

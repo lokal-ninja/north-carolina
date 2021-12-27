@@ -1,6 +1,6 @@
 ---
 title: Shallotte
 url: /shallotte/
-latitude: 33.9732275
-longitude: -78.3858371
+latitude: 33.984
+longitude: -78.374
 ---

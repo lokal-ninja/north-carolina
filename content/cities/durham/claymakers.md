@@ -1,5 +1,5 @@
 ---
 title: "Claymakers"
 url: /durham/claymakers/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Macclesfield
 url: /macclesfield/
-latitude: 35.7521022
-longitude: -77.66997520000001
+latitude: 35.751
+longitude: -77.67
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harmony Tire and Auto"
 url: /harmony/harmony-tire-and-auto/
-shop: tyres
+shop: Reifen
 ---

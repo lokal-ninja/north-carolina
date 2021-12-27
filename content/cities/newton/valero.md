@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /newton/valero/
-shop: convenience
+shop: Lebensmittel
 ---

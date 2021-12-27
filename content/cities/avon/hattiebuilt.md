@@ -1,5 +1,5 @@
 ---
 title: "Hattiebuilt"
 url: /avon/hattiebuilt/
-shop: clothes
+shop: Kleidung
 ---

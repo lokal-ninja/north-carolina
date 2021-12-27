@@ -1,6 +1,6 @@
 ---
 title: Hope Mills
 url: /hope-mills/
-latitude: 34.970441900000004
-longitude: -78.94530560000001
+latitude: 34.98
+longitude: -78.965
 ---

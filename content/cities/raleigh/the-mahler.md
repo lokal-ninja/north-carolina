@@ -1,5 +1,5 @@
 ---
 title: "The Mahler"
 url: /raleigh/the-mahler/
-shop: art
+shop: Kunst
 ---

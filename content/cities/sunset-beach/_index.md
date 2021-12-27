@@ -1,6 +1,6 @@
 ---
 title: Sunset Beach
 url: /sunset-beach/
-latitude: 33.880728000000005
-longitude: -78.512231
+latitude: 33.885
+longitude: -78.511
 ---

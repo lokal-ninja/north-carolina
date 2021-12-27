@@ -1,5 +1,5 @@
 ---
 title: "Womble Drug"
 url: /plymouth/womble-drug/
-shop: chemist
+shop: Drogerie
 ---

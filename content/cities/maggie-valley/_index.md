@@ -1,6 +1,6 @@
 ---
 title: Maggie Valley
 url: /maggie-valley/
-latitude: 35.5181575
-longitude: -83.0976419
+latitude: 35.516
+longitude: -83.085
 ---

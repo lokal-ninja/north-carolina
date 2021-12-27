@@ -1,6 +1,6 @@
 ---
 title: Tarboro
 url: /tarboro/
-latitude: 35.896823600000005
-longitude: -77.5358049
+latitude: 35.885
+longitude: -77.549
 ---

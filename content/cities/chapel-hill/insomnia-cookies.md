@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /chapel-hill/insomnia-cookies/
-shop: confectionery
+shop: Süßwaren
 ---

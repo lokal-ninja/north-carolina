@@ -1,6 +1,6 @@
 ---
 title: Corapeake
 url: /corapeake/
-latitude: 36.5343192
-longitude: -76.5763395
+latitude: 36.507
+longitude: -76.569
 ---

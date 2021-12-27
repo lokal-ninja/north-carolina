@@ -1,5 +1,5 @@
 ---
 title: "Rick's Jewelers"
 url: /siler-city/ricks-jewelers/
-shop: jewelry
+shop: Schmuck
 ---
