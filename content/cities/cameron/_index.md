@@ -1,6 +1,6 @@
 ---
 title: Cameron
 url: /cameron/
-latitude: 35.245
-longitude: -79.024
+latitude: 35.275
+longitude: -79.068
 ---

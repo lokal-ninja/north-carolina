@@ -1,6 +1,6 @@
 ---
 title: Kinston
 url: /kinston/
-latitude: 35.285
-longitude: -77.592
+latitude: 35.293
+longitude: -77.583
 ---
