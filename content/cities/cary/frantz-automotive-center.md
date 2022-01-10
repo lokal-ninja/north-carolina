@@ -1,5 +1,5 @@
 ---
 title: "Frantz Automotive Center"
 url: /cary/frantz-automotive-center/
-shop: Autowerkstatt
+shop: car repair
 ---

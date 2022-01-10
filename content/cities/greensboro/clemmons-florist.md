@@ -1,5 +1,5 @@
 ---
 title: "Clemmons Florist"
 url: /greensboro/clemmons-florist/
-shop: Blumen
+shop: florist
 ---

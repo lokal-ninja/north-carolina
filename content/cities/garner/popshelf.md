@@ -1,5 +1,5 @@
 ---
 title: "pOpshelf"
 url: /garner/popshelf/
-shop: Kramladen
+shop: variety store
 ---

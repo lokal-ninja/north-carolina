@@ -1,5 +1,5 @@
 ---
 title: "Ambleside Gallery"
 url: /greensboro/ambleside-gallery/
-shop: Kunst
+shop: art
 ---

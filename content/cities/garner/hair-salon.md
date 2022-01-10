@@ -1,5 +1,5 @@
 ---
 title: "Hair Salon"
 url: /garner/hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

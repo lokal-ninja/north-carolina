@@ -1,5 +1,5 @@
 ---
 title: "Hair Biz"
 url: /lexington/hair-biz/
-shop: Friseur
+shop: hairdresser
 ---

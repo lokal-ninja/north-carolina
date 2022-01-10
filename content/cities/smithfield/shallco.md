@@ -1,5 +1,5 @@
 ---
 title: "Shallco"
 url: /smithfield/shallco/
-shop: Elektronik
+shop: electronics
 ---

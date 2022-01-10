@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /cary/avon/
-shop: Drogerie
+shop: chemist
 ---

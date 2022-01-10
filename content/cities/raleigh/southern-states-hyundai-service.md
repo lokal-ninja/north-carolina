@@ -1,5 +1,5 @@
 ---
 title: "Southern States Hyundai Service"
 url: /raleigh/southern-states-hyundai-service/
-shop: Autowerkstatt
+shop: car repair
 ---

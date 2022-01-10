@@ -1,5 +1,5 @@
 ---
 title: "Doc's Garage"
 url: /wake-forest/docs-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

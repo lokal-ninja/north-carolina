@@ -1,5 +1,5 @@
 ---
 title: "Capital Area Accessories"
 url: /cary/capital-area-accessories/
-shop: Großhandel
+shop: wholesale
 ---

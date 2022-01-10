@@ -1,5 +1,5 @@
 ---
 title: "Adair"
 url: /concord/adair/
-shop: Kleidung
+shop: clothes
 ---

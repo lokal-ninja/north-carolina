@@ -1,5 +1,5 @@
 ---
 title: "University Lights"
 url: /garner/university-lights/
-shop: Lampen
+shop: lamps
 ---

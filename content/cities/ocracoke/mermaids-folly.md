@@ -1,5 +1,5 @@
 ---
 title: "Mermaid's Folly"
 url: /ocracoke/mermaids-folly/
-shop: Kleidung
+shop: clothes
 ---

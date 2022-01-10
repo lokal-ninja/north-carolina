@@ -1,5 +1,5 @@
 ---
 title: "Suburban Propane"
 url: /marion/suburban-propane/
-shop: Gasflaschen
+shop: gas
 ---

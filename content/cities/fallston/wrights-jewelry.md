@@ -1,5 +1,5 @@
 ---
 title: "Wright's Jewelry"
 url: /fallston/wrights-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

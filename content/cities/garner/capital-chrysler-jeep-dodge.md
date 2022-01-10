@@ -1,5 +1,5 @@
 ---
 title: "Capital Chrysler Jeep Dodge"
 url: /garner/capital-chrysler-jeep-dodge/
-shop: Autohaus
+shop: car
 ---

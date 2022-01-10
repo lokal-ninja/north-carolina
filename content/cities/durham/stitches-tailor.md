@@ -1,5 +1,5 @@
 ---
 title: "Stitches Tailor"
 url: /durham/stitches-tailor/
-shop: Schneiderei
+shop: tailor
 ---

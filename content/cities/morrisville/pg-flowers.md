@@ -1,5 +1,5 @@
 ---
 title: "PG Flowers"
 url: /morrisville/pg-flowers/
-shop: Blumen
+shop: florist
 ---

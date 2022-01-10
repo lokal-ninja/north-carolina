@@ -1,5 +1,5 @@
 ---
 title: "Quality Auto"
 url: /thomasville/quality-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

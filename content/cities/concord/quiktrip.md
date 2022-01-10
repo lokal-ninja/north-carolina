@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /concord/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

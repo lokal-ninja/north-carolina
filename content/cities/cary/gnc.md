@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /cary/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

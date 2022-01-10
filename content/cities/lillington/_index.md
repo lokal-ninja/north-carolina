@@ -1,6 +1,6 @@
 ---
 title: Lillington
 url: /lillington/
-latitude: 35.389
-longitude: -78.821
+latitude: 35.413
+longitude: -78.808
 ---

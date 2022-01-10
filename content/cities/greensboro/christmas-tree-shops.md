@@ -1,5 +1,5 @@
 ---
 title: "Christmas Tree Shops"
 url: /greensboro/christmas-tree-shops/
-shop: Kramladen
+shop: variety store
 ---

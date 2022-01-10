@@ -1,5 +1,5 @@
 ---
 title: "GroSmart"
 url: /hillsborough/grosmart/
-shop: Blumen
+shop: florist
 ---

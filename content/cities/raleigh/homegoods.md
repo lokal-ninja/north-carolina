@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /raleigh/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /benson/iga/
-shop: Supermarkt
+shop: supermarket
 ---

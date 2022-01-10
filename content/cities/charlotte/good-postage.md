@@ -1,5 +1,5 @@
 ---
 title: "Good Postage"
 url: /charlotte/good-postage/
-shop: Schreibwaren
+shop: office supplies
 ---

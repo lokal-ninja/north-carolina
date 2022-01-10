@@ -1,5 +1,5 @@
 ---
 title: "Reader's Corner"
 url: /raleigh/readers-corner/
-shop: Bücher
+shop: books
 ---

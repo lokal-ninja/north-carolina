@@ -1,5 +1,5 @@
 ---
 title: "Colonial Funeral Home Stokes"
 url: /sandy-ridge/colonial-funeral-home-stokes/
-shop: Bestattungen
+shop: funeral directors
 ---

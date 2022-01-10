@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /cary/gamestop-2/
-shop: Videospiele
+shop: video games
 ---

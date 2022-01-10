@@ -1,5 +1,5 @@
 ---
 title: "Broad Street Wines"
 url: /brevard/broad-street-wines/
-shop: Wein
+shop: wine
 ---

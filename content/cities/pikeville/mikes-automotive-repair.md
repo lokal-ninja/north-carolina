@@ -1,5 +1,5 @@
 ---
 title: "Mike's Automotive Repair"
 url: /pikeville/mikes-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

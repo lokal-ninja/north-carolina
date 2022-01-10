@@ -1,5 +1,5 @@
 ---
 title: "Howard’s Mini Mart"
 url: /clayton/howards-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

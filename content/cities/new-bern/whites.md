@@ -1,5 +1,5 @@
 ---
 title: "White's"
 url: /new-bern/whites/
-shop: Reifen
+shop: tyres
 ---

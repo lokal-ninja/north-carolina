@@ -1,5 +1,5 @@
 ---
 title: "Kalisher"
 url: /carrboro/kalisher/
-shop: Kunst
+shop: art
 ---

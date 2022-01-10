@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /kinston/piggly-wiggly-2/
-shop: Supermarkt
+shop: supermarket
 ---

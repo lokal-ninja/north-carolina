@@ -1,5 +1,5 @@
 ---
 title: "Ledford Auto Parts"
 url: /weaverville/ledford-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

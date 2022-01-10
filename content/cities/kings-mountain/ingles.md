@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /kings-mountain/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

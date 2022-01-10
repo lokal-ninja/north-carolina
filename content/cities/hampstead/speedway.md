@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hampstead/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

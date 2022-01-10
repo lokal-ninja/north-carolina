@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hendersonville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

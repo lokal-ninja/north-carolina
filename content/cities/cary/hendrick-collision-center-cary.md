@@ -1,5 +1,5 @@
 ---
 title: "Hendrick Collision Center Cary"
 url: /cary/hendrick-collision-center-cary/
-shop: Autowerkstatt
+shop: car repair
 ---

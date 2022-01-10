@@ -1,5 +1,5 @@
 ---
 title: "Wild Birds Unlimited"
 url: /wake-forest/wild-birds-unlimited/
-shop: Tiere
+shop: pet
 ---

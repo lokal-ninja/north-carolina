@@ -1,5 +1,5 @@
 ---
 title: "ZABS Place"
 url: /matthews/zabs-place/
-shop: Gebrauchtwaren
+shop: charity
 ---

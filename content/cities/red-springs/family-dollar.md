@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /red-springs/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

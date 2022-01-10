@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /mebane/dollar-general-3/
-shop: Kramladen
+shop: variety store
 ---

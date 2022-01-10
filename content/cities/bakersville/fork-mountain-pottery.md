@@ -1,5 +1,5 @@
 ---
 title: "Fork Mountain Pottery"
 url: /bakersville/fork-mountain-pottery/
-shop: Töpferei
+shop: pottery
 ---

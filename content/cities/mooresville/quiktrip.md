@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /mooresville/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

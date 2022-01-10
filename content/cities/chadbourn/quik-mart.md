@@ -1,5 +1,5 @@
 ---
 title: "QUIK MART"
 url: /chadbourn/quik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

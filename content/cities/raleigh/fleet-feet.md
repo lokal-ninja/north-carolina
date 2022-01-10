@@ -1,5 +1,5 @@
 ---
 title: "Fleet Feet"
 url: /raleigh/fleet-feet/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Extra Ingredient"
 url: /greensboro/the-extra-ingredient/
-shop: Haushaltsartikel
+shop: houseware
 ---

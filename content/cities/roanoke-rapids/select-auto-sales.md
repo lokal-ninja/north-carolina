@@ -1,5 +1,5 @@
 ---
 title: "Select Auto Sales"
 url: /roanoke-rapids/select-auto-sales/
-shop: Autohaus
+shop: car
 ---

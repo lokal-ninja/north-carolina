@@ -1,5 +1,5 @@
 ---
 title: "Malpass Corner Store"
 url: /currie/malpass-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

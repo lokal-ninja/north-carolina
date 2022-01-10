@@ -1,5 +1,5 @@
 ---
 title: "Burke's Outlet"
 url: /shelby/burkes-outlet/
-shop: Warenhaus
+shop: department store
 ---

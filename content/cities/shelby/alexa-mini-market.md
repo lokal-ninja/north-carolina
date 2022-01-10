@@ -1,5 +1,5 @@
 ---
 title: "Alexa Mini Market"
 url: /shelby/alexa-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colfax Furniture"
 url: /winston-salem/colfax-furniture/
-shop: Möbel
+shop: furniture
 ---

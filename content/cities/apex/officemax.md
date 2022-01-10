@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /apex/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

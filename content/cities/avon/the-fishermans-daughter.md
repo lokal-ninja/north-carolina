@@ -1,5 +1,5 @@
 ---
 title: "The Fisherman's Daughter"
 url: /avon/the-fishermans-daughter/
-shop: Andenken
+shop: gift
 ---

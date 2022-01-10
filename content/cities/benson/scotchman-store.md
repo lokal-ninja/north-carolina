@@ -1,5 +1,5 @@
 ---
 title: "Scotchman Store"
 url: /benson/scotchman-store/
-shop: Lebensmittel
+shop: convenience
 ---

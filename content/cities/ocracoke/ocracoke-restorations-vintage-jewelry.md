@@ -1,5 +1,5 @@
 ---
 title: "Ocracoke Restorations/Vintage Jewelry"
 url: /ocracoke/ocracoke-restorations-vintage-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

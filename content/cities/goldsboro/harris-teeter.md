@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /goldsboro/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

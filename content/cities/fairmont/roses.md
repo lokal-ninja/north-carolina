@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /fairmont/roses/
-shop: Kramladen
+shop: variety store
 ---

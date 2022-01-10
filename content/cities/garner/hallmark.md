@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /garner/hallmark/
-shop: Andenken
+shop: gift
 ---

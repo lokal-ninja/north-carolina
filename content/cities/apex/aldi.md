@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /apex/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

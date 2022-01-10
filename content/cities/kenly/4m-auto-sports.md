@@ -1,5 +1,5 @@
 ---
 title: "4M Auto Sports"
 url: /kenly/4m-auto-sports/
-shop: Autowerkstatt
+shop: car repair
 ---

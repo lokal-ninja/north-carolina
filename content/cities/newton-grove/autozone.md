@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /newton-grove/autozone/
-shop: Autoteile
+shop: car parts
 ---

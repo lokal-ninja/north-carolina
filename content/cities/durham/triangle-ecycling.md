@@ -1,5 +1,5 @@
 ---
 title: "Triangle Ecycling"
 url: /durham/triangle-ecycling/
-shop: Computer
+shop: computer
 ---

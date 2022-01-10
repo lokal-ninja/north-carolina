@@ -1,5 +1,5 @@
 ---
 title: "Bloomingdales"
 url: /cary/bloomingdales/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renaldo Buick GMC"
 url: /shelby/renaldo-buick-gmc/
-shop: Autohaus
+shop: car
 ---

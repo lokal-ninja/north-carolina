@@ -1,5 +1,5 @@
 ---
 title: "Advanced Home Care"
 url: /durham/advanced-home-care/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Mexicanita"
 url: /knightdale/la-mexicanita/
-shop: Bäckerei
+shop: bakery
 ---

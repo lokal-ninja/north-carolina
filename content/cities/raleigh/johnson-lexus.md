@@ -1,5 +1,5 @@
 ---
 title: "Johnson Lexus"
 url: /raleigh/johnson-lexus/
-shop: Autohaus
+shop: car
 ---

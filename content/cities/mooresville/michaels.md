@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /mooresville/michaels/
-shop: Basteln
+shop: craft
 ---

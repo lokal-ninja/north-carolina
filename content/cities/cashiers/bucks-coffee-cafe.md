@@ -1,5 +1,5 @@
 ---
 title: "Buck's Coffee Cafe"
 url: /cashiers/bucks-coffee-cafe/
-shop: Kaffee
+shop: coffee
 ---

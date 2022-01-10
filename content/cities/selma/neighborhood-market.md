@@ -1,5 +1,5 @@
 ---
 title: "Neighborhood Market"
 url: /selma/neighborhood-market/
-shop: Lebensmittel
+shop: convenience
 ---

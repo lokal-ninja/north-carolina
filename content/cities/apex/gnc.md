@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /apex/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

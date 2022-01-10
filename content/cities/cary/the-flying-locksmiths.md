@@ -1,5 +1,5 @@
 ---
 title: "The Flying Locksmiths"
 url: /cary/the-flying-locksmiths/
-shop: Schlüsseldienst
+shop: locksmith
 ---

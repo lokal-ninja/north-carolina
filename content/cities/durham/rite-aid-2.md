@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /durham/rite-aid-2/
-shop: Drogerie
+shop: chemist
 ---

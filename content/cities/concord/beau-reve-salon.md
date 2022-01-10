@@ -1,5 +1,5 @@
 ---
 title: "Beau Reve Salon"
 url: /concord/beau-reve-salon/
-shop: Kosmetik
+shop: beauty
 ---

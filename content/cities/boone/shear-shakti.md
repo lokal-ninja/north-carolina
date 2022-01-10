@@ -1,5 +1,5 @@
 ---
 title: "Shear Shakti"
 url: /boone/shear-shakti/
-shop: Friseur
+shop: hairdresser
 ---

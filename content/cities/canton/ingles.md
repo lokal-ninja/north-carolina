@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /canton/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

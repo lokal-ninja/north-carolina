@@ -1,5 +1,5 @@
 ---
 title: "Bryant Funeral Home Inc"
 url: /alliance/bryant-funeral-home-inc/
-shop: Bestattungen
+shop: funeral directors
 ---

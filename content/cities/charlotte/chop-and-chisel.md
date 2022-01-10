@@ -1,5 +1,5 @@
 ---
 title: "Chop and Chisel"
 url: /charlotte/chop-and-chisel/
-shop: Bioladen
+shop: health food
 ---

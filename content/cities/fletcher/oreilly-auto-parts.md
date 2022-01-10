@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /fletcher/oreilly-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

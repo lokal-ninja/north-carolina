@@ -1,5 +1,5 @@
 ---
 title: "Lowes Foods"
 url: /clayton/lowes-foods/
-shop: Supermarkt
+shop: supermarket
 ---

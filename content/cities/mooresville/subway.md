@@ -1,5 +1,5 @@
 ---
 title: "Subway"
 url: /mooresville/subway/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnson AutoPlex"
 url: /raleigh/johnson-autoplex/
-shop: Autohaus
+shop: car
 ---

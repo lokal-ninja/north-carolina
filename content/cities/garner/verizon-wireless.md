@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /garner/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

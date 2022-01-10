@@ -1,5 +1,5 @@
 ---
 title: "Winterbloom Tea"
 url: /fayetteville/winterbloom-tea/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Country Bookshop"
 url: /southern-pines/the-country-bookshop/
-shop: Bücher
+shop: books
 ---

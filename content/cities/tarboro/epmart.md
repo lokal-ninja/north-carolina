@@ -1,5 +1,5 @@
 ---
 title: "EPMart"
 url: /tarboro/epmart/
-shop: Lebensmittel
+shop: convenience
 ---

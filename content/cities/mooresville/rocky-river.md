@@ -1,5 +1,5 @@
 ---
 title: "Rocky River"
 url: /mooresville/rocky-river/
-shop: Lebensmittel
+shop: convenience
 ---

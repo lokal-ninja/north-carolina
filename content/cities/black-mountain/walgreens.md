@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /black-mountain/walgreens/
-shop: Drogerie
+shop: chemist
 ---

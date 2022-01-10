@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /durham/abc/
-shop: Spirituosen
+shop: alcohol
 ---

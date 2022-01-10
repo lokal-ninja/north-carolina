@@ -1,5 +1,5 @@
 ---
 title: "Science Safari"
 url: /cary/science-safari/
-shop: Spielzeug
+shop: toys
 ---

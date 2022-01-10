@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /kannapolis/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

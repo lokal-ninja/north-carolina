@@ -1,5 +1,5 @@
 ---
 title: "L J's Bodyshop"
 url: /washington/l-js-bodyshop/
-shop: Autowerkstatt
+shop: car repair
 ---

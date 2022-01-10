@@ -1,5 +1,5 @@
 ---
 title: "AutoZone Auto Parts"
 url: /goldsboro/autozone-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

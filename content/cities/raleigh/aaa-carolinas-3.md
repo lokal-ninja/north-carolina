@@ -1,5 +1,5 @@
 ---
 title: "AAA Carolinas"
 url: /raleigh/aaa-carolinas-3/
-shop: Autowerkstatt
+shop: car repair
 ---

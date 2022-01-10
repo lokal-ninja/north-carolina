@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /greensboro/autozone/
-shop: Autoteile
+shop: car parts
 ---

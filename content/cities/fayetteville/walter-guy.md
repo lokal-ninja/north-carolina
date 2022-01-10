@@ -1,5 +1,5 @@
 ---
 title: "Walter Guy"
 url: /fayetteville/walter-guy/
-shop: Schmuck
+shop: jewelry
 ---

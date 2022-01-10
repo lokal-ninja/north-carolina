@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /garner/tj-maxx/
-shop: Kleidung
+shop: clothes
 ---

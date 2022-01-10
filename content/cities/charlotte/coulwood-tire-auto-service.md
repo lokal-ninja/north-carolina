@@ -1,5 +1,5 @@
 ---
 title: "Coulwood Tire Auto Service"
 url: /charlotte/coulwood-tire-auto-service/
-shop: Reifen
+shop: tyres
 ---

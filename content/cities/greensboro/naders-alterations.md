@@ -1,5 +1,5 @@
 ---
 title: "Nader's Alterations"
 url: /greensboro/naders-alterations/
-shop: Schneiderei
+shop: tailor
 ---

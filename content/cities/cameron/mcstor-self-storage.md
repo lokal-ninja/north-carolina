@@ -1,5 +1,5 @@
 ---
 title: "McStor Self Storage"
 url: /cameron/mcstor-self-storage/
-shop: Mieten
+shop: storage rental
 ---

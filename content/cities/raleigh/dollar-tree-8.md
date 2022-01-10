@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /raleigh/dollar-tree-8/
-shop: Kramladen
+shop: variety store
 ---

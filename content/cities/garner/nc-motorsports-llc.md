@@ -1,5 +1,5 @@
 ---
 title: "NC Motorsports LLC"
 url: /garner/nc-motorsports-llc/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brotherhood"
 url: /selma/brotherhood/
-shop: Supermarkt
+shop: supermarket
 ---

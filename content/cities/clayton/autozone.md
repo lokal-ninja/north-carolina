@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /clayton/autozone/
-shop: Autoteile
+shop: car parts
 ---

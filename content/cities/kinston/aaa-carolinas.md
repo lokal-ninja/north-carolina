@@ -1,5 +1,5 @@
 ---
 title: "AAA Carolinas"
 url: /kinston/aaa-carolinas/
-shop: Reisebüro
+shop: travel agency
 ---

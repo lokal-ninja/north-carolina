@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /hendersonville/bliss/
-shop: Friseur
+shop: hairdresser
 ---

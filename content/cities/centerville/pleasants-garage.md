@@ -1,5 +1,5 @@
 ---
 title: "Pleasant's Garage"
 url: /centerville/pleasants-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

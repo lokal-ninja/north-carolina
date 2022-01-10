@@ -1,5 +1,5 @@
 ---
 title: "Thurmond Grocery"
 url: /thurmond/thurmond-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilkinson Supply"
 url: /carrboro/wilkinson-supply/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /mount-airy/cato/
-shop: Kleidung
+shop: clothes
 ---

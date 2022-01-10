@@ -1,5 +1,5 @@
 ---
 title: "Bleecker Chevrolet"
 url: /dunn/bleecker-chevrolet/
-shop: Autohaus
+shop: car
 ---

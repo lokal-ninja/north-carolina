@@ -1,5 +1,5 @@
 ---
 title: "Not Just Franks"
 url: /concord/not-just-franks/
-shop: Bäckerei
+shop: bakery
 ---

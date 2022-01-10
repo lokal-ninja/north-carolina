@@ -1,5 +1,5 @@
 ---
 title: "Steve's Garden Market"
 url: /graham/steves-garden-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

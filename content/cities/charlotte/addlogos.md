@@ -1,5 +1,5 @@
 ---
 title: "AddLogos"
 url: /charlotte/addlogos/
-shop: Kleidung
+shop: clothes
 ---

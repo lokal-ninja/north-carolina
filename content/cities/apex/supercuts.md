@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /apex/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

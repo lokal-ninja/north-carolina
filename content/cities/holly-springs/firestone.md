@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /holly-springs/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

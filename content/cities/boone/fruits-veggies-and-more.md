@@ -1,5 +1,5 @@
 ---
 title: "Fruits, Veggies and More"
 url: /boone/fruits-veggies-and-more/
-shop: Hofladen
+shop: farm
 ---

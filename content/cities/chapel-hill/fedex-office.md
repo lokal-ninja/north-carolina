@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /chapel-hill/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

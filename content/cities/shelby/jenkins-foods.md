@@ -1,5 +1,5 @@
 ---
 title: "Jenkins Foods"
 url: /shelby/jenkins-foods/
-shop: Metzgerei
+shop: butcher
 ---

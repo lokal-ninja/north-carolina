@@ -1,5 +1,5 @@
 ---
 title: "Volume"
 url: /hillsborough/volume/
-shop: Musik
+shop: music
 ---

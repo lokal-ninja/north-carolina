@@ -1,5 +1,5 @@
 ---
 title: "Barnes Diamond Gallery"
 url: /jacksonville/barnes-diamond-gallery/
-shop: Schmuck
+shop: jewelry
 ---

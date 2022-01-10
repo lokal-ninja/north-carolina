@@ -1,5 +1,5 @@
 ---
 title: "Colony Cleaners"
 url: /raleigh/colony-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

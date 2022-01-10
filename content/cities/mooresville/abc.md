@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /mooresville/abc/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crossroads Automotive Services"
 url: /bear-creek/crossroads-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

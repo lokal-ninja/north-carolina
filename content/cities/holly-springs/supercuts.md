@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /holly-springs/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

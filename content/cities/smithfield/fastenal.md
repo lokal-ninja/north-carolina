@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /smithfield/fastenal/
-shop: Baustoffe
+shop: trade
 ---

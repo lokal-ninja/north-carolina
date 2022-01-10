@@ -1,5 +1,5 @@
 ---
 title: "LifeTime Pets"
 url: /fayetteville/lifetime-pets/
-shop: Tiere
+shop: pet
 ---

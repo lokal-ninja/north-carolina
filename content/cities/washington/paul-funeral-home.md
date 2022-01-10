@@ -1,5 +1,5 @@
 ---
 title: "Paul Funeral Home"
 url: /washington/paul-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

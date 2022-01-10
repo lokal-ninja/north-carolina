@@ -1,5 +1,5 @@
 ---
 title: "Wyatt-Quarles Seed"
 url: /garner/wyatt-quarles-seed/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

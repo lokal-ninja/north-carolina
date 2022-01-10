@@ -1,5 +1,5 @@
 ---
 title: "Sam's Servicenter"
 url: /robersonville/sams-servicenter/
-shop: Autowerkstatt
+shop: car repair
 ---

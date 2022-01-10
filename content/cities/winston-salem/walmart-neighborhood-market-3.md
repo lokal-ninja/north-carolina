@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /winston-salem/walmart-neighborhood-market-3/
-shop: Supermarkt
+shop: supermarket
 ---

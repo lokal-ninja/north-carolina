@@ -1,5 +1,5 @@
 ---
 title: "Scotchman Store"
 url: /carolina-beach/scotchman-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /chapel-hill/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter Pharmacy"
 url: /clayton/harris-teeter-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

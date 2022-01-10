@@ -1,5 +1,5 @@
 ---
 title: "Triangle Flooring Center"
 url: /carrboro/triangle-flooring-center/
-shop: Fußböden
+shop: flooring
 ---

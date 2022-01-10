@@ -1,5 +1,5 @@
 ---
 title: "Waynes Auto Repair"
 url: /smithfield/waynes-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

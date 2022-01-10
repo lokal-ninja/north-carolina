@@ -1,5 +1,5 @@
 ---
 title: "Harrison's Garage"
 url: /bear-grass/harrisons-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

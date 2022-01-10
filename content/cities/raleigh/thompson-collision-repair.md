@@ -1,5 +1,5 @@
 ---
 title: "Thompson Collision Repair"
 url: /raleigh/thompson-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

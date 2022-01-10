@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /williamston/speedway-4/
-shop: Lebensmittel
+shop: convenience
 ---

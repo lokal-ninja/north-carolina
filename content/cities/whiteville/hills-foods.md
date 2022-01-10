@@ -1,5 +1,5 @@
 ---
 title: "Hills Foods"
 url: /whiteville/hills-foods/
-shop: Supermarkt
+shop: supermarket
 ---

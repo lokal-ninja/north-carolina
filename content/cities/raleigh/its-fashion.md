@@ -1,5 +1,5 @@
 ---
 title: "It's Fashion"
 url: /raleigh/its-fashion/
-shop: Kleidung
+shop: clothes
 ---

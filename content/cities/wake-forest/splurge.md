@@ -1,5 +1,5 @@
 ---
 title: "Splurge"
 url: /wake-forest/splurge/
-shop: Kramladen
+shop: variety store
 ---

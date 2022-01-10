@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /fuquay-varina/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /sylva/peebles/
-shop: Warenhaus
+shop: department store
 ---

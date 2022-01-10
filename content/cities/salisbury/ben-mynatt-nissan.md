@@ -1,5 +1,5 @@
 ---
 title: "Ben Mynatt Nissan"
 url: /salisbury/ben-mynatt-nissan/
-shop: Autohaus
+shop: car
 ---

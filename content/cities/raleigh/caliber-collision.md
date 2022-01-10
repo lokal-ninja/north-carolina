@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /raleigh/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wings"
 url: /duck/wings/
-shop: Allgemein
+shop: shop
 ---

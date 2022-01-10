@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /garner/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

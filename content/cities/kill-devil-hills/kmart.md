@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /kill-devil-hills/kmart/
-shop: Warenhaus
+shop: department store
 ---

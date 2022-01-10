@@ -1,5 +1,5 @@
 ---
 title: "Hangers"
 url: /greensboro/hangers/
-shop: Wäscherei
+shop: laundry
 ---

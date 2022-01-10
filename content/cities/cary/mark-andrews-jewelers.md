@@ -1,5 +1,5 @@
 ---
 title: "Mark Andrews Jewelers"
 url: /cary/mark-andrews-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

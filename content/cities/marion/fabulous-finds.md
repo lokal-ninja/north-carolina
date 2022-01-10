@@ -1,5 +1,5 @@
 ---
 title: "Fabulous Finds"
 url: /marion/fabulous-finds/
-shop: Gebrauchtwaren
+shop: charity
 ---

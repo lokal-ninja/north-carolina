@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /garner/ross/
-shop: Warenhaus
+shop: department store
 ---

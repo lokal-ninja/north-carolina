@@ -1,5 +1,5 @@
 ---
 title: "Edge Motors"
 url: /mooresville/edge-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "X O Nails"
 url: /carrboro/x-o-nails/
-shop: Kosmetik
+shop: beauty
 ---

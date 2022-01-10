@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /hendersonville/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turner Printing"
 url: /raleigh/turner-printing/
-shop: Allgemein
+shop: shop
 ---

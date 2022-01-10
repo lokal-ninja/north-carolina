@@ -1,5 +1,5 @@
 ---
 title: "ELed Direct"
 url: /hickory/eled-direct/
-shop: Eisenwaren
+shop: hardware
 ---

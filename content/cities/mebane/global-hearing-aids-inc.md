@@ -1,5 +1,5 @@
 ---
 title: "Global Hearing Aids, Inc"
 url: /mebane/global-hearing-aids-inc/
-shop: Hörgeräte
+shop: hearing aids
 ---

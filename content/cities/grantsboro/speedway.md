@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /grantsboro/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

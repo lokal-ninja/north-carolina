@@ -1,5 +1,5 @@
 ---
 title: "The Parlour"
 url: /durham/the-parlour/
-shop: Süßwaren
+shop: confectionery
 ---

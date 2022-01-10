@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly #6"
 url: /bailey/piggly-wiggly-6/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bannister Fine Gifts"
 url: /la-grange/bannister-fine-gifts/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coats Automotive"
 url: /coats/coats-automotive/
-shop: Autohaus
+shop: car
 ---

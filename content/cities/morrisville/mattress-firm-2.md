@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /morrisville/mattress-firm-2/
-shop: Betten
+shop: bed
 ---

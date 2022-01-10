@@ -1,5 +1,5 @@
 ---
 title: "Three Graces Dairy"
 url: /marshall/three-graces-dairy/
-shop: Milch
+shop: dairy
 ---

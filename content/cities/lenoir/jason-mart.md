@@ -1,5 +1,5 @@
 ---
 title: "Jason Mart"
 url: /lenoir/jason-mart/
-shop: Lebensmittel
+shop: convenience
 ---

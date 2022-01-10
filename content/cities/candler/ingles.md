@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /candler/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

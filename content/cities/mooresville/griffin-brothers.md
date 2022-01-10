@@ -1,5 +1,5 @@
 ---
 title: "Griffin Brothers"
 url: /mooresville/griffin-brothers/
-shop: Autowerkstatt
+shop: car repair
 ---

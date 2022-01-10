@@ -1,5 +1,5 @@
 ---
 title: "Just Tires"
 url: /garner/just-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

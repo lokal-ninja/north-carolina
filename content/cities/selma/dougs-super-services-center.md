@@ -1,5 +1,5 @@
 ---
 title: "Doug's Super Services Center"
 url: /selma/dougs-super-services-center/
-shop: Autowerkstatt
+shop: car repair
 ---

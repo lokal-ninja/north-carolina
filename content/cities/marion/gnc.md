@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /marion/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

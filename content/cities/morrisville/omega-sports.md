@@ -1,5 +1,5 @@
 ---
 title: "Omega Sports"
 url: /morrisville/omega-sports/
-shop: Sport
+shop: sports
 ---

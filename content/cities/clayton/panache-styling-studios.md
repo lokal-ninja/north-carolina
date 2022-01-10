@@ -1,5 +1,5 @@
 ---
 title: "Panache Styling Studios"
 url: /clayton/panache-styling-studios/
-shop: Friseur
+shop: hairdresser
 ---

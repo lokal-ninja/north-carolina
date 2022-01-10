@@ -1,5 +1,5 @@
 ---
 title: "Nail Trix"
 url: /new-bern/nail-trix/
-shop: Kosmetik
+shop: beauty
 ---

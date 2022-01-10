@@ -1,5 +1,5 @@
 ---
 title: "Triangle Tailors"
 url: /durham/triangle-tailors/
-shop: Schneiderei
+shop: tailor
 ---

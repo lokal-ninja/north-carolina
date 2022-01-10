@@ -1,5 +1,5 @@
 ---
 title: "Nail Fashions"
 url: /wendell/nail-fashions/
-shop: Kosmetik
+shop: beauty
 ---

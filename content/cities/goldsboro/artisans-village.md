@@ -1,5 +1,5 @@
 ---
 title: "Artisan's Village"
 url: /goldsboro/artisans-village/
-shop: Allgemein
+shop: shop
 ---

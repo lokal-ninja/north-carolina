@@ -1,5 +1,5 @@
 ---
 title: "Matt's Auto Shop"
 url: /raleigh/matts-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

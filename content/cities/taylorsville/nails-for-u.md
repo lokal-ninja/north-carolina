@@ -1,5 +1,5 @@
 ---
 title: "Nails For U"
 url: /taylorsville/nails-for-u/
-shop: Kosmetik
+shop: beauty
 ---

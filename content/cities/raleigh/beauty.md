@@ -1,5 +1,5 @@
 ---
 title: "Beauty"
 url: /raleigh/beauty/
-shop: Kosmetik
+shop: beauty
 ---

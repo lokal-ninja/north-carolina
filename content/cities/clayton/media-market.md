@@ -1,5 +1,5 @@
 ---
 title: "Media Market"
 url: /clayton/media-market/
-shop: Elektronik
+shop: electronics
 ---

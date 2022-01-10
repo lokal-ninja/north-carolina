@@ -1,5 +1,5 @@
 ---
 title: "Original Mattress Factory"
 url: /apex/original-mattress-factory/
-shop: Betten
+shop: bed
 ---

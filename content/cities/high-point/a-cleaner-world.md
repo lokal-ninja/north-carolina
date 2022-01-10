@@ -1,5 +1,5 @@
 ---
 title: "A Cleaner World"
 url: /high-point/a-cleaner-world/
-shop: Wäscherei
+shop: laundry
 ---

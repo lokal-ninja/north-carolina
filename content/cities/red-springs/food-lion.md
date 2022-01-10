@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /red-springs/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

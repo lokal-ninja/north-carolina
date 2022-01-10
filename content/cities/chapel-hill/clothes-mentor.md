@@ -1,5 +1,5 @@
 ---
 title: "Clothes Mentor"
 url: /chapel-hill/clothes-mentor/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metalwerx"
 url: /hickory/metalwerx/
-shop: Autowerkstatt
+shop: car repair
 ---

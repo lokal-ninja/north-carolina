@@ -1,5 +1,5 @@
 ---
 title: "Hurricane Jacks Marine LLC"
 url: /bridgeton/hurricane-jacks-marine-llc/
-shop: Boot
+shop: boat
 ---

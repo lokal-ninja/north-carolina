@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /thomasville/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

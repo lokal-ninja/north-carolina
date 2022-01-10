@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /marion/fastenal/
-shop: Baustoffe
+shop: trade
 ---

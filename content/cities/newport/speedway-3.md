@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /newport/speedway-3/
-shop: Lebensmittel
+shop: convenience
 ---

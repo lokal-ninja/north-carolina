@@ -1,5 +1,5 @@
 ---
 title: "Hi Tech Motor"
 url: /durham/hi-tech-motor/
-shop: Autowerkstatt
+shop: car repair
 ---

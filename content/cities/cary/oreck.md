@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /cary/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

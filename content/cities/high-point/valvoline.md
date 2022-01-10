@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /high-point/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

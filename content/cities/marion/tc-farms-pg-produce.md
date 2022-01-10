@@ -1,5 +1,5 @@
 ---
 title: "TC Farms/PG Produce"
 url: /marion/tc-farms-pg-produce/
-shop: Supermarkt
+shop: supermarket
 ---

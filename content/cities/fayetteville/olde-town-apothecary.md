@@ -1,5 +1,5 @@
 ---
 title: "Olde Town Apothecary"
 url: /fayetteville/olde-town-apothecary/
-shop: Haushaltsartikel
+shop: houseware
 ---

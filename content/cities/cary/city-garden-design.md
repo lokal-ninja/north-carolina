@@ -1,5 +1,5 @@
 ---
 title: "City Garden Design"
 url: /cary/city-garden-design/
-shop: Blumen
+shop: florist
 ---

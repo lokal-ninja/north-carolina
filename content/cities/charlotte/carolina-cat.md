@@ -1,5 +1,5 @@
 ---
 title: "Carolina CAT"
 url: /charlotte/carolina-cat/
-shop: Baustoffe
+shop: trade
 ---

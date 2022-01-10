@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /apex/petsmart/
-shop: Tiere
+shop: pet
 ---

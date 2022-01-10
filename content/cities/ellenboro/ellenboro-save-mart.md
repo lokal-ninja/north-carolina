@@ -1,5 +1,5 @@
 ---
 title: "Ellenboro Save Mart"
 url: /ellenboro/ellenboro-save-mart/
-shop: Lebensmittel
+shop: convenience
 ---

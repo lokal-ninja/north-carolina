@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /boone/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

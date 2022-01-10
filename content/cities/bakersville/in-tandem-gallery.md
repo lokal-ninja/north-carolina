@@ -1,5 +1,5 @@
 ---
 title: "In Tandem Gallery"
 url: /bakersville/in-tandem-gallery/
-shop: Töpferei
+shop: pottery
 ---

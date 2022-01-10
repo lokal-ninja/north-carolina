@@ -1,5 +1,5 @@
 ---
 title: "Hales Auto Sales"
 url: /louisburg/hales-auto-sales/
-shop: Autohaus
+shop: car
 ---

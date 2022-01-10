@@ -1,5 +1,5 @@
 ---
 title: "Gamesturz"
 url: /wake-forest/gamesturz/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barrett's Cleaners"
 url: /raleigh/barretts-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

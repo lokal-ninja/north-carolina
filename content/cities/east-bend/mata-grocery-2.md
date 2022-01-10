@@ -1,5 +1,5 @@
 ---
 title: "MATA GROCERY #2"
 url: /east-bend/mata-grocery-2/
-shop: Lebensmittel
+shop: convenience
 ---

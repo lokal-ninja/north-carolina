@@ -1,5 +1,5 @@
 ---
 title: "Cape Fear Tattoo"
 url: /greenville/cape-fear-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colonial Laundromat"
 url: /elizabeth-city/colonial-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JewelRecycle"
 url: /raleigh/jewelrecycle/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lenoir/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

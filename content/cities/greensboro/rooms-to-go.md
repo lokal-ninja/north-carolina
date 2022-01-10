@@ -1,5 +1,5 @@
 ---
 title: "Rooms To Go"
 url: /greensboro/rooms-to-go/
-shop: Möbel
+shop: furniture
 ---

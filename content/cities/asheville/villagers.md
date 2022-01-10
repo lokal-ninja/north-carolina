@@ -1,5 +1,5 @@
 ---
 title: "Villagers"
 url: /asheville/villagers/
-shop: Garten-Center
+shop: garden centre
 ---

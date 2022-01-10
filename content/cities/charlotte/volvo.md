@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /charlotte/volvo/
-shop: Autohaus
+shop: car
 ---

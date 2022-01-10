@@ -1,5 +1,5 @@
 ---
 title: "Ingles Market"
 url: /shelby/ingles-market/
-shop: Supermarkt
+shop: supermarket
 ---

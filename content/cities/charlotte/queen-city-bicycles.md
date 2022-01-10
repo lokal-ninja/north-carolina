@@ -1,5 +1,5 @@
 ---
 title: "Queen City Bicycles"
 url: /charlotte/queen-city-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

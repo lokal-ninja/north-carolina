@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /holly-springs/target/
-shop: Warenhaus
+shop: department store
 ---

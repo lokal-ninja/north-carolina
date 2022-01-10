@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /mount-airy/gamestop/
-shop: Videospiele
+shop: video games
 ---

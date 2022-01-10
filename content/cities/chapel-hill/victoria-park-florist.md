@@ -1,5 +1,5 @@
 ---
 title: "Victoria Park Florist"
 url: /chapel-hill/victoria-park-florist/
-shop: Blumen
+shop: florist
 ---

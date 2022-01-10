@@ -1,5 +1,5 @@
 ---
 title: "Twisted Scizzors"
 url: /cary/twisted-scizzors/
-shop: Kosmetik
+shop: beauty
 ---

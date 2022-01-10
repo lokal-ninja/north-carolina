@@ -1,5 +1,5 @@
 ---
 title: "Shiny Floors"
 url: /clayton/shiny-floors/
-shop: Modehaus
+shop: boutique
 ---

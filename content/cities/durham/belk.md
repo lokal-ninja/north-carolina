@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /durham/belk/
-shop: Warenhaus
+shop: department store
 ---

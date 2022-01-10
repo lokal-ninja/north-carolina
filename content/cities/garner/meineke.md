@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /garner/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

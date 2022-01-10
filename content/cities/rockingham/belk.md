@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /rockingham/belk/
-shop: Warenhaus
+shop: department store
 ---

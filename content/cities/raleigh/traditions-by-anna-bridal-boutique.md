@@ -1,5 +1,5 @@
 ---
 title: "Traditions By Anna Bridal Boutique"
 url: /raleigh/traditions-by-anna-bridal-boutique/
-shop: Kleidung
+shop: clothes
 ---

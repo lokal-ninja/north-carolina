@@ -1,5 +1,5 @@
 ---
 title: "Teagues Grocery"
 url: /maggie-valley/teagues-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

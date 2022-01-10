@@ -1,5 +1,5 @@
 ---
 title: "Frontcover Consignments"
 url: /statesville/frontcover-consignments/
-shop: Gebrauchtwaren
+shop: charity
 ---

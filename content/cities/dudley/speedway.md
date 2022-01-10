@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dudley/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

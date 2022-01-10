@@ -1,5 +1,5 @@
 ---
 title: "GameStop Prestige"
 url: /whiteville/gamestop-prestige/
-shop: Videospiele
+shop: video games
 ---

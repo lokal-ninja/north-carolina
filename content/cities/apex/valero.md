@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /apex/valero/
-shop: Lebensmittel
+shop: convenience
 ---

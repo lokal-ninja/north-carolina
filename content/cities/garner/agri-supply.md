@@ -1,5 +1,5 @@
 ---
 title: "Agri Supply"
 url: /garner/agri-supply/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

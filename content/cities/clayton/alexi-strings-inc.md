@@ -1,5 +1,5 @@
 ---
 title: "Alexi Strings Inc."
 url: /clayton/alexi-strings-inc/
-shop: Instrumente
+shop: musical instrument
 ---

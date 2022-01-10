@@ -1,5 +1,5 @@
 ---
 title: "Conn's HomePlus"
 url: /gastonia/conns-homeplus/
-shop: Haushaltsgeräte
+shop: appliance
 ---

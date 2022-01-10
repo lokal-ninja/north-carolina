@@ -1,5 +1,5 @@
 ---
 title: "Turner Lane"
 url: /fayetteville/turner-lane/
-shop: Andenken
+shop: gift
 ---

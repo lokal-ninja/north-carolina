@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /high-point/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

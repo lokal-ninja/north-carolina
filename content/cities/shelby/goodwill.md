@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /shelby/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

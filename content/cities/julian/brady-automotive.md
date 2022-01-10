@@ -1,5 +1,5 @@
 ---
 title: "Brady Automotive"
 url: /julian/brady-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

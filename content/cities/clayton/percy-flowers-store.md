@@ -1,5 +1,5 @@
 ---
 title: "Percy Flower's Store"
 url: /clayton/percy-flowers-store/
-shop: Lebensmittel
+shop: convenience
 ---

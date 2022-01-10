@@ -1,5 +1,5 @@
 ---
 title: "Picture Perfect"
 url: /marion/picture-perfect/
-shop: Kosmetik
+shop: beauty
 ---

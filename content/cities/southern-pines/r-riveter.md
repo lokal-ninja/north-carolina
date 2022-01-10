@@ -1,5 +1,5 @@
 ---
 title: "R. Riveter"
 url: /southern-pines/r-riveter/
-shop: Taschen & Koffer
+shop: bag
 ---

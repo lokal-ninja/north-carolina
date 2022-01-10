@@ -1,5 +1,5 @@
 ---
 title: "Lee Spa Nails"
 url: /cary/lee-spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

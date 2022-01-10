@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /concord/target/
-shop: Warenhaus
+shop: department store
 ---

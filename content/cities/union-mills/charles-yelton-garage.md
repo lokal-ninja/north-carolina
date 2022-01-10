@@ -1,5 +1,5 @@
 ---
 title: "Charles Yelton Garage"
 url: /union-mills/charles-yelton-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /pisgah-forest/walmart/
-shop: Warenhaus
+shop: department store
 ---

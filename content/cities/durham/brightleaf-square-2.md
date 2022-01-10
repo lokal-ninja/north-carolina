@@ -1,5 +1,5 @@
 ---
 title: "Brightleaf Square"
 url: /durham/brightleaf-square-2/
-shop: Allgemein
+shop: shop
 ---

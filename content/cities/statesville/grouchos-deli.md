@@ -1,5 +1,5 @@
 ---
 title: "Groucho's Deli"
 url: /statesville/grouchos-deli/
-shop: Feinkost
+shop: deli
 ---

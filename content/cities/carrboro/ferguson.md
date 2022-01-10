@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /carrboro/ferguson/
-shop: Badezimmer
+shop: bathroom
 ---

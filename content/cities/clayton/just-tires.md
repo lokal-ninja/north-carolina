@@ -1,5 +1,5 @@
 ---
 title: "Just Tires"
 url: /clayton/just-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

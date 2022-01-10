@@ -1,5 +1,5 @@
 ---
 title: "North End Convenience"
 url: /charlotte/north-end-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

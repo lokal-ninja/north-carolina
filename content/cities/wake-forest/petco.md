@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /wake-forest/petco/
-shop: Tiere
+shop: pet
 ---

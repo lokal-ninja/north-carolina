@@ -1,5 +1,5 @@
 ---
 title: "USA Auto Body"
 url: /clayton/usa-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

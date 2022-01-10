@@ -1,5 +1,5 @@
 ---
 title: "Great Grapes"
 url: /cary/great-grapes/
-shop: Wein
+shop: wine
 ---

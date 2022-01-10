@@ -1,5 +1,5 @@
 ---
 title: "Gabbage Rose"
 url: /maggie-valley/gabbage-rose/
-shop: Andenken
+shop: gift
 ---

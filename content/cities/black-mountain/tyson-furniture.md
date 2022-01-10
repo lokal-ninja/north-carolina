@@ -1,5 +1,5 @@
 ---
 title: "Tyson Furniture"
 url: /black-mountain/tyson-furniture/
-shop: Möbel
+shop: furniture
 ---

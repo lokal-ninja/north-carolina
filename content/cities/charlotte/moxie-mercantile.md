@@ -1,5 +1,5 @@
 ---
 title: "Moxie Mercantile"
 url: /charlotte/moxie-mercantile/
-shop: Andenken
+shop: gift
 ---

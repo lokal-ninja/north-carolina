@@ -1,5 +1,5 @@
 ---
 title: "Watermark"
 url: /high-point/watermark/
-shop: Möbel
+shop: furniture
 ---

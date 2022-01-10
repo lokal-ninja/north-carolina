@@ -1,5 +1,5 @@
 ---
 title: "Peak Auto"
 url: /apex/peak-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

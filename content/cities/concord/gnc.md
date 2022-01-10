@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /concord/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---
