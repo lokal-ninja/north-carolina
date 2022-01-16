@@ -1,6 +1,6 @@
 ---
 title: Kernersville
 url: /kernersville/
-latitude: 36.12
-longitude: -80.073
+latitude: 36.11
+longitude: -80.097
 ---

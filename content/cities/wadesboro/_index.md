@@ -1,6 +1,6 @@
 ---
 title: Wadesboro
 url: /wadesboro/
-latitude: 34.981
-longitude: -80.105
+latitude: 34.963
+longitude: -80.054
 ---

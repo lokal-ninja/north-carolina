@@ -1,6 +1,6 @@
 ---
 title: Advance
 url: /advance/
-latitude: 35.945
-longitude: -80.413
+latitude: 36.005
+longitude: -80.44
 ---

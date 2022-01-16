@@ -1,6 +1,6 @@
 ---
 title: Granite Falls
 url: /granite-falls/
-latitude: 35.781
-longitude: -81.394
+latitude: 35.81
+longitude: -81.433
 ---
