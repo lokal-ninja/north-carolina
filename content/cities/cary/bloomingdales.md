@@ -1,5 +1,5 @@
 ---
-title: "Bloomingdales"
+title: "Bloomingdale's"
 url: /cary/bloomingdales/
-shop: shop
+shop: department store
 ---
