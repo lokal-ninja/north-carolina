@@ -1,5 +1,5 @@
 ---
 title: "Grow"
 url: /charlotte/grow/
-shop: shop
+shop: garden centre
 ---
