@@ -1,5 +1,5 @@
 ---
-title: "Habitat For Humanity ReStore"
+title: "Habitat for Humanity ReStore"
 url: /greensboro/habitat-for-humanity-restore/
 shop: charity
 ---

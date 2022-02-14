@@ -1,6 +1,6 @@
 ---
 title: Hayesville
 url: /hayesville/
-latitude: 35.033
-longitude: -83.816
+latitude: 35.055
+longitude: -83.893
 ---
