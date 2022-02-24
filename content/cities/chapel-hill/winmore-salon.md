@@ -1,5 +1,5 @@
 ---
 title: "Winmore Salon"
-url: /carrboro/winmore-salon/
+url: /chapel-hill/winmore-salon/
 shop: hairdresser
 ---
