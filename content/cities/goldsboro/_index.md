@@ -1,6 +1,6 @@
 ---
 title: Goldsboro
 url: /goldsboro/
-latitude: 35.386
-longitude: -77.908
+latitude: 35.38
+longitude: -77.93
 ---
