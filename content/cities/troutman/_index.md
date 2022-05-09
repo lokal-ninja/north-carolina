@@ -1,6 +1,6 @@
 ---
 title: Troutman
 url: /troutman/
-latitude: 35.712
-longitude: -80.894
+latitude: 35.705
+longitude: -80.892
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vale
 url: /vale/
-latitude: 35.488
-longitude: -81.39
+latitude: 35.568
+longitude: -81.48
 ---

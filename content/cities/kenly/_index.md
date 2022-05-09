@@ -1,6 +1,6 @@
 ---
 title: Kenly
 url: /kenly/
-latitude: 35.68
-longitude: -78.207
+latitude: 35.678
+longitude: -78.17
 ---
