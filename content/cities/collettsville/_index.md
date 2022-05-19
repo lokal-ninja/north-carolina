@@ -1,6 +1,6 @@
 ---
 title: Collettsville
 url: /collettsville/
-latitude: 35.99
-longitude: -81.759
+latitude: 36.004
+longitude: -81.774
 ---
