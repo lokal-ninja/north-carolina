@@ -1,6 +1,6 @@
 ---
 title: Gold Hill
 url: /gold-hill/
-latitude: 35.524
-longitude: -80.34
+latitude: 35.522
+longitude: -80.338
 ---
