@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /nebo/dollar-general-3/
+url: /marble/dollar-general/
 shop: variety store
 ---
