@@ -1,6 +1,6 @@
 ---
 title: Sharpsburg
 url: /sharpsburg/
-latitude: 35.862
-longitude: -77.834
+latitude: 35.86
+longitude: -77.835
 ---

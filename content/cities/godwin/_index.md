@@ -1,6 +1,6 @@
 ---
 title: Godwin
 url: /godwin/
-latitude: 35.216
-longitude: -78.677
+latitude: 35.196
+longitude: -78.626
 ---
