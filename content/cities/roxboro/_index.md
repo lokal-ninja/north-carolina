@@ -1,6 +1,6 @@
 ---
 title: Roxboro
 url: /roxboro/
-latitude: 36.409
-longitude: -78.977
+latitude: 36.367
+longitude: -78.985
 ---
