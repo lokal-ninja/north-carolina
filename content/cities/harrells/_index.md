@@ -1,6 +1,6 @@
 ---
 title: Harrells
 url: /harrells/
-latitude: 34.724
-longitude: -78.19
+latitude: 34.707
+longitude: -78.382
 ---
