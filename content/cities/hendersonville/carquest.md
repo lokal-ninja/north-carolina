@@ -1,5 +1,5 @@
 ---
-title: "CarQuest"
+title: "Carquest"
 url: /hendersonville/carquest/
 shop: car parts
 ---
