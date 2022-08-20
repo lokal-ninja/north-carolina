@@ -1,6 +1,6 @@
 ---
 title: Hatteras
 url: /hatteras/
-latitude: 35.215
-longitude: -75.699
+latitude: 35.216
+longitude: -75.678
 ---
