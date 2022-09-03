@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /marion/roses/
-shop: clothes
+shop: variety store
 ---
