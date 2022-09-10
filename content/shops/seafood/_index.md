@@ -1,5 +1,5 @@
 ---
 title: seafood
 url: /seafood/
-icon: other
+icon: seafood
 ---
