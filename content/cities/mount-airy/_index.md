@@ -1,6 +1,6 @@
 ---
 title: Mount Airy
 url: /mount-airy/
-latitude: 36.502
-longitude: -80.602
+latitude: 36.51
+longitude: -80.609
 ---

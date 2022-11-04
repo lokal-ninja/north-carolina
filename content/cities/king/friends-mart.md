@@ -1,5 +1,5 @@
 ---
-title: "FRIENDS MART"
+title: "Friends Mart"
 url: /king/friends-mart/
 shop: convenience
 ---

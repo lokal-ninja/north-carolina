@@ -1,6 +1,6 @@
 ---
 title: Matthews
 url: /matthews/
-latitude: 35.125
-longitude: -80.71
+latitude: 35.128
+longitude: -80.703
 ---
