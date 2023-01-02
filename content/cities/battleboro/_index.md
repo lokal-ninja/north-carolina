@@ -1,6 +1,6 @@
 ---
 title: Battleboro
 url: /battleboro/
-latitude: 36.05
-longitude: -77.753
+latitude: 35.961
+longitude: -77.654
 ---

@@ -1,6 +1,6 @@
 ---
 title: Walkertown
 url: /walkertown/
-latitude: 36.169
-longitude: -80.15
+latitude: 36.165
+longitude: -80.137
 ---
