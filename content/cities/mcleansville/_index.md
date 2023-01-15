@@ -1,6 +1,6 @@
 ---
 title: McLeansville
 url: /mcleansville/
-latitude: 36.064
-longitude: -79.683
+latitude: 36.109
+longitude: -79.658
 ---

@@ -1,6 +1,6 @@
 ---
 title: New Hill
 url: /new-hill/
-latitude: 35.62
-longitude: -78.911
+latitude: 35.619
+longitude: -78.91
 ---
