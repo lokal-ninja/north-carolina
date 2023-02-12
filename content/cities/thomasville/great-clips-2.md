@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /thomasville/great-clips-2/
+url: /thomasville/great-clips/
 shop: hairdresser
 ---

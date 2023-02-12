@@ -1,10 +1,10 @@
-id: 5315602306
-type: node
-latitude: 35.38892
-longitude: -80.62275
+id: 430883940
+type: way
+latitude: 35.38939
+longitude: -80.62332
 postcode: "28027"
 city: Concord
-street: "Concord Commons Place Southwest"
+street: "Concord Commons Place;Concord Commons Place Southwest"
 housenumber: 150
 phone: "+1-704-788-3135"
 opening_hours: "24/7"
