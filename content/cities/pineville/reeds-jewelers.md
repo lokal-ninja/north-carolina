@@ -1,5 +1,5 @@
 ---
-title: "REEDS Jewelers"
+title: "Reeds Jewelers"
 url: /pineville/reeds-jewelers/
 shop: jewelry
 ---

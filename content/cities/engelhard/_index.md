@@ -1,6 +1,6 @@
 ---
 title: Engelhard
 url: /engelhard/
-latitude: 35.511
-longitude: -76.013
+latitude: 35.508
+longitude: -75.993
 ---
