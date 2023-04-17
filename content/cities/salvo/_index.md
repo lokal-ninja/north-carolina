@@ -1,6 +1,6 @@
 ---
 title: Salvo
 url: /salvo/
-latitude: 35.543
-longitude: -75.472
+latitude: 35.559
+longitude: -75.469
 ---
