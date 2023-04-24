@@ -1,6 +1,6 @@
 ---
 title: Roseboro
 url: /roseboro/
-latitude: 34.96
-longitude: -78.514
+latitude: 34.959
+longitude: -78.517
 ---
