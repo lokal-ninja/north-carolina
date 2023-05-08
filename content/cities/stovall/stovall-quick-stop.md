@@ -1,5 +1,5 @@
 ---
-title: "STOVALL QUICK STOP"
+title: "Stovall Quick Stop"
 url: /stovall/stovall-quick-stop/
 shop: convenience
 ---
