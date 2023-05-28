@@ -1,6 +1,6 @@
 ---
 title: Newland
 url: /newland/
-latitude: 35.978
-longitude: -81.956
+latitude: 36.084
+longitude: -81.927
 ---
