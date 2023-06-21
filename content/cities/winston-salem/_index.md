@@ -1,6 +1,6 @@
 ---
-title: winston-Salem
+title: Winston Salem
 url: /winston-salem/
-latitude: 36.123
-longitude: -80.368
+latitude: 36.087
+longitude: -80.29
 ---
