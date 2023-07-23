@@ -1,6 +1,6 @@
 ---
 title: Littleton
 url: /littleton/
-latitude: 36.466
-longitude: -77.835
+latitude: 36.533
+longitude: -77.938
 ---

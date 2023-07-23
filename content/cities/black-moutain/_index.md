@@ -1,6 +1,6 @@
 ---
 title: Black Moutain
 url: /black-moutain/
-latitude: 35.611
-longitude: -82.337
+latitude: 35.616
+longitude: -82.321
 ---
