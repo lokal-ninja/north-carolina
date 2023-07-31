@@ -1,6 +1,6 @@
 ---
 title: Yadkinville
 url: /yadkinville/
-latitude: 36.121
-longitude: -80.545
+latitude: 36.12
+longitude: -80.546
 ---
