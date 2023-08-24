@@ -1,6 +1,6 @@
 ---
 title: Chinquapin
 url: /chinquapin/
-latitude: 34.843
-longitude: -77.677
+latitude: 34.83
+longitude: -77.809
 ---
