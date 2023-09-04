@@ -1,6 +1,6 @@
 ---
 title: Swanquarter
 url: /swanquarter/
-latitude: 35.451
-longitude: -76.144
+latitude: 35.425
+longitude: -76.328
 ---
