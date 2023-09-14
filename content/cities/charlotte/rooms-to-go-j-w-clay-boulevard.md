@@ -1,5 +1,5 @@
 ---
 title: "Rooms To Go"
-url: /charlotte/rooms-to-go/
+url: /charlotte/rooms-to-go-j-w-clay-boulevard/
 shop: furniture
 ---

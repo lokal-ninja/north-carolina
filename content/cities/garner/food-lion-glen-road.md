@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /garner/food-lion/
+url: /garner/food-lion-glen-road/
 shop: supermarket
 ---

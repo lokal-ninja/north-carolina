@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /mooresville/autozone/
+url: /mooresville/autozone-river-highway/
 shop: car parts
 ---

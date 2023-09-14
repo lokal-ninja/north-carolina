@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /charlotte/the-home-depot/
+url: /charlotte/the-home-depot-albemarle-road/
 shop: doityourself
 ---

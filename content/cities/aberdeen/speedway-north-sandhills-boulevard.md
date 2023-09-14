@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /aberdeen/speedway/
+url: /aberdeen/speedway-north-sandhills-boulevard/
 shop: convenience
 ---

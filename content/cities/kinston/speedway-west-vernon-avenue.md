@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kinston/speedway/
+url: /kinston/speedway-west-vernon-avenue/
 shop: convenience
 ---

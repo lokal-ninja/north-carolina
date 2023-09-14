@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /raleigh/circle-k/
+url: /raleigh/circle-k-south-saunders-street/
 shop: convenience
 ---

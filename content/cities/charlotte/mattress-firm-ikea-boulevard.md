@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /charlotte/mattress-firm/
+url: /charlotte/mattress-firm-ikea-boulevard/
 shop: bed
 ---

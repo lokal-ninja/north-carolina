@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /goldsboro/walmart-neighborhood-market/
+url: /goldsboro/walmart-neighborhood-market-us-70-highway-east/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /tarboro/speedway/
+url: /tarboro/speedway-north-main-street/
 shop: convenience
 ---

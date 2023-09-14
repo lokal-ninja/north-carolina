@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /wilmington/speedway/
+url: /wilmington/speedway-gordon-road/
 shop: convenience
 ---

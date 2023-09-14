@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /durham/public-storage/
+url: /durham/public-storage-kangaroo-drive/
 shop: storage rental
 ---

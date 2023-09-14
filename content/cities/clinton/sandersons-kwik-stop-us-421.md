@@ -1,5 +1,5 @@
 ---
 title: "Sanderson's Kwik Stop"
-url: /clinton/sandersons-kwik-stop/
+url: /clinton/sandersons-kwik-stop-us-421/
 shop: convenience
 ---

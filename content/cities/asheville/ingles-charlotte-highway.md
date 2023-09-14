@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
-url: /asheville/ingles/
+url: /asheville/ingles-charlotte-highway/
 shop: supermarket
 ---

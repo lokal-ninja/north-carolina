@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /charlotte/lowes/
+url: /charlotte/lowes-chancellor-park-drive/
 shop: doityourself
 ---

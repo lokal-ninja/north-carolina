@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
-url: /charlotte/fedex-office/
+url: /charlotte/fedex-office-pineville-matthews-road/
 shop: copyshop
 ---

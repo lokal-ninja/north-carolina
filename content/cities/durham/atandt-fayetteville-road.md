@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /durham/atandt/
+url: /durham/atandt-fayetteville-road/
 shop: mobile phone
 ---

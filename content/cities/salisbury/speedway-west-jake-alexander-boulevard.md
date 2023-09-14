@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /salisbury/speedway/
+url: /salisbury/speedway-west-jake-alexander-boulevard/
 shop: convenience
 ---

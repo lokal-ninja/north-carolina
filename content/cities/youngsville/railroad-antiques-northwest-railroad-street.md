@@ -1,5 +1,5 @@
 ---
 title: "Railroad Antiques"
-url: /youngsville/railroad-antiques/
+url: /youngsville/railroad-antiques-northwest-railroad-street/
 shop: antiques
 ---

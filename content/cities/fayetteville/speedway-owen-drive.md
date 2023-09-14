@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fayetteville/speedway/
+url: /fayetteville/speedway-owen-drive/
 shop: convenience
 ---

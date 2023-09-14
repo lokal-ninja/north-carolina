@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /cary/mattress-firm/
+url: /cary/mattress-firm-walnut-street/
 shop: bed
 ---

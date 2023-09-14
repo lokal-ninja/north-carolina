@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
-url: /kinston/piggly-wiggly/
+url: /kinston/piggly-wiggly-north-mclewean-street/
 shop: supermarket
 ---

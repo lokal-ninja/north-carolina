@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /garner/mattress-firm/
+url: /garner/mattress-firm-greenfield-parkway/
 shop: bed
 ---

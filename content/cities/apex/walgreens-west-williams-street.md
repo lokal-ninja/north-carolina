@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /apex/walgreens/
+url: /apex/walgreens-west-williams-street/
 shop: chemist
 ---

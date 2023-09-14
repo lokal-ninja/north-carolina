@@ -1,5 +1,5 @@
 ---
 title: "Cruizers"
-url: /durham/cruizers/
+url: /durham/cruizers-north-roxboro-street/
 shop: convenience
 ---

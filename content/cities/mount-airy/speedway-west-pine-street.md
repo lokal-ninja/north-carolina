@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /mount-airy/speedway/
+url: /mount-airy/speedway-west-pine-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molly Malone's"
-url: /mooresville/molly-malones/
+url: /mooresville/molly-malones-river-highway/
 shop: clothes
 ---

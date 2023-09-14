@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /old-fort/dollar-general/
+url: /old-fort/dollar-general-east-main-street/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /garner/petsmart/
+url: /garner/petsmart-timber-drive/
 shop: pet
 ---

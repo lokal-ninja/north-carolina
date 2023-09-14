@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /williamston/speedway/
+url: /williamston/speedway-washington-street/
 shop: convenience
 ---

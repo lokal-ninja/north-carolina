@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /greensboro/speedway/
+url: /greensboro/speedway-west-wendover-avenue/
 shop: convenience
 ---

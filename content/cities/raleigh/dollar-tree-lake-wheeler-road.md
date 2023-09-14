@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /raleigh/dollar-tree/
+url: /raleigh/dollar-tree-lake-wheeler-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trek"
-url: /charlotte/trek/
+url: /charlotte/trek-perimeter-parkway/
 shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /charlotte/autozone/
+url: /charlotte/autozone-mount-holly-huntersville-road/
 shop: car parts
 ---

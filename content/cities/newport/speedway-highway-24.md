@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /newport/speedway/
+url: /newport/speedway-highway-24/
 shop: convenience
 ---

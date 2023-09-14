@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /raleigh/marathon/
+url: /raleigh/marathon-six-forks-road/
 shop: convenience
 ---

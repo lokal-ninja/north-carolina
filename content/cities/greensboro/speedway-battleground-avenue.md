@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /greensboro/speedway/
+url: /greensboro/speedway-battleground-avenue/
 shop: convenience
 ---

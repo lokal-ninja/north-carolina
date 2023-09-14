@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /pittsboro/food-lion/
+url: /pittsboro/food-lion-ballentrae-court/
 shop: supermarket
 ---

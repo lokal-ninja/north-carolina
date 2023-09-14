@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /wilson/speedway/
+url: /wilson/speedway-forest-hills-road-west/
 shop: convenience
 ---

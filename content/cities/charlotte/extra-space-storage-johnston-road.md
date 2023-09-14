@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /charlotte/extra-space-storage/
+url: /charlotte/extra-space-storage-johnston-road/
 shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /pikeville/dollar-general/
+url: /pikeville/dollar-general-goldsboro-street/
 shop: variety store
 ---

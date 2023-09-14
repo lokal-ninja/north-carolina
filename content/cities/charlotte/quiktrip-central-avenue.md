@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /charlotte/quiktrip/
+url: /charlotte/quiktrip-central-avenue/
 shop: convenience
 ---

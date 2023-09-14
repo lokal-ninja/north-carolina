@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /jacksonville/aldi/
+url: /jacksonville/aldi-richlands-highway/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /greenville/speedway/
+url: /greenville/speedway-south-memorial-drive-2/
 shop: convenience
 ---

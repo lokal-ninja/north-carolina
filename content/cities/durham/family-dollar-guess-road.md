@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /durham/family-dollar/
+url: /durham/family-dollar-guess-road/
 shop: variety store
 ---

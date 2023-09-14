@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /winston-salem/speedway/
+url: /winston-salem/speedway-reynolda-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /garner/speedway/
+url: /garner/speedway-jones-sausage-road-2/
 shop: convenience
 ---

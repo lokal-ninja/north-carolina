@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /belhaven/speedway/
+url: /belhaven/speedway-west-main-street/
 shop: convenience
 ---

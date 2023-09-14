@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /charlotte/publix/
+url: /charlotte/publix-providence-road-west/
 shop: supermarket
 ---

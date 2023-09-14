@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /garner/lowes/
+url: /garner/lowes-cleveland-crossing-drive/
 shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
-url: /durham/harris-teeter/
+url: /durham/harris-teeter-corners-parkway/
 shop: supermarket
 ---

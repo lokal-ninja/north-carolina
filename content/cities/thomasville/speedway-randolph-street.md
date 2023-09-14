@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /thomasville/speedway/
+url: /thomasville/speedway-randolph-street/
 shop: convenience
 ---

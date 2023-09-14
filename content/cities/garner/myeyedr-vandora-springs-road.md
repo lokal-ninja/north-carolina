@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
-url: /garner/myeyedr/
+url: /garner/myeyedr-vandora-springs-road/
 shop: optician
 ---

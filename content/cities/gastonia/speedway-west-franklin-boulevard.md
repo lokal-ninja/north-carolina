@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /gastonia/speedway/
+url: /gastonia/speedway-west-franklin-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /cary/sherwin-williams/
+url: /cary/sherwin-williams-kildaire-farm-road/
 shop: paint
 ---

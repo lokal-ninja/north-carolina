@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
-url: /charlotte/walmart/
+url: /charlotte/walmart-pineville-matthews-road/
 shop: department store
 ---

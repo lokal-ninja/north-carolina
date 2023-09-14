@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /greenville/sheetz/
+url: /greenville/sheetz-county-home-road/
 shop: convenience
 ---

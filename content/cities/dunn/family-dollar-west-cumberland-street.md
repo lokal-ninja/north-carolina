@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /dunn/family-dollar/
+url: /dunn/family-dollar-west-cumberland-street/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /wilson/speedway/
+url: /wilson/speedway-martin-l-king-junior-parkway-southeast/
 shop: convenience
 ---

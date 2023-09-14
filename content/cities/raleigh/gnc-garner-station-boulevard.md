@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /raleigh/gnc/
+url: /raleigh/gnc-garner-station-boulevard/
 shop: nutrition supplements
 ---

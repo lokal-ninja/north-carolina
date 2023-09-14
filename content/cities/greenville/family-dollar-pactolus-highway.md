@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /greenville/family-dollar/
+url: /greenville/family-dollar-pactolus-highway/
 shop: variety store
 ---

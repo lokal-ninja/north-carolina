@@ -1,5 +1,5 @@
 ---
 title: "Compare Foods"
-url: /charlotte/compare-foods/
+url: /charlotte/compare-foods-north-tryon-street/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /goldsboro/speedway/
+url: /goldsboro/speedway-us-highway-70-west/
 shop: convenience
 ---

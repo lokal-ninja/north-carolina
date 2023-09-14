@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /morganton/dollar-general/
+url: /morganton/dollar-general-east-fleming-drive/
 shop: variety store
 ---

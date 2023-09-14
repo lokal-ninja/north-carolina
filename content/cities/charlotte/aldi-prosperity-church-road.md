@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /charlotte/aldi/
+url: /charlotte/aldi-prosperity-church-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /winterville/speedway/
+url: /winterville/speedway-west-fire-tower-road/
 shop: convenience
 ---

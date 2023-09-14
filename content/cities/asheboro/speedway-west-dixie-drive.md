@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /asheboro/speedway/
+url: /asheboro/speedway-west-dixie-drive/
 shop: convenience
 ---

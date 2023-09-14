@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /henderson/speedway/
+url: /henderson/speedway-north-garnett-street/
 shop: convenience
 ---

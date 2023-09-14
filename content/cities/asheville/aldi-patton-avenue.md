@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /asheville/aldi/
+url: /asheville/aldi-patton-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swannanoa Cleaners"
-url: /asheville/swannanoa-cleaners/
+url: /asheville/swannanoa-cleaners-coxe-avenue/
 shop: laundry
 ---

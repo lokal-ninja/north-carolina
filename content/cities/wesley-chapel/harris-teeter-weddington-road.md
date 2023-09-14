@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
-url: /wesley-chapel/harris-teeter/
+url: /wesley-chapel/harris-teeter-weddington-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /raleigh/discount-tire/
+url: /raleigh/discount-tire-fayetteville-road/
 shop: tyres
 ---

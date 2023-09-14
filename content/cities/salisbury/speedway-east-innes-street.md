@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /salisbury/speedway/
+url: /salisbury/speedway-east-innes-street/
 shop: convenience
 ---

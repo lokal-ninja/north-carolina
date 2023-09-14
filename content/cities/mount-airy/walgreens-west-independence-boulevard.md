@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /mount-airy/walgreens/
+url: /mount-airy/walgreens-west-independence-boulevard/
 shop: chemist
 ---

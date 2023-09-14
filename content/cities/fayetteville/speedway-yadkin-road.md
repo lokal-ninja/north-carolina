@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fayetteville/speedway/
+url: /fayetteville/speedway-yadkin-road/
 shop: convenience
 ---

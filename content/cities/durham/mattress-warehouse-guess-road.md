@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
-url: /durham/mattress-warehouse/
+url: /durham/mattress-warehouse-guess-road/
 shop: bed
 ---

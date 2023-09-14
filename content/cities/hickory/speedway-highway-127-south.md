@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hickory/speedway/
+url: /hickory/speedway-highway-127-south/
 shop: convenience
 ---

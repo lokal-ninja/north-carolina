@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /charlotte/mattress-firm/
+url: /charlotte/mattress-firm-j-w-clay-boulevard/
 shop: bed
 ---

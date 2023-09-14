@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /kernersville/food-lion/
+url: /kernersville/food-lion-north-main-street/
 shop: supermarket
 ---

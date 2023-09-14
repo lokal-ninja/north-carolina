@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /asheville/speedway/
+url: /asheville/speedway-smokey-park-highway/
 shop: convenience
 ---

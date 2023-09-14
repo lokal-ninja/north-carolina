@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
-url: /durham/rite-aid/
+url: /durham/rite-aid-north-lasalle-street/
 shop: chemist
 ---

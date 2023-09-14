@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /high-point/aldi/
+url: /high-point/aldi-south-main-street/
 shop: supermarket
 ---

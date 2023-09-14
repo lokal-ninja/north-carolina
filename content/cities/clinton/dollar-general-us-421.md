@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /clinton/dollar-general/
+url: /clinton/dollar-general-us-421/
 shop: variety store
 ---

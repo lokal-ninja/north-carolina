@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /raleigh/speedway/
+url: /raleigh/speedway-south-saunders-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /fayetteville/aldi/
+url: /fayetteville/aldi-south-raeford-road/
 shop: supermarket
 ---

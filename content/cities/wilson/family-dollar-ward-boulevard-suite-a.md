@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /wilson/family-dollar/
+url: /wilson/family-dollar-ward-boulevard-suite-a/
 shop: variety store
 ---

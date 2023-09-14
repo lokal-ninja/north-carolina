@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /charlotte/target/
+url: /charlotte/target-northlake-centre-parkway/
 shop: department store
 ---

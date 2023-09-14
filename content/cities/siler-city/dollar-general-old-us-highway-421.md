@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /siler-city/dollar-general/
+url: /siler-city/dollar-general-old-us-highway-421/
 shop: variety store
 ---

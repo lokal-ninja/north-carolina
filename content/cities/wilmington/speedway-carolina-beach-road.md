@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /wilmington/speedway/
+url: /wilmington/speedway-carolina-beach-road/
 shop: convenience
 ---

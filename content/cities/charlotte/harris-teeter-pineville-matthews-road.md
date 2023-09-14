@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
-url: /charlotte/harris-teeter/
+url: /charlotte/harris-teeter-pineville-matthews-road/
 shop: supermarket
 ---

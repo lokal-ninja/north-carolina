@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /smithfield/speedway/
+url: /smithfield/speedway-south-brightleaf-boulevard/
 shop: convenience
 ---

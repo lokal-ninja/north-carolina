@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /benson/dollar-general/
+url: /benson/dollar-general-nc-50-south/
 shop: variety store
 ---

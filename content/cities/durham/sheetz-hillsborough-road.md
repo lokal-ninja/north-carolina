@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /durham/sheetz/
+url: /durham/sheetz-hillsborough-road/
 shop: convenience
 ---

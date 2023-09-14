@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
-url: /cary/harris-teeter/
+url: /cary/harris-teeter-walnut-street/
 shop: supermarket
 ---

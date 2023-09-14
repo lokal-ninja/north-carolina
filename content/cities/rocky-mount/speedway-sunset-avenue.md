@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /rocky-mount/speedway/
+url: /rocky-mount/speedway-sunset-avenue/
 shop: convenience
 ---

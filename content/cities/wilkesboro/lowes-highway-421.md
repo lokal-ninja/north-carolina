@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /wilkesboro/lowes/
+url: /wilkesboro/lowes-highway-421/
 shop: doityourself
 ---

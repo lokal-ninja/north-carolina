@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /cary/aldi/
+url: /cary/aldi-northwest-maynard-road/
 shop: supermarket
 ---

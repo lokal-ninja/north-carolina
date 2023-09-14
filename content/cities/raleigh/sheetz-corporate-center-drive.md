@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /raleigh/sheetz/
+url: /raleigh/sheetz-corporate-center-drive/
 shop: convenience
 ---

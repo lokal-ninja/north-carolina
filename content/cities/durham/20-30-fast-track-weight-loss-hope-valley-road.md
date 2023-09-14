@@ -1,5 +1,5 @@
 ---
 title: "20/30 Fast Track Weight Loss"
-url: /durham/20-30-fast-track-weight-loss/
+url: /durham/20-30-fast-track-weight-loss-hope-valley-road/
 shop: shop
 ---

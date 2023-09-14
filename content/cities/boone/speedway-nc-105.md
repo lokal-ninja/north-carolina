@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /boone/speedway/
+url: /boone/speedway-nc-105/
 shop: convenience
 ---

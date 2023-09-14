@@ -1,5 +1,5 @@
 ---
 title: "ABC"
-url: /durham/abc/
+url: /durham/abc-north-pointe-drive/
 shop: alcohol
 ---

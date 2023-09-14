@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /manson/dollar-general/
+url: /manson/dollar-general-bullocksville-park-road/
 shop: variety store
 ---

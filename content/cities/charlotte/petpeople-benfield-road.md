@@ -1,5 +1,5 @@
 ---
 title: "PetPeople"
-url: /charlotte/petpeople/
+url: /charlotte/petpeople-benfield-road/
 shop: pet
 ---
