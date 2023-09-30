@@ -1,5 +1,5 @@
 ---
-title: "Bluemercury"
+title: "bluemercury"
 url: /charlotte/bluemercury/
 shop: beauty
 ---

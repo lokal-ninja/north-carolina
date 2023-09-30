@@ -1,6 +1,6 @@
 ---
 title: Mount Pleasant
 url: /mount-pleasant/
-latitude: 35.441
-longitude: -80.376
+latitude: 35.399
+longitude: -80.436
 ---
