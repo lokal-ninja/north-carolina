@@ -1,5 +1,5 @@
 ---
-title: "COUNTRY FOOD MART"
+title: "Country Food Mart"
 url: /lexington/country-food-mart/
 shop: convenience
 ---
