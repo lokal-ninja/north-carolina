@@ -1,6 +1,6 @@
 ---
 title: Huntersville
 url: /huntersville/
-latitude: 35.409
-longitude: -80.862
+latitude: 35.423
+longitude: -80.86
 ---
