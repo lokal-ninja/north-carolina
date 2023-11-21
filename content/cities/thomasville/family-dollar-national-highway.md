@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /goldsboro/family-dollar-new-hope-road/
+url: /thomasville/family-dollar-national-highway/
 shop: variety store
 ---
