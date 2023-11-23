@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /wilmington/walmart-supercenter-market-street/
+url: /concord/walmart-supercenter-thunder-road/
 shop: supermarket
 ---
