@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /boone/dollar-general-forest-hills-drive/
+url: /eden/dollar-general-morgan-road/
 shop: variety store
 ---

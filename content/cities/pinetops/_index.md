@@ -1,6 +1,6 @@
 ---
 title: Pinetops
 url: /pinetops/
-latitude: 35.792
-longitude: -77.639
+latitude: 35.791
+longitude: -77.638
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /hillsborough/food-lion-rebecca-drive/
+url: /fayetteville/food-lion-nc-87-south/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /bryson-city/dollar-general-ela-road/
+url: /boone/dollar-general-nc-105-south/
 shop: variety store
 ---
