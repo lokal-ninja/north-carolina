@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /fayetteville/food-lion-raeford-road/
+url: /fayetteville/food-lion-nc-87-south/
 shop: supermarket
 ---
