@@ -2,5 +2,5 @@
 title: Manns Harbor
 url: /manns-harbor/
 latitude: 35.884
-longitude: -75.766
+longitude: -75.764
 ---
