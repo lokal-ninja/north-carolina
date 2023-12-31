@@ -1,6 +1,6 @@
 ---
 title: Chimney Rock
 url: /chimney-rock/
-latitude: 35.439
-longitude: -82.248
+latitude: 35.44
+longitude: -82.249
 ---
