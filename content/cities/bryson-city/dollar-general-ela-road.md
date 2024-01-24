@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /mint-hill/dollar-general-lawyers-road/
+url: /bryson-city/dollar-general-ela-road/
 shop: variety store
 ---
