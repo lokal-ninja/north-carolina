@@ -7,5 +7,5 @@ city: Greensboro
 street: "Pleasant Garden Road"
 housenumber: 4165
 phone: "+13367637860"
-opening_hours: "Mon,Tues,Thurs,Fri,Sat | 09:00-17:00"
+opening_hours: "Mo,Tu,Th-Sa 09:00-17:00"
 website: ""
