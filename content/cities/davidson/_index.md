@@ -1,6 +1,6 @@
 ---
 title: Davidson
 url: /davidson/
-latitude: 35.49
-longitude: -80.765
+latitude: 35.501
+longitude: -80.86
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cary
 url: /cary/
-latitude: 35.737
-longitude: -78.783
+latitude: 35.736
+longitude: -78.781
 ---
