@@ -1,6 +1,6 @@
 ---
 title: Bessemer City
 url: /bessemer-city/
-latitude: 35.284
-longitude: -81.288
+latitude: 35.287
+longitude: -81.266
 ---
