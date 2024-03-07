@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /durham/circle-k-nc-highway-55/
+url: /durham/circle-k-west-highway-54/
 shop: convenience
 ---
