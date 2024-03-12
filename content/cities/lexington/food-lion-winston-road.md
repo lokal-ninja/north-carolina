@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
-url: /lexington/food-lion-old-us-hwy-52/
+url: /lexington/food-lion-winston-road/
 shop: supermarket
 ---

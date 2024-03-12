@@ -1,6 +1,6 @@
 ---
 title: Sneads Ferry
 url: /sneads-ferry/
-latitude: 34.548
-longitude: -77.436
+latitude: 34.551
+longitude: -77.435
 ---
