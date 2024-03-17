@@ -1,6 +1,6 @@
 ---
 title: Columbia
 url: /columbia/
-latitude: 35.919
-longitude: -76.239
+latitude: 35.92
+longitude: -76.241
 ---
