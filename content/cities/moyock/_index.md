@@ -1,6 +1,6 @@
 ---
 title: Moyock
 url: /moyock/
-latitude: 36.516
-longitude: -76.169
+latitude: 36.504
+longitude: -76.151
 ---
