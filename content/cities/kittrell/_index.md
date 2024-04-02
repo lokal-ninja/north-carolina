@@ -2,5 +2,5 @@
 title: Kittrell
 url: /kittrell/
 latitude: 36.22
-longitude: -78.441
+longitude: -78.397
 ---
