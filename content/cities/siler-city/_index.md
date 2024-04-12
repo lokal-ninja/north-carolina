@@ -1,6 +1,6 @@
 ---
 title: Siler City
 url: /siler-city/
-latitude: 35.735
-longitude: -79.439
+latitude: 35.721
+longitude: -79.469
 ---
