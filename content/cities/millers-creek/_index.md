@@ -1,6 +1,6 @@
 ---
 title: Millers Creek
 url: /millers-creek/
-latitude: 36.185
-longitude: -81.24
+latitude: 36.227
+longitude: -81.255
 ---
