@@ -1,6 +1,6 @@
 ---
 title: Greenville
 url: /greenville/
-latitude: 35.581
-longitude: -77.383
+latitude: 35.603
+longitude: -77.473
 ---
