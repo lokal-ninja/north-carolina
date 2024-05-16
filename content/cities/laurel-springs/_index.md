@@ -1,6 +1,6 @@
 ---
 title: Laurel Springs
 url: /laurel-springs/
-latitude: 36.475
-longitude: -81.322
+latitude: 36.427
+longitude: -81.24
 ---
