@@ -1,6 +1,6 @@
 ---
 title: Norlina
 url: /norlina/
-latitude: 36.487
-longitude: -78.171
+latitude: 36.446
+longitude: -78.194
 ---
