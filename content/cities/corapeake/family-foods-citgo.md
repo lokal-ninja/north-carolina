@@ -1,5 +1,5 @@
 ---
-title: "FAMILY FOODS CITGO"
+title: "Family Foods Citgo"
 url: /corapeake/family-foods-citgo/
 shop: convenience
 ---
