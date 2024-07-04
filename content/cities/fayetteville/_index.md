@@ -1,6 +1,6 @@
 ---
 title: Fayetteville
 url: /fayetteville/
-latitude: 35.068
-longitude: -78.968
+latitude: 35.066
+longitude: -78.964
 ---

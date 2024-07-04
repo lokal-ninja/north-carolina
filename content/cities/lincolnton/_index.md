@@ -1,6 +1,6 @@
 ---
 title: Lincolnton
 url: /lincolnton/
-latitude: 35.476
-longitude: -81.244
+latitude: 35.488
+longitude: -81.246
 ---

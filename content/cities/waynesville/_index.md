@@ -1,6 +1,6 @@
 ---
 title: Waynesville
 url: /waynesville/
-latitude: 35.467
-longitude: -83.01
+latitude: 35.52
+longitude: -82.958
 ---

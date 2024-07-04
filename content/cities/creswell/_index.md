@@ -1,6 +1,6 @@
 ---
 title: Creswell
 url: /creswell/
-latitude: 35.872
-longitude: -76.396
+latitude: 35.873
+longitude: -76.39
 ---
