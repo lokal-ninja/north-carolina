@@ -1,6 +1,6 @@
 ---
 title: Spindale
 url: /spindale/
-latitude: 35.342
-longitude: -81.906
+latitude: 35.343
+longitude: -81.912
 ---
