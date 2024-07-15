@@ -1,6 +1,6 @@
 ---
 title: Roanoke Rapids
 url: /roanoke-rapids/
-latitude: 36.442
-longitude: -77.638
+latitude: 36.426
+longitude: -77.633
 ---

@@ -1,6 +1,6 @@
 ---
 title: Warrensville
 url: /warrensville/
-latitude: 36.436
-longitude: -81.515
+latitude: 36.46
+longitude: -81.516
 ---
