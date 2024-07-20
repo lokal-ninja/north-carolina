@@ -1,6 +1,6 @@
 ---
 title: Zionville
 url: /zionville/
-latitude: 36.285
-longitude: -81.747
+latitude: 36.322
+longitude: -81.74
 ---
