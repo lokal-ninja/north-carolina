@@ -1,6 +1,6 @@
 ---
 title: Youngsville
 url: /youngsville/
-latitude: 36.025
-longitude: -78.48
+latitude: 36.026
+longitude: -78.508
 ---

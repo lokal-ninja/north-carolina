@@ -1,6 +1,6 @@
 ---
 title: Northwest
 url: /northwest/
-latitude: 34.285
+latitude: 34.287
 longitude: -78.139
 ---
