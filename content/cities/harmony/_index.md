@@ -1,6 +1,6 @@
 ---
 title: Harmony
 url: /harmony/
-latitude: 35.96
-longitude: -80.777
+latitude: 35.93
+longitude: -80.78
 ---
