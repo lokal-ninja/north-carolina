@@ -1,6 +1,6 @@
 ---
 title: Wilkesboro
 url: /wilkesboro/
-latitude: 36.148
-longitude: -81.194
+latitude: 36.149
+longitude: -81.191
 ---
