@@ -1,6 +1,6 @@
 ---
 title: Holly Springs
 url: /holly-springs/
-latitude: 35.637
-longitude: -78.835
+latitude: 35.663
+longitude: -78.849
 ---

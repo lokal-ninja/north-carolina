@@ -1,6 +1,6 @@
 ---
 title: Grantsboro
 url: /grantsboro/
-latitude: 35.145
-longitude: -76.836
+latitude: 35.142
+longitude: -76.83
 ---

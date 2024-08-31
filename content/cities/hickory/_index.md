@@ -1,6 +1,6 @@
 ---
 title: Hickory
 url: /hickory/
-latitude: 35.7
-longitude: -81.307
+latitude: 35.772
+longitude: -81.327
 ---
