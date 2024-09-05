@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /sanford/food-lion-jefferson-davis-highway/
-shop: supermarket
+shop: Supermarkt
 ---

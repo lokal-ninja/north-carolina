@@ -1,5 +1,5 @@
 ---
 title: "Hilltop"
 url: /reynolda-rd/hilltop/
-shop: convenience
+shop: Lebensmittel
 ---

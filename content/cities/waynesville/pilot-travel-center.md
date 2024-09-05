@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /waynesville/pilot-travel-center/
-shop: general
+shop: Dorfladen
 ---

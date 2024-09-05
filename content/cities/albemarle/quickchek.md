@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /albemarle/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

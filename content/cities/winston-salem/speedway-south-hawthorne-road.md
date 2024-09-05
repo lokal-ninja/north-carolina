@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /winston-salem/speedway-south-hawthorne-road/
-shop: convenience
+shop: Lebensmittel
 ---

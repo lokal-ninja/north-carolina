@@ -1,5 +1,5 @@
 ---
 title: "Southern States"
 url: /mebane/southern-states/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

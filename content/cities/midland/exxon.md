@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /midland/exxon/
-shop: convenience
+shop: Lebensmittel
 ---

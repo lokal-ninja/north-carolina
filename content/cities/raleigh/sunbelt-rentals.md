@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /raleigh/sunbelt-rentals/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "End of Main"
 url: /sylva/end-of-main/
-shop: shop
+shop: Allgemein
 ---

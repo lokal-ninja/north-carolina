@@ -1,5 +1,5 @@
 ---
 title: "RubiTrux"
 url: /boone/rubitrux/
-shop: car parts
+shop: Autoteile
 ---

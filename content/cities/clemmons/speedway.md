@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clemmons/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

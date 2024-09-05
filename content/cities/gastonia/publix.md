@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /gastonia/publix/
-shop: supermarket
+shop: Supermarkt
 ---

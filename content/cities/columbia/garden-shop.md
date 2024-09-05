@@ -1,5 +1,5 @@
 ---
 title: "Garden Shop"
 url: /columbia/garden-shop/
-shop: garden centre
+shop: Garten-Center
 ---

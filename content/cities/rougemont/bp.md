@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /rougemont/bp/
-shop: convenience
+shop: Lebensmittel
 ---

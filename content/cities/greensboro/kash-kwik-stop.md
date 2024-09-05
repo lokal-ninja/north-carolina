@@ -1,5 +1,5 @@
 ---
 title: "KASH KWIK STOP"
 url: /greensboro/kash-kwik-stop/
-shop: convenience
+shop: Lebensmittel
 ---

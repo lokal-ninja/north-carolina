@@ -1,5 +1,5 @@
 ---
 title: "ABC Spirits"
 url: /charlotte/abc-spirits-albemarle-road/
-shop: alcohol
+shop: Spirituosen
 ---

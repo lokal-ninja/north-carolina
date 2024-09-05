@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /charlotte/mattress-firm-rivergate-parkway/
-shop: bed
+shop: Betten
 ---

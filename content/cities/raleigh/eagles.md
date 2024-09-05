@@ -1,5 +1,5 @@
 ---
 title: "Eagles"
 url: /raleigh/eagles/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /whiteville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

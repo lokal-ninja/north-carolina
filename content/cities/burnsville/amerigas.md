@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /burnsville/amerigas/
-shop: gas
+shop: Gasflaschen
 ---

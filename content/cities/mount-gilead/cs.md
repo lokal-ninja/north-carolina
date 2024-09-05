@@ -1,5 +1,5 @@
 ---
 title: "C's"
 url: /mount-gilead/cs/
-shop: convenience
+shop: Lebensmittel
 ---

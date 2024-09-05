@@ -1,5 +1,5 @@
 ---
 title: "Cruz Thru"
 url: /spruce-pine/cruz-thru/
-shop: convenience
+shop: Lebensmittel
 ---

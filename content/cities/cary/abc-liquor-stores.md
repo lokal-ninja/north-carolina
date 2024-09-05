@@ -1,5 +1,5 @@
 ---
 title: "ABC Liquor Stores"
 url: /cary/abc-liquor-stores/
-shop: alcohol
+shop: Spirituosen
 ---

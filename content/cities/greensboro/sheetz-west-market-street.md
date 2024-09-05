@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /greensboro/sheetz-west-market-street/
-shop: convenience
+shop: Lebensmittel
 ---

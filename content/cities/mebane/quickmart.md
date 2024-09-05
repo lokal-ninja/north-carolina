@@ -1,5 +1,5 @@
 ---
 title: "Quickmart"
 url: /mebane/quickmart/
-shop: convenience
+shop: Lebensmittel
 ---

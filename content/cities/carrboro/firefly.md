@@ -1,5 +1,5 @@
 ---
 title: "Firefly"
 url: /carrboro/firefly/
-shop: jewelry
+shop: Schmuck
 ---

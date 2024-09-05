@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ayden/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

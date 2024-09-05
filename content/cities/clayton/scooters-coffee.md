@@ -1,5 +1,5 @@
 ---
 title: "Scooters Coffee"
 url: /clayton/scooters-coffee/
-shop: coffee
+shop: Kaffee
 ---

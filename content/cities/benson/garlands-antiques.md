@@ -1,5 +1,5 @@
 ---
 title: "Garlands antiques"
 url: /benson/garlands-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

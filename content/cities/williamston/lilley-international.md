@@ -1,5 +1,5 @@
 ---
 title: "Lilley International"
 url: /williamston/lilley-international/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VaVaVooom"
 url: /asheville/vavavooom/
-shop: erotic
+shop: Erotik
 ---

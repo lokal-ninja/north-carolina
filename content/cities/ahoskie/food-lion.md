@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /ahoskie/food-lion/
-shop: supermarket
+shop: Supermarkt
 ---

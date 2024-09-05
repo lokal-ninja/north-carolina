@@ -1,5 +1,5 @@
 ---
 title: "Nails"
 url: /durham/nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /winston-salem/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

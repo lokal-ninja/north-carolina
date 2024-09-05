@@ -1,5 +1,5 @@
 ---
 title: "Carsprice"
 url: /thomasville/carsprice/
-shop: car
+shop: Autohaus
 ---

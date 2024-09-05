@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /wilson/shell-select/
-shop: convenience
+shop: Lebensmittel
 ---

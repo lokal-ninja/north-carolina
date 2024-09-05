@@ -1,5 +1,5 @@
 ---
 title: "Patina"
 url: /durham/patina/
-shop: furniture
+shop: Möbel
 ---

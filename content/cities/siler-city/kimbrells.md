@@ -1,5 +1,5 @@
 ---
 title: "Kimbrell's"
 url: /siler-city/kimbrells/
-shop: furniture
+shop: Möbel
 ---

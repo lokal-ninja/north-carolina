@@ -1,5 +1,5 @@
 ---
 title: "Penland Supply Store"
 url: /bakersville/penland-supply-store/
-shop: art
+shop: Kunst
 ---

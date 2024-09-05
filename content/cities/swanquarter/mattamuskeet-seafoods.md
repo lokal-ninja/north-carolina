@@ -1,5 +1,5 @@
 ---
 title: "Mattamuskeet Seafoods"
 url: /swanquarter/mattamuskeet-seafoods/
-shop: seafood
+shop: Fisch
 ---

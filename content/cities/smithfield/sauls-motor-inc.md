@@ -1,5 +1,5 @@
 ---
 title: "Sauls Motor Inc"
 url: /smithfield/sauls-motor-inc/
-shop: car
+shop: Autohaus
 ---

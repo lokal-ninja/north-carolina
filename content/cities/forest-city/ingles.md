@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /forest-city/ingles/
-shop: supermarket
+shop: Supermarkt
 ---

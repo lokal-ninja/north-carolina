@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /aberdeen/walgreens/
-shop: chemist
+shop: Drogerie
 ---

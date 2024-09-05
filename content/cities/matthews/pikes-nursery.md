@@ -1,5 +1,5 @@
 ---
 title: "Pike's Nursery"
 url: /matthews/pikes-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

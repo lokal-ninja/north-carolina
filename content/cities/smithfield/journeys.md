@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /smithfield/journeys/
-shop: shoes
+shop: Schuhe
 ---

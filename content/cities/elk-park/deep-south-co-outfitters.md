@@ -1,5 +1,5 @@
 ---
 title: "Deep South Co Outfitters"
 url: /elk-park/deep-south-co-outfitters/
-shop: fishing
+shop: Angeln
 ---

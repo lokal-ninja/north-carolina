@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /winston-salem/lowes-lumber-lane/
-shop: doityourself
+shop: Baumarkt
 ---

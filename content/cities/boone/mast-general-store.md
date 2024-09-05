@@ -1,5 +1,5 @@
 ---
 title: "Mast General Store"
 url: /boone/mast-general-store/
-shop: outdoor
+shop: Outdoor
 ---

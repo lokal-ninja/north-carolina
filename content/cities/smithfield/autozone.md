@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /smithfield/autozone/
-shop: car parts
+shop: Autoteile
 ---

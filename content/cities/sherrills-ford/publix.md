@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /sherrills-ford/publix/
-shop: supermarket
+shop: Supermarkt
 ---

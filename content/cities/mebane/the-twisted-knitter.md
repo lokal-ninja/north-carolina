@@ -1,5 +1,5 @@
 ---
 title: "The Twisted Knitter"
 url: /mebane/the-twisted-knitter/
-shop: craft
+shop: Basteln
 ---

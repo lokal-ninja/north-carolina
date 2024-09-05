@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /farmville/roses/
-shop: variety store
+shop: Kramladen
 ---

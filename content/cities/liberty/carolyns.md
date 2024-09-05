@@ -1,5 +1,5 @@
 ---
 title: "Carolyn's"
 url: /liberty/carolyns/
-shop: clothes
+shop: Kleidung
 ---

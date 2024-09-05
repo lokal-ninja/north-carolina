@@ -1,5 +1,5 @@
 ---
 title: "Hypermind"
 url: /burlington/hypermind/
-shop: shop
+shop: Allgemein
 ---

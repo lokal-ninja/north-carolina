@@ -1,5 +1,5 @@
 ---
 title: "Northwest Trading Post"
 url: /glendale-springs/northwest-trading-post/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parker Gas Co Inc"
 url: /smithfield/parker-gas-co-inc/
-shop: gas
+shop: Gasflaschen
 ---

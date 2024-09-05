@@ -1,5 +1,5 @@
 ---
 title: "Maggie Duke Antiques"
 url: /columbia/maggie-duke-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

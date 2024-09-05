@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /gastonia/walgreens/
-shop: chemist
+shop: Drogerie
 ---

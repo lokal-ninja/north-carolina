@@ -1,5 +1,5 @@
 ---
 title: "Leith Honda"
 url: /raleigh/leith-honda/
-shop: car
+shop: Autohaus
 ---

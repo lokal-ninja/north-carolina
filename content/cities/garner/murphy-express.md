@@ -1,5 +1,5 @@
 ---
 title: "Murphy Express"
 url: /garner/murphy-express/
-shop: convenience
+shop: Lebensmittel
 ---

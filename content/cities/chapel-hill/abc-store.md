@@ -1,5 +1,5 @@
 ---
 title: "ABC Store"
 url: /chapel-hill/abc-store/
-shop: alcohol
+shop: Spirituosen
 ---

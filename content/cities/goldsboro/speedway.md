@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /goldsboro/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Friendly Pets"
 url: /greensboro/friendly-pets/
-shop: pet
+shop: Tiere
 ---

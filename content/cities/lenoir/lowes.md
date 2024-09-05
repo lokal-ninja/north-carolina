@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /lenoir/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

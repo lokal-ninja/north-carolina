@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /dunn/iga/
-shop: supermarket
+shop: Supermarkt
 ---

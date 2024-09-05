@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /concord/publix/
-shop: supermarket
+shop: Supermarkt
 ---

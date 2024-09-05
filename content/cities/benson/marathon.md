@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /benson/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

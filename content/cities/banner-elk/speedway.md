@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /banner-elk/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

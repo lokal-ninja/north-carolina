@@ -1,5 +1,5 @@
 ---
 title: "Burney's Bakery"
 url: /southport/burneys-bakery/
-shop: bakery
+shop: Bäckerei
 ---

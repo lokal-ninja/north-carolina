@@ -1,5 +1,5 @@
 ---
 title: "McNeely Pest Control"
 url: /morganton/mcneely-pest-control/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /durham/amoco/
-shop: convenience
+shop: Lebensmittel
 ---

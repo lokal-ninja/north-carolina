@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /raleigh/homegoods-brier-creek-parkway/
-shop: houseware
+shop: Haushaltsartikel
 ---

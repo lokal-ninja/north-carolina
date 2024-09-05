@@ -1,5 +1,5 @@
 ---
 title: "Mother"
 url: /asheville/mother/
-shop: bakery
+shop: Bäckerei
 ---

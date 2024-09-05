@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /mount-olive/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

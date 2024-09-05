@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /smithfield/ferrellgas/
-shop: gas
+shop: Gasflaschen
 ---

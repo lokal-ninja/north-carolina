@@ -1,5 +1,5 @@
 ---
 title: "Norm's Minit Mart"
 url: /hendersonville/norms-minit-mart/
-shop: convenience
+shop: Lebensmittel
 ---

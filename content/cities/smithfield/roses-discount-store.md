@@ -1,5 +1,5 @@
 ---
 title: "Roses Discount Store"
 url: /smithfield/roses-discount-store/
-shop: clothes
+shop: Kleidung
 ---

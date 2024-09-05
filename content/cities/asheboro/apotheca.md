@@ -1,5 +1,5 @@
 ---
 title: "Apotheca"
 url: /asheboro/apotheca/
-shop: cannabis
+shop: Hanf
 ---

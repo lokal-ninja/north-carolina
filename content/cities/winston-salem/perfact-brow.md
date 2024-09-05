@@ -1,5 +1,5 @@
 ---
 title: "Perfact Brow"
 url: /winston-salem/perfact-brow/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sugar Buzz Bakery"
 url: /cary/sugar-buzz-bakery/
-shop: bakery
+shop: Bäckerei
 ---

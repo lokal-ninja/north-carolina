@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /vanceboro/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

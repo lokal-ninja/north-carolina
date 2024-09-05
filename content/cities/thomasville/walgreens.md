@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /thomasville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /knightdale/autozone/
-shop: car parts
+shop: Autoteile
 ---

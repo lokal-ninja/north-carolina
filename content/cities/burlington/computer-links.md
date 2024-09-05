@@ -1,5 +1,5 @@
 ---
 title: "Computer Links"
 url: /burlington/computer-links/
-shop: computer
+shop: Computer
 ---

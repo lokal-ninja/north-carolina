@@ -1,5 +1,5 @@
 ---
 title: "Carhartt"
 url: /boone/carhartt/
-shop: clothes
+shop: Kleidung
 ---

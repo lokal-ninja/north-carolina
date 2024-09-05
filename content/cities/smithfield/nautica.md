@@ -1,5 +1,5 @@
 ---
 title: "Nautica"
 url: /smithfield/nautica/
-shop: clothes
+shop: Kleidung
 ---

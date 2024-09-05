@@ -1,5 +1,5 @@
 ---
 title: "Cloth Barn"
 url: /goldsboro/cloth-barn/
-shop: clothes
+shop: Kleidung
 ---

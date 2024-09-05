@@ -1,5 +1,5 @@
 ---
 title: "Eagles"
 url: /morrisville/eagles/
-shop: convenience
+shop: Lebensmittel
 ---

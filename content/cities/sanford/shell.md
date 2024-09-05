@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /sanford/shell/
-shop: convenience
+shop: Lebensmittel
 ---

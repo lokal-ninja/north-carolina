@@ -1,5 +1,5 @@
 ---
 title: "Flash Market"
 url: /creedmoor/flash-market/
-shop: convenience
+shop: Lebensmittel
 ---

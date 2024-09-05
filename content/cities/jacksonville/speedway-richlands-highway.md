@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /jacksonville/speedway-richlands-highway/
-shop: convenience
+shop: Lebensmittel
 ---

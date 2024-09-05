@@ -1,5 +1,5 @@
 ---
 title: "Timmerman"
 url: /conover/timmerman/
-shop: furniture
+shop: Möbel
 ---

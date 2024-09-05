@@ -1,5 +1,5 @@
 ---
 title: "Pequeno Mexico Lindo Inc"
 url: /ayden/pequeno-mexico-lindo-inc/
-shop: bakery
+shop: Bäckerei
 ---

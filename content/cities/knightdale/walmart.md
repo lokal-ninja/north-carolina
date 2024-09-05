@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /knightdale/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

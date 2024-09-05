@@ -1,5 +1,5 @@
 ---
 title: "Carolina Auto Body Repair Inc"
 url: /raleigh/carolina-auto-body-repair-inc/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /havelock/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

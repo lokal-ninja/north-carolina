@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /charlotte/walgreens-pineville-matthews-road/
-shop: chemist
+shop: Drogerie
 ---

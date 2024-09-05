@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /spruce-pine/ingles/
-shop: supermarket
+shop: Supermarkt
 ---

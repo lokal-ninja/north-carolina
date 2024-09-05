@@ -1,5 +1,5 @@
 ---
 title: "Dee’s"
 url: /goldsboro/dees/
-shop: general
+shop: Dorfladen
 ---

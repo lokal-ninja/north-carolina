@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /greensboro/total-wine/
-shop: alcohol
+shop: Spirituosen
 ---

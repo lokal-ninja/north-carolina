@@ -1,5 +1,5 @@
 ---
 title: "Nail West"
 url: /fuquay-varina/nail-west/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /concord/justice/
-shop: clothes
+shop: Kleidung
 ---

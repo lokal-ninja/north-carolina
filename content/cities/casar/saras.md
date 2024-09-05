@@ -1,5 +1,5 @@
 ---
 title: "Sara's"
 url: /casar/saras/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carolina Cotton Company"
 url: /kings-mountain/carolina-cotton-company/
-shop: fabric
+shop: Textil
 ---

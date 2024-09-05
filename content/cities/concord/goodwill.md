@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /concord/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

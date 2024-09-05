@@ -1,5 +1,5 @@
 ---
 title: "Cruizers"
 url: /raleigh/cruizers/
-shop: convenience
+shop: Lebensmittel
 ---

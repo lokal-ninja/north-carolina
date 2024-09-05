@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /raleigh/abc/
-shop: alcohol
+shop: Spirituosen
 ---

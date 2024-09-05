@@ -1,5 +1,5 @@
 ---
 title: "Rose Nails"
 url: /washington/rose-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House of Soigne"
 url: /salisbury/house-of-soigne/
-shop: clothes
+shop: Kleidung
 ---

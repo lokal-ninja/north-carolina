@@ -1,5 +1,5 @@
 ---
 title: "Drybar"
 url: /raleigh/drybar/
-shop: hairdresser
+shop: Friseur
 ---

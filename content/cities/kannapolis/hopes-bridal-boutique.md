@@ -1,5 +1,5 @@
 ---
 title: "Hope's Bridal Boutique"
 url: /kannapolis/hopes-bridal-boutique/
-shop: clothes
+shop: Kleidung
 ---

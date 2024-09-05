@@ -1,5 +1,5 @@
 ---
 title: "Loehmann's Plaza"
 url: /durham/loehmanns-plaza-hillandale-road/
-shop: mall
+shop: Einkaufszentrum
 ---

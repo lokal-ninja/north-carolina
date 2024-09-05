@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /apex/costco/
-shop: wholesale
+shop: Großhandel
 ---

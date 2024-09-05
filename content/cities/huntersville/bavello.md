@@ -1,5 +1,5 @@
 ---
 title: "Bavello"
 url: /huntersville/bavello/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /walnut-cove/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

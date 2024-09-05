@@ -1,5 +1,5 @@
 ---
 title: "Han-Dee Hugo"
 url: /garner/han-dee-hugo/
-shop: convenience
+shop: Lebensmittel
 ---

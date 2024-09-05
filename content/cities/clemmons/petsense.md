@@ -1,5 +1,5 @@
 ---
 title: "Petsense"
 url: /clemmons/petsense/
-shop: pet
+shop: Tiere
 ---

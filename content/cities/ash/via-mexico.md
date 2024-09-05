@@ -1,5 +1,5 @@
 ---
 title: "Via Mexico"
 url: /ash/via-mexico/
-shop: supermarket
+shop: Supermarkt
 ---

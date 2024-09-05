@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /charlotte/anthropologie/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park Store"
 url: /buxton/park-store/
-shop: gift
+shop: Andenken
 ---

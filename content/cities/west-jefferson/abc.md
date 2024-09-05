@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /west-jefferson/abc/
-shop: alcohol
+shop: Spirituosen
 ---

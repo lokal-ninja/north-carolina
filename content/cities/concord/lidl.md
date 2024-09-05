@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /concord/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

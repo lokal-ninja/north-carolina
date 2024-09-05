@@ -1,5 +1,5 @@
 ---
 title: "Sam's Mart"
 url: /matthews/sams-mart/
-shop: convenience
+shop: Lebensmittel
 ---

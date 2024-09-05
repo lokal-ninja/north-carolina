@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /southern-pines/spectrum/
-shop: mobile phone
+shop: Handy
 ---

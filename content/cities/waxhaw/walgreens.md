@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /waxhaw/walgreens/
-shop: chemist
+shop: Drogerie
 ---

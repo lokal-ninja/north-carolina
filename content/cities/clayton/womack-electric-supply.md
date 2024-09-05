@@ -1,5 +1,5 @@
 ---
 title: "Womack Electric Supply"
 url: /clayton/womack-electric-supply/
-shop: electrical
+shop: Elektrisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Appliance Mart"
 url: /charlotte/plaza-appliance-mart/
-shop: appliance
+shop: Haushaltsgeräte
 ---

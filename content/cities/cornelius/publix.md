@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /cornelius/publix/
-shop: supermarket
+shop: Supermarkt
 ---

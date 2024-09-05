@@ -1,5 +1,5 @@
 ---
 title: "Goshen Supply Co"
 url: /beulaville/goshen-supply-co/
-shop: weapons
+shop: Waffen
 ---

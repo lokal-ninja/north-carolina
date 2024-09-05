@@ -1,5 +1,5 @@
 ---
 title: "Massage At Tiffany's"
 url: /fontana-dam/massage-at-tiffanys/
-shop: massage
+shop: Massage
 ---

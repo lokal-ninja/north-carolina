@@ -1,5 +1,5 @@
 ---
 title: "Yaya Mini Mart"
 url: /currie/yaya-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

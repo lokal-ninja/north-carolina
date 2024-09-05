@@ -1,5 +1,5 @@
 ---
 title: "Vera Bradley"
 url: /charlotte/vera-bradley/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /enfield/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

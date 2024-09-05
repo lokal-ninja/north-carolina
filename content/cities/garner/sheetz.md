@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /garner/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

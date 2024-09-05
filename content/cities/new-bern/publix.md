@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /new-bern/publix/
-shop: supermarket
+shop: Supermarkt
 ---

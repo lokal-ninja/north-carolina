@@ -1,5 +1,5 @@
 ---
 title: "Joy Laundromat"
 url: /greensboro/joy-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gastonia/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

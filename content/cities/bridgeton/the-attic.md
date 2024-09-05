@@ -1,5 +1,5 @@
 ---
 title: "The Attic"
 url: /bridgeton/the-attic/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /swansboro/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

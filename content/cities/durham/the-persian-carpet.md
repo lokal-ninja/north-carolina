@@ -1,5 +1,5 @@
 ---
 title: "The Persian Carpet"
 url: /durham/the-persian-carpet/
-shop: carpet
+shop: Teppiche
 ---

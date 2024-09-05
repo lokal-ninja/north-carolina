@@ -1,5 +1,5 @@
 ---
 title: "Reds Discount Tools"
 url: /jacksonville/reds-discount-tools/
-shop: hardware
+shop: Eisenwaren
 ---

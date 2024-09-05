@@ -1,5 +1,5 @@
 ---
 title: "Tims DISCOUNT FOODS"
 url: /lenoir/tims-discount-foods/
-shop: convenience
+shop: Lebensmittel
 ---

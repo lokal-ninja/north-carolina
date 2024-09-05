@@ -1,5 +1,5 @@
 ---
 title: "Wynn Odom Ford"
 url: /la-grange/wynn-odom-ford/
-shop: car
+shop: Autohaus
 ---

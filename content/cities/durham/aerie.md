@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /durham/aerie/
-shop: clothes
+shop: Kleidung
 ---

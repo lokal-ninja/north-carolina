@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /asheboro/bp/
-shop: convenience
+shop: Lebensmittel
 ---

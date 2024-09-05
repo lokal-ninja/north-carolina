@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /angier/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gordon's Furniture"
 url: /thomasville/gordons-furniture/
-shop: furniture
+shop: Möbel
 ---

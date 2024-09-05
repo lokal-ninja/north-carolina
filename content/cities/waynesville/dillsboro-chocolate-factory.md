@@ -1,5 +1,5 @@
 ---
 title: "Dillsboro Chocolate Factory"
 url: /waynesville/dillsboro-chocolate-factory/
-shop: chocolate
+shop: Schokolade
 ---

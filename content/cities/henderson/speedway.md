@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /henderson/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allison's Hair Designs"
 url: /troy/allisons-hair-designs/
-shop: hairdresser
+shop: Friseur
 ---

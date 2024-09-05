@@ -1,5 +1,5 @@
 ---
 title: "Creative Choices Thrift Store"
 url: /nags-head/creative-choices-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

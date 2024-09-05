@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /winston-salem/sheetz-fairlawn-drive/
-shop: convenience
+shop: Lebensmittel
 ---

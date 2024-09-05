@@ -1,5 +1,5 @@
 ---
 title: "LoveSac"
 url: /charlotte/lovesac/
-shop: furniture
+shop: Möbel
 ---

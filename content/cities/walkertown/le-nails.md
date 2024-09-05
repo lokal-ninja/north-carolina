@@ -1,5 +1,5 @@
 ---
 title: "Le Nails"
 url: /walkertown/le-nails/
-shop: beauty
+shop: Kosmetik
 ---

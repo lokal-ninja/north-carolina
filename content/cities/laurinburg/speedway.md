@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /laurinburg/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

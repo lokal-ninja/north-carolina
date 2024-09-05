@@ -1,5 +1,5 @@
 ---
 title: "Quick Pantry"
 url: /canton/quick-pantry/
-shop: convenience
+shop: Lebensmittel
 ---

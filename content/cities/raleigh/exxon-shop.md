@@ -1,5 +1,5 @@
 ---
 title: "Exxon Shop"
 url: /raleigh/exxon-shop/
-shop: convenience
+shop: Lebensmittel
 ---

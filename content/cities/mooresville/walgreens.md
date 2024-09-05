@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mooresville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

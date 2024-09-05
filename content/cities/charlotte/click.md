@@ -1,5 +1,5 @@
 ---
 title: "Click"
 url: /charlotte/click/
-shop: gift
+shop: Andenken
 ---

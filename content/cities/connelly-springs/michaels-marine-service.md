@@ -1,5 +1,5 @@
 ---
 title: "Michael's Marine Service"
 url: /connelly-springs/michaels-marine-service/
-shop: boat
+shop: Boot
 ---

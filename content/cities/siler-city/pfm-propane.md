@@ -1,5 +1,5 @@
 ---
 title: "PFM Propane"
 url: /siler-city/pfm-propane/
-shop: gas
+shop: Gasflaschen
 ---

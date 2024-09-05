@@ -1,5 +1,5 @@
 ---
 title: "Glorious Choices"
 url: /charlotte/glorious-choices/
-shop: car
+shop: Autohaus
 ---

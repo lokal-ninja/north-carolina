@@ -1,5 +1,5 @@
 ---
 title: "Richie's Pit Stop"
 url: /kenly/richies-pit-stop/
-shop: convenience
+shop: Lebensmittel
 ---

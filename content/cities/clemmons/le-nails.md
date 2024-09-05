@@ -1,5 +1,5 @@
 ---
 title: "Le Nails"
 url: /clemmons/le-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cruzers"
 url: /durham/cruzers/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eastover Drug"
 url: /eastover/eastover-drug/
-shop: chemist
+shop: Drogerie
 ---

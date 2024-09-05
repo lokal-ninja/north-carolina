@@ -1,5 +1,5 @@
 ---
 title: "One Hour Klean"
 url: /burlington/one-hour-klean/
-shop: laundry
+shop: Wäscherei
 ---

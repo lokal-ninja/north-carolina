@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /warrenton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

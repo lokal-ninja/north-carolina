@@ -1,5 +1,5 @@
 ---
 title: "Duck Thru Food Store"
 url: /ahoskie/duck-thru-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gabe's"
 url: /pineville/gabes/
-shop: clothes
+shop: Kleidung
 ---

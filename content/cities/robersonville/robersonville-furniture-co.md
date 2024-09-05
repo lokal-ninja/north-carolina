@@ -1,5 +1,5 @@
 ---
 title: "Robersonville Furniture Co"
 url: /robersonville/robersonville-furniture-co/
-shop: furniture
+shop: Möbel
 ---

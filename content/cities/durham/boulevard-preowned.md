@@ -1,5 +1,5 @@
 ---
 title: "Boulevard Preowned"
 url: /durham/boulevard-preowned/
-shop: car
+shop: Autohaus
 ---

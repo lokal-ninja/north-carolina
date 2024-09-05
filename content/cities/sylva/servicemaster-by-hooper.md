@@ -1,5 +1,5 @@
 ---
 title: "ServiceMaster By Hooper"
 url: /sylva/servicemaster-by-hooper/
-shop: shop
+shop: Allgemein
 ---

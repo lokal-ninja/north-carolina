@@ -1,5 +1,5 @@
 ---
 title: "Carolina Evergreen"
 url: /lowgap/carolina-evergreen/
-shop: general
+shop: Dorfladen
 ---

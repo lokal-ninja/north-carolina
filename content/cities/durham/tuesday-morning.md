@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /durham/tuesday-morning/
-shop: houseware
+shop: Haushaltsartikel
 ---

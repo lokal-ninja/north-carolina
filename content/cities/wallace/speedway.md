@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wallace/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

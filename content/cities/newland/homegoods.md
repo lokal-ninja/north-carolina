@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /newland/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HopMeUp"
 url: /madison/hopmeup/
-shop: sports
+shop: Sport
 ---

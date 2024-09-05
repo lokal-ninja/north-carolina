@@ -1,5 +1,5 @@
 ---
 title: "Lake Boone Cleaners"
 url: /raleigh/lake-boone-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

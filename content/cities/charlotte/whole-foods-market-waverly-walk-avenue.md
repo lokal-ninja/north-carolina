@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /charlotte/whole-foods-market-waverly-walk-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

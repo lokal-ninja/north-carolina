@@ -1,5 +1,5 @@
 ---
 title: "OBXorganiX"
 url: /avon/obxorganix/
-shop: supermarket
+shop: Supermarkt
 ---

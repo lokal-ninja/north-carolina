@@ -1,5 +1,5 @@
 ---
 title: "Steves Leather"
 url: /burlington/steves-leather/
-shop: leather
+shop: Leder
 ---

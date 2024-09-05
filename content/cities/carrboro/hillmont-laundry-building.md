@@ -1,5 +1,5 @@
 ---
 title: "Hillmont Laundry Building"
 url: /carrboro/hillmont-laundry-building/
-shop: laundry
+shop: Wäscherei
 ---

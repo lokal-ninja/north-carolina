@@ -1,5 +1,5 @@
 ---
 title: "DMart"
 url: /mooresville/dmart/
-shop: convenience
+shop: Lebensmittel
 ---

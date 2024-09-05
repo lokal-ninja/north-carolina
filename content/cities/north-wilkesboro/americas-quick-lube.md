@@ -1,5 +1,5 @@
 ---
 title: "America's Quick Lube"
 url: /north-wilkesboro/americas-quick-lube/
-shop: car repair
+shop: Autowerkstatt
 ---

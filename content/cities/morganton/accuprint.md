@@ -1,5 +1,5 @@
 ---
 title: "AccuPrint"
 url: /morganton/accuprint/
-shop: copyshop
+shop: Kopieren
 ---

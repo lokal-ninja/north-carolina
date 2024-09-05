@@ -1,5 +1,5 @@
 ---
 title: "Harold's Barber Shop"
 url: /chocowinity/harolds-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

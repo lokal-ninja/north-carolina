@@ -1,5 +1,5 @@
 ---
 title: "Mobil Gas"
 url: /durham/mobil-gas/
-shop: convenience
+shop: Lebensmittel
 ---

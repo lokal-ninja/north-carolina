@@ -1,5 +1,5 @@
 ---
 title: "Golden Hex"
 url: /cary/golden-hex/
-shop: supermarket
+shop: Supermarkt
 ---

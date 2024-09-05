@@ -1,5 +1,5 @@
 ---
 title: "AMERICA"
 url: /jackson/america/
-shop: convenience
+shop: Lebensmittel
 ---

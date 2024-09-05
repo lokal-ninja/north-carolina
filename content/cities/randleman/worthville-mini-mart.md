@@ -1,5 +1,5 @@
 ---
 title: "Worthville Mini Mart"
 url: /randleman/worthville-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

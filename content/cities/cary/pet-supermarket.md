@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
 url: /cary/pet-supermarket/
-shop: pet
+shop: Tiere
 ---

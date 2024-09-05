@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /aberdeen/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

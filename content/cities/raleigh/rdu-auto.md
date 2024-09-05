@@ -1,5 +1,5 @@
 ---
 title: "RDU Auto"
 url: /raleigh/rdu-auto/
-shop: car
+shop: Autohaus
 ---

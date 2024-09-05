@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /concord/dsw/
-shop: shoes
+shop: Schuhe
 ---

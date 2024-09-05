@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /biscoe/amerigas/
-shop: gas
+shop: Gasflaschen
 ---

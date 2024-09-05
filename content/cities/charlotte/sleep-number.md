@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /charlotte/sleep-number/
-shop: bed
+shop: Betten
 ---

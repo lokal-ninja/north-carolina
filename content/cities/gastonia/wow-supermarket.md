@@ -1,5 +1,5 @@
 ---
 title: "Wow Supermarket"
 url: /gastonia/wow-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

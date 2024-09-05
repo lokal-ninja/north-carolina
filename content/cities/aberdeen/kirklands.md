@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /aberdeen/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

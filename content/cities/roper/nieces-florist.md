@@ -1,5 +1,5 @@
 ---
 title: "Niece's Florist"
 url: /roper/nieces-florist/
-shop: florist
+shop: Blumen
 ---

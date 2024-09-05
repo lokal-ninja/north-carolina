@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /durham/rei/
-shop: outdoor
+shop: Outdoor
 ---

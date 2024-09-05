@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /wake-forest/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

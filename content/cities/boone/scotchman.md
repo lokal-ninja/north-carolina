@@ -1,5 +1,5 @@
 ---
 title: "Scotchman"
 url: /boone/scotchman/
-shop: convenience
+shop: Lebensmittel
 ---

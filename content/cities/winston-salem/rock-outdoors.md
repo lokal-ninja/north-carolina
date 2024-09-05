@@ -1,5 +1,5 @@
 ---
 title: "Rock Outdoors"
 url: /winston-salem/rock-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

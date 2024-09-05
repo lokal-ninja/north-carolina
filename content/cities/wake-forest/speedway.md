@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wake-forest/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

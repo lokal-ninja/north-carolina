@@ -1,5 +1,5 @@
 ---
 title: "St. John"
 url: /charlotte/st-john/
-shop: clothes
+shop: Kleidung
 ---

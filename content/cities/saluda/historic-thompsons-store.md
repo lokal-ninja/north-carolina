@@ -1,5 +1,5 @@
 ---
 title: "Historic Thompson's Store"
 url: /saluda/historic-thompsons-store/
-shop: convenience
+shop: Lebensmittel
 ---

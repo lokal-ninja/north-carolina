@@ -1,5 +1,5 @@
 ---
 title: "Rover Shop II"
 url: /mount-gilead/rover-shop-ii/
-shop: tyres
+shop: Reifen
 ---

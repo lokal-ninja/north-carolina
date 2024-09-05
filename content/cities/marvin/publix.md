@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /marvin/publix/
-shop: supermarket
+shop: Supermarkt
 ---

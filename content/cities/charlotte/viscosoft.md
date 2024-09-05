@@ -1,5 +1,5 @@
 ---
 title: "Viscosoft"
 url: /charlotte/viscosoft/
-shop: bed
+shop: Betten
 ---

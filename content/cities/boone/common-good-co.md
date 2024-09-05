@@ -1,5 +1,5 @@
 ---
 title: "Common Good Co"
 url: /boone/common-good-co/
-shop: art
+shop: Kunst
 ---

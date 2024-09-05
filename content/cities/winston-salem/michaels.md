@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /winston-salem/michaels/
-shop: craft
+shop: Basteln
 ---

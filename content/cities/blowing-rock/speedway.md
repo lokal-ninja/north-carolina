@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /blowing-rock/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

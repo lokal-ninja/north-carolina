@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /morrisville/zales/
-shop: jewelry
+shop: Schmuck
 ---

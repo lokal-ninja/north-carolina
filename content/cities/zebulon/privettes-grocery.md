@@ -1,5 +1,5 @@
 ---
 title: "Privettes Grocery"
 url: /zebulon/privettes-grocery/
-shop: supermarket
+shop: Supermarkt
 ---

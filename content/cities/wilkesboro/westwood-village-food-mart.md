@@ -1,5 +1,5 @@
 ---
 title: "Westwood Village Food Mart"
 url: /wilkesboro/westwood-village-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

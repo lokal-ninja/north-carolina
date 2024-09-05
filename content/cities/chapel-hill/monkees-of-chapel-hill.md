@@ -1,5 +1,5 @@
 ---
 title: "Monkee's of Chapel Hill"
 url: /chapel-hill/monkees-of-chapel-hill/
-shop: clothes
+shop: Kleidung
 ---

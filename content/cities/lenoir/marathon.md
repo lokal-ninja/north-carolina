@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /lenoir/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

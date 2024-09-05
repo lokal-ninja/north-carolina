@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /huntersville/food-lion-eastfield-road/
-shop: supermarket
+shop: Supermarkt
 ---

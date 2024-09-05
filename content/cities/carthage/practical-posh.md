@@ -1,5 +1,5 @@
 ---
 title: "Practical Posh"
 url: /carthage/practical-posh/
-shop: antiques
+shop: Antiquitäten
 ---

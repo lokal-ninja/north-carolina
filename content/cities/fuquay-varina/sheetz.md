@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /fuquay-varina/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

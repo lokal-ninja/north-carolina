@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /marion/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

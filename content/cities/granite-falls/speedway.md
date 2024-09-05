@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /granite-falls/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

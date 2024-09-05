@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
 url: /mooresville/pet-supermarket/
-shop: pet
+shop: Tiere
 ---

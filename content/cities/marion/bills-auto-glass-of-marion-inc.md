@@ -1,5 +1,5 @@
 ---
 title: "Bill's Auto Glass of Marion, Inc."
 url: /marion/bills-auto-glass-of-marion-inc/
-shop: car repair
+shop: Autowerkstatt
 ---

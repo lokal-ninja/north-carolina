@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /king/walgreens/
-shop: chemist
+shop: Drogerie
 ---

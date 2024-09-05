@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /eden/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

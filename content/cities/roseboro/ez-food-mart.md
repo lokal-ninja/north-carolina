@@ -1,5 +1,5 @@
 ---
 title: "EZ Food Mart"
 url: /roseboro/ez-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

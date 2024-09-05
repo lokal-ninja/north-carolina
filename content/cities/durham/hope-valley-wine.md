@@ -1,5 +1,5 @@
 ---
 title: "Hope Valley Wine"
 url: /durham/hope-valley-wine/
-shop: wine
+shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fast Break"
 url: /snow-hill/fast-break/
-shop: convenience
+shop: Lebensmittel
 ---

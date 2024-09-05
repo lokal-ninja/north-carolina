@@ -1,5 +1,5 @@
 ---
 title: "Eagles"
 url: /pittsboro/eagles/
-shop: convenience
+shop: Lebensmittel
 ---

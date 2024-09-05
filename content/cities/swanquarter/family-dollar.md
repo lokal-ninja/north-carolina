@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /swanquarter/family-dollar/
-shop: variety store
+shop: Kramladen
 ---

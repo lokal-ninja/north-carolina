@@ -1,5 +1,5 @@
 ---
 title: "Choice Food Mart"
 url: /fuquay-varina/choice-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

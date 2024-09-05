@@ -1,5 +1,5 @@
 ---
 title: "Mary Bassell Pastels"
 url: /ocracoke/mary-bassell-pastels/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iTeach Greenville"
 url: /greenville/iteach-greenville/
-shop: office supplies
+shop: Schreibwaren
 ---

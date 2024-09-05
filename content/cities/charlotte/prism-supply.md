@@ -1,5 +1,5 @@
 ---
 title: "Prism Supply"
 url: /charlotte/prism-supply/
-shop: clothes
+shop: Kleidung
 ---

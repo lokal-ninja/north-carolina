@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /dunn/ezpawn/
-shop: pawnbroker
+shop: Leiher
 ---

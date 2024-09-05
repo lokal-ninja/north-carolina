@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /vanceboro/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flyleaf Books"
 url: /chapel-hill/flyleaf-books/
-shop: books
+shop: Bücher
 ---

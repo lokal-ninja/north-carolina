@@ -1,5 +1,5 @@
 ---
 title: "Marathon Short Stop"
 url: /newton-grove/marathon-short-stop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conn's Home Plus"
 url: /raleigh/conns-home-plus/
-shop: appliance
+shop: Haushaltsgeräte
 ---

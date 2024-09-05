@@ -1,5 +1,5 @@
 ---
 title: "Mode"
 url: /raleigh/mode/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /albemarle/ingles/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tobacco"
 url: /carrboro/tobacco/
-shop: tobacco
+shop: Tabak
 ---

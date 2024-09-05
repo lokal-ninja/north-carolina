@@ -1,5 +1,5 @@
 ---
 title: "Collins Inc"
 url: /smithfield/collins-inc/
-shop: boat
+shop: Boot
 ---

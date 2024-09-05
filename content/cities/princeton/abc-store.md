@@ -1,5 +1,5 @@
 ---
 title: "ABC Store"
 url: /princeton/abc-store/
-shop: alcohol
+shop: Spirituosen
 ---

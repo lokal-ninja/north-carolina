@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /pineville/carmax/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dilligaf"
 url: /thomasville/dilligaf/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

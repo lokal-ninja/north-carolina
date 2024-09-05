@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /hickory/publix/
-shop: supermarket
+shop: Supermarkt
 ---

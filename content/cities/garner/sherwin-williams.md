@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /garner/sherwin-williams/
-shop: paint
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NAIL KITCHEN"
 url: /raleigh/nail-kitchen/
-shop: beauty
+shop: Kosmetik
 ---

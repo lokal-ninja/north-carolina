@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /waxhaw/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

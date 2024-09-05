@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /clayton/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glam-O-Rama"
 url: /smithfield/glam-o-rama/
-shop: laundry
+shop: Wäscherei
 ---

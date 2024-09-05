@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /charlotte/foot-locker/
-shop: shoes
+shop: Schuhe
 ---

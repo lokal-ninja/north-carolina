@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wadesboro/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

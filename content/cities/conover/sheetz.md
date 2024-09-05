@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /conover/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

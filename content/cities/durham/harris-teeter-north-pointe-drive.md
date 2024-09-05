@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /durham/harris-teeter-north-pointe-drive/
-shop: supermarket
+shop: Supermarkt
 ---

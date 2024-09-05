@@ -1,5 +1,5 @@
 ---
 title: "Le Fleur Spa"
 url: /charlotte/le-fleur-spa/
-shop: massage
+shop: Massage
 ---

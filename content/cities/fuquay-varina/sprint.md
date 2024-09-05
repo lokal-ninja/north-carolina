@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /fuquay-varina/sprint/
-shop: mobile phone
+shop: Handy
 ---

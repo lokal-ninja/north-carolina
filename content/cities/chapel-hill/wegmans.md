@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /chapel-hill/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

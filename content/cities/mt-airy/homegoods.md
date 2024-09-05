@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mt-airy/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

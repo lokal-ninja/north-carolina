@@ -1,5 +1,5 @@
 ---
 title: "Antioch Food Mart"
 url: /morganton/antioch-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

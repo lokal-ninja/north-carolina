@@ -1,5 +1,5 @@
 ---
 title: "Hayley's Boutique"
 url: /raleigh/hayleys-boutique/
-shop: clothes
+shop: Kleidung
 ---

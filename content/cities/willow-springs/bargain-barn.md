@@ -1,5 +1,5 @@
 ---
 title: "Bargain Barn"
 url: /willow-springs/bargain-barn/
-shop: charity
+shop: Gebrauchtwaren
 ---

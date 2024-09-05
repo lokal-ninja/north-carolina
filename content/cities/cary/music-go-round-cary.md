@@ -1,5 +1,5 @@
 ---
 title: "Music Go Round Cary"
 url: /cary/music-go-round-cary/
-shop: music
+shop: Musik
 ---
