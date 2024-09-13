@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /greenville/walgreens-east-fire-tower-road/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /cameron/shell/
-shop: Lebensmittel
+shop: convenience
 ---

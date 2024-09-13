@@ -1,5 +1,5 @@
 ---
 title: "Southern States"
 url: /creedmoor/southern-states/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

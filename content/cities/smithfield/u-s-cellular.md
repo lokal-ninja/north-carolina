@@ -1,5 +1,5 @@
 ---
 title: "U.S. Cellular"
 url: /smithfield/u-s-cellular/
-shop: Handy
+shop: mobile phone
 ---

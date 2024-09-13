@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /fuquay-varina/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

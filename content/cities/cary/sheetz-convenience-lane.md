@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /cary/sheetz-convenience-lane/
-shop: Lebensmittel
+shop: convenience
 ---

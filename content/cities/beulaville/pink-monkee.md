@@ -1,5 +1,5 @@
 ---
 title: "Pink Monkee"
 url: /beulaville/pink-monkee/
-shop: Andenken
+shop: gift
 ---

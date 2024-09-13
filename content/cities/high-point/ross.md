@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /high-point/ross/
-shop: Warenhaus
+shop: department store
 ---

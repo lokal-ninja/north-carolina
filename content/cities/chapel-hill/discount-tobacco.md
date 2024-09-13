@@ -1,5 +1,5 @@
 ---
 title: "Discount Tobacco"
 url: /chapel-hill/discount-tobacco/
-shop: Tabak
+shop: tobacco
 ---

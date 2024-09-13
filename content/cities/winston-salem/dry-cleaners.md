@@ -1,5 +1,5 @@
 ---
 title: "Dry Cleaners"
 url: /winston-salem/dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

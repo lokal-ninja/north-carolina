@@ -1,5 +1,5 @@
 ---
 title: "Traditional Jewelers"
 url: /raleigh/traditional-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

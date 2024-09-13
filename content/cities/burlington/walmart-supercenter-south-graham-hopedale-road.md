@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /burlington/walmart-supercenter-south-graham-hopedale-road/
-shop: Supermarkt
+shop: supermarket
 ---

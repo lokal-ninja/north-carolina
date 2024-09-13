@@ -1,5 +1,5 @@
 ---
 title: "Timberlake Mart"
 url: /timberlake/timberlake-mart/
-shop: Lebensmittel
+shop: convenience
 ---

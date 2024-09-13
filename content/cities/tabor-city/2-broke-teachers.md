@@ -1,5 +1,5 @@
 ---
 title: "2 Broke Teachers"
 url: /tabor-city/2-broke-teachers/
-shop: Raumausstattung
+shop: interior decoration
 ---

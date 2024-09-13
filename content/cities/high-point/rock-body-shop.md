@@ -1,5 +1,5 @@
 ---
 title: "Rock Body Shop"
 url: /high-point/rock-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

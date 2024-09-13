@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /smithfield/gamestop/
-shop: Videospiele
+shop: video games
 ---

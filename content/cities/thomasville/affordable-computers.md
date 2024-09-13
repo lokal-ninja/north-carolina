@@ -1,5 +1,5 @@
 ---
 title: "Affordable Computers"
 url: /thomasville/affordable-computers/
-shop: Computer
+shop: computer
 ---

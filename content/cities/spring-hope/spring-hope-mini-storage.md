@@ -1,5 +1,5 @@
 ---
 title: "Spring Hope Mini Storage"
 url: /spring-hope/spring-hope-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

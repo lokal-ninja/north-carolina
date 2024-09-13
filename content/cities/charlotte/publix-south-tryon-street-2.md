@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /charlotte/publix-south-tryon-street-2/
-shop: Supermarkt
+shop: supermarket
 ---

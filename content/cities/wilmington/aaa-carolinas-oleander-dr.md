@@ -1,5 +1,5 @@
 ---
 title: "AAA Carolinas"
 url: /wilmington/aaa-carolinas-oleander-dr/
-shop: Autowerkstatt
+shop: car repair
 ---

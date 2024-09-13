@@ -1,5 +1,5 @@
 ---
 title: "McElroy Auto Repair"
 url: /clyde/mcelroy-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

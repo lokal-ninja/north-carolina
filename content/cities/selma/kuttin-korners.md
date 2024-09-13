@@ -1,5 +1,5 @@
 ---
 title: "Kuttin Korners"
 url: /selma/kuttin-korners/
-shop: Friseur
+shop: hairdresser
 ---

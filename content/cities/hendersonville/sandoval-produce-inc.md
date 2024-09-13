@@ -1,5 +1,5 @@
 ---
 title: "Sandoval Produce Inc"
 url: /hendersonville/sandoval-produce-inc/
-shop: Dorfladen
+shop: general
 ---

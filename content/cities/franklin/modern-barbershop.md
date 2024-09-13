@@ -1,5 +1,5 @@
 ---
 title: "Modern Barbershop"
 url: /franklin/modern-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

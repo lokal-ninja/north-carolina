@@ -1,5 +1,5 @@
 ---
 title: "Boss Shop"
 url: /kenly/boss-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

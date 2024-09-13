@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mooresville/petsmart/
-shop: Tiere
+shop: pet
 ---

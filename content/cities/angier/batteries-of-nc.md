@@ -1,5 +1,5 @@
 ---
 title: "Batteries of NC"
 url: /angier/batteries-of-nc/
-shop: Autowerkstatt
+shop: car repair
 ---

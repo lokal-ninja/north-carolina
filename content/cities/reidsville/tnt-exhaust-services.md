@@ -1,5 +1,5 @@
 ---
 title: "TNT Exhaust Services"
 url: /reidsville/tnt-exhaust-services/
-shop: Autoteile
+shop: car parts
 ---

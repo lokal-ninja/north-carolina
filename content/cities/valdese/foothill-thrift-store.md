@@ -1,5 +1,5 @@
 ---
 title: "Foothill Thrift Store"
 url: /valdese/foothill-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

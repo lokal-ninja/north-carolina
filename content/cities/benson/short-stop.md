@@ -1,5 +1,5 @@
 ---
 title: "Short Stop"
 url: /benson/short-stop/
-shop: Lebensmittel
+shop: convenience
 ---

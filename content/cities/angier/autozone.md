@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /angier/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mini-Mart"
 url: /sedalia/mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

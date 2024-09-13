@@ -1,5 +1,5 @@
 ---
 title: "Computer Clinic"
 url: /marion/computer-clinic/
-shop: Computer
+shop: computer
 ---

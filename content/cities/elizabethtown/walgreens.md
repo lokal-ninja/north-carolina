@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /elizabethtown/walgreens/
-shop: Drogerie
+shop: chemist
 ---

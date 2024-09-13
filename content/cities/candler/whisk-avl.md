@@ -1,5 +1,5 @@
 ---
 title: "Whisk Avl"
 url: /candler/whisk-avl/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /tryon/iga/
-shop: Supermarkt
+shop: supermarket
 ---

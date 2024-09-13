@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /asheboro/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

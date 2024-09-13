@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /bessemer-city/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

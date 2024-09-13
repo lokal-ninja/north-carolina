@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /vanceboro/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

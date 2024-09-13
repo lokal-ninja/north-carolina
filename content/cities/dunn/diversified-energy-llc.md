@@ -1,5 +1,5 @@
 ---
 title: "Diversified Energy LLC"
 url: /dunn/diversified-energy-llc/
-shop: Gasflaschen
+shop: gas
 ---

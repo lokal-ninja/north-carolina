@@ -1,5 +1,5 @@
 ---
 title: "Austin Fish Company"
 url: /nags-head/austin-fish-company/
-shop: Fisch
+shop: seafood
 ---

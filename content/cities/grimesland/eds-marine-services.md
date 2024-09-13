@@ -1,5 +1,5 @@
 ---
 title: "Ed's Marine Services"
 url: /grimesland/eds-marine-services/
-shop: Boot
+shop: boat
 ---

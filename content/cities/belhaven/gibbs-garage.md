@@ -1,5 +1,5 @@
 ---
 title: "Gibb's Garage"
 url: /belhaven/gibbs-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

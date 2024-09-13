@@ -1,5 +1,5 @@
 ---
 title: "Highland Station"
 url: /marshall/highland-station/
-shop: Kaffee
+shop: coffee
 ---

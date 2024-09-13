@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kinston/speedway-nc-highway-11-55/
-shop: Lebensmittel
+shop: convenience
 ---

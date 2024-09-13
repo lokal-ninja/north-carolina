@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /raleigh/sport-clips-spring-forest-road/
-shop: Friseur
+shop: hairdresser
 ---

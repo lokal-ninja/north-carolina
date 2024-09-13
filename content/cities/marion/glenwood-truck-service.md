@@ -1,5 +1,5 @@
 ---
 title: "Glenwood Truck Service"
 url: /marion/glenwood-truck-service/
-shop: Autowerkstatt
+shop: car repair
 ---

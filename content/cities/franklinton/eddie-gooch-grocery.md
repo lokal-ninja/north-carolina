@@ -1,5 +1,5 @@
 ---
 title: "Eddie Gooch Grocery"
 url: /franklinton/eddie-gooch-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

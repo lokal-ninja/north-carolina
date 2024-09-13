@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /indian-trail/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

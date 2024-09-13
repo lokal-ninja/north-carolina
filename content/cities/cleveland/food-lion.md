@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /cleveland/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

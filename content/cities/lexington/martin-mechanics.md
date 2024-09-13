@@ -1,5 +1,5 @@
 ---
 title: "Martin Mechanics"
 url: /lexington/martin-mechanics/
-shop: Autowerkstatt
+shop: car repair
 ---

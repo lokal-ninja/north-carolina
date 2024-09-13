@@ -1,5 +1,5 @@
 ---
 title: "Pope's Garage"
 url: /norwood/popes-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /southport/cato/
-shop: Kleidung
+shop: clothes
 ---

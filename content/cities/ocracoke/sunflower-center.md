@@ -1,5 +1,5 @@
 ---
 title: "Sunflower Center"
 url: /ocracoke/sunflower-center/
-shop: Andenken
+shop: gift
 ---

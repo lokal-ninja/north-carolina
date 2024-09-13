@@ -1,5 +1,5 @@
 ---
 title: "Neal's Gas and Convenience"
 url: /pittsboro/neals-gas-and-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

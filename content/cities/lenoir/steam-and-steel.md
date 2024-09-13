@@ -1,5 +1,5 @@
 ---
 title: "Steam and Steel"
 url: /lenoir/steam-and-steel/
-shop: Kleidung
+shop: clothes
 ---

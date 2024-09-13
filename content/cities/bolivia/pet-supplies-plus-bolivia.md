@@ -1,5 +1,5 @@
 ---
 title: "Pet Supplies Plus Bolivia"
 url: /bolivia/pet-supplies-plus-bolivia/
-shop: Tiere
+shop: pet
 ---

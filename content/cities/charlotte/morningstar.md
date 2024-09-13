@@ -1,5 +1,5 @@
 ---
 title: "Morningstar"
 url: /charlotte/morningstar/
-shop: Mieten
+shop: storage rental
 ---

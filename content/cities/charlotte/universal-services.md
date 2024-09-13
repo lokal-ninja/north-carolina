@@ -1,5 +1,5 @@
 ---
 title: "Universal Services"
 url: /charlotte/universal-services/
-shop: Autowerkstatt
+shop: car repair
 ---

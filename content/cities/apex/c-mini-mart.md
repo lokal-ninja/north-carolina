@@ -1,5 +1,5 @@
 ---
 title: "C Mini Mart"
 url: /apex/c-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

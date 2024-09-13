@@ -1,5 +1,5 @@
 ---
 title: "EuroMotion Automotive"
 url: /raleigh/euromotion-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

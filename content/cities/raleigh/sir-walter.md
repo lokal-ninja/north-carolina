@@ -1,5 +1,5 @@
 ---
 title: "Sir Walter"
 url: /raleigh/sir-walter/
-shop: Autohaus
+shop: car
 ---

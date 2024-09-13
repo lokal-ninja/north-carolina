@@ -1,5 +1,5 @@
 ---
 title: "T MART"
 url: /warsaw/t-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /wadesboro/roses/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /garner/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

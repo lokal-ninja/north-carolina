@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /charlotte/circle-k-lawyers-road/
-shop: Lebensmittel
+shop: convenience
 ---

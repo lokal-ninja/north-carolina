@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /bermuda-run/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

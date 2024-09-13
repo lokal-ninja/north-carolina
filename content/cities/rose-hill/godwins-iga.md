@@ -1,5 +1,5 @@
 ---
 title: "Godwin's IGA"
 url: /rose-hill/godwins-iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /gastonia/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sassafras on Sutton"
 url: /black-mountain/sassafras-on-sutton/
-shop: Bücher
+shop: books
 ---

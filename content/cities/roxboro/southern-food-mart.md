@@ -1,5 +1,5 @@
 ---
 title: "Southern Food Mart"
 url: /roxboro/southern-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

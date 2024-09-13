@@ -1,5 +1,5 @@
 ---
 title: "Earth Heart"
 url: /marion/earth-heart/
-shop: Bioladen
+shop: health food
 ---

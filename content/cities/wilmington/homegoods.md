@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /wilmington/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

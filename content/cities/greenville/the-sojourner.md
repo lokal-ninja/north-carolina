@@ -1,5 +1,5 @@
 ---
 title: "The Sojourner"
 url: /greenville/the-sojourner/
-shop: Andenken
+shop: gift
 ---

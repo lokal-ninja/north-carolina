@@ -1,5 +1,5 @@
 ---
 title: "Victoria's Secret"
 url: /charlotte/victorias-secret/
-shop: Kleidung
+shop: clothes
 ---

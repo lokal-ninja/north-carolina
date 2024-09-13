@@ -1,5 +1,5 @@
 ---
 title: "Village Thrift"
 url: /ocracoke/village-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

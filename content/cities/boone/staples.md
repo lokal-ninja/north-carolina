@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /boone/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

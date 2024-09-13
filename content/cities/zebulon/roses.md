@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /zebulon/roses/
-shop: Kramladen
+shop: variety store
 ---

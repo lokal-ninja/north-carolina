@@ -1,5 +1,5 @@
 ---
 title: "Salyer Hearing Center PLLC"
 url: /sylva/salyer-hearing-center-pllc/
-shop: Hörgeräte
+shop: hearing aids
 ---

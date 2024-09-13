@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lillington/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /clemmons/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

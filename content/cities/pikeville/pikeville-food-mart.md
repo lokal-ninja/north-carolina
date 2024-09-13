@@ -1,5 +1,5 @@
 ---
 title: "Pikeville Food Mart"
 url: /pikeville/pikeville-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /winston-salem/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Donnie's Corvette Specialists"
 url: /lucama/donnies-corvette-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

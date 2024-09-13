@@ -1,5 +1,5 @@
 ---
 title: "Buttercup"
 url: /charlotte/buttercup/
-shop: Brautkleider
+shop: wedding gown
 ---

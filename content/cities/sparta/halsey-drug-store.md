@@ -1,5 +1,5 @@
 ---
 title: "Halsey Drug Store"
 url: /sparta/halsey-drug-store/
-shop: Drogerie
+shop: chemist
 ---

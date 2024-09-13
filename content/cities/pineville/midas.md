@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /pineville/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Room"
 url: /west-jefferson/the-laundry-room/
-shop: Wäscherei
+shop: laundry
 ---

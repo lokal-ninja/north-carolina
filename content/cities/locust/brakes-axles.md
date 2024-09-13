@@ -1,5 +1,5 @@
 ---
 title: "Brakes Axles"
 url: /locust/brakes-axles/
-shop: Autowerkstatt
+shop: car repair
 ---

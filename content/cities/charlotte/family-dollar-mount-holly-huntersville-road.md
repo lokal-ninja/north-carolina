@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /charlotte/family-dollar-mount-holly-huntersville-road/
-shop: Kramladen
+shop: variety store
 ---

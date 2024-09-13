@@ -1,5 +1,5 @@
 ---
 title: "DICK'S Sporting Goods"
 url: /goldsboro/dicks-sporting-goods/
-shop: Sport
+shop: sports
 ---

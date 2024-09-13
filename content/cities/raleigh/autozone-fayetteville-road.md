@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /raleigh/autozone-fayetteville-road/
-shop: Autoteile
+shop: car parts
 ---

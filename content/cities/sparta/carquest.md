@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /sparta/carquest/
-shop: Autoteile
+shop: car parts
 ---

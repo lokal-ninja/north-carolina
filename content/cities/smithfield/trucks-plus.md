@@ -1,5 +1,5 @@
 ---
 title: "Trucks Plus"
 url: /smithfield/trucks-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

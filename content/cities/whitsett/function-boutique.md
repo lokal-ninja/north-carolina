@@ -1,5 +1,5 @@
 ---
 title: "Function Boutique"
 url: /whitsett/function-boutique/
-shop: Kleidung
+shop: clothes
 ---

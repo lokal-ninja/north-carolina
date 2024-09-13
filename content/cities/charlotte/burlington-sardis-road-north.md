@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /charlotte/burlington-sardis-road-north/
-shop: Warenhaus
+shop: department store
 ---

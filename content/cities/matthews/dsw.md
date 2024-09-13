@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /matthews/dsw/
-shop: Schuhe
+shop: shoes
 ---

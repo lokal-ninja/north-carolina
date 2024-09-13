@@ -1,5 +1,5 @@
 ---
 title: "Clark Tire"
 url: /morganton/clark-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

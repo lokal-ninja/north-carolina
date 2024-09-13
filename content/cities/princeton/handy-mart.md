@@ -1,5 +1,5 @@
 ---
 title: "Handy Mart"
 url: /princeton/handy-mart/
-shop: Lebensmittel
+shop: convenience
 ---

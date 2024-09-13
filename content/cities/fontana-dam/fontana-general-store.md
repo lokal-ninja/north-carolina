@@ -1,5 +1,5 @@
 ---
 title: "Fontana General Store"
 url: /fontana-dam/fontana-general-store/
-shop: Dorfladen
+shop: general
 ---

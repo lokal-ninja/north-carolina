@@ -1,5 +1,5 @@
 ---
 title: "J A Distributors"
 url: /princeton/j-a-distributors/
-shop: Andenken
+shop: gift
 ---

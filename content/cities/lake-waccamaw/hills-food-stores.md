@@ -1,5 +1,5 @@
 ---
 title: "Hills Food Stores"
 url: /lake-waccamaw/hills-food-stores/
-shop: Supermarkt
+shop: supermarket
 ---

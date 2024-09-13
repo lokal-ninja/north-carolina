@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /wallace/gamestop/
-shop: Videospiele
+shop: video games
 ---

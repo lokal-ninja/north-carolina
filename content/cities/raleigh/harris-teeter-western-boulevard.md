@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /raleigh/harris-teeter-western-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

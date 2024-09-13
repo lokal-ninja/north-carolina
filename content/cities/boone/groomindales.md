@@ -1,5 +1,5 @@
 ---
 title: "Groomindales"
 url: /boone/groomindales/
-shop: Tiersalon
+shop: pet grooming
 ---

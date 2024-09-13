@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /apex/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

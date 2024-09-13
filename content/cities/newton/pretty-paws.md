@@ -1,5 +1,5 @@
 ---
 title: "Pretty Paws"
 url: /newton/pretty-paws/
-shop: Tiersalon
+shop: pet grooming
 ---

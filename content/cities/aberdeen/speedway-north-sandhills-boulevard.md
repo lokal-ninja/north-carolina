@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /aberdeen/speedway-north-sandhills-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

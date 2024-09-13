@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /burgaw/autozone/
-shop: Autoteile
+shop: car parts
 ---

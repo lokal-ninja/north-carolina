@@ -1,5 +1,5 @@
 ---
 title: "DIVINOS BEAUTY SALÓN"
 url: /newton-grove/divinos-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

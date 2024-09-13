@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /greenville/sunbelt-rentals/
-shop: Allgemein
+shop: shop
 ---

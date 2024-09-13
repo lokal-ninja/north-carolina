@@ -1,5 +1,5 @@
 ---
 title: "Knotts Funeral Home"
 url: /chapel-hill/knotts-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

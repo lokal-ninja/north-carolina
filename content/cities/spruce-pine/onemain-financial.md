@@ -1,5 +1,5 @@
 ---
 title: "OneMain Financial"
 url: /spruce-pine/onemain-financial/
-shop: Leiher
+shop: pawnbroker
 ---

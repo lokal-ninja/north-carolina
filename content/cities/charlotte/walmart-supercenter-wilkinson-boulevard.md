@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /charlotte/walmart-supercenter-wilkinson-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /fletcher/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

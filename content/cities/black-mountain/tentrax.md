@@ -1,5 +1,5 @@
 ---
 title: "Tentrax"
 url: /black-mountain/tentrax/
-shop: Outdoor
+shop: outdoor
 ---

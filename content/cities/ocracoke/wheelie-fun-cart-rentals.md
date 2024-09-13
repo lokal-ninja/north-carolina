@@ -1,5 +1,5 @@
 ---
 title: "Wheelie Fun Cart Rentals"
 url: /ocracoke/wheelie-fun-cart-rentals/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bob's Superette"
 url: /lincolnton/bobs-superette/
-shop: Supermarkt
+shop: supermarket
 ---

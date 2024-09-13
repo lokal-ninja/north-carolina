@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /mooresville/old-navy/
-shop: Kleidung
+shop: clothes
 ---

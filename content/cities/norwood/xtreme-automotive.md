@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Automotive"
 url: /norwood/xtreme-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

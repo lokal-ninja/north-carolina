@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /gastonia/dollar-tree-south-york-road/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Ridge Nursery"
 url: /antioch/country-ridge-nursery/
-shop: Großhandel
+shop: wholesale
 ---

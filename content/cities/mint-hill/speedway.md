@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /mint-hill/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

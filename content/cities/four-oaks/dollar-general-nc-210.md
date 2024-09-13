@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /four-oaks/dollar-general-nc-210/
-shop: Kramladen
+shop: variety store
 ---

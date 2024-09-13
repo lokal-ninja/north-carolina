@@ -1,5 +1,5 @@
 ---
 title: "CROSS ROADS"
 url: /beaufort/cross-roads/
-shop: Lebensmittel
+shop: convenience
 ---

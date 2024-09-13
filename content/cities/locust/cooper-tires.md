@@ -1,5 +1,5 @@
 ---
 title: "Cooper Tires"
 url: /locust/cooper-tires/
-shop: Reifen
+shop: tyres
 ---

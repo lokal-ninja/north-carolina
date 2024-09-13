@@ -1,5 +1,5 @@
 ---
 title: "Shuler Meats"
 url: /thomasville/shuler-meats/
-shop: Metzgerei
+shop: butcher
 ---

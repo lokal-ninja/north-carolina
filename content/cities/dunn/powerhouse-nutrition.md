@@ -1,5 +1,5 @@
 ---
 title: "PowerHouse Nutrition"
 url: /dunn/powerhouse-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

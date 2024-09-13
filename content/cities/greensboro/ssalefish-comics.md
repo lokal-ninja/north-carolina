@@ -1,5 +1,5 @@
 ---
 title: "Ssalefish Comics"
 url: /greensboro/ssalefish-comics/
-shop: Sammler
+shop: collector
 ---

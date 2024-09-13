@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /candler/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

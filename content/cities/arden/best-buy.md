@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /arden/best-buy/
-shop: Elektronik
+shop: electronics
 ---

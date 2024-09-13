@@ -1,5 +1,5 @@
 ---
 title: "Roseboro Collision Center"
 url: /roseboro/roseboro-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

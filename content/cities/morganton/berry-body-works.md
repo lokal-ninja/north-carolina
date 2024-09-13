@@ -1,5 +1,5 @@
 ---
 title: "Berry Body Works"
 url: /morganton/berry-body-works/
-shop: Autowerkstatt
+shop: car repair
 ---

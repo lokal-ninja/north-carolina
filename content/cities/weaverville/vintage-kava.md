@@ -1,5 +1,5 @@
 ---
 title: "Vintage Kava"
 url: /weaverville/vintage-kava/
-shop: Tee
+shop: tea
 ---

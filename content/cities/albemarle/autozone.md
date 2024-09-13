@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /albemarle/autozone/
-shop: Autoteile
+shop: car parts
 ---

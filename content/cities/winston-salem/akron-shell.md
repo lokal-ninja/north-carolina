@@ -1,5 +1,5 @@
 ---
 title: "Akron Shell"
 url: /winston-salem/akron-shell/
-shop: Lebensmittel
+shop: convenience
 ---

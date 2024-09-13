@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /smithfield/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

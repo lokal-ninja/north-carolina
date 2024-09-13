@@ -1,5 +1,5 @@
 ---
 title: "Marmi"
 url: /charlotte/marmi/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /greensboro/sheetz-hornaday-road/
-shop: Lebensmittel
+shop: convenience
 ---

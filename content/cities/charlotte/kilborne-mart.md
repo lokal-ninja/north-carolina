@@ -1,5 +1,5 @@
 ---
 title: "Kilborne Mart"
 url: /charlotte/kilborne-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bargain Hunt"
 url: /charlotte/bargain-hunt/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SELMA MINI MARKET"
 url: /selma/selma-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

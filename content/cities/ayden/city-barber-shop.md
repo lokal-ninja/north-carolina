@@ -1,5 +1,5 @@
 ---
 title: "City Barber Shop"
 url: /ayden/city-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

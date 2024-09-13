@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /huntersville/whole-foods-market/
-shop: Supermarkt
+shop: supermarket
 ---

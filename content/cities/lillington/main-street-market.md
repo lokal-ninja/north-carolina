@@ -1,5 +1,5 @@
 ---
 title: "Main Street Market"
 url: /lillington/main-street-market/
-shop: Antiquitäten
+shop: antiques
 ---

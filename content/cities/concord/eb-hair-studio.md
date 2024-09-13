@@ -1,5 +1,5 @@
 ---
 title: "EB Hair Studio"
 url: /concord/eb-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /jacksonville/food-lion-freedom-way/
-shop: Supermarkt
+shop: supermarket
 ---

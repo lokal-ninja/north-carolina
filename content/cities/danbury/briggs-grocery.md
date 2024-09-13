@@ -1,5 +1,5 @@
 ---
 title: "Briggs Grocery"
 url: /danbury/briggs-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

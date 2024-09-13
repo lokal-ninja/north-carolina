@@ -1,5 +1,5 @@
 ---
 title: "America Salon"
 url: /smithfield/america-salon/
-shop: Kosmetik
+shop: beauty
 ---

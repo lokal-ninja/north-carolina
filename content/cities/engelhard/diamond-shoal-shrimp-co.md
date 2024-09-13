@@ -1,5 +1,5 @@
 ---
 title: "Diamond Shoal Shrimp Co."
 url: /engelhard/diamond-shoal-shrimp-co/
-shop: Fisch
+shop: seafood
 ---

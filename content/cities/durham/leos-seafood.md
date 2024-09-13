@@ -1,5 +1,5 @@
 ---
 title: "Leo's Seafood"
 url: /durham/leos-seafood/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flavors On Main - General Store"
 url: /marion/flavors-on-main-general-store/
-shop: Dorfladen
+shop: general
 ---

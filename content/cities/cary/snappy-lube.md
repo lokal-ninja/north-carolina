@@ -1,5 +1,5 @@
 ---
 title: "Snappy Lube"
 url: /cary/snappy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

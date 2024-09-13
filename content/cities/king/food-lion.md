@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /king/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

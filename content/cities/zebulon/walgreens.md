@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /zebulon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

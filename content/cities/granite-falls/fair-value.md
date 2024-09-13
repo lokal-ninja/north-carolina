@@ -1,5 +1,5 @@
 ---
 title: "Fair Value"
 url: /granite-falls/fair-value/
-shop: Supermarkt
+shop: supermarket
 ---

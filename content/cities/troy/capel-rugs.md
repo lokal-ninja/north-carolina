@@ -1,5 +1,5 @@
 ---
 title: "Capel Rugs"
 url: /troy/capel-rugs/
-shop: Teppiche
+shop: carpet
 ---

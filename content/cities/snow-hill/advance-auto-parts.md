@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /snow-hill/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

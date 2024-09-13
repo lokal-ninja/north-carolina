@@ -1,5 +1,5 @@
 ---
 title: "A Special Event"
 url: /fuquay-varina/a-special-event/
-shop: Partyzubehör
+shop: party
 ---

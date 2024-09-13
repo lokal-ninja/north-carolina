@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /charlotte/ross-jw-clay-boulevard/
-shop: Warenhaus
+shop: department store
 ---

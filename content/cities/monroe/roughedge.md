@@ -1,5 +1,5 @@
 ---
 title: "Roughedge"
 url: /monroe/roughedge/
-shop: Lebensmittel
+shop: convenience
 ---

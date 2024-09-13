@@ -1,5 +1,5 @@
 ---
 title: "Gonzalez Plaza"
 url: /burlington/gonzalez-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

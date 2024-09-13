@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /concord/burlington-bayfield-parkway/
-shop: Warenhaus
+shop: department store
 ---

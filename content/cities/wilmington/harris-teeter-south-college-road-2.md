@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /wilmington/harris-teeter-south-college-road-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastrac Food Store"
 url: /asheville/fastrac-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

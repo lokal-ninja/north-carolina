@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /boone/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

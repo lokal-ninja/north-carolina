@@ -1,5 +1,5 @@
 ---
 title: "MacLellan Bagpipes"
 url: /zebulon/maclellan-bagpipes/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harold's Body Shop"
 url: /chadbourn/harolds-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

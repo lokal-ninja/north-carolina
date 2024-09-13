@@ -1,5 +1,5 @@
 ---
 title: "Crown Acura"
 url: /greensboro/crown-acura/
-shop: Autohaus
+shop: car
 ---

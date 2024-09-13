@@ -1,5 +1,5 @@
 ---
 title: "Personal Security Storage"
 url: /raleigh/personal-security-storage/
-shop: Mieten
+shop: storage rental
 ---

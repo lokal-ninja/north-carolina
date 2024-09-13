@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /new-bern/speedway-washington-post-road/
-shop: Lebensmittel
+shop: convenience
 ---

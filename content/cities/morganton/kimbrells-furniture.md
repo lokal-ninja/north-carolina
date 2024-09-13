@@ -1,5 +1,5 @@
 ---
 title: "Kimbrell's Furniture"
 url: /morganton/kimbrells-furniture/
-shop: Möbel
+shop: furniture
 ---

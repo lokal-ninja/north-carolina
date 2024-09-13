@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /dobson/walgreens/
-shop: Drogerie
+shop: chemist
 ---

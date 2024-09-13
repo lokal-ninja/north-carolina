@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /charlotte/quiktrip-central-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

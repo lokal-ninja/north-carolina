@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /morrisville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

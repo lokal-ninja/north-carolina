@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /garner/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /kinston/dollar-general-nc-58-south/
-shop: Kramladen
+shop: variety store
 ---

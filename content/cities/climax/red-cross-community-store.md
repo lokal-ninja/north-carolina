@@ -1,5 +1,5 @@
 ---
 title: "Red Cross Community Store"
 url: /climax/red-cross-community-store/
-shop: Lebensmittel
+shop: convenience
 ---

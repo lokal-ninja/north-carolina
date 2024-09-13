@@ -1,5 +1,5 @@
 ---
 title: "Scotchman Store"
 url: /jacksonville/scotchman-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /raleigh/whole-foods-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Webb Funeral Home"
 url: /spruce-pine/webb-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

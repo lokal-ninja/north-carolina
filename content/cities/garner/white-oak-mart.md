@@ -1,5 +1,5 @@
 ---
 title: "White Oak Mart"
 url: /garner/white-oak-mart/
-shop: Lebensmittel
+shop: convenience
 ---

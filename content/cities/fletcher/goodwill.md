@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /fletcher/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

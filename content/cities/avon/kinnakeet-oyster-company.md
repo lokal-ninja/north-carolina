@@ -1,5 +1,5 @@
 ---
 title: "Kinnakeet Oyster Company"
 url: /avon/kinnakeet-oyster-company/
-shop: Fisch
+shop: seafood
 ---

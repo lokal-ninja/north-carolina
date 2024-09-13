@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /wilson/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /durham/jo-ann/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ann's Plant Outlet"
 url: /smithfield/anns-plant-outlet/
-shop: Garten-Center
+shop: garden centre
 ---

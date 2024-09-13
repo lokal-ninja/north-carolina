@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /smithfield/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backyard Birds"
 url: /matthews/backyard-birds/
-shop: Allgemein
+shop: shop
 ---

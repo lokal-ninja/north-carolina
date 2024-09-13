@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /chapel-hill/hallmark/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boles Funeral Home"
 url: /rowland/boles-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ABC store"
 url: /angier/abc-store/
-shop: Spirituosen
+shop: alcohol
 ---

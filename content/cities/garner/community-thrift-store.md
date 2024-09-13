@@ -1,5 +1,5 @@
 ---
 title: "Community Thrift Store"
 url: /garner/community-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

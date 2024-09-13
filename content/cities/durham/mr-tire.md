@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /durham/mr-tire/
-shop: Autoteile
+shop: car parts
 ---

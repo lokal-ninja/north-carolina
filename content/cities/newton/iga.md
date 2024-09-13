@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /newton/iga/
-shop: Supermarkt
+shop: supermarket
 ---

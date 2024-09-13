@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /boone/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beaufort County ABC Board"
 url: /chocowinity/beaufort-county-abc-board/
-shop: Spirituosen
+shop: alcohol
 ---

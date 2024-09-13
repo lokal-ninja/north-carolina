@@ -1,5 +1,5 @@
 ---
 title: "Handy Mart"
 url: /kinston/handy-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /morganton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

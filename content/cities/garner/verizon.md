@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /garner/verizon/
-shop: Handy
+shop: mobile phone
 ---

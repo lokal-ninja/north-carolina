@@ -1,5 +1,5 @@
 ---
 title: "Deluxe Cleaners"
 url: /carrboro/deluxe-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

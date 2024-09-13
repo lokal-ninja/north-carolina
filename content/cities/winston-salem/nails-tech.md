@@ -1,5 +1,5 @@
 ---
 title: "Nails Tech"
 url: /winston-salem/nails-tech/
-shop: Kosmetik
+shop: beauty
 ---

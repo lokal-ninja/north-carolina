@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /nags-head/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

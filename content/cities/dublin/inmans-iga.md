@@ -1,5 +1,5 @@
 ---
 title: "Inmans IGA"
 url: /dublin/inmans-iga/
-shop: Supermarkt
+shop: supermarket
 ---

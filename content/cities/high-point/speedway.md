@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /high-point/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

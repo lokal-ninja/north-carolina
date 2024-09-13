@@ -1,5 +1,5 @@
 ---
 title: "Family Food Mart"
 url: /connelly-springs/family-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

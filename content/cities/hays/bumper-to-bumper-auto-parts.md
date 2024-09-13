@@ -1,5 +1,5 @@
 ---
 title: "Bumper To Bumper Auto Parts"
 url: /hays/bumper-to-bumper-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

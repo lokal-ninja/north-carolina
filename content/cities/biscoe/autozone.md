@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /biscoe/autozone/
-shop: Autoteile
+shop: car parts
 ---

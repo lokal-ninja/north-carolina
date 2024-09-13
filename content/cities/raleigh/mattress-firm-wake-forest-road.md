@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /raleigh/mattress-firm-wake-forest-road/
-shop: Betten
+shop: bed
 ---

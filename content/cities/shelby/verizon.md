@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /shelby/verizon/
-shop: Handy
+shop: mobile phone
 ---

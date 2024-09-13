@@ -1,5 +1,5 @@
 ---
 title: "Appalachian Storage Units"
 url: /hildebran/appalachian-storage-units/
-shop: Mieten
+shop: storage rental
 ---

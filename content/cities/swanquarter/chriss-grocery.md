@@ -1,5 +1,5 @@
 ---
 title: "Chris's Grocery"
 url: /swanquarter/chriss-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

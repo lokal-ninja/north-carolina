@@ -1,5 +1,5 @@
 ---
 title: "Bull's"
 url: /west-jefferson/bulls/
-shop: Schuhe
+shop: shoes
 ---

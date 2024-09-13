@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /garner/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

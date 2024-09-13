@@ -1,5 +1,5 @@
 ---
 title: "Hancock's Country Store"
 url: /star/hancocks-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

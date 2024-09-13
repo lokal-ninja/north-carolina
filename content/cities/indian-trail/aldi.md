@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /indian-trail/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

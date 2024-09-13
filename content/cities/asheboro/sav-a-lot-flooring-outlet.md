@@ -1,5 +1,5 @@
 ---
 title: "Sav-A-Lot Flooring Outlet"
 url: /asheboro/sav-a-lot-flooring-outlet/
-shop: Fußböden
+shop: flooring
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /charlotte/advance-auto-parts-west-sugar-creek-road/
-shop: Autoteile
+shop: car parts
 ---

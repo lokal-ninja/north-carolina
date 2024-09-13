@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /high-point/target/
-shop: Warenhaus
+shop: department store
 ---

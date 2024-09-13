@@ -1,5 +1,5 @@
 ---
 title: "Micro Center"
 url: /charlotte/micro-center/
-shop: Computer
+shop: computer
 ---

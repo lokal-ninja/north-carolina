@@ -1,5 +1,5 @@
 ---
 title: "Chicago Style Cuts"
 url: /cary/chicago-style-cuts/
-shop: Friseur
+shop: hairdresser
 ---

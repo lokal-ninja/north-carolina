@@ -1,5 +1,5 @@
 ---
 title: "Express Stop"
 url: /columbus/express-stop/
-shop: Lebensmittel
+shop: convenience
 ---

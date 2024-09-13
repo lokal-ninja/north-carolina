@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /sanford/autozone/
-shop: Autoteile
+shop: car parts
 ---

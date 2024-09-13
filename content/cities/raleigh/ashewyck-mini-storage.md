@@ -1,5 +1,5 @@
 ---
 title: "Ashewyck Mini Storage"
 url: /raleigh/ashewyck-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

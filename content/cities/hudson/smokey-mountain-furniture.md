@@ -1,5 +1,5 @@
 ---
 title: "Smokey Mountain Furniture"
 url: /hudson/smokey-mountain-furniture/
-shop: Möbel
+shop: furniture
 ---

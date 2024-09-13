@@ -1,5 +1,5 @@
 ---
 title: "Farm Life Florist"
 url: /vanceboro/farm-life-florist/
-shop: Blumen
+shop: florist
 ---

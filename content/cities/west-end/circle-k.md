@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /west-end/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

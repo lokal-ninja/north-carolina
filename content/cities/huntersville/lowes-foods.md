@@ -1,5 +1,5 @@
 ---
 title: "Lowes Foods"
 url: /huntersville/lowes-foods/
-shop: Supermarkt
+shop: supermarket
 ---

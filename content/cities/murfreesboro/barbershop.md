@@ -1,5 +1,5 @@
 ---
 title: "Barbershop"
 url: /murfreesboro/barbershop/
-shop: Friseur
+shop: hairdresser
 ---

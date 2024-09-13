@@ -1,5 +1,5 @@
 ---
 title: "Jeb's Corner Mart"
 url: /robbinsville/jebs-corner-mart/
-shop: Lebensmittel
+shop: convenience
 ---

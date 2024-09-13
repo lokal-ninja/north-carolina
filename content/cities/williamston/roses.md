@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /williamston/roses/
-shop: Kramladen
+shop: variety store
 ---

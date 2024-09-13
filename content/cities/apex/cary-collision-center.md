@@ -1,5 +1,5 @@
 ---
 title: "Cary Collision Center"
 url: /apex/cary-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

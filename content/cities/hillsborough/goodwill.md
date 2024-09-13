@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /hillsborough/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crystal Garden"
 url: /chapel-hill/crystal-garden/
-shop: Esoterik
+shop: esoteric
 ---

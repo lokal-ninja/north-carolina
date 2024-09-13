@@ -1,5 +1,5 @@
 ---
 title: "Treasure in the Pines"
 url: /spruce-pine/treasure-in-the-pines/
-shop: Antiquitäten
+shop: antiques
 ---

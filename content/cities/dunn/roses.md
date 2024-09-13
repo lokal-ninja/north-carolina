@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /dunn/roses/
-shop: Kramladen
+shop: variety store
 ---

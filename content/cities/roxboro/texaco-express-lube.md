@@ -1,5 +1,5 @@
 ---
 title: "Texaco Express Lube"
 url: /roxboro/texaco-express-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastfuels"
 url: /thomasville/fastfuels/
-shop: Lebensmittel
+shop: convenience
 ---

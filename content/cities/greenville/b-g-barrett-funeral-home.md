@@ -1,5 +1,5 @@
 ---
 title: "B.G.Barrett funeral home"
 url: /greenville/b-g-barrett-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

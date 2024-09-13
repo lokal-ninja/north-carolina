@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /winston-salem/speedway-waughtown-street/
-shop: Lebensmittel
+shop: convenience
 ---

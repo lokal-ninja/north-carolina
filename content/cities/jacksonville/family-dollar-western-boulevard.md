@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /jacksonville/family-dollar-western-boulevard/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sonny's"
 url: /angier/sonnys/
-shop: Lebensmittel
+shop: convenience
 ---

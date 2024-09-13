@@ -1,5 +1,5 @@
 ---
 title: "Scotchman Store"
 url: /elizabethtown/scotchman-store/
-shop: Lebensmittel
+shop: convenience
 ---

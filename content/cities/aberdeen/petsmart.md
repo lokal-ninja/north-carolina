@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /aberdeen/petsmart/
-shop: Tiere
+shop: pet
 ---

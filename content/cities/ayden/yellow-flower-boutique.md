@@ -1,5 +1,5 @@
 ---
 title: "Yellow Flower Boutique"
 url: /ayden/yellow-flower-boutique/
-shop: Kosmetik
+shop: beauty
 ---

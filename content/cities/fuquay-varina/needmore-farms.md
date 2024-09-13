@@ -1,5 +1,5 @@
 ---
 title: "Needmore Farms"
 url: /fuquay-varina/needmore-farms/
-shop: Hofladen
+shop: farm
 ---

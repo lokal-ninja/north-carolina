@@ -1,5 +1,5 @@
 ---
 title: "Fast Frame"
 url: /matthews/fast-frame/
-shop: Rahmen
+shop: frame
 ---

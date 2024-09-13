@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /winston-salem/best-buy/
-shop: Elektronik
+shop: electronics
 ---

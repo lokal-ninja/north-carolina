@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /burlington/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

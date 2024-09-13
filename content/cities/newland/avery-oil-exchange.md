@@ -1,5 +1,5 @@
 ---
 title: "Avery Oil Exchange"
 url: /newland/avery-oil-exchange/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leith Toyota"
 url: /raleigh/leith-toyota/
-shop: Autohaus
+shop: car
 ---

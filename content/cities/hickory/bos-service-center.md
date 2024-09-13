@@ -1,5 +1,5 @@
 ---
 title: "Bo's Service Center"
 url: /hickory/bos-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

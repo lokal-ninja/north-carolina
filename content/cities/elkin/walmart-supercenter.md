@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /elkin/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

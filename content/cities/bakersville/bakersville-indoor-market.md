@@ -1,5 +1,5 @@
 ---
 title: "Bakersville Indoor Market"
 url: /bakersville/bakersville-indoor-market/
-shop: Gebrauchtwaren
+shop: charity
 ---

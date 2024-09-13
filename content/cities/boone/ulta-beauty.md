@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /boone/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

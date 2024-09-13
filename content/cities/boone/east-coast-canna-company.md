@@ -1,5 +1,5 @@
 ---
 title: "East Coast Canna Company"
 url: /boone/east-coast-canna-company/
-shop: Hanf
+shop: cannabis
 ---

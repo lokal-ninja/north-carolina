@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /hickory/best-buy/
-shop: Elektronik
+shop: electronics
 ---

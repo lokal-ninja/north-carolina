@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /winston-salem/lowes-university-parkway/
-shop: Baumarkt
+shop: doityourself
 ---

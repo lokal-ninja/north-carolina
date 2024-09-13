@@ -1,5 +1,5 @@
 ---
 title: "OBX Ink"
 url: /waves/obx-ink/
-shop: Tattoo
+shop: tattoo
 ---

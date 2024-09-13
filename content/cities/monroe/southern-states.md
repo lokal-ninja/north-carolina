@@ -1,5 +1,5 @@
 ---
 title: "Southern States"
 url: /monroe/southern-states/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

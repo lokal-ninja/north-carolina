@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /eden/dollar-general-morgan-road/
-shop: Kramladen
+shop: variety store
 ---

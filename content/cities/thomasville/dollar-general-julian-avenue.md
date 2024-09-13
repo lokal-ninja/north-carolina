@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /thomasville/dollar-general-julian-avenue/
-shop: Kramladen
+shop: variety store
 ---

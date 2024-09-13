@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /kenly/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

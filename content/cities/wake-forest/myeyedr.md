@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
 url: /wake-forest/myeyedr/
-shop: Optiker
+shop: optician
 ---

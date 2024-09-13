@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /gastonia/target/
-shop: Warenhaus
+shop: department store
 ---

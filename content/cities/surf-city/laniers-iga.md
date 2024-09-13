@@ -1,5 +1,5 @@
 ---
 title: "Lanier's IGA"
 url: /surf-city/laniers-iga/
-shop: Supermarkt
+shop: supermarket
 ---

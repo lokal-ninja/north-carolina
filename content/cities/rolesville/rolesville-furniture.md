@@ -1,5 +1,5 @@
 ---
 title: "Rolesville Furniture"
 url: /rolesville/rolesville-furniture/
-shop: Möbel
+shop: furniture
 ---

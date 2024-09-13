@@ -1,5 +1,5 @@
 ---
 title: "Oxygen Plus Inc"
 url: /marion/oxygen-plus-inc/
-shop: Sanitätshaus
+shop: medical supply
 ---

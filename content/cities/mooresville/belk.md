@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /mooresville/belk/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Berrybrook Farm"
 url: /charlotte/berrybrook-farm/
-shop: Bioladen
+shop: health food
 ---

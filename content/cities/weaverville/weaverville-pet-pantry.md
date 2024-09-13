@@ -1,5 +1,5 @@
 ---
 title: "Weaverville Pet Pantry"
 url: /weaverville/weaverville-pet-pantry/
-shop: Tiere
+shop: pet
 ---

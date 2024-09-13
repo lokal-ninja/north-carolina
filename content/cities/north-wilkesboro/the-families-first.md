@@ -1,5 +1,5 @@
 ---
 title: "The Families First"
 url: /north-wilkesboro/the-families-first/
-shop: Dorfladen
+shop: general
 ---

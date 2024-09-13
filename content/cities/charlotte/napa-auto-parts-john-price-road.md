@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /charlotte/napa-auto-parts-john-price-road/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blossom Floral Artistry"
 url: /pittsboro/blossom-floral-artistry/
-shop: Blumen
+shop: florist
 ---

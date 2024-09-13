@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /indian-trail/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /charlotte/food-lion-mount-holly-huntersville-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beltone Hearing Center"
 url: /high-point/beltone-hearing-center/
-shop: Hörgeräte
+shop: hearing aids
 ---

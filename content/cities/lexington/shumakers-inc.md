@@ -1,5 +1,5 @@
 ---
 title: "Shumaker's Inc."
 url: /lexington/shumakers-inc/
-shop: Möbel
+shop: furniture
 ---

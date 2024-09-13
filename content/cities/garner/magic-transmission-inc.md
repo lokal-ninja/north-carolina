@@ -1,5 +1,5 @@
 ---
 title: "Magic Transmission Inc."
 url: /garner/magic-transmission-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

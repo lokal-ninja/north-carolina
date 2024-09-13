@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /wilmington/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stokes Auto Parts"
 url: /danbury/stokes-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

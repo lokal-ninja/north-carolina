@@ -1,5 +1,5 @@
 ---
 title: "Boswells Grocery"
 url: /wilson/boswells-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

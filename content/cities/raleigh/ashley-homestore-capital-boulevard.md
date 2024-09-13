@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /raleigh/ashley-homestore-capital-boulevard/
-shop: Möbel
+shop: furniture
 ---

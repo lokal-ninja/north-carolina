@@ -1,5 +1,5 @@
 ---
 title: "Caldwell Body Works"
 url: /granite-falls/caldwell-body-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Mart"
 url: /hillsborough/quality-mart/
-shop: Lebensmittel
+shop: convenience
 ---

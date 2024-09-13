@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /troutman/walgreens/
-shop: Drogerie
+shop: chemist
 ---

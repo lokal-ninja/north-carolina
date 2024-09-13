@@ -1,5 +1,5 @@
 ---
 title: "Speedlube Inc"
 url: /newton/speedlube-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

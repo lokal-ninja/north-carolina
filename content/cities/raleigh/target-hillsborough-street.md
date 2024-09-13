@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /raleigh/target-hillsborough-street/
-shop: Warenhaus
+shop: department store
 ---

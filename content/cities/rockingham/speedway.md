@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /rockingham/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

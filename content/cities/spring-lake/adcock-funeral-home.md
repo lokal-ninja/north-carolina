@@ -1,5 +1,5 @@
 ---
 title: "Adcock Funeral Home"
 url: /spring-lake/adcock-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

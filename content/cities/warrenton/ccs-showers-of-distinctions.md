@@ -1,5 +1,5 @@
 ---
 title: "CC's Showers of Distinctions"
 url: /warrenton/ccs-showers-of-distinctions/
-shop: Blumen
+shop: florist
 ---

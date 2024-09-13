@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /charlotte/circle-k-the-plaza/
-shop: Lebensmittel
+shop: convenience
 ---

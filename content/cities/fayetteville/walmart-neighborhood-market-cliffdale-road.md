@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /fayetteville/walmart-neighborhood-market-cliffdale-road/
-shop: Supermarkt
+shop: supermarket
 ---

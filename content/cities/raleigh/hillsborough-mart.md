@@ -1,5 +1,5 @@
 ---
 title: "Hillsborough Mart"
 url: /raleigh/hillsborough-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Dixie Mart"
 url: /halifax/new-dixie-mart/
-shop: Lebensmittel
+shop: convenience
 ---

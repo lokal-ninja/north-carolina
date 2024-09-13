@@ -1,5 +1,5 @@
 ---
 title: "Soccer Post Cary"
 url: /cary/soccer-post-cary/
-shop: Sport
+shop: sports
 ---

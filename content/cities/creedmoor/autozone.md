@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /creedmoor/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hendrick Dodge Chrysler Jeep"
 url: /concord/hendrick-dodge-chrysler-jeep/
-shop: Autohaus
+shop: car
 ---

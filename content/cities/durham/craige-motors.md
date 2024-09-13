@@ -1,5 +1,5 @@
 ---
 title: "Craige Motors"
 url: /durham/craige-motors/
-shop: Autohaus
+shop: car
 ---

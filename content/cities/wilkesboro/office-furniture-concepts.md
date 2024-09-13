@@ -1,5 +1,5 @@
 ---
 title: "Office Furniture Concepts"
 url: /wilkesboro/office-furniture-concepts/
-shop: Möbel
+shop: furniture
 ---

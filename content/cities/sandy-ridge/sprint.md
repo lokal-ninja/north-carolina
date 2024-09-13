@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /sandy-ridge/sprint/
-shop: Handy
+shop: mobile phone
 ---

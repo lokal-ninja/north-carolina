@@ -1,5 +1,5 @@
 ---
 title: "CENTER EXXON"
 url: /mocksville/center-exxon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /cary/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

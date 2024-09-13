@@ -1,5 +1,5 @@
 ---
 title: "Pet Mania"
 url: /holly-springs/pet-mania/
-shop: Tiere
+shop: pet
 ---

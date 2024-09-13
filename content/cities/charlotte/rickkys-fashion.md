@@ -1,5 +1,5 @@
 ---
 title: "Rickky's Fashion"
 url: /charlotte/rickkys-fashion/
-shop: Kleidung
+shop: clothes
 ---

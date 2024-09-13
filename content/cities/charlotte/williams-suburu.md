@@ -1,5 +1,5 @@
 ---
 title: "Williams Suburu"
 url: /charlotte/williams-suburu/
-shop: Autohaus
+shop: car
 ---

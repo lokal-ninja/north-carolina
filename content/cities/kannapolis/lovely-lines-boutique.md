@@ -1,5 +1,5 @@
 ---
 title: "Lovely Lines Boutique"
 url: /kannapolis/lovely-lines-boutique/
-shop: Kleidung
+shop: clothes
 ---

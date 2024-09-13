@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /greensboro/family-dollar-randleman-road/
-shop: Kramladen
+shop: variety store
 ---

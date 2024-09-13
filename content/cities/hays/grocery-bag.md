@@ -1,5 +1,5 @@
 ---
 title: "Grocery Bag"
 url: /hays/grocery-bag/
-shop: Lebensmittel
+shop: convenience
 ---

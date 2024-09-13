@@ -1,5 +1,5 @@
 ---
 title: "The Crow's Nest"
 url: /hollister/the-crows-nest/
-shop: Lebensmittel
+shop: convenience
 ---

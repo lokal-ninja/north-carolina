@@ -1,5 +1,5 @@
 ---
 title: "Wooftown Groomers"
 url: /cherokee/wooftown-groomers/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fayetteville/michaels/
-shop: Basteln
+shop: craft
 ---

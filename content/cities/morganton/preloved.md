@@ -1,5 +1,5 @@
 ---
 title: "PreLoved"
 url: /morganton/preloved/
-shop: Gebrauchtwaren
+shop: charity
 ---

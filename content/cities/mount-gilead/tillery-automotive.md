@@ -1,5 +1,5 @@
 ---
 title: "Tillery Automotive"
 url: /mount-gilead/tillery-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

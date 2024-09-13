@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /sandy-ridge/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

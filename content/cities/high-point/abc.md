@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /high-point/abc/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seven Brew"
 url: /jacksonville/seven-brew/
-shop: Kaffee
+shop: coffee
 ---

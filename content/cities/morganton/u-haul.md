@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /morganton/u-haul/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jernigan Furniture Warehouse"
 url: /goldsboro/jernigan-furniture-warehouse/
-shop: Möbel
+shop: furniture
 ---

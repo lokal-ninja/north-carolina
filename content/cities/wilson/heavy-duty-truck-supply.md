@@ -1,5 +1,5 @@
 ---
 title: "Heavy Duty Truck Supply"
 url: /wilson/heavy-duty-truck-supply/
-shop: Autowerkstatt
+shop: car repair
 ---

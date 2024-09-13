@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /greensboro/ashley-homestore-south-40-drive/
-shop: Möbel
+shop: furniture
 ---

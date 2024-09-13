@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /cary/world-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

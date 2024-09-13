@@ -1,5 +1,5 @@
 ---
 title: "Restore"
 url: /mooresville/restore/
-shop: Möbel
+shop: furniture
 ---

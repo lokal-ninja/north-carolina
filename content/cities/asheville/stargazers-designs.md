@@ -1,5 +1,5 @@
 ---
 title: "Stargazers Designs"
 url: /asheville/stargazers-designs/
-shop: Blumen
+shop: florist
 ---

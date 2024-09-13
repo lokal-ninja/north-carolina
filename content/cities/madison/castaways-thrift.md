@@ -1,5 +1,5 @@
 ---
 title: "Castaways Thrift"
 url: /madison/castaways-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

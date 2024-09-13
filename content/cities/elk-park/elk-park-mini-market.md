@@ -1,5 +1,5 @@
 ---
 title: "Elk Park Mini Market"
 url: /elk-park/elk-park-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

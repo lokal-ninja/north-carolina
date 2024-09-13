@@ -1,5 +1,5 @@
 ---
 title: "Cheeseman's General Store"
 url: /rockwell/cheesemans-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

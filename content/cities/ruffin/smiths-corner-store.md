@@ -1,5 +1,5 @@
 ---
 title: "Smith's Corner Store"
 url: /ruffin/smiths-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

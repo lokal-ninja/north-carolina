@@ -1,5 +1,5 @@
 ---
 title: "Seven Stars Cycles"
 url: /durham/seven-stars-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

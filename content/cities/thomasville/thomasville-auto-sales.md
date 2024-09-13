@@ -1,5 +1,5 @@
 ---
 title: "Thomasville Auto Sales"
 url: /thomasville/thomasville-auto-sales/
-shop: Autohaus
+shop: car
 ---

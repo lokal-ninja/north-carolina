@@ -1,5 +1,5 @@
 ---
 title: "The ReCYCLEry"
 url: /carrboro/the-recyclery/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /roanoke-rapids/dollar-general-nc-48/
-shop: Kramladen
+shop: variety store
 ---

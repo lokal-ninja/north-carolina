@@ -1,5 +1,5 @@
 ---
 title: "Chambers Automotive"
 url: /timberlake/chambers-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

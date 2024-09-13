@@ -1,5 +1,5 @@
 ---
 title: "Brightleaf Square"
 url: /durham/brightleaf-square/
-shop: Einkaufszentrum
+shop: mall
 ---

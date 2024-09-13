@@ -1,5 +1,5 @@
 ---
 title: "Gabe's"
 url: /raleigh/gabes/
-shop: Kleidung
+shop: clothes
 ---

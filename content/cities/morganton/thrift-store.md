@@ -1,5 +1,5 @@
 ---
 title: "Thrift Store"
 url: /morganton/thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

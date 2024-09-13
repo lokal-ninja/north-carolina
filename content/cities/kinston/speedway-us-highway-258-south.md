@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kinston/speedway-us-highway-258-south/
-shop: Lebensmittel
+shop: convenience
 ---

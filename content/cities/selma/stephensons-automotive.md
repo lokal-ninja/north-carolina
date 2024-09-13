@@ -1,5 +1,5 @@
 ---
 title: "Stephenson's Automotive"
 url: /selma/stephensons-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardinal Pipeline Co LLC"
 url: /apex/cardinal-pipeline-co-llc/
-shop: Gasflaschen
+shop: gas
 ---

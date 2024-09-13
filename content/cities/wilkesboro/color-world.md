@@ -1,5 +1,5 @@
 ---
 title: "Color World"
 url: /wilkesboro/color-world/
-shop: Farben
+shop: paint
 ---

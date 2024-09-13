@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /mooresville/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catch The Fever"
 url: /roxboro/catch-the-fever/
-shop: Angeln
+shop: fishing
 ---

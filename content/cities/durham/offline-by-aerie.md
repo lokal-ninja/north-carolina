@@ -1,5 +1,5 @@
 ---
 title: "Offline by Aerie"
 url: /durham/offline-by-aerie/
-shop: Kleidung
+shop: clothes
 ---

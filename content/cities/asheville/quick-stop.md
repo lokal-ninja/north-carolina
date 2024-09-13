@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /asheville/quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

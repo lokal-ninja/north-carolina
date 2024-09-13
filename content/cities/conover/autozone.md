@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /conover/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /reidsville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

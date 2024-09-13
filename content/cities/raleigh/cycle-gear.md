@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /raleigh/cycle-gear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "uptown Styles"
 url: /creswell/uptown-styles/
-shop: Friseur
+shop: hairdresser
 ---

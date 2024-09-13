@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /forest-city/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

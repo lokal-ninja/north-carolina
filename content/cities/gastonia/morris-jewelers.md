@@ -1,5 +1,5 @@
 ---
 title: "Morris Jewelers"
 url: /gastonia/morris-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

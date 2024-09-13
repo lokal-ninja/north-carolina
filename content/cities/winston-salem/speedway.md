@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /winston-salem/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

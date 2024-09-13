@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /richlands/speedway-richlands-highway/
-shop: Lebensmittel
+shop: convenience
 ---

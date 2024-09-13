@@ -1,5 +1,5 @@
 ---
 title: "Abernathy Chevrolet"
 url: /lincolnton/abernathy-chevrolet/
-shop: Autohaus
+shop: car
 ---

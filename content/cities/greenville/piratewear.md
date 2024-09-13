@@ -1,5 +1,5 @@
 ---
 title: "Piratewear"
 url: /greenville/piratewear/
-shop: Kleidung
+shop: clothes
 ---

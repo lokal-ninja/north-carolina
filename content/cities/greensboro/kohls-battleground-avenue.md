@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /greensboro/kohls-battleground-avenue/
-shop: Warenhaus
+shop: department store
 ---

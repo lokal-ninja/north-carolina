@@ -1,5 +1,5 @@
 ---
 title: "Stradale Motors"
 url: /lexington/stradale-motors/
-shop: Autohaus
+shop: car
 ---

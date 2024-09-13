@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /charlotte/target-metropolitan-avenue/
-shop: Warenhaus
+shop: department store
 ---

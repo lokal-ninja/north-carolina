@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /durham/target-renaissance-parkway/
-shop: Warenhaus
+shop: department store
 ---

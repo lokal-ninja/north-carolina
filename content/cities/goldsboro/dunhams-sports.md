@@ -1,5 +1,5 @@
 ---
 title: "Dunham's Sports"
 url: /goldsboro/dunhams-sports/
-shop: Sport
+shop: sports
 ---

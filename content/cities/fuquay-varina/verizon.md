@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /fuquay-varina/verizon/
-shop: Handy
+shop: mobile phone
 ---

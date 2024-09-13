@@ -1,5 +1,5 @@
 ---
 title: "Ballantyne Village"
 url: /charlotte/ballantyne-village/
-shop: Einkaufszentrum
+shop: mall
 ---

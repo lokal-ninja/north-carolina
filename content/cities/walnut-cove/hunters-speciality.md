@@ -1,5 +1,5 @@
 ---
 title: "Hunter's Speciality"
 url: /walnut-cove/hunters-speciality/
-shop: Autowerkstatt
+shop: car repair
 ---

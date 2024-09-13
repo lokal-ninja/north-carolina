@@ -1,5 +1,5 @@
 ---
 title: "Powerhouse Auto, LLC"
 url: /smithfield/powerhouse-auto-llc/
-shop: Autohaus
+shop: car
 ---

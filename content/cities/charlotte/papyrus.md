@@ -1,5 +1,5 @@
 ---
 title: "Papyrus"
 url: /charlotte/papyrus/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /morrisville/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

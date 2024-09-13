@@ -1,5 +1,5 @@
 ---
 title: "Blessed Mama Boutique"
 url: /bakersville/blessed-mama-boutique/
-shop: Kleidung
+shop: clothes
 ---

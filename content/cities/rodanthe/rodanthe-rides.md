@@ -1,5 +1,5 @@
 ---
 title: "Rodanthe Rides"
 url: /rodanthe/rodanthe-rides/
-shop: Mieten
+shop: storage rental
 ---

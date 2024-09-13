@@ -1,5 +1,5 @@
 ---
 title: "REEDS Jewelers"
 url: /fayetteville/reeds-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

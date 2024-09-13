@@ -1,5 +1,5 @@
 ---
 title: "Fast Mart"
 url: /roxboro/fast-mart/
-shop: Lebensmittel
+shop: convenience
 ---

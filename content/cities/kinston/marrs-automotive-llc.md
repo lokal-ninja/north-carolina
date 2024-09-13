@@ -1,5 +1,5 @@
 ---
 title: "Marr's Automotive LLC"
 url: /kinston/marrs-automotive-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

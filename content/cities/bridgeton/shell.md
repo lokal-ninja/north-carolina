@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bridgeton/shell/
-shop: Lebensmittel
+shop: convenience
 ---

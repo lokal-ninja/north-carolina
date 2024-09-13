@@ -1,5 +1,5 @@
 ---
 title: "McDowell Family Pharmacy"
 url: /old-fort/mcdowell-family-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

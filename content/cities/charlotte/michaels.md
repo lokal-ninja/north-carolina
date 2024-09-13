@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /charlotte/michaels/
-shop: Basteln
+shop: craft
 ---

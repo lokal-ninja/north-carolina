@@ -1,5 +1,5 @@
 ---
 title: "2Way Convenience Store"
 url: /godwin/2way-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

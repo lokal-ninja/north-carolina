@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /goldsboro/dollar-general-west-grantham-street/
-shop: Kramladen
+shop: variety store
 ---

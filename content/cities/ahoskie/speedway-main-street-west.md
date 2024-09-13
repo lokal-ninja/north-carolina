@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ahoskie/speedway-main-street-west/
-shop: Lebensmittel
+shop: convenience
 ---

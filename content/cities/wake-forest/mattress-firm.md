@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /wake-forest/mattress-firm/
-shop: Betten
+shop: bed
 ---

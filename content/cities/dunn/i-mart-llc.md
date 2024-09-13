@@ -1,5 +1,5 @@
 ---
 title: "I Mart LLC"
 url: /dunn/i-mart-llc/
-shop: Lebensmittel
+shop: convenience
 ---

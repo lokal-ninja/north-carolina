@@ -1,5 +1,5 @@
 ---
 title: "Petsense"
 url: /clayton/petsense/
-shop: Tiersalon
+shop: pet grooming
 ---

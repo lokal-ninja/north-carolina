@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /durham/walmart-supercenter-glenn-school-road/
-shop: Supermarkt
+shop: supermarket
 ---

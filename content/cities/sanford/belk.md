@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /sanford/belk/
-shop: Warenhaus
+shop: department store
 ---

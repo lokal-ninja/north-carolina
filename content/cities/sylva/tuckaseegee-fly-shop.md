@@ -1,5 +1,5 @@
 ---
 title: "Tuckaseegee Fly Shop"
 url: /sylva/tuckaseegee-fly-shop/
-shop: Angeln
+shop: fishing
 ---

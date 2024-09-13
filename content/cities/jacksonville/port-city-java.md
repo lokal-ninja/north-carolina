@@ -1,5 +1,5 @@
 ---
 title: "Port City Java"
 url: /jacksonville/port-city-java/
-shop: Kaffee
+shop: coffee
 ---

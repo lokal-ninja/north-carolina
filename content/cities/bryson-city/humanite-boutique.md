@@ -1,5 +1,5 @@
 ---
 title: "Humanité Boutique"
 url: /bryson-city/humanite-boutique/
-shop: Kleidung
+shop: clothes
 ---

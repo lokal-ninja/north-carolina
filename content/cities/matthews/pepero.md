@@ -1,5 +1,5 @@
 ---
 title: "PePeRo"
 url: /matthews/pepero/
-shop: Lebensmittel
+shop: convenience
 ---

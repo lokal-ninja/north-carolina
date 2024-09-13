@@ -1,5 +1,5 @@
 ---
 title: "Circut World"
 url: /murphy/circut-world/
-shop: Warenhaus
+shop: department store
 ---

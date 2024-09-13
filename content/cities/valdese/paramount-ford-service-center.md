@@ -1,5 +1,5 @@
 ---
 title: "Paramount Ford Service Center"
 url: /valdese/paramount-ford-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

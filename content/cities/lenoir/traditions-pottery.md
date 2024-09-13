@@ -1,5 +1,5 @@
 ---
 title: "Traditions Pottery"
 url: /lenoir/traditions-pottery/
-shop: Töpferei
+shop: pottery
 ---

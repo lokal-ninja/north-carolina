@@ -1,5 +1,5 @@
 ---
 title: "Cute Buttons"
 url: /morrisville/cute-buttons/
-shop: Schreibwaren
+shop: office supplies
 ---

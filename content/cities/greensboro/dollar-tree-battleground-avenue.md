@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /greensboro/dollar-tree-battleground-avenue/
-shop: Kramladen
+shop: variety store
 ---

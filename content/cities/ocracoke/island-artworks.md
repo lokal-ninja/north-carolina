@@ -1,5 +1,5 @@
 ---
 title: "Island Artworks"
 url: /ocracoke/island-artworks/
-shop: Schmuck
+shop: jewelry
 ---

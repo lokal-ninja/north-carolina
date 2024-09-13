@@ -1,5 +1,5 @@
 ---
 title: "Trek CBD"
 url: /wake-forest/trek-cbd/
-shop: Dorfladen
+shop: general
 ---

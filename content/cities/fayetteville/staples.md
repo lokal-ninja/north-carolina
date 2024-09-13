@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /fayetteville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

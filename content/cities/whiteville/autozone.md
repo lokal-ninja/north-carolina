@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /whiteville/autozone/
-shop: Autoteile
+shop: car parts
 ---

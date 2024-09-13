@@ -1,5 +1,5 @@
 ---
 title: "The Wash House"
 url: /richlands/the-wash-house/
-shop: Wäscherei
+shop: laundry
 ---

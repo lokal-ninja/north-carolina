@@ -1,5 +1,5 @@
 ---
 title: "Carolina Apparel"
 url: /selma/carolina-apparel/
-shop: Kleidung
+shop: clothes
 ---

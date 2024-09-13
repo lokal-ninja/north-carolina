@@ -1,5 +1,5 @@
 ---
 title: "Premier Auto Body"
 url: /saratoga/premier-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

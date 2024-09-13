@@ -1,5 +1,5 @@
 ---
 title: "Compare Foods"
 url: /wilson/compare-foods/
-shop: Supermarkt
+shop: supermarket
 ---

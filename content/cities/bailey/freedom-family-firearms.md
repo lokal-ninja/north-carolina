@@ -1,5 +1,5 @@
 ---
 title: "Freedom Family Firearms"
 url: /bailey/freedom-family-firearms/
-shop: Waffen
+shop: weapons
 ---

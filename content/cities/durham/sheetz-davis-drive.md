@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /durham/sheetz-davis-drive/
-shop: Lebensmittel
+shop: convenience
 ---

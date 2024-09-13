@@ -1,5 +1,5 @@
 ---
 title: "Broad Street Vision Center"
 url: /gastonia/broad-street-vision-center/
-shop: Optiker
+shop: optician
 ---

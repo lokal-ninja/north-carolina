@@ -1,5 +1,5 @@
 ---
 title: "Colony Tire and Service"
 url: /williamston/colony-tire-and-service/
-shop: Autowerkstatt
+shop: car repair
 ---

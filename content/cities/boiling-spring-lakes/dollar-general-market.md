@@ -1,5 +1,5 @@
 ---
 title: "Dollar General Market"
 url: /boiling-spring-lakes/dollar-general-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /oxford/roses/
-shop: Kramladen
+shop: variety store
 ---

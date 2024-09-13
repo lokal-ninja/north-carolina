@@ -1,5 +1,5 @@
 ---
 title: "Burlington Army Store"
 url: /burlington/burlington-army-store/
-shop: Militär
+shop: military
 ---

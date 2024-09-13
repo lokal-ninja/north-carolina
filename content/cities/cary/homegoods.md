@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /cary/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

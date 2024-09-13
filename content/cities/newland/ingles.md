@@ -1,5 +1,5 @@
 ---
 title: "Ingles"
 url: /newland/ingles/
-shop: Supermarkt
+shop: supermarket
 ---

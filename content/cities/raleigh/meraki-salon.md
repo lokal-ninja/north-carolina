@@ -1,5 +1,5 @@
 ---
 title: "Meraki Salon"
 url: /raleigh/meraki-salon/
-shop: Friseur
+shop: hairdresser
 ---

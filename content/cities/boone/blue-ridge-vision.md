@@ -1,5 +1,5 @@
 ---
 title: "Blue Ridge Vision"
 url: /boone/blue-ridge-vision/
-shop: Optiker
+shop: optician
 ---

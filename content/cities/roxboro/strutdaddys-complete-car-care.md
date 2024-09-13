@@ -1,5 +1,5 @@
 ---
 title: "StrutDaddy's Complete Car Care"
 url: /roxboro/strutdaddys-complete-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

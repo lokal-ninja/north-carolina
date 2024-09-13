@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /chocowinity/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

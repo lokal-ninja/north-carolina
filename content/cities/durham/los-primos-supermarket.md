@@ -1,5 +1,5 @@
 ---
 title: "Los Primos Supermarket"
 url: /durham/los-primos-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

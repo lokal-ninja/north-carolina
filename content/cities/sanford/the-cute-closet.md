@@ -1,5 +1,5 @@
 ---
 title: "The Cute Closet"
 url: /sanford/the-cute-closet/
-shop: Kleidung
+shop: clothes
 ---

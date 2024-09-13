@@ -1,5 +1,5 @@
 ---
 title: "Not just Fishin"
 url: /granite-falls/not-just-fishin/
-shop: Angeln
+shop: fishing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP Cycleworks"
 url: /cameron/bp-cycleworks/
-shop: Motorrad
+shop: motorcycle
 ---

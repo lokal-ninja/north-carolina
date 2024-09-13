@@ -1,5 +1,5 @@
 ---
 title: "Not Just Paper"
 url: /durham/not-just-paper/
-shop: Schreibwaren
+shop: office supplies
 ---

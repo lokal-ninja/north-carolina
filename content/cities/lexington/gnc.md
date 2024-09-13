@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /lexington/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

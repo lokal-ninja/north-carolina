@@ -1,5 +1,5 @@
 ---
 title: "Redline Automotive"
 url: /newton/redline-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

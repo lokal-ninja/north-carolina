@@ -1,5 +1,5 @@
 ---
 title: "Electrodomésticos Appliances"
 url: /biscoe/electrodomesticos-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

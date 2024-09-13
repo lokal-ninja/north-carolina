@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /kernersville/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

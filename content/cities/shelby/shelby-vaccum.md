@@ -1,5 +1,5 @@
 ---
 title: "Shelby Vaccum"
 url: /shelby/shelby-vaccum/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

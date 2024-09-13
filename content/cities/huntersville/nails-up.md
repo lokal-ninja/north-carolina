@@ -1,5 +1,5 @@
 ---
 title: "Nail's Up"
 url: /huntersville/nails-up/
-shop: Kosmetik
+shop: beauty
 ---

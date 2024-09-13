@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /edenton/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

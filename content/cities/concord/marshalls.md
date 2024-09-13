@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /concord/marshalls/
-shop: Warenhaus
+shop: department store
 ---

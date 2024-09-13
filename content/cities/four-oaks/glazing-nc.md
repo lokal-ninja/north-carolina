@@ -1,5 +1,5 @@
 ---
 title: "Glazing Nc"
 url: /four-oaks/glazing-nc/
-shop: Autowerkstatt
+shop: car repair
 ---

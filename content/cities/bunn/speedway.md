@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bunn/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

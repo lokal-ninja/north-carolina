@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /smithfield/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

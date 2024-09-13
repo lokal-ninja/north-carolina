@@ -1,5 +1,5 @@
 ---
 title: "Early's Country Store"
 url: /spruce-pine/earlys-country-store/
-shop: Antiquitäten
+shop: antiques
 ---

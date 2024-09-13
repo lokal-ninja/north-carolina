@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /boone/verizon-blowing-rock-road/
-shop: Handy
+shop: mobile phone
 ---

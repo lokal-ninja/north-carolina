@@ -1,5 +1,5 @@
 ---
 title: "Soma"
 url: /charlotte/soma/
-shop: Kleidung
+shop: clothes
 ---

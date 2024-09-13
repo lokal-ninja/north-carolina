@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /smithfield/belk/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "hi-lites Ladies' Clothing"
 url: /monroe/hi-lites-ladies-clothing/
-shop: Kleidung
+shop: clothes
 ---

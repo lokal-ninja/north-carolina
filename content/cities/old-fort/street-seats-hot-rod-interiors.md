@@ -1,5 +1,5 @@
 ---
 title: "Street Seats Hot Rod Interiors"
 url: /old-fort/street-seats-hot-rod-interiors/
-shop: Autowerkstatt
+shop: car repair
 ---

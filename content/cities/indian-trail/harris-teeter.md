@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /indian-trail/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

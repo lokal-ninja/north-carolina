@@ -1,5 +1,5 @@
 ---
 title: "Auto Value"
 url: /warrenton/auto-value/
-shop: Autoteile
+shop: car parts
 ---

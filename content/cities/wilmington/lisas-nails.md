@@ -1,5 +1,5 @@
 ---
 title: "Lisa's Nails"
 url: /wilmington/lisas-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /candler/amoco/
-shop: Lebensmittel
+shop: convenience
 ---

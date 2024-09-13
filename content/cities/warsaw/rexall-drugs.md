@@ -1,5 +1,5 @@
 ---
 title: "Rexall Drugs"
 url: /warsaw/rexall-drugs/
-shop: Drogerie
+shop: chemist
 ---

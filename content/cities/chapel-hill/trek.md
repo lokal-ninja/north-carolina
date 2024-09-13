@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /chapel-hill/trek/
-shop: Fahrrad
+shop: bicycle
 ---

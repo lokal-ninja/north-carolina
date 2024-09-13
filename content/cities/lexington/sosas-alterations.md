@@ -1,5 +1,5 @@
 ---
 title: "Sosa's Alterations"
 url: /lexington/sosas-alterations/
-shop: Schneiderei
+shop: tailor
 ---

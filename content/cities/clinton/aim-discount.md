@@ -1,5 +1,5 @@
 ---
 title: "Aim Discount"
 url: /clinton/aim-discount/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Full Force"
 url: /asheboro/full-force/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Custom Dave's Tinting"
 url: /mooresville/custom-daves-tinting/
-shop: Autowerkstatt
+shop: car repair
 ---

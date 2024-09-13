@@ -1,5 +1,5 @@
 ---
 title: "Brawely Automotive"
 url: /mooresville/brawely-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

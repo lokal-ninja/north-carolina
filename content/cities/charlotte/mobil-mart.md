@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /charlotte/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

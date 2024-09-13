@@ -1,5 +1,5 @@
 ---
 title: "Hampstead Hardware"
 url: /hampstead/hampstead-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /gastonia/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

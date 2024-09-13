@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /oak-island/publix/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /matthews/discount-tire/
-shop: Reifen
+shop: tyres
 ---

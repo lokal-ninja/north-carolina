@@ -1,5 +1,5 @@
 ---
 title: "Capital Mazda of Cary"
 url: /cary/capital-mazda-of-cary/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Don's Hairstylers"
 url: /wallace/el-dons-hairstylers/
-shop: Friseur
+shop: hairdresser
 ---

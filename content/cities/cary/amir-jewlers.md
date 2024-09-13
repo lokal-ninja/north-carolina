@@ -1,5 +1,5 @@
 ---
 title: "Amir Jewlers"
 url: /cary/amir-jewlers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liberty Barber Shop"
 url: /liberty/liberty-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

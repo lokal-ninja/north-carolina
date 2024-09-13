@@ -1,5 +1,5 @@
 ---
 title: "Arnold's"
 url: /centerville/arnolds/
-shop: Lebensmittel
+shop: convenience
 ---

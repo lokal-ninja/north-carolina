@@ -1,5 +1,5 @@
 ---
 title: "Sanders Florist"
 url: /durham/sanders-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /garner/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

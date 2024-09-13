@@ -1,5 +1,5 @@
 ---
 title: "Salisbury Scuba"
 url: /salisbury/salisbury-scuba/
-shop: Tauchen
+shop: diving
 ---

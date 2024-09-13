@@ -1,5 +1,5 @@
 ---
 title: "Grooming Barn"
 url: /wendell/grooming-barn/
-shop: Tiersalon
+shop: pet grooming
 ---

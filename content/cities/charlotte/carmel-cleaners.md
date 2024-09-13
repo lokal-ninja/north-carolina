@@ -1,5 +1,5 @@
 ---
 title: "Carmel Cleaners"
 url: /charlotte/carmel-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

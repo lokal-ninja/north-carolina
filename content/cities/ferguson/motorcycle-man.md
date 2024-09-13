@@ -1,5 +1,5 @@
 ---
 title: "Motorcycle Man"
 url: /ferguson/motorcycle-man/
-shop: Motorrad
+shop: motorcycle
 ---

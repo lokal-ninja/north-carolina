@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /king/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

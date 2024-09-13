@@ -1,5 +1,5 @@
 ---
 title: "Wendell Resell"
 url: /wendell/wendell-resell/
-shop: Gebrauchtwaren
+shop: charity
 ---

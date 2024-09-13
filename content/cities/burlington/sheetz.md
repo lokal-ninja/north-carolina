@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /burlington/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

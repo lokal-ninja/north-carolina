@@ -1,5 +1,5 @@
 ---
 title: "The Doughnut Cottage"
 url: /selma/the-doughnut-cottage/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /boone/belk/
-shop: Warenhaus
+shop: department store
 ---

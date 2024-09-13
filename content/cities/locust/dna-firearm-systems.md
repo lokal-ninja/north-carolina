@@ -1,5 +1,5 @@
 ---
 title: "DNA Firearm Systems"
 url: /locust/dna-firearm-systems/
-shop: Waffen
+shop: weapons
 ---

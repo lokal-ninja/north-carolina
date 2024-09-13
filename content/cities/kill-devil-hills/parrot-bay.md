@@ -1,5 +1,5 @@
 ---
 title: "Parrot Bay"
 url: /kill-devil-hills/parrot-bay/
-shop: Andenken
+shop: gift
 ---

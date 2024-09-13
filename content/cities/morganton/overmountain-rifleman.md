@@ -1,5 +1,5 @@
 ---
 title: "Overmountain Rifleman"
 url: /morganton/overmountain-rifleman/
-shop: Waffen
+shop: weapons
 ---

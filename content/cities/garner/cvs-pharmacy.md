@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /garner/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

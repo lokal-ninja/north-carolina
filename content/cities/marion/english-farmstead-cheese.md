@@ -1,5 +1,5 @@
 ---
 title: "English Farmstead Cheese"
 url: /marion/english-farmstead-cheese/
-shop: Käse
+shop: cheese
 ---

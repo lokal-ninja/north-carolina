@@ -1,5 +1,5 @@
 ---
 title: "Haywood Secure Storage, Inc."
 url: /clyde/haywood-secure-storage-inc/
-shop: Mieten
+shop: storage rental
 ---

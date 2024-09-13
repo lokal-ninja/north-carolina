@@ -1,5 +1,5 @@
 ---
 title: "Maxway"
 url: /lillington/maxway/
-shop: Kramladen
+shop: variety store
 ---

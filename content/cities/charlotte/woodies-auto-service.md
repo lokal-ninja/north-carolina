@@ -1,5 +1,5 @@
 ---
 title: "Woodie's Auto Service"
 url: /charlotte/woodies-auto-service/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charlie's Automotive Muffler"
 url: /goldsboro/charlies-automotive-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

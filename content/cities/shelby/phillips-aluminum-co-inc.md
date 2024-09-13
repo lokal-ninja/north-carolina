@@ -1,5 +1,5 @@
 ---
 title: "Phillips Aluminum Co Inc"
 url: /shelby/phillips-aluminum-co-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

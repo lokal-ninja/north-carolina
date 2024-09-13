@@ -1,5 +1,5 @@
 ---
 title: "Fuquay Gun"
 url: /fuquay-varina/fuquay-gun/
-shop: Waffen
+shop: weapons
 ---

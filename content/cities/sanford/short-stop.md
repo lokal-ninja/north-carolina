@@ -1,5 +1,5 @@
 ---
 title: "SHORT STOP"
 url: /sanford/short-stop/
-shop: Lebensmittel
+shop: convenience
 ---

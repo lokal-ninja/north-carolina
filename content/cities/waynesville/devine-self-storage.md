@@ -1,5 +1,5 @@
 ---
 title: "Devine Self Storage"
 url: /waynesville/devine-self-storage/
-shop: Mieten
+shop: storage rental
 ---

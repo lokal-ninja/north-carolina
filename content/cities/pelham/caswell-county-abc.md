@@ -1,5 +1,5 @@
 ---
 title: "Caswell County ABC"
 url: /pelham/caswell-county-abc/
-shop: Spirituosen
+shop: alcohol
 ---

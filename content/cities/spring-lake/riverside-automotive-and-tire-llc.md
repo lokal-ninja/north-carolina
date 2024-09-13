@@ -1,5 +1,5 @@
 ---
 title: "Riverside Automotive and Tire LLC"
 url: /spring-lake/riverside-automotive-and-tire-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

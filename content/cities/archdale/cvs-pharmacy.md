@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /archdale/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

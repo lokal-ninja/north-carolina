@@ -1,5 +1,5 @@
 ---
 title: "Girls Round Here"
 url: /bailey/girls-round-here/
-shop: Kleidung
+shop: clothes
 ---

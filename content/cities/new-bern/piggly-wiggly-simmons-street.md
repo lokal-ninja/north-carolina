@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /new-bern/piggly-wiggly-simmons-street/
-shop: Supermarkt
+shop: supermarket
 ---

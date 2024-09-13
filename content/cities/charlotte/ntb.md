@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /charlotte/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

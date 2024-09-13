@@ -1,5 +1,5 @@
 ---
 title: "A Perfect Fit"
 url: /boone/a-perfect-fit/
-shop: Kleidung
+shop: clothes
 ---

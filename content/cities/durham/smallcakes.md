@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /durham/smallcakes/
-shop: Konditorei
+shop: pastry
 ---

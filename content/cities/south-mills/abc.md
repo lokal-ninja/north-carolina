@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /south-mills/abc/
-shop: Spirituosen
+shop: alcohol
 ---

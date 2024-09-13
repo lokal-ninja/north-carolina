@@ -1,5 +1,5 @@
 ---
 title: "The Regulator"
 url: /durham/the-regulator/
-shop: Bücher
+shop: books
 ---

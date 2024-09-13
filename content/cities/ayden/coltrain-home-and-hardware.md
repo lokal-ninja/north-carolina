@@ -1,5 +1,5 @@
 ---
 title: "Coltrain Home and Hardware"
 url: /ayden/coltrain-home-and-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

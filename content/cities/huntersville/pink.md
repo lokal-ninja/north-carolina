@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /huntersville/pink/
-shop: Kleidung
+shop: clothes
 ---

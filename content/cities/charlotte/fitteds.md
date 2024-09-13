@@ -1,5 +1,5 @@
 ---
 title: "Fitteds"
 url: /charlotte/fitteds/
-shop: Modehaus
+shop: boutique
 ---

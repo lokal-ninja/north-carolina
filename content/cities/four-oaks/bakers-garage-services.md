@@ -1,5 +1,5 @@
 ---
 title: "Baker's Garage Services"
 url: /four-oaks/bakers-garage-services/
-shop: Autowerkstatt
+shop: car repair
 ---

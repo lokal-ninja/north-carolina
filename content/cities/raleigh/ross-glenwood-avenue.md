@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /raleigh/ross-glenwood-avenue/
-shop: Warenhaus
+shop: department store
 ---

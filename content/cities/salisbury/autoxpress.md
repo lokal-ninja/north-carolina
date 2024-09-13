@@ -1,5 +1,5 @@
 ---
 title: "AutoXpress"
 url: /salisbury/autoxpress/
-shop: Autowerkstatt
+shop: car repair
 ---

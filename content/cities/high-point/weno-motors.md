@@ -1,5 +1,5 @@
 ---
 title: "Weno Motors"
 url: /high-point/weno-motors/
-shop: Allgemein
+shop: shop
 ---

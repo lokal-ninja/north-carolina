@@ -1,5 +1,5 @@
 ---
 title: "Village Craftsmen"
 url: /ocracoke/village-craftsmen/
-shop: Kunst
+shop: art
 ---

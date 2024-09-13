@@ -1,5 +1,5 @@
 ---
 title: "Vista Auction"
 url: /charlotte/vista-auction/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /raleigh/dsw/
-shop: Schuhe
+shop: shoes
 ---

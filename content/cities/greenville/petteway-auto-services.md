@@ -1,5 +1,5 @@
 ---
 title: "Petteway Auto Services"
 url: /greenville/petteway-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

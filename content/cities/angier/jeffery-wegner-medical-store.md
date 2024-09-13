@@ -1,5 +1,5 @@
 ---
 title: "Jeffery Wegner Medical Store"
 url: /angier/jeffery-wegner-medical-store/
-shop: Sanitätshaus
+shop: medical supply
 ---

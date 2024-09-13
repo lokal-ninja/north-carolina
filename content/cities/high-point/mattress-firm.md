@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /high-point/mattress-firm/
-shop: Betten
+shop: bed
 ---

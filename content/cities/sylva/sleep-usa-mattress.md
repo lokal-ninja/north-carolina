@@ -1,5 +1,5 @@
 ---
 title: "Sleep USA Mattress"
 url: /sylva/sleep-usa-mattress/
-shop: Betten
+shop: bed
 ---

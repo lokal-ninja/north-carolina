@@ -1,5 +1,5 @@
 ---
 title: "La Belle Nails"
 url: /clayton/la-belle-nails/
-shop: Kosmetik
+shop: beauty
 ---

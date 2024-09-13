@@ -1,5 +1,5 @@
 ---
 title: "Creative Computers"
 url: /charlotte/creative-computers/
-shop: Computer
+shop: computer
 ---

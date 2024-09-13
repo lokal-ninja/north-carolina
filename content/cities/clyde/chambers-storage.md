@@ -1,5 +1,5 @@
 ---
 title: "Chambers Storage"
 url: /clyde/chambers-storage/
-shop: Mieten
+shop: storage rental
 ---

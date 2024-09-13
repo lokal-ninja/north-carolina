@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /smithfield/speedway-north-brightleaf-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

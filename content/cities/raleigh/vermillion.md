@@ -1,5 +1,5 @@
 ---
 title: "Vermillion"
 url: /raleigh/vermillion/
-shop: Kleidung
+shop: clothes
 ---

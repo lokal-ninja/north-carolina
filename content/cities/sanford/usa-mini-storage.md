@@ -1,5 +1,5 @@
 ---
 title: "USA Mini Storage"
 url: /sanford/usa-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

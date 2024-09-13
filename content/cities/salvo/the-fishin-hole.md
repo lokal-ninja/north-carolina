@@ -1,5 +1,5 @@
 ---
 title: "The Fishin' Hole"
 url: /salvo/the-fishin-hole/
-shop: Angeln
+shop: fishing
 ---

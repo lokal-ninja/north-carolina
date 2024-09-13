@@ -1,5 +1,5 @@
 ---
 title: "Reece Rentals"
 url: /dobson/reece-rentals/
-shop: Mieten
+shop: storage rental
 ---

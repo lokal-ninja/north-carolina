@@ -1,5 +1,5 @@
 ---
 title: "Wynn Nail Spa"
 url: /cary/wynn-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

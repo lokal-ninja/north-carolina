@@ -1,5 +1,5 @@
 ---
 title: "Yesteryear Classic Cars"
 url: /old-fort/yesteryear-classic-cars/
-shop: Autohaus
+shop: car
 ---

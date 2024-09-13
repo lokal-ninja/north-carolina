@@ -1,5 +1,5 @@
 ---
 title: "Liquidation Station"
 url: /burlington/liquidation-station/
-shop: Gebrauchtwaren
+shop: charity
 ---

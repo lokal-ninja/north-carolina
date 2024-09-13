@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /kernersville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

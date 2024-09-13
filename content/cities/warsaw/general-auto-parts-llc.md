@@ -1,5 +1,5 @@
 ---
 title: "General Auto Parts LLC"
 url: /warsaw/general-auto-parts-llc/
-shop: Autoteile
+shop: car parts
 ---

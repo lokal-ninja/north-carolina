@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /raeford/family-dollar-south-main-street/
-shop: Kramladen
+shop: variety store
 ---

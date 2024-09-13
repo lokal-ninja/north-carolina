@@ -1,5 +1,5 @@
 ---
 title: "Richlands Tire Service"
 url: /richlands/richlands-tire-service/
-shop: Reifen
+shop: tyres
 ---

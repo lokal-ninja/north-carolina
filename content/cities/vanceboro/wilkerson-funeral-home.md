@@ -1,5 +1,5 @@
 ---
 title: "Wilkerson Funeral Home"
 url: /vanceboro/wilkerson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /mooresville/food-lion-river-highway/
-shop: Supermarkt
+shop: supermarket
 ---

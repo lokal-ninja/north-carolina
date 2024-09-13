@@ -1,5 +1,5 @@
 ---
 title: "Cherry's Computers"
 url: /goldsboro/cherrys-computers/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norman General Store"
 url: /norman/norman-general-store/
-shop: Dorfladen
+shop: general
 ---

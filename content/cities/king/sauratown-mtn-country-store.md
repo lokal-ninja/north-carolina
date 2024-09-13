@@ -1,5 +1,5 @@
 ---
 title: "Sauratown Mtn Country Store"
 url: /king/sauratown-mtn-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

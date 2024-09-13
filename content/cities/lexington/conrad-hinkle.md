@@ -1,5 +1,5 @@
 ---
 title: "Conrad Hinkle"
 url: /lexington/conrad-hinkle/
-shop: Supermarkt
+shop: supermarket
 ---

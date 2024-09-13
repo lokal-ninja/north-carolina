@@ -1,5 +1,5 @@
 ---
 title: "Energy Fuel"
 url: /morganton/energy-fuel/
-shop: Lebensmittel
+shop: convenience
 ---

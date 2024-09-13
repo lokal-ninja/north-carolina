@@ -1,5 +1,5 @@
 ---
 title: "Topline Nails"
 url: /matthews/topline-nails/
-shop: Kosmetik
+shop: beauty
 ---

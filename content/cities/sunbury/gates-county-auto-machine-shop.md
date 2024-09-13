@@ -1,5 +1,5 @@
 ---
 title: "Gates County Auto Machine Shop"
 url: /sunbury/gates-county-auto-machine-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

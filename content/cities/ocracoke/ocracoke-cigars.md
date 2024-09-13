@@ -1,5 +1,5 @@
 ---
 title: "Ocracoke Cigars"
 url: /ocracoke/ocracoke-cigars/
-shop: Tabak
+shop: tobacco
 ---

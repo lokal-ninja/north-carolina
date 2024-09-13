@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /indian-trail/dollar-tree-highway-74-west/
-shop: Kramladen
+shop: variety store
 ---

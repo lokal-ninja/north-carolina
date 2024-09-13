@@ -1,5 +1,5 @@
 ---
 title: "J Birds"
 url: /lenoir/j-birds/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Earp's"
 url: /mint-hill/earps/
-shop: Lebensmittel
+shop: convenience
 ---

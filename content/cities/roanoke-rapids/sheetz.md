@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /roanoke-rapids/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

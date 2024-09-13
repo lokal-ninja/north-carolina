@@ -1,5 +1,5 @@
 ---
 title: "Noe's Bakery"
 url: /clayton/noes-bakery/
-shop: Bäckerei
+shop: bakery
 ---

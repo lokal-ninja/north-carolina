@@ -1,5 +1,5 @@
 ---
 title: "Burry Chocolates"
 url: /hampstead/burry-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

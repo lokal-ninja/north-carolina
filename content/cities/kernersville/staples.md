@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /kernersville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

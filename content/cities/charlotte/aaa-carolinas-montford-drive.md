@@ -1,5 +1,5 @@
 ---
 title: "AAA Carolinas"
 url: /charlotte/aaa-carolinas-montford-drive/
-shop: Autowerkstatt
+shop: car repair
 ---

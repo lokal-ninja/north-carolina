@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /mount-airy/roses/
-shop: Warenhaus
+shop: department store
 ---

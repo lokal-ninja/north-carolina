@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /candler/autozone/
-shop: Autoteile
+shop: car parts
 ---

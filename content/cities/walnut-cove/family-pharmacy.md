@@ -1,5 +1,5 @@
 ---
 title: "Family Pharmacy"
 url: /walnut-cove/family-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

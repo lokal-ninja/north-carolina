@@ -1,5 +1,5 @@
 ---
 title: "Cruizers"
 url: /oxford/cruizers/
-shop: Lebensmittel
+shop: convenience
 ---

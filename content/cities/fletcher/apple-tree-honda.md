@@ -1,5 +1,5 @@
 ---
 title: "Apple Tree Honda"
 url: /fletcher/apple-tree-honda/
-shop: Autohaus
+shop: car
 ---

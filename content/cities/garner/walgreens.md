@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /garner/walgreens/
-shop: Drogerie
+shop: chemist
 ---

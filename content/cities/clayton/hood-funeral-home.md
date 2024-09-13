@@ -1,5 +1,5 @@
 ---
 title: "Hood Funeral Home"
 url: /clayton/hood-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /mooresville/dollar-general-oakridge-farm-highway/
-shop: Kramladen
+shop: variety store
 ---

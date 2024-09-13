@@ -1,5 +1,5 @@
 ---
 title: "Carls Quik Lube"
 url: /snow-hill/carls-quik-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

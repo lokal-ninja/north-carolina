@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /gastonia/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

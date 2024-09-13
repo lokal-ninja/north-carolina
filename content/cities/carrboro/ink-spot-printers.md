@@ -1,5 +1,5 @@
 ---
 title: "Ink Spot Printers"
 url: /carrboro/ink-spot-printers/
-shop: Kopieren
+shop: copyshop
 ---

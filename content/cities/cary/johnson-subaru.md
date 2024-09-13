@@ -1,5 +1,5 @@
 ---
 title: "Johnson Subaru"
 url: /cary/johnson-subaru/
-shop: Autohaus
+shop: car
 ---

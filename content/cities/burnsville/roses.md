@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /burnsville/roses/
-shop: Warenhaus
+shop: department store
 ---

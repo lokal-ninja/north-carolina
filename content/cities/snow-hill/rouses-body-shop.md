@@ -1,5 +1,5 @@
 ---
 title: "Rouse's Body Shop"
 url: /snow-hill/rouses-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

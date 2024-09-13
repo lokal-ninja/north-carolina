@@ -1,5 +1,5 @@
 ---
 title: "Forsyth Seafood"
 url: /winston-salem/forsyth-seafood/
-shop: Fisch
+shop: seafood
 ---

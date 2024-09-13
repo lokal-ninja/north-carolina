@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /connelly-springs/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

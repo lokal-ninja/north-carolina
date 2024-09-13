@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /aberdeen/best-buy/
-shop: Elektronik
+shop: electronics
 ---

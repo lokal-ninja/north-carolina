@@ -1,5 +1,5 @@
 ---
 title: "Crystal Jewelers"
 url: /greensboro/crystal-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

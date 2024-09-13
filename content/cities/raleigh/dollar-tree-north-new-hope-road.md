@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /raleigh/dollar-tree-north-new-hope-road/
-shop: Kramladen
+shop: variety store
 ---

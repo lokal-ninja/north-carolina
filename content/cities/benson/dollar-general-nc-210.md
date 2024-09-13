@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /benson/dollar-general-nc-210/
-shop: Kramladen
+shop: variety store
 ---

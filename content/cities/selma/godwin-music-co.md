@@ -1,5 +1,5 @@
 ---
 title: "Godwin Music Co"
 url: /selma/godwin-music-co/
-shop: Musik
+shop: music
 ---

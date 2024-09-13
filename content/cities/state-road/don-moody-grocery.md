@@ -1,5 +1,5 @@
 ---
 title: "Don Moody Grocery"
 url: /state-road/don-moody-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /carthage/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market Imports"
 url: /raleigh/market-imports/
-shop: Garten-Center
+shop: garden centre
 ---

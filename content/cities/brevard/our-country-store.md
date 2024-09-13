@@ -1,5 +1,5 @@
 ---
 title: "Our Country Store"
 url: /brevard/our-country-store/
-shop: Eisenwaren
+shop: hardware
 ---

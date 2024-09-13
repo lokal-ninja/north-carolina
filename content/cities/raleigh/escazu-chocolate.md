@@ -1,5 +1,5 @@
 ---
 title: "Escazu Chocolate"
 url: /raleigh/escazu-chocolate/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /raleigh/harris-teeter-edwards-mill-road/
-shop: Supermarkt
+shop: supermarket
 ---

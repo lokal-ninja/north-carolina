@@ -1,5 +1,5 @@
 ---
 title: "Rays Surf Shop"
 url: /mt-gilead/rays-surf-shop/
-shop: Boot
+shop: boat
 ---

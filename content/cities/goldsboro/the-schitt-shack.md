@@ -1,5 +1,5 @@
 ---
 title: "The Schitt Shack"
 url: /goldsboro/the-schitt-shack/
-shop: Andenken
+shop: gift
 ---

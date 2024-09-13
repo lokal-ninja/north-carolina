@@ -1,5 +1,5 @@
 ---
 title: "Boop's Auto Service"
 url: /madison/boops-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

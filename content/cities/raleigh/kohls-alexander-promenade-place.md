@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /raleigh/kohls-alexander-promenade-place/
-shop: Warenhaus
+shop: department store
 ---

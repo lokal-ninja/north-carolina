@@ -1,5 +1,5 @@
 ---
 title: "Sonny's Auto"
 url: /fayetteville/sonnys-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

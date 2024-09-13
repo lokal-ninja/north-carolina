@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Vacuum Systems"
 url: /siler-city/rainbow-vacuum-systems/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

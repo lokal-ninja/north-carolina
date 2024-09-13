@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /clayton/spectrum/
-shop: Handy
+shop: mobile phone
 ---

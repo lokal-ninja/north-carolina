@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /kannapolis/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

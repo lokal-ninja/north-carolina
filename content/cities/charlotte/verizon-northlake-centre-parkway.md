@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /charlotte/verizon-northlake-centre-parkway/
-shop: Handy
+shop: mobile phone
 ---

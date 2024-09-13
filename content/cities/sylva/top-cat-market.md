@@ -1,5 +1,5 @@
 ---
 title: "Top Cat Market"
 url: /sylva/top-cat-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Blanca Nails"
 url: /charlotte/casa-blanca-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Butcher Custom Meat Processing"
 url: /zebulon/country-butcher-custom-meat-processing/
-shop: Metzgerei
+shop: butcher
 ---

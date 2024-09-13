@@ -1,5 +1,5 @@
 ---
 title: "Catauwhale"
 url: /marion/catauwhale/
-shop: Kosmetik
+shop: beauty
 ---

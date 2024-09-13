@@ -1,5 +1,5 @@
 ---
 title: "The Butcher's Block"
 url: /winston-salem/the-butchers-block/
-shop: Metzgerei
+shop: butcher
 ---

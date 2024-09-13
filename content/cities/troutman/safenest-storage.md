@@ -1,5 +1,5 @@
 ---
 title: "SafeNest Storage"
 url: /troutman/safenest-storage/
-shop: Mieten
+shop: storage rental
 ---

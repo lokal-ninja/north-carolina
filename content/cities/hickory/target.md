@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hickory/target/
-shop: Warenhaus
+shop: department store
 ---

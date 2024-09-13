@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /charlotte/firestone-park-road/
-shop: Autowerkstatt
+shop: car repair
 ---

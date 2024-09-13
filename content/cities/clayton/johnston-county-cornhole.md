@@ -1,5 +1,5 @@
 ---
 title: "Johnston County Cornhole"
 url: /clayton/johnston-county-cornhole/
-shop: Spiele
+shop: games
 ---

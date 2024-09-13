@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /wilkesboro/dollar-general-us-421/
-shop: Kramladen
+shop: variety store
 ---

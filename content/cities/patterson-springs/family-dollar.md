@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /patterson-springs/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

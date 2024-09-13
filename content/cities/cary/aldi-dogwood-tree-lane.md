@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cary/aldi-dogwood-tree-lane/
-shop: Supermarkt
+shop: supermarket
 ---

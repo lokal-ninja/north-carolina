@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /huntersville/publix-village-crossing-road/
-shop: Supermarkt
+shop: supermarket
 ---

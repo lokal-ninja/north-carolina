@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /holly-springs/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wellborn Shell Services"
 url: /boone/wellborn-shell-services/
-shop: Autowerkstatt
+shop: car repair
 ---

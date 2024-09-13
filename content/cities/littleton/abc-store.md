@@ -1,5 +1,5 @@
 ---
 title: "ABC Store"
 url: /littleton/abc-store/
-shop: Spirituosen
+shop: alcohol
 ---

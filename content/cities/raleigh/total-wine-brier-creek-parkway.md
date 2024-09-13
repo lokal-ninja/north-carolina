@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /raleigh/total-wine-brier-creek-parkway/
-shop: Spirituosen
+shop: alcohol
 ---

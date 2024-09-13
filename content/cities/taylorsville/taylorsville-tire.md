@@ -1,5 +1,5 @@
 ---
 title: "Taylorsville Tire"
 url: /taylorsville/taylorsville-tire/
-shop: Reifen
+shop: tyres
 ---

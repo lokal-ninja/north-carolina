@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /asheville/whole-foods-market-hendersonville-road/
-shop: Supermarkt
+shop: supermarket
 ---

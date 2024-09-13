@@ -1,5 +1,5 @@
 ---
 title: "Appalachian Homestead"
 url: /black-mountain/appalachian-homestead/
-shop: Möbel
+shop: furniture
 ---

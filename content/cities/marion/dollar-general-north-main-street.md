@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /marion/dollar-general-north-main-street/
-shop: Kramladen
+shop: variety store
 ---

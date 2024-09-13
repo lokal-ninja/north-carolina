@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /lumberton/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

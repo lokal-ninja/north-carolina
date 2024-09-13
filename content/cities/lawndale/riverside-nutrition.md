@@ -1,5 +1,5 @@
 ---
 title: "Riverside Nutrition"
 url: /lawndale/riverside-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

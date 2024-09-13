@@ -1,5 +1,5 @@
 ---
 title: "Clemmons Self Storage"
 url: /clemmons/clemmons-self-storage/
-shop: Mieten
+shop: storage rental
 ---

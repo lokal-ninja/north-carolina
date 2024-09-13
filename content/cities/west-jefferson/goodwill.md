@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /west-jefferson/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

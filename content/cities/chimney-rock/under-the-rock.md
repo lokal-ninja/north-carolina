@@ -1,5 +1,5 @@
 ---
 title: "Under The Rock"
 url: /chimney-rock/under-the-rock/
-shop: Outdoor
+shop: outdoor
 ---

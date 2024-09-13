@@ -1,5 +1,5 @@
 ---
 title: "Buck's Auto Services"
 url: /clayton/bucks-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

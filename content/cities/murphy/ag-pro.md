@@ -1,5 +1,5 @@
 ---
 title: "Ag-Pro"
 url: /murphy/ag-pro/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

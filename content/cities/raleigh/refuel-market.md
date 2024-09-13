@@ -1,5 +1,5 @@
 ---
 title: "Refuel Market"
 url: /raleigh/refuel-market/
-shop: Lebensmittel
+shop: convenience
 ---

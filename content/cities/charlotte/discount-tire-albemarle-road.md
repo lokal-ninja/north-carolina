@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /charlotte/discount-tire-albemarle-road/
-shop: Reifen
+shop: tyres
 ---

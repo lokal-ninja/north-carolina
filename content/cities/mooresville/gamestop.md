@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /mooresville/gamestop/
-shop: Videospiele
+shop: video games
 ---

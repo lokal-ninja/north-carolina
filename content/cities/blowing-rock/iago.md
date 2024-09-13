@@ -1,5 +1,5 @@
 ---
 title: "Iago"
 url: /blowing-rock/iago/
-shop: Kunst
+shop: art
 ---

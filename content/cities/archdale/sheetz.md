@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /archdale/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

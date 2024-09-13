@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /charlotte/office-depot-north-sharon-amity-road/
-shop: Schreibwaren
+shop: office supplies
 ---

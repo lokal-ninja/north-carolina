@@ -1,5 +1,5 @@
 ---
 title: "Country Gardens Florist"
 url: /kenly/country-gardens-florist/
-shop: Blumen
+shop: florist
 ---

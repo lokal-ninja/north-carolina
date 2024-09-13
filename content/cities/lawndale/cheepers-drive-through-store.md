@@ -1,5 +1,5 @@
 ---
 title: "Cheepers Drive Through Store"
 url: /lawndale/cheepers-drive-through-store/
-shop: Lebensmittel
+shop: convenience
 ---

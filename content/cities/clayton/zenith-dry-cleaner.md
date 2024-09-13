@@ -1,5 +1,5 @@
 ---
 title: "Zenith Dry Cleaner"
 url: /clayton/zenith-dry-cleaner/
-shop: Wäscherei
+shop: laundry
 ---

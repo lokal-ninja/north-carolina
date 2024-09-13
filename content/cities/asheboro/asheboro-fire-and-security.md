@@ -1,5 +1,5 @@
 ---
 title: "Asheboro Fire and Security"
 url: /asheboro/asheboro-fire-and-security/
-shop: Sicherheit
+shop: security
 ---

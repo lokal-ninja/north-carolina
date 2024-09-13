@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /southern-pines/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

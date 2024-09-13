@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /cary/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

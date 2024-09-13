@@ -1,5 +1,5 @@
 ---
 title: "Magic on 70"
 url: /hillsborough/magic-on-70/
-shop: Allgemein
+shop: shop
 ---

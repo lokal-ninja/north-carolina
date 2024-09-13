@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /durham/ross-north-pointe-drive/
-shop: Warenhaus
+shop: department store
 ---

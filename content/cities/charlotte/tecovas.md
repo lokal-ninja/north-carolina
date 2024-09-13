@@ -1,5 +1,5 @@
 ---
 title: "Tecovas"
 url: /charlotte/tecovas/
-shop: Kleidung
+shop: clothes
 ---

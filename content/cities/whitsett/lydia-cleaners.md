@@ -1,5 +1,5 @@
 ---
 title: "Lydia Cleaners"
 url: /whitsett/lydia-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

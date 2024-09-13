@@ -1,5 +1,5 @@
 ---
 title: "Travel Mart"
 url: /four-oaks/travel-mart/
-shop: Lebensmittel
+shop: convenience
 ---

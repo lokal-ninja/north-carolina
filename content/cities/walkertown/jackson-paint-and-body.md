@@ -1,5 +1,5 @@
 ---
 title: "jackson paint and body"
 url: /walkertown/jackson-paint-and-body/
-shop: Autowerkstatt
+shop: car repair
 ---

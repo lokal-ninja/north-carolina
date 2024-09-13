@@ -1,5 +1,5 @@
 ---
 title: "Piedmont Drug"
 url: /forest-oaks/piedmont-drug/
-shop: Drogerie
+shop: chemist
 ---

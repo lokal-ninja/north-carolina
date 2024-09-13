@@ -1,5 +1,5 @@
 ---
 title: "Tarheel Hardware and Building Supplies"
 url: /beulaville/tarheel-hardware-and-building-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

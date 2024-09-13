@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /clemmons/cato/
-shop: Kleidung
+shop: clothes
 ---

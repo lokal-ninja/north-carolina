@@ -1,5 +1,5 @@
 ---
 title: "Buddy's Home Furnishings"
 url: /shelby/buddys-home-furnishings/
-shop: Mieten
+shop: storage rental
 ---

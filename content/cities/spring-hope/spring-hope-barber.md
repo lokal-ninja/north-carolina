@@ -1,5 +1,5 @@
 ---
 title: "Spring Hope Barber"
 url: /spring-hope/spring-hope-barber/
-shop: Friseur
+shop: hairdresser
 ---

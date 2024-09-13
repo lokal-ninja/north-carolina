@@ -1,5 +1,5 @@
 ---
 title: "Guns Plus"
 url: /spring-lake/guns-plus/
-shop: Waffen
+shop: weapons
 ---

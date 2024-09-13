@@ -1,5 +1,5 @@
 ---
 title: "Evolve Nutrition"
 url: /smithfield/evolve-nutrition/
-shop: Bioladen
+shop: health food
 ---

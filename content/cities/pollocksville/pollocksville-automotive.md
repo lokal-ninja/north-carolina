@@ -1,5 +1,5 @@
 ---
 title: "Pollocksville Automotive"
 url: /pollocksville/pollocksville-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poppy's Coffee shop"
 url: /beech-mountain/poppys-coffee-shop/
-shop: Kaffee
+shop: coffee
 ---

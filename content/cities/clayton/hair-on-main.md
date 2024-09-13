@@ -1,5 +1,5 @@
 ---
 title: "Hair On Main"
 url: /clayton/hair-on-main/
-shop: Kosmetik
+shop: beauty
 ---

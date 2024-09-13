@@ -1,5 +1,5 @@
 ---
 title: "Nurture Welness Studio"
 url: /bryson-city/nurture-welness-studio/
-shop: Massage
+shop: massage
 ---

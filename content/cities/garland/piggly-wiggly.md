@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /garland/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

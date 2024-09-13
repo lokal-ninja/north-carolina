@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /raleigh/sheetz-dixie-forest-road/
-shop: Lebensmittel
+shop: convenience
 ---

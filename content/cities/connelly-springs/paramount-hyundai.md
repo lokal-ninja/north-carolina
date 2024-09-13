@@ -1,5 +1,5 @@
 ---
 title: "Paramount Hyundai"
 url: /connelly-springs/paramount-hyundai/
-shop: Autohaus
+shop: car
 ---

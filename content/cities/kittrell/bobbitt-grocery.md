@@ -1,5 +1,5 @@
 ---
 title: "Bobbitt Grocery"
 url: /kittrell/bobbitt-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /walkertown/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

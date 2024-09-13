@@ -1,5 +1,5 @@
 ---
 title: "Rotha's"
 url: /thomasville/rothas/
-shop: Schneiderei
+shop: tailor
 ---

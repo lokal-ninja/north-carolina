@@ -1,5 +1,5 @@
 ---
 title: "Prevo Drug"
 url: /asheboro/prevo-drug/
-shop: Drogerie
+shop: chemist
 ---

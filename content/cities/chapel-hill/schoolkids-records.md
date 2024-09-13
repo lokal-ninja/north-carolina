@@ -1,5 +1,5 @@
 ---
 title: "Schoolkids Records"
 url: /chapel-hill/schoolkids-records/
-shop: Musik
+shop: music
 ---

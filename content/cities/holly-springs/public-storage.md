@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /holly-springs/public-storage/
-shop: Mieten
+shop: storage rental
 ---

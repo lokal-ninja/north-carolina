@@ -1,5 +1,5 @@
 ---
 title: "Haywood Auto Group"
 url: /canton/haywood-auto-group/
-shop: Autohaus
+shop: car
 ---

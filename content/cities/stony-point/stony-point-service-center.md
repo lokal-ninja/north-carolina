@@ -1,5 +1,5 @@
 ---
 title: "Stony Point Service Center"
 url: /stony-point/stony-point-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

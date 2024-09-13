@@ -1,5 +1,5 @@
 ---
 title: "Warlick's Shortstop"
 url: /vale/warlicks-shortstop/
-shop: Lebensmittel
+shop: convenience
 ---

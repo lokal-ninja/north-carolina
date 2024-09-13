@@ -1,5 +1,5 @@
 ---
 title: "Big Rock Sports"
 url: /graham/big-rock-sports/
-shop: Allgemein
+shop: shop
 ---

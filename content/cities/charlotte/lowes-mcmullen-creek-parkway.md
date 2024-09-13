@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /charlotte/lowes-mcmullen-creek-parkway/
-shop: Baumarkt
+shop: doityourself
 ---

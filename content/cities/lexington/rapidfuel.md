@@ -1,5 +1,5 @@
 ---
 title: "Rapidfuel"
 url: /lexington/rapidfuel/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "High Tech Auto Repair"
 url: /belhaven/high-tech-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

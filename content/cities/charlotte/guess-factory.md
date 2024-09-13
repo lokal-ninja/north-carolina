@@ -1,5 +1,5 @@
 ---
 title: "Guess Factory"
 url: /charlotte/guess-factory/
-shop: Kleidung
+shop: clothes
 ---

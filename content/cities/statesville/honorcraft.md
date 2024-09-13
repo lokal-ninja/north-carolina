@@ -1,5 +1,5 @@
 ---
 title: "Honorcraft"
 url: /statesville/honorcraft/
-shop: Pokal
+shop: trophy
 ---

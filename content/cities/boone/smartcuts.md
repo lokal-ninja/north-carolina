@@ -1,5 +1,5 @@
 ---
 title: "SmartCuts"
 url: /boone/smartcuts/
-shop: Friseur
+shop: hairdresser
 ---

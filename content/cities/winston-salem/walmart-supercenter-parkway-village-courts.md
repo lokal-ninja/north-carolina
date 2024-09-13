@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /winston-salem/walmart-supercenter-parkway-village-courts/
-shop: Supermarkt
+shop: supermarket
 ---

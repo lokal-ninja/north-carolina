@@ -1,5 +1,5 @@
 ---
 title: "CNP Nails"
 url: /raleigh/cnp-nails-east-six-forks-road/
-shop: Kosmetik
+shop: beauty
 ---

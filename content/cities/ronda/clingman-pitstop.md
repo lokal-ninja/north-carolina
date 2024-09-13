@@ -1,5 +1,5 @@
 ---
 title: "Clingman Pitstop"
 url: /ronda/clingman-pitstop/
-shop: Lebensmittel
+shop: convenience
 ---

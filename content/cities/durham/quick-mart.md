@@ -1,5 +1,5 @@
 ---
 title: "Quick Mart"
 url: /durham/quick-mart/
-shop: Lebensmittel
+shop: convenience
 ---

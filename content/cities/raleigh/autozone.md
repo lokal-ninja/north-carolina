@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /raleigh/autozone/
-shop: Autoteile
+shop: car parts
 ---

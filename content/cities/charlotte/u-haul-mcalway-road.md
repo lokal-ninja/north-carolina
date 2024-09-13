@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /charlotte/u-haul-mcalway-road/
-shop: Mieten
+shop: storage rental
 ---

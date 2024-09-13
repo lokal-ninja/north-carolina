@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /red-springs/autozone/
-shop: Autoteile
+shop: car parts
 ---

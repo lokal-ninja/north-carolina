@@ -1,5 +1,5 @@
 ---
 title: "Pizazz"
 url: /clayton/pizazz/
-shop: Gebrauchtwaren
+shop: charity
 ---

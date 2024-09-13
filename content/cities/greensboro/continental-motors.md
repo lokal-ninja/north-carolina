@@ -1,5 +1,5 @@
 ---
 title: "Continental Motors"
 url: /greensboro/continental-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

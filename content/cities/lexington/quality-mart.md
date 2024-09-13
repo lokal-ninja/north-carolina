@@ -1,5 +1,5 @@
 ---
 title: "Quality Mart"
 url: /lexington/quality-mart/
-shop: Lebensmittel
+shop: convenience
 ---

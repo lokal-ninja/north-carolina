@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /carthage/walgreens/
-shop: Drogerie
+shop: chemist
 ---

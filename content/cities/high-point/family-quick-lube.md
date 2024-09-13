@@ -1,5 +1,5 @@
 ---
 title: "Family Quick Lube"
 url: /high-point/family-quick-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

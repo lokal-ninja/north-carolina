@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /whiteville/carquest/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /concord/hallmark/
-shop: Andenken
+shop: gift
 ---

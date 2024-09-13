@@ -1,5 +1,5 @@
 ---
 title: "The Green Monkey"
 url: /raleigh/the-green-monkey/
-shop: Andenken
+shop: gift
 ---

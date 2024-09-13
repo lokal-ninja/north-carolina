@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /marion/autozone/
-shop: Autoteile
+shop: car parts
 ---

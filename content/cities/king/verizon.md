@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /king/verizon/
-shop: Handy
+shop: mobile phone
 ---

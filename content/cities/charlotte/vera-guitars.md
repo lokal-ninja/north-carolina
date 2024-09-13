@@ -1,5 +1,5 @@
 ---
 title: "Vera Guitars"
 url: /charlotte/vera-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

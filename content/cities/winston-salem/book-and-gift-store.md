@@ -1,5 +1,5 @@
 ---
 title: "Book and Gift Store"
 url: /winston-salem/book-and-gift-store/
-shop: Kramladen
+shop: variety store
 ---

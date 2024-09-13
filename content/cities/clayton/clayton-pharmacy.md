@@ -1,5 +1,5 @@
 ---
 title: "Clayton Pharmacy"
 url: /clayton/clayton-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

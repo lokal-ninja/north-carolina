@@ -1,5 +1,5 @@
 ---
 title: "Allensville Store"
 url: /roxboro/allensville-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jolly's Pawn Shop"
 url: /greenville/jollys-pawn-shop/
-shop: Leiher
+shop: pawnbroker
 ---

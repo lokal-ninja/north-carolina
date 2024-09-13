@@ -1,5 +1,5 @@
 ---
 title: "Hair Images of Walkertown"
 url: /walkertown/hair-images-of-walkertown/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Black Bear"
 url: /cherokee/the-black-bear/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lebo's"
 url: /gastonia/lebos/
-shop: Schuhe
+shop: shoes
 ---

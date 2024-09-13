@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /holly-springs/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

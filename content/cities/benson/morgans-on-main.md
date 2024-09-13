@@ -1,5 +1,5 @@
 ---
 title: "Morgan's On Main"
 url: /benson/morgans-on-main/
-shop: Dorfladen
+shop: general
 ---

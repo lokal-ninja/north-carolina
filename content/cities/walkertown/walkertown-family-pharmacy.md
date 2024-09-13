@@ -1,5 +1,5 @@
 ---
 title: "Walkertown Family Pharmacy"
 url: /walkertown/walkertown-family-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

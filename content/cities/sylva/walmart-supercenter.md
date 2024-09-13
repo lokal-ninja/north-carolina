@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /sylva/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reliable Auto Services"
 url: /waynesville/reliable-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

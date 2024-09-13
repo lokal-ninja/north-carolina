@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /charlotte/lowes-chancellor-park-drive/
-shop: Baumarkt
+shop: doityourself
 ---

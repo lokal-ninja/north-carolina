@@ -1,5 +1,5 @@
 ---
 title: "Webster Brothers Hardware"
 url: /walkertown/webster-brothers-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

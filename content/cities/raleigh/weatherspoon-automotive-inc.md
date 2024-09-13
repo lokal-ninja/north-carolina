@@ -1,5 +1,5 @@
 ---
 title: "Weatherspoon Automotive Inc"
 url: /raleigh/weatherspoon-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

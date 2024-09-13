@@ -1,5 +1,5 @@
 ---
 title: "Granville Gun Works"
 url: /creedmoor/granville-gun-works/
-shop: Waffen
+shop: weapons
 ---

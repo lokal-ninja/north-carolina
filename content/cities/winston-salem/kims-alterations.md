@@ -1,5 +1,5 @@
 ---
 title: "Kim's Alterations"
 url: /winston-salem/kims-alterations/
-shop: Schneiderei
+shop: tailor
 ---

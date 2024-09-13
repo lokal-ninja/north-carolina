@@ -1,5 +1,5 @@
 ---
 title: "Pruden’s Mechanical"
 url: /jackson/prudens-mechanical/
-shop: Autowerkstatt
+shop: car repair
 ---

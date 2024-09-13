@@ -1,5 +1,5 @@
 ---
 title: "Paramount Kia Asheville"
 url: /asheville/paramount-kia-asheville/
-shop: Autohaus
+shop: car
 ---

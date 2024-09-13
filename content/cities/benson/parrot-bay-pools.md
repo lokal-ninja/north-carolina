@@ -1,5 +1,5 @@
 ---
 title: "Parrot Bay Pools"
 url: /benson/parrot-bay-pools/
-shop: Pool
+shop: swimming pool
 ---

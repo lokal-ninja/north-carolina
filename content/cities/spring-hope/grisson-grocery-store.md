@@ -1,5 +1,5 @@
 ---
 title: "Grisson Grocery Store"
 url: /spring-hope/grisson-grocery-store/
-shop: Supermarkt
+shop: supermarket
 ---

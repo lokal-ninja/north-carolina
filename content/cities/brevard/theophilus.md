@@ -1,5 +1,5 @@
 ---
 title: "Theophilus"
 url: /brevard/theophilus/
-shop: Kleidung
+shop: clothes
 ---

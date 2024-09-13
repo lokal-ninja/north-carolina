@@ -1,5 +1,5 @@
 ---
 title: "Sunny's"
 url: /fayetteville/sunnys/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mission Valley Service Station"
 url: /raleigh/mission-valley-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

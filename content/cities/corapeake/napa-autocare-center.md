@@ -1,5 +1,5 @@
 ---
 title: "NAPA AutoCare Center"
 url: /corapeake/napa-autocare-center/
-shop: Autowerkstatt
+shop: car repair
 ---

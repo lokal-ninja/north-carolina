@@ -1,5 +1,5 @@
 ---
 title: "Super Wings"
 url: /duck/super-wings/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /stedman/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

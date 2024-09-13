@@ -1,5 +1,5 @@
 ---
 title: "Triad Auto Speciality"
 url: /greensboro/triad-auto-speciality/
-shop: Autowerkstatt
+shop: car repair
 ---

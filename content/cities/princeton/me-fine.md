@@ -1,5 +1,5 @@
 ---
 title: "Me Fine"
 url: /princeton/me-fine/
-shop: Gebrauchtwaren
+shop: charity
 ---

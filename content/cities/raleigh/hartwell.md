@@ -1,5 +1,5 @@
 ---
 title: "Hartwell"
 url: /raleigh/hartwell/
-shop: Allgemein
+shop: shop
 ---

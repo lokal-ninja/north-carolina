@@ -1,5 +1,5 @@
 ---
 title: "Euro AutoWorks"
 url: /hamptonville/euro-autoworks/
-shop: Autowerkstatt
+shop: car repair
 ---

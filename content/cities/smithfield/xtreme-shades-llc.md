@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Shades, LLC"
 url: /smithfield/xtreme-shades-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

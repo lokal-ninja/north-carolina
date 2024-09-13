@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /asheville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

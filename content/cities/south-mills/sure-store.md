@@ -1,5 +1,5 @@
 ---
 title: "Sure-Store"
 url: /south-mills/sure-store/
-shop: Mieten
+shop: storage rental
 ---

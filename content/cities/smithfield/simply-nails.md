@@ -1,5 +1,5 @@
 ---
 title: "Simply Nails"
 url: /smithfield/simply-nails/
-shop: Kosmetik
+shop: beauty
 ---

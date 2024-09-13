@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pilot-mountain/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

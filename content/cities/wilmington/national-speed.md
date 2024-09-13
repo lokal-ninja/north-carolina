@@ -1,5 +1,5 @@
 ---
 title: "National Speed"
 url: /wilmington/national-speed/
-shop: Autoteile
+shop: car parts
 ---

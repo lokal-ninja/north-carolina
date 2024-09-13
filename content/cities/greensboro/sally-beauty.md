@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /greensboro/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

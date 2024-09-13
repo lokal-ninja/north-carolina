@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /charlotte/walgreens-little-rock-road/
-shop: Drogerie
+shop: chemist
 ---

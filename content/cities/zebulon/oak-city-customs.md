@@ -1,5 +1,5 @@
 ---
 title: "Oak City Customs"
 url: /zebulon/oak-city-customs/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ski Country Sports"
 url: /asheville/ski-country-sports/
-shop: Sport
+shop: sports
 ---

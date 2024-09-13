@@ -1,5 +1,5 @@
 ---
 title: "Kounrty Market"
 url: /morganton/kounrty-market/
-shop: Lebensmittel
+shop: convenience
 ---

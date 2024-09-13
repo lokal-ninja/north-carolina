@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /clemmons/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raheeb Market"
 url: /durham/raheeb-market/
-shop: Lebensmittel
+shop: convenience
 ---

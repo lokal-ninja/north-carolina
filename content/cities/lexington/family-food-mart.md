@@ -1,5 +1,5 @@
 ---
 title: "FAMILY FOOD MART"
 url: /lexington/family-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

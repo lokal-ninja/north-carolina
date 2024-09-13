@@ -1,5 +1,5 @@
 ---
 title: "Youngsville Pharmacy"
 url: /youngsville/youngsville-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

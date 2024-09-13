@@ -1,5 +1,5 @@
 ---
 title: "Fort Bragg Collision Center"
 url: /spring-lake/fort-bragg-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

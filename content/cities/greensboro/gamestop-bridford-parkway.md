@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /greensboro/gamestop-bridford-parkway/
-shop: Videospiele
+shop: video games
 ---

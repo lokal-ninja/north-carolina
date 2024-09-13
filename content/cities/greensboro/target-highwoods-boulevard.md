@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /greensboro/target-highwoods-boulevard/
-shop: Warenhaus
+shop: department store
 ---

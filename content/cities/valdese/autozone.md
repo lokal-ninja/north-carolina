@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /valdese/autozone/
-shop: Autoteile
+shop: car parts
 ---

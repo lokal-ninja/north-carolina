@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /wilmington/lowes-porters-neck-road/
-shop: Baumarkt
+shop: doityourself
 ---

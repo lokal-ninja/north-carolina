@@ -1,5 +1,5 @@
 ---
 title: "Hogan's Pharmacy"
 url: /lillington/hogans-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

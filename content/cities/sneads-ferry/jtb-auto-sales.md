@@ -1,5 +1,5 @@
 ---
 title: "JTB Auto Sales"
 url: /sneads-ferry/jtb-auto-sales/
-shop: Autohaus
+shop: car
 ---

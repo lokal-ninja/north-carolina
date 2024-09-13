@@ -1,5 +1,5 @@
 ---
 title: "Majestic Music"
 url: /spruce-pine/majestic-music/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /fuquay-varina/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

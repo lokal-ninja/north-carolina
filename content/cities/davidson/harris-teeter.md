@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /davidson/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

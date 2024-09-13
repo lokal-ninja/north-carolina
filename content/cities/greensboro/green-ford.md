@@ -1,5 +1,5 @@
 ---
 title: "Green Ford"
 url: /greensboro/green-ford/
-shop: Autohaus
+shop: car
 ---

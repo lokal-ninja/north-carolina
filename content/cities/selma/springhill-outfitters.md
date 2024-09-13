@@ -1,5 +1,5 @@
 ---
 title: "Springhill Outfitters"
 url: /selma/springhill-outfitters/
-shop: Outdoor
+shop: outdoor
 ---

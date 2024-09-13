@@ -1,5 +1,5 @@
 ---
 title: "Hazelwood Soap Company"
 url: /waynesville/hazelwood-soap-company/
-shop: Allgemein
+shop: shop
 ---

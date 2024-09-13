@@ -1,5 +1,5 @@
 ---
 title: "Nailz"
 url: /raeford/nailz/
-shop: Kosmetik
+shop: beauty
 ---

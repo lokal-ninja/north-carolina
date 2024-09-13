@@ -1,5 +1,5 @@
 ---
 title: "Thomas Auto Repair"
 url: /fairmont/thomas-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

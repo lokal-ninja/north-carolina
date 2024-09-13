@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /harmony/rainbow/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

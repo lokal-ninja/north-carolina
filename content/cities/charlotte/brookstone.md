@@ -1,5 +1,5 @@
 ---
 title: "Brookstone"
 url: /charlotte/brookstone/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thad Woods Auction"
 url: /waynesville/thad-woods-auction/
-shop: Allgemein
+shop: shop
 ---

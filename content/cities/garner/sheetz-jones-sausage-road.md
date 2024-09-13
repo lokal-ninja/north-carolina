@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /garner/sheetz-jones-sausage-road/
-shop: Lebensmittel
+shop: convenience
 ---

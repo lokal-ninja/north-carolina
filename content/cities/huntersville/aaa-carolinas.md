@@ -1,5 +1,5 @@
 ---
 title: "AAA Carolinas"
 url: /huntersville/aaa-carolinas/
-shop: Autowerkstatt
+shop: car repair
 ---

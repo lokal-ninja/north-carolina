@@ -1,5 +1,5 @@
 ---
 title: "AKA Nail Boutique"
 url: /charlotte/aka-nail-boutique/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crisp Funeral Home"
 url: /bryson-city/crisp-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

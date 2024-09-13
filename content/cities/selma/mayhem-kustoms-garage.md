@@ -1,5 +1,5 @@
 ---
 title: "MAYHEM KUSTOMS GARAGE"
 url: /selma/mayhem-kustoms-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

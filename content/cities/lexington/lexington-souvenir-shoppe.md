@@ -1,5 +1,5 @@
 ---
 title: "Lexington Souvenir Shoppe"
 url: /lexington/lexington-souvenir-shoppe/
-shop: Andenken
+shop: gift
 ---

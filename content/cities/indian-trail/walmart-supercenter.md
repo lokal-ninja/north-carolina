@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /indian-trail/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bearwallow Provision Company"
 url: /gerton/bearwallow-provision-company/
-shop: Dorfladen
+shop: general
 ---

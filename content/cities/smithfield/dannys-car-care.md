@@ -1,5 +1,5 @@
 ---
 title: "Danny’s Car Care"
 url: /smithfield/dannys-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAA Carolinas"
 url: /raleigh/aaa-carolinas-n-new-hope-rd/
-shop: Autowerkstatt
+shop: car repair
 ---

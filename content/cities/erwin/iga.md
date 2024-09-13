@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /erwin/iga/
-shop: Supermarkt
+shop: supermarket
 ---

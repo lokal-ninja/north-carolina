@@ -1,5 +1,5 @@
 ---
 title: "French Broad Vintage"
 url: /spruce-pine/french-broad-vintage/
-shop: Antiquitäten
+shop: antiques
 ---

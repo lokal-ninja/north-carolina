@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /charlotte/harris-teeter-golf-links-drive/
-shop: Supermarkt
+shop: supermarket
 ---

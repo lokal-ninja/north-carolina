@@ -1,5 +1,5 @@
 ---
 title: "Ayers Automotive"
 url: /statesville/ayers-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

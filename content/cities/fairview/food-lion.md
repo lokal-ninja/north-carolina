@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /fairview/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

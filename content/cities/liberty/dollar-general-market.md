@@ -1,5 +1,5 @@
 ---
 title: "Dollar General Market"
 url: /liberty/dollar-general-market/
-shop: Supermarkt
+shop: supermarket
 ---

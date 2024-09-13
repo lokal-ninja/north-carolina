@@ -1,5 +1,5 @@
 ---
 title: "Lynn Peterson Store"
 url: /green-mountain/lynn-peterson-store/
-shop: Lebensmittel
+shop: convenience
 ---

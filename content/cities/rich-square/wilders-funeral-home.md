@@ -1,5 +1,5 @@
 ---
 title: "Wilder's Funeral Home"
 url: /rich-square/wilders-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

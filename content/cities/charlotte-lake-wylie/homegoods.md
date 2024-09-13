@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /charlotte-lake-wylie/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

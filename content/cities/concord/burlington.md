@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /concord/burlington/
-shop: Warenhaus
+shop: department store
 ---

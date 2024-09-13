@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /pineville/belk/
-shop: Warenhaus
+shop: department store
 ---

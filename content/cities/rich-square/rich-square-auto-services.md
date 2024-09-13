@@ -1,5 +1,5 @@
 ---
 title: "Rich Square Auto Services"
 url: /rich-square/rich-square-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

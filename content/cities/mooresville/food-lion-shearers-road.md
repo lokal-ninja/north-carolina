@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /mooresville/food-lion-shearers-road/
-shop: Supermarkt
+shop: supermarket
 ---

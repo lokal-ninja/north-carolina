@@ -1,5 +1,5 @@
 ---
 title: "Harwood Funeral Home"
 url: /black-mountain/harwood-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

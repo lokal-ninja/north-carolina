@@ -1,5 +1,5 @@
 ---
 title: "Moose Tracks"
 url: /brevard/moose-tracks/
-shop: Schuhe
+shop: shoes
 ---

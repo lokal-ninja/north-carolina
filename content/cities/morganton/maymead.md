@@ -1,5 +1,5 @@
 ---
 title: "Maymead"
 url: /morganton/maymead/
-shop: Autowerkstatt
+shop: car repair
 ---

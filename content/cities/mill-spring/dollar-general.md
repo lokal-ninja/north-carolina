@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /mill-spring/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

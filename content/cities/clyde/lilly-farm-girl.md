@@ -1,5 +1,5 @@
 ---
 title: "Lilly Farm Girl"
 url: /clyde/lilly-farm-girl/
-shop: Kerzen
+shop: candles
 ---

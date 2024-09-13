@@ -1,5 +1,5 @@
 ---
 title: "Coffee House"
 url: /north-wilkesboro/coffee-house/
-shop: Kaffee
+shop: coffee
 ---

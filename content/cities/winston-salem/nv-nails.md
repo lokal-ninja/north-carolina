@@ -1,5 +1,5 @@
 ---
 title: "NV Nails"
 url: /winston-salem/nv-nails/
-shop: Kosmetik
+shop: beauty
 ---

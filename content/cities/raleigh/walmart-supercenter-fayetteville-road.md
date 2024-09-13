@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /raleigh/walmart-supercenter-fayetteville-road/
-shop: Supermarkt
+shop: supermarket
 ---

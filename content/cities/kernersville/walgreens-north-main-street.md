@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /kernersville/walgreens-north-main-street/
-shop: Drogerie
+shop: chemist
 ---

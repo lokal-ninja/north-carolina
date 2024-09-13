@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /apex/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

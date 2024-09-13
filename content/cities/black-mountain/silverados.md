@@ -1,5 +1,5 @@
 ---
 title: "Silverados"
 url: /black-mountain/silverados/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mountain-Ear Hearing Associates"
 url: /conover/mountain-ear-hearing-associates/
-shop: Hörgeräte
+shop: hearing aids
 ---

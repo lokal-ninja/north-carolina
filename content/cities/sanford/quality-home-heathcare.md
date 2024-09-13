@@ -1,5 +1,5 @@
 ---
 title: "Quality Home Heathcare"
 url: /sanford/quality-home-heathcare/
-shop: Sanitätshaus
+shop: medical supply
 ---

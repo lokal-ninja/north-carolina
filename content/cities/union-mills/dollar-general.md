@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /union-mills/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /pineville/jared/
-shop: Schmuck
+shop: jewelry
 ---

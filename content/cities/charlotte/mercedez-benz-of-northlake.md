@@ -1,5 +1,5 @@
 ---
 title: "Mercedez-Benz of Northlake"
 url: /charlotte/mercedez-benz-of-northlake/
-shop: Autohaus
+shop: car
 ---

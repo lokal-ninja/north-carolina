@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /smithfield/iga/
-shop: Supermarkt
+shop: supermarket
 ---

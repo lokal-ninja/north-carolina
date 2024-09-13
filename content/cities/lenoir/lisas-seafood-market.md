@@ -1,5 +1,5 @@
 ---
 title: "Lisa’s Seafood Market"
 url: /lenoir/lisas-seafood-market/
-shop: Fisch
+shop: seafood
 ---

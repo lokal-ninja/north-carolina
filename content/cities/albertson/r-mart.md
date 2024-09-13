@@ -1,5 +1,5 @@
 ---
 title: "R-Mart"
 url: /albertson/r-mart/
-shop: Lebensmittel
+shop: convenience
 ---

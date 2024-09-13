@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /charlotte/family-dollar-south-boulevard/
-shop: Kramladen
+shop: variety store
 ---

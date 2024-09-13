@@ -1,5 +1,5 @@
 ---
 title: "Fern House Salon"
 url: /charlotte/fern-house-salon/
-shop: Friseur
+shop: hairdresser
 ---

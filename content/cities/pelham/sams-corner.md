@@ -1,5 +1,5 @@
 ---
 title: "Sam's Corner"
 url: /pelham/sams-corner/
-shop: Lebensmittel
+shop: convenience
 ---

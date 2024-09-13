@@ -1,5 +1,5 @@
 ---
 title: "Cabarrus Hosiery Inc"
 url: /mt-pleasant/cabarrus-hosiery-inc/
-shop: Kleidung
+shop: clothes
 ---

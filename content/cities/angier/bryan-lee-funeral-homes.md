@@ -1,5 +1,5 @@
 ---
 title: "BRYAN LEE FUNERAL HOMES"
 url: /angier/bryan-lee-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

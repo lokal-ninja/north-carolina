@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /greensboro/harris-teeter-high-point-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kay Express"
 url: /marion/kay-express/
-shop: Lebensmittel
+shop: convenience
 ---

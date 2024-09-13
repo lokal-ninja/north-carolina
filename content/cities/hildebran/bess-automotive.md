@@ -1,5 +1,5 @@
 ---
 title: "Bess Automotive"
 url: /hildebran/bess-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

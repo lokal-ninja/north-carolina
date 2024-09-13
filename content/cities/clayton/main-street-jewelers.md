@@ -1,5 +1,5 @@
 ---
 title: "Main Street Jewelers"
 url: /clayton/main-street-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

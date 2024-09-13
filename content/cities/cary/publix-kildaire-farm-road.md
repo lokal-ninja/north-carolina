@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /cary/publix-kildaire-farm-road/
-shop: Supermarkt
+shop: supermarket
 ---

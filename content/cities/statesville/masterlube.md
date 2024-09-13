@@ -1,5 +1,5 @@
 ---
 title: "MasterLube"
 url: /statesville/masterlube/
-shop: Autowerkstatt
+shop: car repair
 ---

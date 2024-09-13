@@ -1,5 +1,5 @@
 ---
 title: "Deacon Jones Chevrolet"
 url: /smithfield/deacon-jones-chevrolet/
-shop: Autohaus
+shop: car
 ---

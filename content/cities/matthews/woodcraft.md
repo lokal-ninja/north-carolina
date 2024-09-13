@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft"
 url: /matthews/woodcraft/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /morganton/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /goldsboro/family-dollar-east-ash-street/
-shop: Kramladen
+shop: variety store
 ---

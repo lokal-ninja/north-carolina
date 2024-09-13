@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /mint-hill/dollar-general-lawyers-road/
-shop: Kramladen
+shop: variety store
 ---

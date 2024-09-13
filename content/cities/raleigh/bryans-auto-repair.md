@@ -1,5 +1,5 @@
 ---
 title: "Bryan's Auto Repair"
 url: /raleigh/bryans-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

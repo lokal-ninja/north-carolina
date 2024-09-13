@@ -1,5 +1,5 @@
 ---
 title: "Rayz Car Lot"
 url: /selma/rayz-car-lot/
-shop: Autohaus
+shop: car
 ---

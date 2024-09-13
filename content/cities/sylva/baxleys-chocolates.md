@@ -1,5 +1,5 @@
 ---
 title: "Baxley's Chocolates"
 url: /sylva/baxleys-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

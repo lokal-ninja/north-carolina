@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /lexington/food-lion-forest-hill-road/
-shop: Supermarkt
+shop: supermarket
 ---

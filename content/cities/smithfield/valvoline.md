@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /smithfield/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

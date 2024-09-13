@@ -1,5 +1,5 @@
 ---
 title: "K Webb"
 url: /garner/k-webb/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wildkitchen Supply"
 url: /sylva/wildkitchen-supply/
-shop: Haushaltsartikel
+shop: houseware
 ---

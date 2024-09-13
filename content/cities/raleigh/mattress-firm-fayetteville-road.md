@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /raleigh/mattress-firm-fayetteville-road/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Down East Furniture"
 url: /la-grange/down-east-furniture/
-shop: Möbel
+shop: furniture
 ---

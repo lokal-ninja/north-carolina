@@ -1,5 +1,5 @@
 ---
 title: "Glow Tanning"
 url: /biscoe/glow-tanning/
-shop: Kosmetik
+shop: beauty
 ---

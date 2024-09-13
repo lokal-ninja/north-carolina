@@ -1,5 +1,5 @@
 ---
 title: "Scratch Made Snackery"
 url: /hatteras/scratch-made-snackery/
-shop: Bäckerei
+shop: bakery
 ---

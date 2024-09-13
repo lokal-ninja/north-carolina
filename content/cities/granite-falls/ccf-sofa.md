@@ -1,5 +1,5 @@
 ---
 title: "CCF-Sofa"
 url: /granite-falls/ccf-sofa/
-shop: Möbel
+shop: furniture
 ---

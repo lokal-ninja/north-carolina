@@ -1,5 +1,5 @@
 ---
 title: "Brandon's"
 url: /black-mountain/brandons/
-shop: Andenken
+shop: gift
 ---

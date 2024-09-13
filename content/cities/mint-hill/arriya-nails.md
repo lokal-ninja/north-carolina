@@ -1,5 +1,5 @@
 ---
 title: "Arriya Nails"
 url: /mint-hill/arriya-nails/
-shop: Kosmetik
+shop: beauty
 ---

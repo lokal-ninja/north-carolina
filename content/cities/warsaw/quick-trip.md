@@ -1,5 +1,5 @@
 ---
 title: "Quick Trip"
 url: /warsaw/quick-trip/
-shop: Lebensmittel
+shop: convenience
 ---

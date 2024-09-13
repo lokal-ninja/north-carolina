@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /charlotte/dollar-general-heathway-drive/
-shop: Kramladen
+shop: variety store
 ---

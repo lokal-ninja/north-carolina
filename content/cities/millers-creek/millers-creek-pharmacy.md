@@ -1,5 +1,5 @@
 ---
 title: "Millers Creek Pharmacy"
 url: /millers-creek/millers-creek-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

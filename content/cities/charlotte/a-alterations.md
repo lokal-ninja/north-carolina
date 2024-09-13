@@ -1,5 +1,5 @@
 ---
 title: "A+ Alterations"
 url: /charlotte/a-alterations/
-shop: Schneiderei
+shop: tailor
 ---

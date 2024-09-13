@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /lincolnton/big-lots/
-shop: Warenhaus
+shop: department store
 ---

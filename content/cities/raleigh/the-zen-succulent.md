@@ -1,5 +1,5 @@
 ---
 title: "The ZEN Succulent"
 url: /raleigh/the-zen-succulent/
-shop: Andenken
+shop: gift
 ---

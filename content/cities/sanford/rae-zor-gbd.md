@@ -1,5 +1,5 @@
 ---
 title: "RAE-ZOR GBD"
 url: /sanford/rae-zor-gbd/
-shop: Tiersalon
+shop: pet grooming
 ---

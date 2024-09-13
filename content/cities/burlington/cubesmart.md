@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /burlington/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

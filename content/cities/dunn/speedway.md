@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dunn/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

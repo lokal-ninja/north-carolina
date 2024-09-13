@@ -1,5 +1,5 @@
 ---
 title: "Back Street Mercantile"
 url: /gold-hill/back-street-mercantile/
-shop: Andenken
+shop: gift
 ---

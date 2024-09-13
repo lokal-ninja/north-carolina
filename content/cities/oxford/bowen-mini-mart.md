@@ -1,5 +1,5 @@
 ---
 title: "Bowen Mini Mart"
 url: /oxford/bowen-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

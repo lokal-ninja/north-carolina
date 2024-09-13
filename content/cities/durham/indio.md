@@ -1,5 +1,5 @@
 ---
 title: "Indio"
 url: /durham/indio/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star Meat Delivery"
 url: /lucama/star-meat-delivery/
-shop: Großhandel
+shop: wholesale
 ---

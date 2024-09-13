@@ -1,5 +1,5 @@
 ---
 title: "Country Market"
 url: /dysartsville/country-market/
-shop: Lebensmittel
+shop: convenience
 ---

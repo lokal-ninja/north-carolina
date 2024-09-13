@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /apex/autozone/
-shop: Autoteile
+shop: car parts
 ---

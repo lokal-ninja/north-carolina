@@ -1,5 +1,5 @@
 ---
 title: "Mid Town Laundry Mat"
 url: /warsaw/mid-town-laundry-mat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cellular Sales"
 url: /southport/cellular-sales/
-shop: Handy
+shop: mobile phone
 ---

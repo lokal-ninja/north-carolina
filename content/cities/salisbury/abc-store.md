@@ -1,5 +1,5 @@
 ---
 title: "ABC Store"
 url: /salisbury/abc-store/
-shop: Spirituosen
+shop: alcohol
 ---

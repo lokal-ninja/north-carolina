@@ -1,5 +1,5 @@
 ---
 title: "Leith Nissan"
 url: /cary/leith-nissan/
-shop: Autohaus
+shop: car
 ---

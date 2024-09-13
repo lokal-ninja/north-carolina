@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lenoir/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

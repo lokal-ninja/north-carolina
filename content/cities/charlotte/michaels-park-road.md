@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /charlotte/michaels-park-road/
-shop: Basteln
+shop: craft
 ---

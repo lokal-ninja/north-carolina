@@ -1,5 +1,5 @@
 ---
 title: "Snappy Lube"
 url: /angier/snappy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fred Anderson Toyota of Asheville"
 url: /asheville/fred-anderson-toyota-of-asheville/
-shop: Autohaus
+shop: car
 ---
