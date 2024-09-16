@@ -1,11 +1,11 @@
 id: 767991678
-type: way
+type: node
 latitude: 35.34742
 longitude: -80.8543
 postcode: "28216"
 city: Charlotte
-street: "Perimeter Parkway"
-housenumber: 10235
-phone: "+1 704-599-0475"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nc/charlotte-store1510.html"
+street: Perimeter Parkway
+housenumber: "10235"
+phone: +1 704-599-0475
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nc/charlotte-store1510.html

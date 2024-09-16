@@ -1,11 +1,11 @@
 id: 387612077
-type: way
+type: node
 latitude: 35.01025
 longitude: -78.34157
 postcode: "28328"
 city: Clinton
-street: "McKoy Street"
-housenumber: 1129
+street: McKoy Street
+housenumber: "1129"
 phone: "+19105923959"
 opening_hours: ""
 website: ""

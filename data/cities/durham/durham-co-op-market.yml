@@ -1,11 +1,11 @@
 id: 329733259
-type: way
+type: node
 latitude: 35.99638
 longitude: -78.91686
 postcode: "27701"
 city: Durham
-street: "West Chapel Hill Street"
-housenumber: 1111
+street: West Chapel Hill Street
+housenumber: "1111"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://durham.coop"
+opening_hours: Mo-Su 07:00-21:00
+website: https://durham.coop

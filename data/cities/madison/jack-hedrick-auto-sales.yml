@@ -1,11 +1,11 @@
 id: 581411719
-type: way
+type: node
 latitude: 36.38415
 longitude: -79.9502
 postcode: "27025"
 city: Madison
-street: "NC-704"
-housenumber: 4801
+street: NC-704
+housenumber: "4801"
 phone: "+13364271915"
 opening_hours: ""
 website: ""

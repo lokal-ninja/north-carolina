@@ -1,11 +1,11 @@
 id: 587232073
-type: way
+type: node
 latitude: 35.453
 longitude: -79.138
 postcode: "27332"
 city: Sanford
-street: "South Horner Boulevard"
-housenumber: 2910
+street: South Horner Boulevard
+housenumber: "2910"
 phone: ""
 opening_hours: ""
 website: ""

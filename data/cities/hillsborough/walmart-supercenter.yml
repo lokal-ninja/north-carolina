@@ -1,11 +1,11 @@
 id: 383210946
-type: way
+type: node
 latitude: 36.05572
 longitude: -79.08675
 postcode: "27278"
 city: Hillsborough
-street: "Hampton Pointe B"
-housenumber: 501
-phone: "+1-919-732-9172"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1191/hillsborough-nc/whats-new"
+street: Hampton Pointe B
+housenumber: "501"
+phone: +1-919-732-9172
+opening_hours: 24/7
+website: https://www.walmart.com/store/1191/hillsborough-nc/whats-new

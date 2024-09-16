@@ -1,11 +1,11 @@
 id: 32066449
-type: way
+type: node
 latitude: 35.75844
 longitude: -78.74003
 postcode: "27518"
 city: Cary
-street: "Walnut Street"
-housenumber: 2011
-phone: "+1 919-233-8575"
-opening_hours: "Mo-Th 08:30-19:30; Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/nc/cary/office-depot-317"
+street: Walnut Street
+housenumber: "2011"
+phone: +1 919-233-8575
+opening_hours: Mo-Th 08:30-19:30; Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/nc/cary/office-depot-317

@@ -1,11 +1,11 @@
 id: 1280339082
-type: way
+type: node
 latitude: 35.89922
 longitude: -75.66985
 postcode: "27954"
 city: Manteo
-street: "South Highway"
-housenumber: 506
+street: South Highway
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

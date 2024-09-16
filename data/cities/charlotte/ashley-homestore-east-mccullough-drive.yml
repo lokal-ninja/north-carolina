@@ -1,11 +1,11 @@
 id: 1089922234
-type: way
+type: node
 latitude: 35.30104
 longitude: -80.74814
 postcode: "28262"
 city: Charlotte
-street: "East McCullough Drive"
-housenumber: 430
-phone: "+1 704-369-2200"
+street: East McCullough Drive
+housenumber: "430"
+phone: +1 704-369-2200
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/north-carolina/charlotte/7710000244/"
+website: https://stores.ashleyfurniture.com/store/us/north-carolina/charlotte/7710000244/

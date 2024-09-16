@@ -1,11 +1,11 @@
 id: 595987240
-type: way
+type: node
 latitude: 35.50625
 longitude: -82.52329
-postcode: "28803-3207"
+postcode: 28803-3207
 city: Asheville
-street: "Hendersonville Road"
-housenumber: 1830
-phone: "+1 828-274-6287"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1473"
+street: Hendersonville Road
+housenumber: "1830"
+phone: +1 828-274-6287
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1473

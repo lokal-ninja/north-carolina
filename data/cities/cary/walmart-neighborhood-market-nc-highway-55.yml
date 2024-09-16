@@ -1,11 +1,11 @@
 id: 32076653
-type: way
+type: node
 latitude: 35.78578
 longitude: -78.86922
 postcode: "27519"
 city: Cary
-street: "NC Highway 55"
-housenumber: 2750
-phone: "+1 919-335-0051"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4157-cary-nc"
+street: NC Highway 55
+housenumber: "2750"
+phone: +1 919-335-0051
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4157-cary-nc

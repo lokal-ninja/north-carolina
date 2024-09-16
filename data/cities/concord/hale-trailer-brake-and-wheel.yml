@@ -1,11 +1,11 @@
 id: 893742113
-type: way
+type: node
 latitude: 35.3966
 longitude: -80.70169
 postcode: "28027"
 city: Concord
-street: "Ivey Cline Road"
-housenumber: 1335
+street: Ivey Cline Road
+housenumber: "1335"
 phone: ""
 opening_hours: ""
-website: "https://haletrailer.com/locations/concord-nc/"
+website: https://haletrailer.com/locations/concord-nc/

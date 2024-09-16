@@ -1,11 +1,11 @@
 id: 1295702910
-type: way
+type: node
 latitude: 36.40804
 longitude: -76.75324
 postcode: "27938"
 city: Gatesville
-street: "Main Street"
-housenumber: 405
+street: Main Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

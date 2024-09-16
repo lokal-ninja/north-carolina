@@ -1,11 +1,11 @@
 id: 514928782
-type: way
+type: node
 latitude: 35.14838
 longitude: -80.92483
 postcode: "28217"
 city: Charlotte
-street: "South Tryon Street"
-housenumber: 7705
+street: South Tryon Street
+housenumber: "7705"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256931111
-type: way
+type: node
 latitude: 36.06399
 longitude: -79.68321
-postcode: "27301-9228"
+postcode: 27301-9228
 city: McLeansville
-street: "Knox Road"
-housenumber: 1089
-phone: "+1 336 6973000"
-opening_hours: "09:00-19:00"
-website: "https://www.replacements.com/"
+street: Knox Road
+housenumber: "1089"
+phone: +1 336 6973000
+opening_hours: 09:00-19:00
+website: https://www.replacements.com/

@@ -1,11 +1,11 @@
 id: 1010829181
-type: way
+type: node
 latitude: 35.25866
 longitude: -81.07664
 postcode: "28101"
 city: McAdenville
-street: "Main Street"
-housenumber: 109
+street: Main Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

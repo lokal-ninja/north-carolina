@@ -1,11 +1,11 @@
 id: 776208952
-type: way
+type: node
 latitude: 35.40295
 longitude: -80.43279
 postcode: "28124"
 city: Mt Pleasant
-street: "Cook Street"
-housenumber: 8559
+street: Cook Street
+housenumber: "8559"
 phone: "+17044369915"
 opening_hours: ""
 website: ""

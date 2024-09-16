@@ -1,11 +1,11 @@
 id: 276158502
-type: way
+type: node
 latitude: 35.43957
 longitude: -82.24798
 postcode: "28720"
 city: Chimney Rock
-street: "Main Street"
-housenumber: 397
-phone: "(828) 625-5524"
+street: Main Street
+housenumber: "397"
+phone: (828) 625-5524
 opening_hours: ""
 website: ""

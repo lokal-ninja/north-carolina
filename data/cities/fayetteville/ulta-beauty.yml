@@ -4,8 +4,8 @@ latitude: 35.0682
 longitude: -78.96232
 postcode: "28314"
 city: Fayetteville
-street: "Morganton Road"
-housenumber: 5075
-phone: "+1 910-487-0281"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/fayetteville-nc-219"
+street: Morganton Road
+housenumber: "5075"
+phone: +1 910-487-0281
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/fayetteville-nc-219

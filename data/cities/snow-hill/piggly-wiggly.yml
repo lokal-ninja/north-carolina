@@ -1,11 +1,11 @@
 id: 1059608245
-type: way
+type: node
 latitude: 35.45366
 longitude: -77.68913
 postcode: "28580"
 city: Snow Hill
-street: "Kingold Boulevard"
-housenumber: 414
-phone: "+1 252-747-1067"
+street: Kingold Boulevard
+housenumber: "414"
+phone: +1 252-747-1067
 opening_hours: ""
 website: ""

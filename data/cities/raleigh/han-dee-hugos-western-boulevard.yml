@@ -1,11 +1,11 @@
 id: 47777015
-type: way
+type: node
 latitude: 35.78485
 longitude: -78.72277
 postcode: "27606"
 city: Raleigh
-street: "Western Boulevard"
-housenumber: 5633
+street: Western Boulevard
+housenumber: "5633"
 phone: ""
 opening_hours: ""
 website: ""

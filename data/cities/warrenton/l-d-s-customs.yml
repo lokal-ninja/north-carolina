@@ -1,11 +1,11 @@
 id: 548191788
-type: way
+type: node
 latitude: 36.39737
 longitude: -78.15639
 postcode: "27589"
 city: Warrenton
-street: "West Franklin Street"
-housenumber: 114
+street: West Franklin Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

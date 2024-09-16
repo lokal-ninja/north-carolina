@@ -1,11 +1,11 @@
 id: 1077799319
-type: way
+type: node
 latitude: 35.90716
 longitude: -78.78343
 postcode: "27617"
 city: Raleigh
-street: "Brier Creek Parkway"
-housenumber: 8381
-phone: "+1 919-293-0362"
-opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 09:00-22:00; Su 10:00-19:00"
-website: "https://www.totalwine.com/store-info/607"
+street: Brier Creek Parkway
+housenumber: "8381"
+phone: +1 919-293-0362
+opening_hours: Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 09:00-22:00; Su 10:00-19:00
+website: https://www.totalwine.com/store-info/607

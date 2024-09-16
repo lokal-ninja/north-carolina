@@ -1,11 +1,11 @@
 id: 868704939
-type: way
+type: node
 latitude: 35.10189
 longitude: -80.98957
 postcode: "28273"
 city: Charlotte
-street: "Steele Creek Road"
-housenumber: 14124
+street: Steele Creek Road
+housenumber: "14124"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/nc/charlotte/steele-creek-rd/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/nc/charlotte/steele-creek-rd/

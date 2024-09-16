@@ -1,11 +1,11 @@
 id: 562910768
-type: way
+type: node
 latitude: 35.54724
 longitude: -77.03402
 postcode: "27889"
 city: Washington
-street: "John Small Avenue"
-housenumber: 1220
+street: John Small Avenue
+housenumber: "1220"
 phone: "+12529468839"
 opening_hours: ""
 website: ""

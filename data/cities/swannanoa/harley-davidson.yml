@@ -1,11 +1,11 @@
 id: 380080398
-type: way
+type: node
 latitude: 35.5982
 longitude: -82.40222
 postcode: "28778"
 city: Swannanoa
-street: "Patton Cove Road"
-housenumber: 20
+street: Patton Cove Road
+housenumber: "20"
 phone: "+18285812000"
 opening_hours: ""
 website: ""

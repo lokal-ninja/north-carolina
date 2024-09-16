@@ -1,11 +1,11 @@
 id: 1252042902
-type: way
+type: node
 latitude: 35.38789
 longitude: -81.21012
 postcode: "28034"
 city: Dallas
-street: "South Lincoln Street"
-housenumber: 800
+street: South Lincoln Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

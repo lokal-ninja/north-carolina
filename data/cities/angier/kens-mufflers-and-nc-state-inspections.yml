@@ -1,11 +1,11 @@
 id: 1127929150
-type: way
+type: node
 latitude: 35.49534
 longitude: -78.7562
 postcode: "27501"
 city: Angier
-street: "Matthews Mill Pond Road"
-housenumber: 120
-phone: "(919) 639-3664"
+street: Matthews Mill Pond Road
+housenumber: "120"
+phone: (919) 639-3664
 opening_hours: ""
 website: ""

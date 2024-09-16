@@ -1,11 +1,11 @@
 id: 299349423
-type: way
+type: node
 latitude: 36.29549
 longitude: -76.29945
 postcode: "27909"
 city: Elizabeth City
-street: "Tanglewood Parkway North"
-housenumber: 101
-phone: "+1 252-338-3367"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1527/elizabeth-city-nc/whats-new"
+street: Tanglewood Parkway North
+housenumber: "101"
+phone: +1 252-338-3367
+opening_hours: 24/7
+website: https://www.walmart.com/store/1527/elizabeth-city-nc/whats-new

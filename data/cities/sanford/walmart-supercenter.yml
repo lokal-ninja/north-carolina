@@ -1,11 +1,11 @@
 id: 587232061
-type: way
+type: node
 latitude: 35.44375
 longitude: -79.13028
 postcode: "27332"
 city: Sanford
-street: "Nc Highway 87 South"
-housenumber: 3310
-phone: "+1 919-776-9388"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1774/sanford-nc/whats-new"
+street: Nc Highway 87 South
+housenumber: "3310"
+phone: +1 919-776-9388
+opening_hours: 24/7
+website: https://www.walmart.com/store/1774/sanford-nc/whats-new

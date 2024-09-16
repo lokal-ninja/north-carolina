@@ -1,11 +1,11 @@
 id: 47917467
-type: way
+type: node
 latitude: 35.82078
 longitude: -78.62791
 postcode: "27609"
 city: Raleigh
-street: "East Six Forks Road"
-housenumber: 300
+street: East Six Forks Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/nc/raleigh/oil-change-gz0002.html"
+website: https://store.vioc.com/nc/raleigh/oil-change-gz0002.html

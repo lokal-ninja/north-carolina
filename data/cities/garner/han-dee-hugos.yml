@@ -1,11 +1,11 @@
 id: 823006817
-type: way
+type: node
 latitude: 35.63565
 longitude: -78.61398
 postcode: "27529"
 city: Garner
-street: "Benson Road"
-housenumber: 3400
+street: Benson Road
+housenumber: "3400"
 phone: "+19196621825"
 opening_hours: ""
 website: ""

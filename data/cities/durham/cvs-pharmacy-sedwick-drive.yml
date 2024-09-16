@@ -1,11 +1,11 @@
 id: 617513032
-type: way
+type: node
 latitude: 35.88903
 longitude: -78.89507
 postcode: "27713"
 city: Durham
-street: "Sedwick Drive"
-housenumber: 2010
+street: Sedwick Drive
+housenumber: "2010"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/durham-nc-pharmacies/2010-sedwick-rd-durham-nc-27713/storeid=7042"
+website: https://www.cvs.com/store-locator/durham-nc-pharmacies/2010-sedwick-rd-durham-nc-27713/storeid=7042

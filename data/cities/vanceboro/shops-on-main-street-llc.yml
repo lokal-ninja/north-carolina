@@ -1,11 +1,11 @@
 id: 1221782755
-type: way
+type: node
 latitude: 35.30098
 longitude: -77.15375
 postcode: "28586"
 city: Vanceboro
-street: "Main Street"
-housenumber: 8011
+street: Main Street
+housenumber: "8011"
 phone: "+12522442255"
 opening_hours: ""
 website: ""

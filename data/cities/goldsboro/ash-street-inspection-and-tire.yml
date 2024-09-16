@@ -1,11 +1,11 @@
 id: 1015165589
-type: way
+type: node
 latitude: 35.384
 longitude: -77.99096
 postcode: "27530"
 city: Goldsboro
-street: "East Ash Street"
-housenumber: 320
+street: East Ash Street
+housenumber: "320"
 phone: "+19197368055"
 opening_hours: ""
 website: ""

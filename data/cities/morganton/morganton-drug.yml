@@ -1,11 +1,11 @@
 id: 301974088
-type: way
+type: node
 latitude: 35.74205
 longitude: -81.68363
 postcode: "28655"
 city: Morganton
-street: "South Sterling Street"
-housenumber: 500
+street: South Sterling Street
+housenumber: "500"
 phone: "+18284336353"
 opening_hours: ""
 website: ""

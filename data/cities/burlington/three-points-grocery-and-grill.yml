@@ -1,11 +1,11 @@
 id: 812973626
-type: way
+type: node
 latitude: 36.26881
 longitude: -79.34771
 postcode: "27217"
 city: Burlington
-street: "NC-62"
-housenumber: 11126
+street: NC-62
+housenumber: "11126"
 phone: "+13364210206"
 opening_hours: ""
 website: ""

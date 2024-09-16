@@ -1,11 +1,11 @@
 id: 606794598
-type: way
+type: node
 latitude: 35.44409
 longitude: -82.53276
 postcode: "28704"
 city: Arden
-street: "Brian Boulevard"
-housenumber: 9
-phone: "+1 828 684-9024"
+street: Brian Boulevard
+housenumber: "9"
+phone: +1 828 684-9024
 opening_hours: ""
 website: ""

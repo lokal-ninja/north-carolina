@@ -1,11 +1,11 @@
 id: 897547893
-type: way
+type: node
 latitude: 35.04951
 longitude: -80.61685
 postcode: "28110"
 city: Monroe
-street: "US-74"
-housenumber: 4810
-phone: "+1 704-296-0607"
+street: US-74
+housenumber: "4810"
+phone: +1 704-296-0607
 opening_hours: ""
-website: "http://gmdirectautomotive.com"
+website: http://gmdirectautomotive.com

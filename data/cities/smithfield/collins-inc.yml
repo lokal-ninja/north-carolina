@@ -1,11 +1,11 @@
 id: 1055680217
-type: way
+type: node
 latitude: 35.49037
 longitude: -78.26983
 postcode: "27577"
 city: Smithfield
-street: "US 70 Business East"
-housenumber: 4620
+street: US 70 Business East
+housenumber: "4620"
 phone: "9199343143"
 opening_hours: ""
 website: ""

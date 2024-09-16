@@ -1,11 +1,11 @@
 id: 762975884
-type: way
+type: node
 latitude: 35.26168
 longitude: -79.04526
 postcode: "28326"
 city: Cameron
-street: "NC 24-87"
-housenumber: 1025
+street: NC 24-87
+housenumber: "1025"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cameron-nc-pharmacies/1025-nc-24-87-cameron-nc-28326/storeid=10157"
+website: https://www.cvs.com/store-locator/cameron-nc-pharmacies/1025-nc-24-87-cameron-nc-28326/storeid=10157

@@ -1,11 +1,11 @@
 id: 643625763
-type: way
+type: node
 latitude: 35.43786
 longitude: -78.08348
 postcode: "27530"
 city: Goldsboro
-street: "Isaac Smith Rd"
-housenumber: 678
+street: Isaac Smith Rd
+housenumber: "678"
 phone: "+19197344616"
 opening_hours: ""
 website: ""

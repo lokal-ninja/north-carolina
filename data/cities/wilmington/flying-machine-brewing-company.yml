@@ -1,11 +1,11 @@
 id: 900969028
-type: way
+type: node
 latitude: 34.2295
 longitude: -77.90146
 postcode: "28403"
 city: Wilmington
-street: "Randall Parkway"
-housenumber: 3130
+street: Randall Parkway
+housenumber: "3130"
 phone: ""
 opening_hours: ""
 website: ""

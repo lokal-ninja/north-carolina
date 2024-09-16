@@ -1,11 +1,11 @@
 id: 485439506
-type: way
+type: node
 latitude: 35.6619
 longitude: -80.50221
 postcode: "28147"
 city: Salisbury
-street: "Jake Alexander Boulevard West"
-housenumber: 525
-phone: "+1 704 636 7615"
-opening_hours: "06:00-24:00"
-website: "https://www.foodlion.com/stores/nc/salisbury/10/"
+street: Jake Alexander Boulevard West
+housenumber: "525"
+phone: +1 704 636 7615
+opening_hours: 06:00-24:00
+website: https://www.foodlion.com/stores/nc/salisbury/10/

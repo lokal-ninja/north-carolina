@@ -1,11 +1,11 @@
 id: 627320802
-type: way
+type: node
 latitude: 36.07237
 longitude: -79.49699
 postcode: "27215"
 city: Burlington
-street: "Garden Road"
-housenumber: 3129
-phone: "+1 336-586-9222"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Garden Road
+housenumber: "3129"
+phone: +1 336-586-9222
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

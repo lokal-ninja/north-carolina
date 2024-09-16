@@ -1,11 +1,11 @@
 id: 117073643
-type: way
+type: node
 latitude: 35.99696
 longitude: -78.88831
 postcode: "27701"
 city: Durham
-street: "Mallard Avenue"
-housenumber: 812
+street: Mallard Avenue
+housenumber: "812"
 phone: ""
 opening_hours: ""
-website: "https://counterculturecoffee.com/"
+website: https://counterculturecoffee.com/

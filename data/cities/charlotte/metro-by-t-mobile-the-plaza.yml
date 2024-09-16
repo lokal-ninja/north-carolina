@@ -1,11 +1,11 @@
 id: 323584457
-type: way
+type: node
 latitude: 35.24897
 longitude: -80.78162
 postcode: "28205"
 city: Charlotte
-street: "The Plaza"
-housenumber: 4314
+street: The Plaza
+housenumber: "4314"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-charlotte-nc-10233676/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-charlotte-nc-10233676/

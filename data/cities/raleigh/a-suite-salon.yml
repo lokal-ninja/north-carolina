@@ -1,11 +1,11 @@
 id: 693836763
-type: way
+type: node
 latitude: 35.85876
 longitude: -78.68021
 postcode: "27612"
 city: Raleigh
-street: "West Millbrook Road"
-housenumber: 2091
+street: West Millbrook Road
+housenumber: "2091"
 phone: ""
 opening_hours: ""
 website: ""

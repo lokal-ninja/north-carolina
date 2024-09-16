@@ -1,11 +1,11 @@
 id: 863436231
-type: way
+type: node
 latitude: 35.33354
 longitude: -82.44618
 postcode: "28792"
 city: Hendersonville
-street: "Four Seasons Boulevard"
-housenumber: 1800
+street: Four Seasons Boulevard
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

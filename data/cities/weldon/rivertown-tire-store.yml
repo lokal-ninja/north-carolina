@@ -1,11 +1,11 @@
 id: 737965975
-type: way
+type: node
 latitude: 36.42883
 longitude: -77.59467
 postcode: "27890"
 city: Weldon
-street: "Sycamore Street"
-housenumber: 
+street: Sycamore Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

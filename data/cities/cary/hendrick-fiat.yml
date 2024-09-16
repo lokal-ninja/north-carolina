@@ -1,11 +1,11 @@
 id: 32075341
-type: way
+type: node
 latitude: 35.73956
 longitude: -78.8087
 postcode: "27511"
 city: Cary
-street: "Mackenan Drive"
-housenumber: 91
+street: Mackenan Drive
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

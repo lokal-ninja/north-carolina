@@ -1,11 +1,11 @@
 id: 1138943445
-type: way
+type: node
 latitude: 35.75598
 longitude: -77.97563
 postcode: "27896"
 city: Wilson
-street: "US 264 Alternate West"
-housenumber: 4170
+street: US 264 Alternate West
+housenumber: "4170"
 phone: ""
 opening_hours: ""
 website: ""

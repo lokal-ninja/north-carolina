@@ -1,11 +1,11 @@
 id: 835397287
-type: way
+type: node
 latitude: 35.28402
 longitude: -81.28776
 postcode: "28016"
 city: Bessemer City
-street: "West Alabama Avenue"
-housenumber: 208
-phone: "704 629 2271"
+street: West Alabama Avenue
+housenumber: "208"
+phone: 704 629 2271
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 846795483
-type: way
+type: node
 latitude: 35.26366
 longitude: -77.64297
 postcode: "28504"
 city: Kinston
-street: "West Vernon Avenue"
-housenumber: 4003
+street: West Vernon Avenue
+housenumber: "4003"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4003+w+vernon+ave-kinston-nc-28504/id=15511"
+website: https://www.walgreens.com/locator/walgreens-4003+w+vernon+ave-kinston-nc-28504/id=15511

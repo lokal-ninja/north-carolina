@@ -1,11 +1,11 @@
 id: 768695081
-type: way
+type: node
 latitude: 35.86711
 longitude: -78.56564
 postcode: "27616"
 city: Raleigh
-street: "Target Side Drive"
-housenumber: 8051
-phone: "919-900-7376"
-opening_hours: "24/7"
-website: "https://eaglesgas.com"
+street: Target Side Drive
+housenumber: "8051"
+phone: 919-900-7376
+opening_hours: 24/7
+website: https://eaglesgas.com

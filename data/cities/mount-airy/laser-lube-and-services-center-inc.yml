@@ -1,11 +1,11 @@
 id: 770730278
-type: way
+type: node
 latitude: 36.47773
 longitude: -80.6172
 postcode: "27030"
 city: Mount Airy
-street: "Rockford Street"
-housenumber: 2101
+street: Rockford Street
+housenumber: "2101"
 phone: "+13367896799"
 opening_hours: ""
 website: ""

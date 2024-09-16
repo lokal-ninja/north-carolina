@@ -1,11 +1,11 @@
 id: 566005278
-type: way
+type: node
 latitude: 35.34958
 longitude: -82.47354
 postcode: "28791"
 city: Hendersonville
-street: "Asheville Highway"
-housenumber: 2520
+street: Asheville Highway
+housenumber: "2520"
 phone: ""
 opening_hours: ""
 website: ""

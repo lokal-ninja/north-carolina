@@ -1,11 +1,11 @@
 id: 672495804
-type: way
+type: node
 latitude: 35.18803
 longitude: -80.89151
 postcode: "28217"
 city: Charlotte
-street: "Pressley Road"
-housenumber: 654
+street: Pressley Road
+housenumber: "654"
 phone: ""
 opening_hours: ""
 website: ""

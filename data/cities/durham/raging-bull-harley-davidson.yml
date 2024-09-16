@@ -1,11 +1,11 @@
 id: 709201924
-type: way
+type: node
 latitude: 35.9947
 longitude: -78.86218
 postcode: "27703"
 city: Durham
-street: "Muldee Street"
-housenumber: 300
-phone: "+1 919 596-9511"
-opening_hours: "Mo-Fr 09:00-19:00 Sa 09:00-18:00 Su 11:00 17:00"
-website: "https://www.ragingbullhd.com"
+street: Muldee Street
+housenumber: "300"
+phone: +1 919 596-9511
+opening_hours: Mo-Fr 09:00-19:00 Sa 09:00-18:00 Su 11:00 17:00
+website: https://www.ragingbullhd.com

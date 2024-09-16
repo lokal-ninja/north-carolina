@@ -1,11 +1,11 @@
 id: 783526655
-type: way
+type: node
 latitude: 34.99368
 longitude: -78.13716
 postcode: "28365"
 city: Warsaw
-street: "NC-24"
-housenumber: 2680
-phone: "(910) 293-7200"
+street: NC-24
+housenumber: "2680"
+phone: (910) 293-7200
 opening_hours: ""
 website: ""

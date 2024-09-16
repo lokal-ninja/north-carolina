@@ -1,11 +1,11 @@
 id: 773022696
-type: way
+type: node
 latitude: 35.28001
 longitude: -81.54022
 postcode: "28150"
 city: Shelby
-street: "South Washington Street"
-housenumber: 814
+street: South Washington Street
+housenumber: "814"
 phone: ""
 opening_hours: ""
 website: ""

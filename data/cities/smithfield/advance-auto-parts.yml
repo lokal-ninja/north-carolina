@@ -1,11 +1,11 @@
 id: 704973613
-type: way
+type: node
 latitude: 35.50925
 longitude: -78.33861
 postcode: "27577"
 city: Smithfield
-street: "North Brightleaf Boulevard"
-housenumber: 110
-phone: "(919) 934-9458"
+street: North Brightleaf Boulevard
+housenumber: "110"
+phone: (919) 934-9458
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/smithfield/110-n-brightleaf-blvd"
+website: https://stores.advanceautoparts.com/nc/smithfield/110-n-brightleaf-blvd

@@ -1,11 +1,11 @@
 id: 700738893
-type: way
+type: node
 latitude: 35.66226
 longitude: -78.70337
 postcode: "27603"
 city: Raleigh
-street: "Fayetteville Highway"
-housenumber: 8300
+street: Fayetteville Highway
+housenumber: "8300"
 phone: ""
 opening_hours: ""
 website: ""

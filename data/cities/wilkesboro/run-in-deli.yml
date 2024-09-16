@@ -1,11 +1,11 @@
 id: 740450243
-type: way
+type: node
 latitude: 36.1365
 longitude: -81.14617
 postcode: "28697"
 city: Wilkesboro
-street: "Oakwoods Road"
-housenumber: 417
+street: Oakwoods Road
+housenumber: "417"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

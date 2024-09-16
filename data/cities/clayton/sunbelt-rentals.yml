@@ -1,11 +1,11 @@
 id: 1006475555
-type: way
+type: node
 latitude: 35.60702
 longitude: -78.41772
 postcode: "27520"
 city: Clayton
-street: "US 70 Business East"
-housenumber: 7635
-phone: "(919) 243-6375"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
+street: US 70 Business East
+housenumber: "7635"
+phone: (919) 243-6375
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
 website: ""

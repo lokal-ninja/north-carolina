@@ -1,11 +1,11 @@
 id: 599955177
-type: way
+type: node
 latitude: 36.06432
 longitude: -80.3115
 postcode: "27103"
 city: Winston-Salem
-street: "South Stratford Road"
-housenumber: 1990
-phone: "+1-336-760-2355"
-opening_hours: "Mo-Sa 08:00-20:00, Su 12:00-18:00"
-website: "https://www.verizonwireless.com/stores/north-carolina/winston-salem/winston-salem-355612/"
+street: South Stratford Road
+housenumber: "1990"
+phone: +1-336-760-2355
+opening_hours: Mo-Sa 08:00-20:00, Su 12:00-18:00
+website: https://www.verizonwireless.com/stores/north-carolina/winston-salem/winston-salem-355612/

@@ -1,11 +1,11 @@
 id: 1240336001
-type: way
+type: node
 latitude: 33.88799
 longitude: -78.43527
 postcode: "28469"
 city: Ocean Isle Beach
-street: "East 1st Street"
-housenumber: 15
-phone: "+1-910-393-0201"
+street: East 1st Street
+housenumber: "15"
+phone: +1-910-393-0201
 opening_hours: ""
-website: "https://www.beachlifeonline.com"
+website: https://www.beachlifeonline.com

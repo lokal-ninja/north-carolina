@@ -1,11 +1,11 @@
 id: 554358178
-type: way
+type: node
 latitude: 35.71083
 longitude: -80.89526
 postcode: "28166"
 city: Troutman
-street: "North Main Street"
-housenumber: 533
+street: North Main Street
+housenumber: "533"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-533+n+main+st-troutman-nc-28166/id=16120"
+website: https://www.walgreens.com/locator/walgreens-533+n+main+st-troutman-nc-28166/id=16120

@@ -1,11 +1,11 @@
 id: 397181068
-type: way
+type: node
 latitude: 36.08579
 longitude: -78.30302
 postcode: "27549"
 city: Louisburg
-street: "NC-39"
-housenumber: 502
+street: NC-39
+housenumber: "502"
 phone: "+19194965099"
 opening_hours: ""
 website: ""

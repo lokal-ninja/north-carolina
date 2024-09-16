@@ -1,11 +1,11 @@
 id: 1206044122
-type: way
+type: node
 latitude: 35.53289
 longitude: -82.83861
 postcode: "28716"
 city: Canton
-street: "Park Street"
-housenumber: 80
+street: Park Street
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

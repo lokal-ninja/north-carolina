@@ -1,11 +1,11 @@
 id: 427932787
-type: way
+type: node
 latitude: 35.82467
 longitude: -80.25186
 postcode: "27292"
 city: Lexington
-street: "East 2nd Street"
-housenumber: 15
-phone: "+1-336-705-1176"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://lexingtonbikeshop.com/"
+street: East 2nd Street
+housenumber: "15"
+phone: +1-336-705-1176
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://lexingtonbikeshop.com/

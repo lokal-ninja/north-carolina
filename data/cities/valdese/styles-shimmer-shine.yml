@@ -1,11 +1,11 @@
 id: 1244559710
-type: way
+type: node
 latitude: 35.74051
 longitude: -81.52945
 postcode: "28690"
 city: Valdese
-street: "US 70"
-housenumber: 130
+street: US 70
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

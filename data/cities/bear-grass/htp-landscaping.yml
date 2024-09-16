@@ -1,11 +1,11 @@
 id: 771939254
-type: way
+type: node
 latitude: 35.76612
 longitude: -77.12962
 postcode: "27892"
 city: Bear Grass
-street: "West Bear Grass Road"
-housenumber: 6524
+street: West Bear Grass Road
+housenumber: "6524"
 phone: ""
 opening_hours: ""
 website: ""

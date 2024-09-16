@@ -1,11 +1,11 @@
 id: 663058565
-type: way
+type: node
 latitude: 35.97037
 longitude: -78.96127
 postcode: "27707"
 city: Durham
-street: "Petty Road"
-housenumber: 3302
+street: Petty Road
+housenumber: "3302"
 phone: ""
 opening_hours: ""
 website: ""

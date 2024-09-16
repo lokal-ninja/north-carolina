@@ -1,11 +1,11 @@
 id: 1053335675
-type: way
+type: node
 latitude: 35.21324
 longitude: -80.00162
 postcode: "27306"
 city: Mount Gilead
-street: "South Main Street"
-housenumber: 116
+street: South Main Street
+housenumber: "116"
 phone: "+19104396541"
 opening_hours: ""
 website: ""

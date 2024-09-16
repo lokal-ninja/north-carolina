@@ -1,11 +1,11 @@
 id: 430877113
-type: way
+type: node
 latitude: 35.06481
 longitude: -78.95758
 postcode: "28314"
 city: Fayetteville
-street: "Glensford Drive"
-housenumber: 255
-phone: "+1 910-867-1246"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/nc/fayetteville-183.shtml"
+street: Glensford Drive
+housenumber: "255"
+phone: +1 910-867-1246
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/nc/fayetteville-183.shtml

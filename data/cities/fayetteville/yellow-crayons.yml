@@ -1,11 +1,11 @@
 id: 278563665
-type: way
+type: node
 latitude: 35.05385
 longitude: -78.88139
 postcode: "28301"
 city: Fayetteville
-street: "Hay Street"
-housenumber: 314
+street: Hay Street
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

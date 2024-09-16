@@ -4,8 +4,8 @@ latitude: 35.20661
 longitude: -80.86233
 postcode: "28203"
 city: Charlotte
-street: "South Boulevard"
-housenumber: 2222
-phone: "+1 704-373-2122"
-opening_hours: "Mo-Su 06:30-23:00"
-website: "https://www.publix.com/"
+street: South Boulevard
+housenumber: "2222"
+phone: +1 704-373-2122
+opening_hours: Mo-Su 06:30-23:00
+website: https://www.publix.com/

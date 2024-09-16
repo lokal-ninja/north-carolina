@@ -1,11 +1,11 @@
 id: 561024585
-type: way
+type: node
 latitude: 36.43629
 longitude: -78.18641
 postcode: "27563"
 city: Norlina
-street: "US-158"
-housenumber: 1258
-phone: "(252) 701-1463"
+street: US-158
+housenumber: "1258"
+phone: (252) 701-1463
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/norlina/3434"
+website: https://www.dollargeneral.com/store-directory/nc/norlina/3434

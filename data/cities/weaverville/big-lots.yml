@@ -4,8 +4,8 @@ latitude: 35.70557
 longitude: -82.56697
 postcode: "28787"
 city: Weaverville
-street: "Weaver Boulevard"
-housenumber: 125
-phone: "+1 828-658-6995"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/nc/weaverville/125-weaver-blvd"
+street: Weaver Boulevard
+housenumber: "125"
+phone: +1 828-658-6995
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/nc/weaverville/125-weaver-blvd

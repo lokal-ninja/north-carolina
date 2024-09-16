@@ -1,11 +1,11 @@
 id: 1013180217
-type: way
+type: node
 latitude: 35.55238
 longitude: -76.62521
 postcode: "27810"
 city: Belhaven
-street: "US Highway 264 Bypass"
-housenumber: 926
+street: US Highway 264 Bypass
+housenumber: "926"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/belhaven/926-us-highway-264-byp"
+website: https://stores.advanceautoparts.com/nc/belhaven/926-us-highway-264-byp

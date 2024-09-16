@@ -1,11 +1,11 @@
 id: 588747949
-type: way
+type: node
 latitude: 35.48477
 longitude: -79.16079
 postcode: "27330"
 city: Sanford
-street: "Charlotte Avenue"
-housenumber: 632
+street: Charlotte Avenue
+housenumber: "632"
 phone: ""
 opening_hours: ""
 website: ""

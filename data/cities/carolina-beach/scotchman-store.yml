@@ -1,11 +1,11 @@
 id: 1087551699
-type: way
+type: node
 latitude: 34.02631
 longitude: -77.89608
 postcode: "28428"
 city: Carolina Beach
-street: "South Lake Park Boulevard"
-housenumber: 808
+street: South Lake Park Boulevard
+housenumber: "808"
 phone: "+19104586325"
 opening_hours: ""
 website: ""

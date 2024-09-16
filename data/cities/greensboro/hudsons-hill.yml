@@ -1,11 +1,11 @@
 id: 207790167
-type: way
+type: node
 latitude: 36.06638
 longitude: -79.79064
 postcode: "27406"
 city: Greensboro
-street: "South Elm Street"
-housenumber: 527
-phone: "+1 336-833-5857"
-opening_hours: "Mo-Th 12:00-18:00;Fr 12:00-20:00;Sa 12:00-18:00"
-website: "https://www.hudsonshill.com/"
+street: South Elm Street
+housenumber: "527"
+phone: +1 336-833-5857
+opening_hours: Mo-Th 12:00-18:00;Fr 12:00-20:00;Sa 12:00-18:00
+website: https://www.hudsonshill.com/

@@ -1,11 +1,11 @@
 id: 697338281
-type: way
+type: node
 latitude: 35.55271
 longitude: -77.40488
 postcode: "28590"
 city: Winterville
-street: "Whitley Drive"
-housenumber: 650
-phone: "+1 252-355-3717"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/409"
+street: Whitley Drive
+housenumber: "650"
+phone: +1 252-355-3717
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/409

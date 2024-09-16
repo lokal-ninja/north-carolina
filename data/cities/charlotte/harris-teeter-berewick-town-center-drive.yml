@@ -1,11 +1,11 @@
 id: 514909150
-type: way
+type: node
 latitude: 35.16088
 longitude: -80.97332
 postcode: "28278"
 city: Charlotte
-street: "Berewick Town Center Drive"
-housenumber: 4821
-phone: "+1 704-587-1011"
-opening_hours: "Su-Sa 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/charlotte/berewick-town-center/097/00003"
+street: Berewick Town Center Drive
+housenumber: "4821"
+phone: +1 704-587-1011
+opening_hours: Su-Sa 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/charlotte/berewick-town-center/097/00003

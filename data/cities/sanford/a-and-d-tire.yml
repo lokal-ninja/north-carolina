@@ -1,11 +1,11 @@
 id: 630741070
-type: way
+type: node
 latitude: 35.37803
 longitude: -79.11062
 postcode: "27332"
 city: Sanford
-street: "NC-87 North"
-housenumber: 5061
+street: NC-87 North
+housenumber: "5061"
 phone: "+19194992479"
 opening_hours: ""
-website: "https://aatire.yolasite.com/"
+website: https://aatire.yolasite.com/

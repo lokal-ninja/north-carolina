@@ -1,11 +1,11 @@
 id: 617512604
-type: way
+type: node
 latitude: 35.89382
 longitude: -78.89758
 postcode: "27713"
 city: Durham
-street: "Apex Highway;NC Highway 55"
-housenumber: 5202
+street: Apex Highway;NC Highway 55
+housenumber: "5202"
 phone: ""
 opening_hours: ""
 website: ""

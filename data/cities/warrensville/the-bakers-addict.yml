@@ -1,11 +1,11 @@
 id: 650872415
-type: way
+type: node
 latitude: 36.46131
 longitude: -81.51438
 postcode: "28693"
 city: Warrensville
-street: "Northwest School Road"
-housenumber: 319
-phone: "(336) 384-4050"
+street: Northwest School Road
+housenumber: "319"
+phone: (336) 384-4050
 opening_hours: ""
 website: ""

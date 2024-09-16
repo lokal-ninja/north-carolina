@@ -1,11 +1,11 @@
 id: 1082759822
-type: way
+type: node
 latitude: 35.64365
 longitude: -82.57948
 postcode: "28804"
 city: Asheville
-street: "Weaverville Road"
-housenumber: 119
+street: Weaverville Road
+housenumber: "119"
 phone: "+18285199079"
 opening_hours: ""
 website: ""

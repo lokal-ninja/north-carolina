@@ -1,11 +1,11 @@
 id: 562608737
-type: way
+type: node
 latitude: 34.75949
 longitude: -76.52728
 postcode: "28579"
 city: Smyrna
-street: "Marshallberg Road"
-housenumber: 111
-phone: "(252) 729-8001"
-opening_hours: "08:00-04:00"
+street: Marshallberg Road
+housenumber: "111"
+phone: (252) 729-8001
+opening_hours: 08:00-04:00
 website: ""

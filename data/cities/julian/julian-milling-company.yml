@@ -1,11 +1,11 @@
 id: 833949983
-type: way
+type: node
 latitude: 35.90613
 longitude: -79.66254
 postcode: "27283"
 city: Julian
-street: "Old Second Street"
-housenumber: 7405
+street: Old Second Street
+housenumber: "7405"
 phone: "+13366854433"
 opening_hours: ""
 website: ""

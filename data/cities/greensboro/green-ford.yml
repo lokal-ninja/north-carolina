@@ -1,11 +1,11 @@
 id: 340888541
-type: way
+type: node
 latitude: 36.06049
 longitude: -79.87439
 postcode: "27407"
 city: Greensboro
-street: "West Wendover Avenue"
-housenumber: 3800
-phone: "(888) 504-7973"
+street: West Wendover Avenue
+housenumber: "3800"
+phone: (888) 504-7973
 opening_hours: ""
-website: "https://www.greenford.com/"
+website: https://www.greenford.com/

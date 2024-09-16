@@ -4,8 +4,8 @@ latitude: 35.63559
 longitude: -78.44228
 postcode: "27520"
 city: Clayton
-street: "US 70 Business East"
-housenumber: 9777
-phone: "+1 919-553-0192"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/596"
+street: US 70 Business East
+housenumber: "9777"
+phone: +1 919-553-0192
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/596

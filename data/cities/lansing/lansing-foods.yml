@@ -1,11 +1,11 @@
 id: 650817158
-type: way
+type: node
 latitude: 36.49836
 longitude: -81.51029
 postcode: "28643"
 city: Lansing
-street: "NC 194"
-housenumber: 9270
+street: NC 194
+housenumber: "9270"
 phone: ""
 opening_hours: ""
 website: ""

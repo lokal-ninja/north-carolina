@@ -1,11 +1,11 @@
 id: 28000202
-type: way
+type: node
 latitude: 36.00887
 longitude: -78.92171
 postcode: "27705"
 city: Durham
-street: "9th Street"
-housenumber: 734
-phone: "+1-919-286-3633"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 13:00-16:00"
-website: "www.bernardsformalwear.com"
+street: 9th Street
+housenumber: "734"
+phone: +1-919-286-3633
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 13:00-16:00
+website: www.bernardsformalwear.com

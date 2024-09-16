@@ -1,11 +1,11 @@
 id: 200858547
-type: way
+type: node
 latitude: 35.14643
 longitude: -80.93521
 postcode: "28273"
 city: Charlotte
-street: "South Tryon Street"
-housenumber: 8180
-phone: "+1 704-588-2656"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1464/charlotte-nc/whats-new"
+street: South Tryon Street
+housenumber: "8180"
+phone: +1 704-588-2656
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1464/charlotte-nc/whats-new

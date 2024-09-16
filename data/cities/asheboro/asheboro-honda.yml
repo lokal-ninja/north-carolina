@@ -1,11 +1,11 @@
 id: 202503506
-type: way
+type: node
 latitude: 35.7039
 longitude: -79.78222
 postcode: "27203"
 city: Asheboro
-street: "East Dixie Drive"
-housenumber: 1625
+street: East Dixie Drive
+housenumber: "1625"
 phone: ""
 opening_hours: ""
 website: ""

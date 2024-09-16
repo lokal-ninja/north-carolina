@@ -1,11 +1,11 @@
 id: 620492236
-type: way
+type: node
 latitude: 35.79042
 longitude: -78.77074
 postcode: "27511"
 city: Cary
-street: "East Chatham Street"
-housenumber: 508
+street: East Chatham Street
+housenumber: "508"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

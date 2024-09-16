@@ -1,11 +1,11 @@
 id: 397193841
-type: way
+type: node
 latitude: 36.08421
 longitude: -78.31325
 postcode: "27549"
 city: Louisburg
-street: "South Bickett Boulevard"
-housenumber: 812
+street: South Bickett Boulevard
+housenumber: "812"
 phone: ""
 opening_hours: ""
 website: ""

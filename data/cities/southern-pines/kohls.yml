@@ -1,11 +1,11 @@
 id: 682187288
-type: way
+type: node
 latitude: 35.17111
 longitude: -79.42148
 postcode: "28387"
 city: Southern Pines
-street: "Brucewood Road"
-housenumber: 190
-phone: "+1 910-246-0148"
-opening_hours: "Su-Th 9:00-20:00; Fr-Sa 9:00-21:00"
-website: "https://www.kohls.com/stores/nc/southernpines-1431.shtml"
+street: Brucewood Road
+housenumber: "190"
+phone: +1 910-246-0148
+opening_hours: Su-Th 9:00-20:00; Fr-Sa 9:00-21:00
+website: https://www.kohls.com/stores/nc/southernpines-1431.shtml

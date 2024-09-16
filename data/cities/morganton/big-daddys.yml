@@ -1,11 +1,11 @@
 id: 1055386412
-type: way
+type: node
 latitude: 35.72749
 longitude: -81.76315
 postcode: "28655"
 city: Morganton
-street: "Carbon City Road"
-housenumber: 1308
+street: Carbon City Road
+housenumber: "1308"
 phone: "+18285843433"
 opening_hours: ""
 website: ""

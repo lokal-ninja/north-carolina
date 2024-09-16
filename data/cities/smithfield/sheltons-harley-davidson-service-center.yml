@@ -1,11 +1,11 @@
 id: 717556302
-type: way
+type: node
 latitude: 35.51141
 longitude: -78.31355
 postcode: "27577"
 city: Smithfield
-street: "Component Drive"
-housenumber: 350
-phone: "919-938-1592"
-opening_hours: "Tu-Sa 09:30-18:00"
+street: Component Drive
+housenumber: "350"
+phone: 919-938-1592
+opening_hours: Tu-Sa 09:30-18:00
 website: ""

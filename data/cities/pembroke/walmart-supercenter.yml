@@ -1,11 +1,11 @@
 id: 1311900443
-type: way
+type: node
 latitude: 34.66932
 longitude: -79.18389
 postcode: "28372"
 city: Pembroke
-street: "Highway 711 East"
-housenumber: 930
-phone: "+1 910-522-1321"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5489/pembroke-nc/whats-new"
+street: Highway 711 East
+housenumber: "930"
+phone: +1 910-522-1321
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5489/pembroke-nc/whats-new

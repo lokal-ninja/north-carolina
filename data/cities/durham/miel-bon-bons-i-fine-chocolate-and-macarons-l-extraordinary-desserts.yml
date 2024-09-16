@@ -1,11 +1,11 @@
 id: 65178063
-type: way
+type: node
 latitude: 36.00093
 longitude: -78.91098
 postcode: "27701"
 city: Durham
-street: "West Main Street"
-housenumber: 1011
+street: West Main Street
+housenumber: "1011"
 phone: ""
 opening_hours: ""
-website: "https://www.mielbonbons.com/"
+website: https://www.mielbonbons.com/

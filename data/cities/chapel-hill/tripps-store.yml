@@ -1,11 +1,11 @@
 id: 832398240
-type: way
+type: node
 latitude: 35.86929
 longitude: -79.03601
 postcode: "27517"
 city: Chapel Hill
-street: "Mt Carmel Church Road"
-housenumber: 1617
+street: Mt Carmel Church Road
+housenumber: "1617"
 phone: ""
 opening_hours: ""
-website: "https://www.trippsstore.com/"
+website: https://www.trippsstore.com/

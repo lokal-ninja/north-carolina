@@ -1,11 +1,11 @@
 id: 202503445
-type: way
+type: node
 latitude: 35.72552
 longitude: -79.74185
 postcode: "27203"
 city: Asheboro
-street: "US 64 East"
-housenumber: 3409
+street: US 64 East
+housenumber: "3409"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/asheboro/17691"
+website: https://www.dollargeneral.com/store-directory/nc/asheboro/17691

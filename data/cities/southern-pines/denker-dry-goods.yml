@@ -1,11 +1,11 @@
 id: 993084512
-type: way
+type: node
 latitude: 35.17451
 longitude: -79.39146
 postcode: "28387"
 city: Southern Pines
-street: "Northwest Broad Street"
-housenumber: 150
+street: Northwest Broad Street
+housenumber: "150"
 phone: "+19106929322"
 opening_hours: ""
-website: "http://www.denkerdrygoods.com/"
+website: http://www.denkerdrygoods.com/

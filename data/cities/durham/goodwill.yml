@@ -1,11 +1,11 @@
 id: 545609365
-type: way
+type: node
 latitude: 36.07509
 longitude: -78.91086
 postcode: "27712"
 city: Durham
-street: "North Roxboro Street"
-housenumber: 5267
+street: North Roxboro Street
+housenumber: "5267"
 phone: ""
 opening_hours: ""
 website: ""

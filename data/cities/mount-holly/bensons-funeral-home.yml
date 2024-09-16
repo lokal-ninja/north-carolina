@@ -1,11 +1,11 @@
 id: 699690437
-type: way
+type: node
 latitude: 35.29075
 longitude: -81.01691
 postcode: "28120"
 city: Mount Holly
-street: "Oak Grove Street"
-housenumber: 101
+street: Oak Grove Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

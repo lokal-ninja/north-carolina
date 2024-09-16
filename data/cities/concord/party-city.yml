@@ -1,11 +1,11 @@
 id: 335273350
-type: way
+type: node
 latitude: 35.41828
 longitude: -80.67786
 postcode: "28027"
 city: Concord
-street: "Bayfield Parkway"
-housenumber: 6110
-phone: "+1 704-707-3133"
+street: Bayfield Parkway
+housenumber: "6110"
+phone: +1 704-707-3133
 opening_hours: ""
-website: "https://stores.partycity.com/us/nc/concord/party-store-pc1066.html"
+website: https://stores.partycity.com/us/nc/concord/party-store-pc1066.html

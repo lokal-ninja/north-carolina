@@ -1,11 +1,11 @@
 id: 513759013
-type: way
+type: node
 latitude: 36.08584
 longitude: -81.92769
 postcode: "28657"
 city: Newland
-street: "Pineola Street"
-housenumber: 325
-phone: "828-733-6026"
+street: Pineola Street
+housenumber: "325"
+phone: 828-733-6026
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/newland-nc-pharmacies/325-pineola-street-po-box-552-newland-nc-28657/storeid=5558"
+website: https://www.cvs.com/store-locator/newland-nc-pharmacies/325-pineola-street-po-box-552-newland-nc-28657/storeid=5558

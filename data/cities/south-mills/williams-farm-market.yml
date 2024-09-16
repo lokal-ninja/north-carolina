@@ -1,11 +1,11 @@
 id: 1307729432
-type: way
+type: node
 latitude: 36.44522
 longitude: -76.32174
 postcode: "27976"
 city: South Mills
-street: "NC-343"
-housenumber: 1381
+street: NC-343
+housenumber: "1381"
 phone: "+12527712647"
 opening_hours: ""
 website: ""

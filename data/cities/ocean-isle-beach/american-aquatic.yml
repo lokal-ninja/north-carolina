@@ -1,11 +1,11 @@
 id: 454731534
-type: way
+type: node
 latitude: 33.8903
 longitude: -78.43725
 postcode: "28469"
 city: Ocean Isle Beach
-street: "Causeway Drive"
-housenumber: 21
-phone: "+1-910-250-3021"
+street: Causeway Drive
+housenumber: "21"
+phone: +1-910-250-3021
 opening_hours: ""
-website: "https://www.americanaquatic.com/"
+website: https://www.americanaquatic.com/

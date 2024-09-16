@@ -1,11 +1,11 @@
 id: 340888543
-type: way
+type: node
 latitude: 36.06045
 longitude: -79.87915
 postcode: "27407"
 city: Greensboro
-street: "West Wendover Avenue"
-housenumber: 3908
-phone: "(336) 790-9847"
+street: West Wendover Avenue
+housenumber: "3908"
+phone: (336) 790-9847
 opening_hours: ""
-website: "https://www.crownacuragreensboro.com/"
+website: https://www.crownacuragreensboro.com/

@@ -4,8 +4,8 @@ latitude: 34.27316
 longitude: -77.81936
 postcode: "28411"
 city: Wilmington
-street: "Market Street"
-housenumber: 7201
-phone: "+1 910-524-9363"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://www.starbucks.com/store-locator/store/1026475/hwy-17-middle-sound-loop-7201-market-street-wilmington-nc-284119448-us"
+street: Market Street
+housenumber: "7201"
+phone: +1 910-524-9363
+opening_hours: Mo-Su 05:00-22:00
+website: https://www.starbucks.com/store-locator/store/1026475/hwy-17-middle-sound-loop-7201-market-street-wilmington-nc-284119448-us

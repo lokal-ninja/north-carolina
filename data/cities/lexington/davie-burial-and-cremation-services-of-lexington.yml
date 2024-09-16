@@ -1,11 +1,11 @@
 id: 684640033
-type: way
+type: node
 latitude: 35.80917
 longitude: -80.2701
 postcode: "27292"
 city: Lexington
-street: "South Main Street"
-housenumber: 1403
-phone: "+1-336-843-4846"
+street: South Main Street
+housenumber: "1403"
+phone: +1-336-843-4846
 opening_hours: ""
-website: "https://www.daviefunerallexington.com/"
+website: https://www.daviefunerallexington.com/

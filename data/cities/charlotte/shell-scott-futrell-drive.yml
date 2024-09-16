@@ -1,11 +1,11 @@
 id: 339590148
-type: way
+type: node
 latitude: 35.23682
 longitude: -80.92157
 postcode: "28208"
 city: Charlotte
-street: "Scott Futrell Drive"
-housenumber: 3305
+street: Scott Futrell Drive
+housenumber: "3305"
 phone: ""
 opening_hours: ""
 website: ""

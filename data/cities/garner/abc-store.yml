@@ -1,11 +1,11 @@
 id: 205216238
-type: way
+type: node
 latitude: 35.60849
 longitude: -78.56711
 postcode: "27529"
 city: Garner
-street: "Glen Road"
-housenumber: 160
-phone: "919-773-0501"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://abc.nc.gov"
+street: Glen Road
+housenumber: "160"
+phone: 919-773-0501
+opening_hours: Mo-Su 10:00-21:00
+website: https://abc.nc.gov

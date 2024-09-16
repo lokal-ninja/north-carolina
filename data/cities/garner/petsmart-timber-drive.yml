@@ -1,11 +1,11 @@
 id: 442776785
-type: way
+type: node
 latitude: 35.71319
 longitude: -78.63769
 postcode: "27529"
 city: Garner
-street: "Timber Drive"
-housenumber: 2550
-phone: "+1 919-661-0690"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nc/garner-store0597.html"
+street: Timber Drive
+housenumber: "2550"
+phone: +1 919-661-0690
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nc/garner-store0597.html

@@ -1,11 +1,11 @@
 id: 849299106
-type: way
+type: node
 latitude: 34.72113
 longitude: -76.70736
 postcode: "28557"
 city: Morehead City
-street: "Arendell Street"
-housenumber: 400
+street: Arendell Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NC/Morehead-City/400-Arendell-St"
+website: https://www.speedway.com/locations/NC/Morehead-City/400-Arendell-St

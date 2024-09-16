@@ -1,11 +1,11 @@
 id: 628787624
-type: way
+type: node
 latitude: 35.02875
 longitude: -80.85054
 postcode: "28277"
 city: Charlotte
-street: "Lancaster Highway"
-housenumber: 16155
+street: Lancaster Highway
+housenumber: "16155"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 35.88423
 longitude: -78.74197
 postcode: "27617"
 city: Raleigh
-street: "Glenwood Avenue"
-housenumber: 8601
-phone: "+1-919-703-0051"
-opening_hours: "Mo-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 10:00-20:00; Su 13:00-18:00"
-website: "https://www.thewinecellargroup.com/raleigh/"
+street: Glenwood Avenue
+housenumber: "8601"
+phone: +1-919-703-0051
+opening_hours: Mo-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 10:00-20:00; Su 13:00-18:00
+website: https://www.thewinecellargroup.com/raleigh/

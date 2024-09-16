@@ -1,11 +1,11 @@
 id: 673001728
-type: way
+type: node
 latitude: 35.97836
 longitude: -82.69323
 postcode: "28753"
 city: Marshall
-street: "NC-212"
-housenumber: 6700
-phone: "+1 (828) 656 - 2153"
+street: NC-212
+housenumber: "6700"
+phone: +1 (828) 656 - 2153
 opening_hours: ""
 website: ""

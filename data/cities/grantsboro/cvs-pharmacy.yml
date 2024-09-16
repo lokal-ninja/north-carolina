@@ -1,11 +1,11 @@
 id: 1016664857
-type: way
+type: node
 latitude: 35.14083
 longitude: -76.84386
 postcode: "28529"
 city: Grantsboro
-street: "NC-55"
-housenumber: 10775
+street: NC-55
+housenumber: "10775"
 phone: "+12527453911"
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/grantsboro-nc-pharmacies/10775-nc-hwy-55-grantsboro-nc-28529/storeid=3987"
+website: https://www.cvs.com/store-locator/grantsboro-nc-pharmacies/10775-nc-hwy-55-grantsboro-nc-28529/storeid=3987

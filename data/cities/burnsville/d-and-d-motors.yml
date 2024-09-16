@@ -1,11 +1,11 @@
 id: 614618503
-type: way
+type: node
 latitude: 35.91524
 longitude: -82.30432
 postcode: "28714"
 city: Burnsville
-street: "US-19 East"
-housenumber: 506
+street: US-19 East
+housenumber: "506"
 phone: "+18286822836"
 opening_hours: ""
 website: ""

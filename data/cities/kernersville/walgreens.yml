@@ -1,11 +1,11 @@
 id: 342986313
-type: way
+type: node
 latitude: 36.12468
 longitude: -80.06993
 postcode: "27284"
 city: Kernersville
-street: "North Main Street"
-housenumber: 340
+street: North Main Street
+housenumber: "340"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-340+n+main+st-kernersville-nc-27284/id=1253"
+website: https://www.walgreens.com/locator/walgreens-340+n+main+st-kernersville-nc-27284/id=1253

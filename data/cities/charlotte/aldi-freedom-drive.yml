@@ -1,11 +1,11 @@
 id: 695617187
-type: way
+type: node
 latitude: 35.23737
 longitude: -80.88048
 postcode: "28208"
 city: Charlotte
-street: "Freedom Drive"
-housenumber: 2526
-phone: "+1 833-466-1087"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/charlotte/2526-freedom-drive"
+street: Freedom Drive
+housenumber: "2526"
+phone: +1 833-466-1087
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/charlotte/2526-freedom-drive

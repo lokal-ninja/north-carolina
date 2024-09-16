@@ -1,11 +1,11 @@
 id: 217788218
-type: way
+type: node
 latitude: 35.59202
 longitude: -80.8579
 postcode: "28117"
 city: Mooresville
-street: "Consumer Square Drive"
-housenumber: 130
+street: Consumer Square Drive
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

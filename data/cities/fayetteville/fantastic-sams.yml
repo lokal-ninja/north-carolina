@@ -4,8 +4,9 @@ latitude: 34.97876
 longitude: -79.0077
 postcode: "28306"
 city: Fayetteville
-street: "Waldos Beach Road"
-housenumber: 5555
+street: Waldos Beach Road
+housenumber: "5555"
 phone: "+19104247267"
-opening_hours: "Mo closed; Tu-We 09:00-17:00; Th-Fr 11:00-19:00; Sa 09:00-17:00; Su 11:00-17:00"
-website: "https://www.fantasticsams.com/about/regions/raleigh-durham-fayetteville-nc/fantastic-sams-fayetteville-nc-1"
+opening_hours: Mo closed; Tu-We 09:00-17:00; Th-Fr 11:00-19:00; Sa 09:00-17:00; Su
+    11:00-17:00
+website: https://www.fantasticsams.com/about/regions/raleigh-durham-fayetteville-nc/fantastic-sams-fayetteville-nc-1

@@ -1,11 +1,11 @@
 id: 281843588
-type: way
+type: node
 latitude: 35.87313
 longitude: -80.07565
 postcode: "27360"
 city: Thomasville
-street: "Randolph Street"
-housenumber: 709
-phone: "+1-336-476-9220"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
+street: Randolph Street
+housenumber: "709"
+phone: +1-336-476-9220
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1244941493
-type: way
+type: node
 latitude: 35.74138
 longitude: -81.52658
 postcode: "28612"
 city: Connelly Springs
-street: "US-70"
-housenumber: 210
+street: US-70
+housenumber: "210"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/connelly-springs/8924"
+website: https://www.dollargeneral.com/store-directory/nc/connelly-springs/8924

@@ -1,11 +1,11 @@
 id: 382891285
-type: way
+type: node
 latitude: 36.37678
 longitude: -78.98584
 postcode: "27573"
 city: Roxboro
-street: "Durham Road"
-housenumber: 1049
-phone: "+1 336-597-2909"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1288/roxboro-nc/whats-new"
+street: Durham Road
+housenumber: "1049"
+phone: +1 336-597-2909
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1288/roxboro-nc/whats-new

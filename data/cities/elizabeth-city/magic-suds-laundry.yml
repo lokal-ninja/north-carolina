@@ -1,11 +1,11 @@
 id: 1302686155
-type: way
+type: node
 latitude: 36.32813
 longitude: -76.22546
 postcode: "27909"
 city: Elizabeth City
-street: "North Road Street"
-housenumber: 1309
+street: North Road Street
+housenumber: "1309"
 phone: ""
 opening_hours: ""
 website: ""

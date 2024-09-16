@@ -1,11 +1,11 @@
 id: 767989661
-type: way
+type: node
 latitude: 35.34823
 longitude: -80.86049
 postcode: "28216"
 city: Charlotte
-street: "Northlake Centre Parkway"
-housenumber: 9729
+street: Northlake Centre Parkway
+housenumber: "9729"
 phone: ""
 opening_hours: ""
 website: ""

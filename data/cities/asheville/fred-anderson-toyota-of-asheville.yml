@@ -1,11 +1,11 @@
 id: 287880810
-type: way
+type: node
 latitude: 35.537
 longitude: -82.60088
 postcode: "28806"
 city: Asheville
-street: "Brevard Road"
-housenumber: 777
+street: Brevard Road
+housenumber: "777"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.ashevilletoyota.com/"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.ashevilletoyota.com/

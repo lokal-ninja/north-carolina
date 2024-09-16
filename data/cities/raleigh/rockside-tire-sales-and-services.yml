@@ -1,11 +1,11 @@
 id: 597376489
-type: way
+type: node
 latitude: 35.71415
 longitude: -78.65627
 postcode: "27603"
 city: Raleigh
-street: "Fayetteville Road"
-housenumber: 4835
+street: Fayetteville Road
+housenumber: "4835"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-15:00"
-website: "http://rocksidetire.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-15:00
+website: http://rocksidetire.com/

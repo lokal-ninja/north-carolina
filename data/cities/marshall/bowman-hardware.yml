@@ -1,11 +1,11 @@
 id: 687048037
-type: way
+type: node
 latitude: 35.79727
 longitude: -82.68365
 postcode: "28753"
 city: Marshall
-street: "South Main Street"
-housenumber: 26
+street: South Main Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

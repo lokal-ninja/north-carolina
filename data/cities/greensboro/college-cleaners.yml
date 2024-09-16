@@ -1,11 +1,11 @@
 id: 579981038
-type: way
+type: node
 latitude: 36.08903
 longitude: -79.88887
 postcode: "27410"
 city: Greensboro
-street: "North College Road"
-housenumber: 711
+street: North College Road
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

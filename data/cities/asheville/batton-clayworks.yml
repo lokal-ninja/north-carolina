@@ -1,11 +1,11 @@
 id: 1156292352
-type: way
+type: node
 latitude: 35.58365
 longitude: -82.53534
 postcode: "28805"
 city: Asheville
-street: "Kenilworth Road"
-housenumber: 349
+street: Kenilworth Road
+housenumber: "349"
 phone: ""
 opening_hours: ""
 website: ""

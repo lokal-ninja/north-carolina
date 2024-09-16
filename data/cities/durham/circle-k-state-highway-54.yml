@@ -1,11 +1,11 @@
 id: 662697181
-type: way
+type: node
 latitude: 35.91011
 longitude: -78.93408
 postcode: "27713"
 city: Durham
-street: "State Highway 54"
-housenumber: 106
-phone: "+1-919-544-1388"
+street: State Highway 54
+housenumber: "106"
+phone: +1-919-544-1388
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 589931534
-type: way
+type: node
 latitude: 35.10227
 longitude: -77.09355
 postcode: "28562"
 city: New Bern
-street: "Martin Luther King Boulevard"
-housenumber: 3230
+street: Martin Luther King Boulevard
+housenumber: "3230"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nc/new-bern/3230-martin-luther-king-blvd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/nc/new-bern/3230-martin-luther-king-blvd

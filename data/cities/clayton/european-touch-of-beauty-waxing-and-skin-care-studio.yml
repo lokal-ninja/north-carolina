@@ -1,11 +1,11 @@
 id: 830372927
-type: way
+type: node
 latitude: 35.64141
 longitude: -78.45177
 postcode: "27520"
 city: Clayton
-street: "Champion Street"
-housenumber: 209
-phone: "(919) 491-0076"
+street: Champion Street
+housenumber: "209"
+phone: (919) 491-0076
 opening_hours: ""
 website: ""

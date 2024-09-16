@@ -1,11 +1,11 @@
 id: 341049195
-type: way
+type: node
 latitude: 36.17751
 longitude: -80.273
 postcode: "27105"
 city: Winston Salem
-street: "University Parkway"
-housenumber: 5721
-phone: "+1 336-744-2336"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/winston-salem/nc/winston-salem/27105/3641"
+street: University Parkway
+housenumber: "5721"
+phone: +1 336-744-2336
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/winston-salem/nc/winston-salem/27105/3641

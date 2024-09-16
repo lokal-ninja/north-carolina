@@ -1,11 +1,11 @@
 id: 839779747
-type: way
+type: node
 latitude: 35.79026
 longitude: -78.74179
 postcode: "27607"
 city: Raleigh
-street: "Chapel Hill Road"
-housenumber: 6815
-phone: "+1-984-212-8700"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-21:00"
-website: "https://locations.oreillyauto.com/nc/raleigh/autoparts-5341.html"
+street: Chapel Hill Road
+housenumber: "6815"
+phone: +1-984-212-8700
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-21:00
+website: https://locations.oreillyauto.com/nc/raleigh/autoparts-5341.html

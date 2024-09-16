@@ -1,11 +1,11 @@
 id: 389552376
-type: way
+type: node
 latitude: 36.06646
 longitude: -80.24835
 postcode: "27127"
 city: Winston Salem
-street: "Silas Creek Parkway"
-housenumber: 425
-phone: "(888) 419-8151"
+street: Silas Creek Parkway
+housenumber: "425"
+phone: (888) 419-8151
 opening_hours: ""
-website: "https://www.flowsubaruwinstonsalem.com/"
+website: https://www.flowsubaruwinstonsalem.com/

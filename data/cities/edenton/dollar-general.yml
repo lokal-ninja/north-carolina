@@ -1,11 +1,11 @@
 id: 1168109351
-type: way
+type: node
 latitude: 36.13764
 longitude: -76.65873
 postcode: "27932"
 city: Edenton
-street: "Virginia Road"
-housenumber: 1503
+street: Virginia Road
+housenumber: "1503"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/edenton/15847"
+website: https://www.dollargeneral.com/store-directory/nc/edenton/15847

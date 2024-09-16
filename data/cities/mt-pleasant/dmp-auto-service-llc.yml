@@ -1,11 +1,11 @@
 id: 446478091
-type: way
+type: node
 latitude: 35.39658
 longitude: -80.42627
 postcode: "28124"
 city: Mt Pleasant
-street: "East Franklin Street"
-housenumber: 9020
+street: East Franklin Street
+housenumber: "9020"
 phone: "+17043150131"
 opening_hours: ""
 website: ""

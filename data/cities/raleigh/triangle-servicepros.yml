@@ -1,11 +1,11 @@
 id: 677749435
-type: way
+type: node
 latitude: 35.9092
 longitude: -78.66228
 postcode: "27615"
 city: Raleigh
-street: "Baileywick Road"
-housenumber: 9337
-phone: "+1 9198096147"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://triangletree-service.com/"
+street: Baileywick Road
+housenumber: "9337"
+phone: +1 9198096147
+opening_hours: Mo-Fr 09:00-17:00
+website: https://triangletree-service.com/

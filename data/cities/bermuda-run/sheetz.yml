@@ -1,11 +1,11 @@
 id: 1227693594
-type: way
+type: node
 latitude: 36.01056
 longitude: -80.44502
 postcode: "27006"
 city: Bermuda Run
-street: "Nc Highway 801 North"
-housenumber: 286
-phone: "+1 336-941-9240"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/594"
+street: Nc Highway 801 North
+housenumber: "286"
+phone: +1 336-941-9240
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/594

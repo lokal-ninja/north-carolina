@@ -4,8 +4,8 @@ latitude: 36.39534
 longitude: -80.72165
 postcode: "27017"
 city: Dobson
-street: "South Main Street"
-housenumber: 119
-phone: "+1 336-386-1006"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/493"
+street: South Main Street
+housenumber: "119"
+phone: +1 336-386-1006
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/493

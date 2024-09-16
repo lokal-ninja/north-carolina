@@ -1,11 +1,11 @@
 id: 202215318
-type: way
+type: node
 latitude: 35.77085
 longitude: -78.78217
 postcode: "27511"
 city: Cary
-street: "Southwest Maynard Road"
-housenumber: 103
+street: Southwest Maynard Road
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 659331102
-type: way
+type: node
 latitude: 36.39996
 longitude: -78.41909
 postcode: "27537"
 city: Henderson
-street: "NC-39"
-housenumber: 5364
+street: NC-39
+housenumber: "5364"
 phone: "+12524382517"
 opening_hours: ""
 website: ""

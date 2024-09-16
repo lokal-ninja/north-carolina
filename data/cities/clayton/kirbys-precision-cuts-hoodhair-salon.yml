@@ -1,11 +1,11 @@
 id: 607812131
-type: way
+type: node
 latitude: 35.65013
 longitude: -78.45623
 postcode: "27520"
 city: Clayton
-street: "East Main Street"
-housenumber: 413
+street: East Main Street
+housenumber: "413"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 07:00-15:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 07:00-15:00
 website: ""

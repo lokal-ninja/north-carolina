@@ -1,11 +1,11 @@
 id: 1230876488
-type: way
+type: node
 latitude: 35.12464
 longitude: -77.02226
 postcode: "28519"
 city: Bridgeton
-street: "US Hwy 17"
-housenumber: 807
+street: US Hwy 17
+housenumber: "807"
 phone: ""
 opening_hours: ""
 website: ""

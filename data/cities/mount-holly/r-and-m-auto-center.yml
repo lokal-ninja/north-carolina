@@ -1,11 +1,11 @@
 id: 700401697
-type: way
+type: node
 latitude: 35.27207
 longitude: -81.02718
 postcode: "28120"
 city: Mount Holly
-street: "Beatty Drive"
-housenumber: 401
+street: Beatty Drive
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

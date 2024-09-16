@@ -1,11 +1,11 @@
 id: 344285344
-type: way
+type: node
 latitude: 35.89807
 longitude: -81.51917
 postcode: "28645"
 city: Lenoir
-street: "Hickory Boulevard Southeast"
-housenumber: 1201
-phone: "+1 828-726-5246"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/nc-lenoir/1509"
+street: Hickory Boulevard Southeast
+housenumber: "1201"
+phone: +1 828-726-5246
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/nc-lenoir/1509

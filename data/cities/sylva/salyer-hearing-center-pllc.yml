@@ -1,11 +1,11 @@
 id: 1153340025
-type: way
+type: node
 latitude: 35.38973
 longitude: -83.20646
 postcode: "28779"
 city: Sylva
-street: "Mitchell Road"
-housenumber: 40
-phone: "+1-828-586-7474"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://salyerhearingcenter.com/"
+street: Mitchell Road
+housenumber: "40"
+phone: +1-828-586-7474
+opening_hours: Mo-Fr 08:30-17:00
+website: https://salyerhearingcenter.com/

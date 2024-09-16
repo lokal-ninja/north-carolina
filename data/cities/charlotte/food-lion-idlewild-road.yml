@@ -1,11 +1,11 @@
 id: 324388066
-type: way
+type: node
 latitude: 35.18463
 longitude: -80.72962
 postcode: "28227"
 city: Charlotte
-street: "Idlewild Road"
-housenumber: 8100
+street: Idlewild Road
+housenumber: "8100"
 phone: ""
 opening_hours: ""
 website: ""

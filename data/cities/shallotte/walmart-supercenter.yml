@@ -1,11 +1,11 @@
 id: 559492149
-type: way
+type: node
 latitude: 33.98406
 longitude: -78.37475
 postcode: "28470"
 city: Shallotte
-street: "Main Street B 3079"
-housenumber: 4540
-phone: "+1 910-754-2880"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1767/shallotte-nc/whats-new"
+street: Main Street B 3079
+housenumber: "4540"
+phone: +1 910-754-2880
+opening_hours: 24/7
+website: https://www.walmart.com/store/1767/shallotte-nc/whats-new

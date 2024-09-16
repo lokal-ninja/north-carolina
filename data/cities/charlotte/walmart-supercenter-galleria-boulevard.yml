@@ -1,11 +1,11 @@
 id: 323177708
-type: way
+type: node
 latitude: 35.13806
 longitude: -80.732
 postcode: "28270"
 city: Charlotte
-street: "Galleria Boulevard"
-housenumber: 1830
-phone: "+1 704-844-1066"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5063/charlotte-nc/whats-new"
+street: Galleria Boulevard
+housenumber: "1830"
+phone: +1 704-844-1066
+opening_hours: 24/7
+website: https://www.walmart.com/store/5063/charlotte-nc/whats-new

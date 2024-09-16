@@ -1,11 +1,11 @@
 id: 1058318350
-type: way
+type: node
 latitude: 34.8835
 longitude: -78.97597
 postcode: "28371"
 city: Parkton
-street: "US-301"
-housenumber: 23011
+street: US-301
+housenumber: "23011"
 phone: "+19108580081"
 opening_hours: ""
 website: ""

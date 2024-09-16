@@ -1,11 +1,11 @@
 id: 545281395
-type: way
+type: node
 latitude: 35.75439
 longitude: -81.28511
 postcode: "28601"
 city: Hickory
-street: "Springs Road Northeast"
-housenumber: 2501
+street: Springs Road Northeast
+housenumber: "2501"
 phone: ""
 opening_hours: ""
 website: ""

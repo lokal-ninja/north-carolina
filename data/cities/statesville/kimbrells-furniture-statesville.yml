@@ -1,11 +1,11 @@
 id: 552179799
-type: way
+type: node
 latitude: 35.7851
 longitude: -80.88631
 postcode: "28677"
 city: Statesville
-street: "East Broad Street"
-housenumber: 146
+street: East Broad Street
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
+opening_hours: Mo-Sa 10:00-19:00; Su off
 website: ""

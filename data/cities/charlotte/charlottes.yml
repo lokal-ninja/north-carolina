@@ -1,11 +1,11 @@
 id: 836182475
-type: way
+type: node
 latitude: 35.19694
 longitude: -80.82661
 postcode: "28207"
 city: Charlotte
-street: "Providence Road"
-housenumber: 901
+street: Providence Road
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1128031749
-type: way
+type: node
 latitude: 35.45799
 longitude: -79.14876
 postcode: "27332"
 city: Sanford
-street: "East Main Street"
-housenumber: 234
+street: East Main Street
+housenumber: "234"
 phone: "+19197761311"
 opening_hours: ""
 website: ""

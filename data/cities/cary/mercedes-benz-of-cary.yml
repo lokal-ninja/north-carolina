@@ -1,11 +1,11 @@
 id: 389455563
-type: way
+type: node
 latitude: 35.7378
 longitude: -78.8149
 postcode: "27511"
 city: Cary
-street: "Auto Park Boulevard"
-housenumber: 2400
+street: Auto Park Boulevard
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

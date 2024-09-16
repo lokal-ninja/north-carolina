@@ -1,11 +1,11 @@
 id: 1144995494
-type: way
+type: node
 latitude: 35.91426
 longitude: -82.07482
 postcode: "28777"
 city: Spruce Pine
-street: "Greenwood Road"
-housenumber: 125
+street: Greenwood Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

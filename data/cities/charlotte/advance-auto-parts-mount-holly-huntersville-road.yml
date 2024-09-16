@@ -1,11 +1,11 @@
 id: 830373074
-type: way
+type: node
 latitude: 35.32197
 longitude: -80.95231
 postcode: "28216"
 city: Charlotte
-street: "Mount Holly-Huntersville Road"
-housenumber: 3101
+street: Mount Holly-Huntersville Road
+housenumber: "3101"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/charlotte/3101-mt-holly-huntersville-rd"
+website: https://stores.advanceautoparts.com/nc/charlotte/3101-mt-holly-huntersville-rd

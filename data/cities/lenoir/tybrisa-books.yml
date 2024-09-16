@@ -1,11 +1,11 @@
 id: 678446141
-type: way
+type: node
 latitude: 35.91517
 longitude: -81.53961
 postcode: "28645"
 city: Lenoir
-street: "Main Street Northwest"
-housenumber: 210
+street: Main Street Northwest
+housenumber: "210"
 phone: "+18285727475"
 opening_hours: ""
 website: ""

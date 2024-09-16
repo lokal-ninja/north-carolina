@@ -1,11 +1,11 @@
 id: 1049972064
-type: way
+type: node
 latitude: 35.65052
 longitude: -78.45755
 postcode: "27520"
 city: Clayton
-street: "East 2nd Street"
-housenumber: 318
+street: East 2nd Street
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

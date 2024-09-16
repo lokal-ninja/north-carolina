@@ -1,11 +1,11 @@
 id: 432823779
-type: way
+type: node
 latitude: 35.20381
 longitude: -80.84536
 postcode: "28203"
 city: Charlotte
-street: "East Boulevard"
-housenumber: 1227
-phone: "+1 704-375-5071"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/charlotte/kenilworth-commons/097/00061"
+street: East Boulevard
+housenumber: "1227"
+phone: +1 704-375-5071
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/charlotte/kenilworth-commons/097/00061

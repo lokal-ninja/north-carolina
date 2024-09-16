@@ -1,11 +1,11 @@
 id: 1147028190
-type: way
+type: node
 latitude: 35.29525
 longitude: -78.60529
 postcode: "28334"
 city: Dunn
-street: "Spring Branch Road"
-housenumber: 411
+street: Spring Branch Road
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

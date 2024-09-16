@@ -1,11 +1,11 @@
 id: 759489537
-type: way
+type: node
 latitude: 35.88413
 longitude: -75.76446
 postcode: "27953"
 city: Manns Harbor
-street: "US 64"
-housenumber: 7395
+street: US 64
+housenumber: "7395"
 phone: ""
 opening_hours: ""
 website: ""

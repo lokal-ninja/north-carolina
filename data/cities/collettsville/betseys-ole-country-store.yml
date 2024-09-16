@@ -1,11 +1,11 @@
 id: 946460488
-type: way
+type: node
 latitude: 35.9904
 longitude: -81.75928
 postcode: "28611"
 city: Collettsville
-street: "NC-90"
-housenumber: 8395
-phone: "828-758-5051"
-opening_hours: "Mo-Su 09:00-21:00"
+street: NC-90
+housenumber: "8395"
+phone: 828-758-5051
+opening_hours: Mo-Su 09:00-21:00
 website: ""

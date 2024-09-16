@@ -1,11 +1,11 @@
 id: 949874051
-type: way
+type: node
 latitude: 34.55261
 longitude: -77.41547
 postcode: "28460"
 city: Sneads Ferry
-street: "NC-172"
-housenumber: 2201
-phone: "910-741-0510"
-opening_hours: "Mo-Su 08:00-23:00"
+street: NC-172
+housenumber: "2201"
+phone: 910-741-0510
+opening_hours: Mo-Su 08:00-23:00
 website: ""

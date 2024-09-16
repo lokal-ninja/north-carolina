@@ -1,11 +1,11 @@
 id: 424608061
-type: way
+type: node
 latitude: 35.81626
 longitude: -78.6213
-postcode: "27609-7815"
+postcode: 27609-7815
 city: Raleigh
-street: "Industrial Drive"
-housenumber: 2803
+street: Industrial Drive
+housenumber: "2803"
 phone: ""
 opening_hours: ""
 website: ""

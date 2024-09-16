@@ -1,11 +1,11 @@
 id: 387759691
-type: way
+type: node
 latitude: 36.16011
 longitude: -81.87
 postcode: "28604"
 city: Banner Elk
-street: "Shawneehaw Avenue South"
-housenumber: 441
-phone: "+1 828 898 5008"
-opening_hours: "Mo-Tu 10:00-17:30; Th-Sa 10:00-17:30; Su 11:00-16:00"
-website: "http://www.wingnitnc.com/"
+street: Shawneehaw Avenue South
+housenumber: "441"
+phone: +1 828 898 5008
+opening_hours: Mo-Tu 10:00-17:30; Th-Sa 10:00-17:30; Su 11:00-16:00
+website: http://www.wingnitnc.com/

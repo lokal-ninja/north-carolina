@@ -1,11 +1,11 @@
 id: 549489422
-type: way
+type: node
 latitude: 35.0537
 longitude: -78.88054
 postcode: "28301"
 city: Fayetteville
-street: "Old Street"
-housenumber: 227
+street: Old Street
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

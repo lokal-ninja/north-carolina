@@ -1,11 +1,11 @@
 id: 313035327
-type: way
+type: node
 latitude: 35.91573
 longitude: -80.58184
 postcode: "27028"
 city: Mocksville
-street: "Yadkinville Road"
-housenumber: 1242
+street: Yadkinville Road
+housenumber: "1242"
 phone: "+13367512800"
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/mocksville/1242-yadkinville-rd"
+website: https://stores.advanceautoparts.com/nc/mocksville/1242-yadkinville-rd

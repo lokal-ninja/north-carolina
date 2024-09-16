@@ -1,11 +1,11 @@
 id: 814166774
-type: way
+type: node
 latitude: 36.27634
 longitude: -76.97979
 postcode: "27910"
 city: Ahoskie
-street: "Catherine Creek Road South"
-housenumber: 700
+street: Catherine Creek Road South
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-700+catherine+creek+rd+s-ahoskie-nc-27910/id=15251"
+website: https://www.walgreens.com/locator/walgreens-700+catherine+creek+rd+s-ahoskie-nc-27910/id=15251

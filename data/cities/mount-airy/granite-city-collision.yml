@@ -1,11 +1,11 @@
 id: 770730290
-type: way
+type: node
 latitude: 36.48299
 longitude: -80.61334
 postcode: "27030"
 city: Mount Airy
-street: "Rockford Street"
-housenumber: 1935
+street: Rockford Street
+housenumber: "1935"
 phone: "+13367862119"
 opening_hours: ""
-website: "https://granitecitycollision.com/"
+website: https://granitecitycollision.com/

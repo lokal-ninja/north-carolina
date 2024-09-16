@@ -1,11 +1,11 @@
 id: 556063594
-type: way
+type: node
 latitude: 35.0972
 longitude: -80.78186
 postcode: "28226"
 city: Charlotte
-street: "Pineville-Matthews Road"
-housenumber: 3209
-phone: "+1 704-541-7292"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1452-charlotte-nc"
+street: Pineville-Matthews Road
+housenumber: "3209"
+phone: +1 704-541-7292
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1452-charlotte-nc

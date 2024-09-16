@@ -4,8 +4,8 @@ latitude: 35.99209
 longitude: -80.02622
 postcode: ""
 city: High Point
-street: "North Main Street"
-housenumber: 2600
+street: North Main Street
+housenumber: "2600"
 phone: ""
 opening_hours: ""
-website: "http://stores.lowes.com/lowes/cgi/site?site=0459"
+website: http://stores.lowes.com/lowes/cgi/site?site=0459

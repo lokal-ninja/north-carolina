@@ -1,11 +1,11 @@
 id: 414239339
-type: way
+type: node
 latitude: 36.0776
 longitude: -79.79041
 postcode: "27401"
 city: Greensboro
 street: ""
-housenumber: 401
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

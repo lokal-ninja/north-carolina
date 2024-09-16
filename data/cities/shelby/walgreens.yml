@@ -1,11 +1,11 @@
 id: 754441723
-type: way
+type: node
 latitude: 35.2779
 longitude: -81.53755
 postcode: "28152"
 city: Shelby
-street: "East Dixon Boulevard"
-housenumber: 231
+street: East Dixon Boulevard
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-231+e+dixon+blvd-shelby-nc-28152/id=10891"
+website: https://www.walgreens.com/locator/walgreens-231+e+dixon+blvd-shelby-nc-28152/id=10891

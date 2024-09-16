@@ -1,11 +1,11 @@
 id: 1053335686
-type: way
+type: node
 latitude: 35.21954
 longitude: -80.00428
 postcode: "27306"
 city: Mount Gilead
-street: "Julius Chambers Avenue"
-housenumber: 110
+street: Julius Chambers Avenue
+housenumber: "110"
 phone: "+19104394243"
 opening_hours: ""
 website: ""

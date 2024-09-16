@@ -1,11 +1,11 @@
 id: 593507729
-type: way
+type: node
 latitude: 35.3244
 longitude: -80.94606
 postcode: "28216"
 city: Charlotte
-street: "Mount Holly-Huntersville Road"
-housenumber: 3528
+street: Mount Holly-Huntersville Road
+housenumber: "3528"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/charlotte/3528-mt-holly-huntersville-rd.html"
+website: https://www.autozone.com/locations/nc/charlotte/3528-mt-holly-huntersville-rd.html

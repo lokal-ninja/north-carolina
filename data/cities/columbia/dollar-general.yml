@@ -1,11 +1,11 @@
 id: 1016635355
-type: way
+type: node
 latitude: 35.91919
 longitude: -76.23841
 postcode: "27925"
 city: Columbia
-street: "US 64"
-housenumber: 793
+street: US 64
+housenumber: "793"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 47662458
-type: way
+type: node
 latitude: 35.81814
 longitude: -78.61618
 postcode: ""
 city: Raleigh
-street: "Atlantic Avenue"
-housenumber: 2605
+street: Atlantic Avenue
+housenumber: "2605"
 phone: ""
 opening_hours: ""
 website: ""

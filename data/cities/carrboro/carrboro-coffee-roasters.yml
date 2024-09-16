@@ -4,8 +4,8 @@ latitude: 35.9098
 longitude: -79.07197
 postcode: "27510"
 city: Carrboro
-street: "South Greensboro Street"
-housenumber: 101
+street: South Greensboro Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://carrborocoffee.com/"
+website: https://carrborocoffee.com/

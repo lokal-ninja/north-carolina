@@ -1,11 +1,11 @@
 id: 609605452
-type: way
+type: node
 latitude: 35.97942
 longitude: -78.50942
 postcode: "27587"
 city: Wake Forest
-street: "North White Street"
-housenumber: 101
-phone: "919-616-2942"
+street: North White Street
+housenumber: "101"
+phone: 919-616-2942
 opening_hours: ""
-website: "https://www.mimotorcycleshop.com/"
+website: https://www.mimotorcycleshop.com/

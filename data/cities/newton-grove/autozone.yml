@@ -4,8 +4,8 @@ latitude: 35.24765
 longitude: -78.35467
 postcode: "28366"
 city: Newton Grove
-street: "Circle Drive"
-housenumber: 310
+street: Circle Drive
+housenumber: "310"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00, Su 09:00-20:00"
-website: "https://www.autozone.com/locations/nc/newton-grove/310-e-circle-st.html"
+opening_hours: Mo-Sa 07:30-21:00, Su 09:00-20:00
+website: https://www.autozone.com/locations/nc/newton-grove/310-e-circle-st.html

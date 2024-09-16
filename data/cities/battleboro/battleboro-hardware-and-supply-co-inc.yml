@@ -1,11 +1,11 @@
 id: 229481140
-type: way
+type: node
 latitude: 36.05006
 longitude: -77.75283
 postcode: "27809"
 city: Battleboro
-street: "Hathaway Street"
-housenumber: 5048
+street: Hathaway Street
+housenumber: "5048"
 phone: "+12529772640"
 opening_hours: ""
 website: ""

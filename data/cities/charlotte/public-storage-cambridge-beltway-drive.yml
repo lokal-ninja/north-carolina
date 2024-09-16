@@ -1,11 +1,11 @@
 id: 436485205
-type: way
+type: node
 latitude: 35.13758
 longitude: -80.93595
 postcode: "28273"
 city: Charlotte
-street: "Cambridge Beltway Drive"
-housenumber: 2130
+street: Cambridge Beltway Drive
+housenumber: "2130"
 phone: ""
 opening_hours: ""
 website: ""

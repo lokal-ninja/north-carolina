@@ -1,11 +1,11 @@
 id: 32761938
-type: way
+type: node
 latitude: 36.02411
 longitude: -78.91897
 postcode: "27705"
 city: Durham
-street: "Broad Street"
-housenumber: 3798
-phone: "+1 919-479-1014"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-19:00"
+street: Broad Street
+housenumber: "3798"
+phone: +1 919-479-1014
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 922726129
-type: way
+type: node
 latitude: 35.4937
 longitude: -80.62634
 postcode: "28081"
 city: Kannapolis
-street: "South Main Street"
-housenumber: 311
+street: South Main Street
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

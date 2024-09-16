@@ -1,11 +1,11 @@
 id: 324340163
-type: way
+type: node
 latitude: 36.09016
 longitude: -79.81133
 postcode: "27408"
 city: Greensboro
-street: "Battleground Avenue"
-housenumber: 1607
-phone: "+1 336-606-3537"
+street: Battleground Avenue
+housenumber: "1607"
+phone: +1 336-606-3537
 opening_hours: ""
-website: "https://www.mckaybooks.com/"
+website: https://www.mckaybooks.com/

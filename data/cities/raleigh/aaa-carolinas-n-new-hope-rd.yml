@@ -1,11 +1,11 @@
 id: 677328687
-type: way
+type: node
 latitude: 35.80075
 longitude: -78.56195
 postcode: "27604"
 city: Raleigh
-street: "N New Hope Rd"
-housenumber: 1480
-phone: "919-706-4030"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
-website: "https://locator.carolinas.aaa.com/nc/raleigh/1124"
+street: N New Hope Rd
+housenumber: "1480"
+phone: 919-706-4030
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
+website: https://locator.carolinas.aaa.com/nc/raleigh/1124

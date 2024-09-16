@@ -1,11 +1,11 @@
 id: 442488273
-type: way
+type: node
 latitude: 35.35204
 longitude: -75.50381
 postcode: "27915"
 city: Avon
-street: "North Carolina Highway 12"
-housenumber: 40658
-phone: "+1 252-995-7003"
-opening_hours: "11:00-19:00"
-website: "http://www.sunriseseafood.net"
+street: North Carolina Highway 12
+housenumber: "40658"
+phone: +1 252-995-7003
+opening_hours: 11:00-19:00
+website: http://www.sunriseseafood.net

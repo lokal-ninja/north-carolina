@@ -1,11 +1,11 @@
 id: 690038724
-type: way
+type: node
 latitude: 35.04423
 longitude: -83.81884
 postcode: "28904"
 city: Hayesville
-street: "US 64 Business"
-housenumber: 818
+street: US 64 Business
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

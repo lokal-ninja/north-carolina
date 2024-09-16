@@ -1,11 +1,11 @@
 id: 299743103
-type: way
+type: node
 latitude: 35.85943
 longitude: -78.70178
 postcode: "27612"
 city: Raleigh
-street: "Glenwood Avenue"
-housenumber: 6254
-phone: "+1 919-787-9940"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/nc/raleigh/1361/"
+street: Glenwood Avenue
+housenumber: "6254"
+phone: +1 919-787-9940
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/nc/raleigh/1361/

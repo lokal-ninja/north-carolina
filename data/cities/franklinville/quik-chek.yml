@@ -1,11 +1,11 @@
 id: 904330960
-type: way
+type: node
 latitude: 35.74451
 longitude: -79.69632
 postcode: "27248"
 city: Franklinville
-street: "West Main Street"
-housenumber: 324
+street: West Main Street
+housenumber: "324"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1287231169
-type: way
+type: node
 latitude: 35.42659
 longitude: -83.3272
 postcode: "28789"
 city: Whittier
-street: "US 441 North"
-housenumber: 593
+street: US 441 North
+housenumber: "593"
 phone: ""
 opening_hours: ""
 website: ""

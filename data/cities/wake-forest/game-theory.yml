@@ -4,8 +4,8 @@ latitude: 35.95203
 longitude: -78.52723
 postcode: "27587"
 city: Wake Forest
-street: "South Main Street"
-housenumber: 1839
+street: South Main Street
+housenumber: "1839"
 phone: ""
-opening_hours: "Mo-Th 11:00-22:00; Fr-Sa 11:00-00:00; Su 11:00-18:00"
-website: "https://www.gametheorystore.com/"
+opening_hours: Mo-Th 11:00-22:00; Fr-Sa 11:00-00:00; Su 11:00-18:00
+website: https://www.gametheorystore.com/

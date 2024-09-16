@@ -1,11 +1,11 @@
 id: 830373068
-type: way
+type: node
 latitude: 35.32079
 longitude: -80.95355
 postcode: "28214"
 city: Charlotte
-street: "Mount Holly-Huntersville Road"
-housenumber: 2933
+street: Mount Holly-Huntersville Road
+housenumber: "2933"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/nc/charlotte/5826/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/nc/charlotte/5826/

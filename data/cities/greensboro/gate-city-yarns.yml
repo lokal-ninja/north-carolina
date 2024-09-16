@@ -1,11 +1,11 @@
 id: 208189129
-type: way
+type: node
 latitude: 36.07049
 longitude: -79.79033
 postcode: "27401"
 city: Greensboro
-street: "South Elm Street"
-housenumber: 231
+street: South Elm Street
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "http://www.gatecityyarns.com/"
+website: http://www.gatecityyarns.com/

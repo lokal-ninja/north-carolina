@@ -1,6 +1,6 @@
 ---
 title: Efland
 url: /efland/
-latitude: 36.08
-longitude: -79.169
+latitude: 36.081
+longitude: -79.162
 ---

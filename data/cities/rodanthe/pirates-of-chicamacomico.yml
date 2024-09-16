@@ -1,11 +1,11 @@
 id: 1162137263
-type: way
+type: node
 latitude: 35.59231
 longitude: -75.46776
 postcode: "27968"
 city: Rodanthe
-street: "North Carolina Highway 12"
-housenumber: 23881
-phone: "+1-252-489-9022"
+street: North Carolina Highway 12
+housenumber: "23881"
+phone: +1-252-489-9022
 opening_hours: ""
 website: ""

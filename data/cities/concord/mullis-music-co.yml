@@ -1,11 +1,11 @@
 id: 326049620
-type: way
+type: node
 latitude: 35.41004
 longitude: -80.58062
 postcode: "28025"
 city: Concord
-street: "Union Street South"
-housenumber: 31
+street: Union Street South
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

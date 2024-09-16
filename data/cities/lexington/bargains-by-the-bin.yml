@@ -1,11 +1,11 @@
 id: 1107265923
-type: way
+type: node
 latitude: 35.8196
 longitude: -80.23801
 postcode: "27292"
 city: Lexington
-street: "North Talbert Boulevard"
-housenumber: 294
+street: North Talbert Boulevard
+housenumber: "294"
 phone: ""
-opening_hours: "Mo-We,Sa 10:00-18:00, Su 10:00-16:00"
-website: "https://bargainsbythebin.com/"
+opening_hours: Mo-We,Sa 10:00-18:00, Su 10:00-16:00
+website: https://bargainsbythebin.com/

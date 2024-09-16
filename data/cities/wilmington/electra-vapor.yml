@@ -1,11 +1,11 @@
 id: 331857857
-type: way
+type: node
 latitude: 34.26368
 longitude: -77.8285
 postcode: "28411"
 city: Wilmington
-street: "Market Street"
-housenumber: 6927
-phone: "+1 910 799 0578"
-opening_hours: "Mo-Fr 09:00-21:00;Sa 10:00-20:00;Su 12:00-18:00"
-website: "http://www.electravapor.com/"
+street: Market Street
+housenumber: "6927"
+phone: +1 910 799 0578
+opening_hours: Mo-Fr 09:00-21:00;Sa 10:00-20:00;Su 12:00-18:00
+website: http://www.electravapor.com/

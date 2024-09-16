@@ -1,11 +1,11 @@
 id: 827886081
-type: way
+type: node
 latitude: 35.5048
 longitude: -78.32584
 postcode: "27577"
 city: Smithfield
-street: "East Market Street"
-housenumber: 1700
-phone: "+1 919-934-4477"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/511"
+street: East Market Street
+housenumber: "1700"
+phone: +1 919-934-4477
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/511

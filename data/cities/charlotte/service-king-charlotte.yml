@@ -1,11 +1,11 @@
 id: 836908501
-type: way
+type: node
 latitude: 35.19344
 longitude: -80.79068
 postcode: "28211"
 city: Charlotte
-street: "McAlway Road"
-housenumber: 1142
+street: McAlway Road
+housenumber: "1142"
 phone: ""
 opening_hours: ""
-website: "https://www.serviceking.com/locations/service-king-charlotte"
+website: https://www.serviceking.com/locations/service-king-charlotte

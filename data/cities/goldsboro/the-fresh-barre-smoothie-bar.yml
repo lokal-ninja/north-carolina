@@ -1,11 +1,11 @@
 id: 443989053
-type: way
+type: node
 latitude: 35.38442
 longitude: -77.99506
 postcode: "27530"
 city: Goldsboro
-street: "North John Street"
-housenumber: 211
+street: North John Street
+housenumber: "211"
 phone: "+19199475213"
 opening_hours: ""
 website: ""

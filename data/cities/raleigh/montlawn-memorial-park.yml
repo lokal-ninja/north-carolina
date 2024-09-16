@@ -1,11 +1,11 @@
 id: 47948060
-type: way
+type: node
 latitude: 35.74101
 longitude: -78.6482
 postcode: "27603"
 city: Raleigh
-street: "South Wilmington Street"
-housenumber: 2911
+street: South Wilmington Street
+housenumber: "2911"
 phone: ""
 opening_hours: ""
 website: ""

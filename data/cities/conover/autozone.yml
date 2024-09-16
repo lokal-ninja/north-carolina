@@ -1,11 +1,11 @@
 id: 562641850
-type: way
+type: node
 latitude: 35.72536
 longitude: -81.20954
 postcode: "28613"
 city: Conover
-street: "NC-16"
-housenumber: 1225
-phone: "(828) 468-6154"
+street: NC-16
+housenumber: "1225"
+phone: (828) 468-6154
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/conover/1225-n-nc-hwy-16.html"
+website: https://www.autozone.com/locations/nc/conover/1225-n-nc-hwy-16.html

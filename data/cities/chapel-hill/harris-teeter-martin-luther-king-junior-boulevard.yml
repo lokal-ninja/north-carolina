@@ -1,11 +1,11 @@
 id: 44230604
-type: way
+type: node
 latitude: 35.96793
 longitude: -79.05838
 postcode: "27514"
 city: Chapel Hill
-street: "Martin Luther King Junior Boulevard"
-housenumber: 1800
-phone: "+1 919-968-0110"
-opening_hours: "24/7"
-website: "https://www.harristeeter.com/stores/grocery/nc/chapel-hill/chapel-hill-north/097/00223"
+street: Martin Luther King Junior Boulevard
+housenumber: "1800"
+phone: +1 919-968-0110
+opening_hours: 24/7
+website: https://www.harristeeter.com/stores/grocery/nc/chapel-hill/chapel-hill-north/097/00223

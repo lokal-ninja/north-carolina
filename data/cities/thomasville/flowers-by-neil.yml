@@ -1,11 +1,11 @@
 id: 281843779
-type: way
+type: node
 latitude: 35.87573
 longitude: -80.07814
 postcode: "27360"
 city: Thomasville
-street: "Randolph Street"
-housenumber: 402
-phone: "+1-336-472-7300"
-opening_hours: "Mo-Tu,Th-Fr 08:30-17:00; We 08:30-13:00"
-website: "https://www.flowersbyneilthomasvillenc.com/"
+street: Randolph Street
+housenumber: "402"
+phone: +1-336-472-7300
+opening_hours: Mo-Tu,Th-Fr 08:30-17:00; We 08:30-13:00
+website: https://www.flowersbyneilthomasvillenc.com/

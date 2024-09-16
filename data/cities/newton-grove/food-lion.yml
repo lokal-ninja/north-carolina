@@ -1,11 +1,11 @@
 id: 1219620932
-type: way
+type: node
 latitude: 35.24767
 longitude: -78.35381
 postcode: "28366"
 city: Newton Grove
-street: "Main Street"
-housenumber: 306
-phone: "+1 910-594-6555"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Main Street
+housenumber: "306"
+phone: +1 910-594-6555
+opening_hours: Mo-Su 07:00-22:00
 website: ""

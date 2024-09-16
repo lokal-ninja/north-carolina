@@ -1,11 +1,11 @@
 id: 442770576
-type: way
+type: node
 latitude: 35.3842
 longitude: -77.99769
 postcode: "27530"
 city: Goldsboro
-street: "North Center Street"
-housenumber: 123
+street: North Center Street
+housenumber: "123"
 phone: "+19195842473"
 opening_hours: ""
 website: ""

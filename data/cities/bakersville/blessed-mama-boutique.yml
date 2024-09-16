@@ -1,11 +1,11 @@
 id: 614158471
-type: way
+type: node
 latitude: 36.01508
 longitude: -82.15631
 postcode: "28705"
 city: Bakersville
-street: "Hemlock Drive"
-housenumber: 80
+street: Hemlock Drive
+housenumber: "80"
 phone: "+18282840735"
 opening_hours: ""
 website: ""

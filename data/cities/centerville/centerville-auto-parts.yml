@@ -1,11 +1,11 @@
 id: 765280316
-type: way
+type: node
 latitude: 36.18727
 longitude: -78.105
 postcode: "27549"
 city: Centerville
-street: "NC-58"
-housenumber: 3414
+street: NC-58
+housenumber: "3414"
 phone: ""
 opening_hours: ""
 website: ""

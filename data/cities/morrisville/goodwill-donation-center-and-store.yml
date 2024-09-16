@@ -1,11 +1,11 @@
 id: 417611783
-type: way
+type: node
 latitude: 35.82233
 longitude: -78.84793
 postcode: "27560"
 city: Morrisville
-street: "Lake Grove Boulevard"
-housenumber: 11021
-phone: "(919) 267-6751"
-opening_hours: "Mo-Sa 09:00-20:30, Sa 09:00-18:00, Su 12:00-18:00"
-website: "https://www.gcfglobal.org/ourstores/"
+street: Lake Grove Boulevard
+housenumber: "11021"
+phone: (919) 267-6751
+opening_hours: Mo-Sa 09:00-20:30, Sa 09:00-18:00, Su 12:00-18:00
+website: https://www.gcfglobal.org/ourstores/

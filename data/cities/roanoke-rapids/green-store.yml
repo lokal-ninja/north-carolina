@@ -1,11 +1,11 @@
 id: 606473929
-type: way
+type: node
 latitude: 36.40603
 longitude: -77.7152
 postcode: "27870"
 city: Roanoke Rapids
-street: "NC-48"
-housenumber: 4174
+street: NC-48
+housenumber: "4174"
 phone: "+12525370360"
 opening_hours: ""
 website: ""

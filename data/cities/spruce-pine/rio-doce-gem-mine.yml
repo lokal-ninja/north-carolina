@@ -1,11 +1,11 @@
 id: 555241477
-type: way
+type: node
 latitude: 35.8611
 longitude: -82.04903
 postcode: "28777"
 city: Spruce Pine
-street: "Highway 226 South"
-housenumber: 14622
+street: Highway 226 South
+housenumber: "14622"
 phone: "+18287652099"
-opening_hours: "Apr-Sep: 09:00-17:00; Oct-Mar: off"
-website: "https://www.riodoce.com/"
+opening_hours: 'Apr-Sep: 09:00-17:00; Oct-Mar: off'
+website: https://www.riodoce.com/

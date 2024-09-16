@@ -4,8 +4,8 @@ latitude: 35.15672
 longitude: -79.41971
 postcode: "28315"
 city: Aberdeen
-street: "US 15-501"
-housenumber: 11088
-phone: "+1 910-315-0185"
-opening_hours: "Su-Th 09:00-22:00; Fr-Sa 09:00-23:00"
-website: "https://stores.burlington.com/nc/aberdeen/1536"
+street: US 15-501
+housenumber: "11088"
+phone: +1 910-315-0185
+opening_hours: Su-Th 09:00-22:00; Fr-Sa 09:00-23:00
+website: https://stores.burlington.com/nc/aberdeen/1536

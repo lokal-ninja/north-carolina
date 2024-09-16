@@ -1,11 +1,11 @@
 id: 364222422
-type: way
+type: node
 latitude: 35.60421
 longitude: -82.55397
 postcode: "28801"
 city: Asheville
-street: "Merrimon Avenue"
-housenumber: 136
-phone: "+1 828-255-1817"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/asheville/village-at-chestnut-street/097/00348"
+street: Merrimon Avenue
+housenumber: "136"
+phone: +1 828-255-1817
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/asheville/village-at-chestnut-street/097/00348

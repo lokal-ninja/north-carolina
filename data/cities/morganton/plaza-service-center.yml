@@ -1,11 +1,11 @@
 id: 301976391
-type: way
+type: node
 latitude: 35.73846
 longitude: -81.67929
 postcode: "28655"
 city: Morganton
-street: "West Fleming Drive"
-housenumber: 101
+street: West Fleming Drive
+housenumber: "101"
 phone: "+18284378147"
 opening_hours: ""
 website: ""

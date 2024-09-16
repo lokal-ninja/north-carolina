@@ -1,11 +1,11 @@
 id: 693628874
-type: way
+type: node
 latitude: 36.2195
 longitude: -81.68507
 postcode: "28607"
 city: Boone
-street: "West King Street"
-housenumber: 728
+street: West King Street
+housenumber: "728"
 phone: ""
-opening_hours: "Mo-Th 12:00-20:00; Fr-Sa 12:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Th 12:00-20:00; Fr-Sa 12:00-21:00; Su 12:00-18:00
 website: ""

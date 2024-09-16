@@ -1,11 +1,11 @@
 id: 870861988
-type: way
+type: node
 latitude: 35.82897
 longitude: -78.85103
 postcode: "27560"
 city: Morrisville
-street: "Davis Drive"
-housenumber: 3710
-phone: "+1 919-415-0210"
+street: Davis Drive
+housenumber: "3710"
+phone: +1 919-415-0210
 opening_hours: ""
-website: "https://www.wegmans.com/stores/west-cary-nc"
+website: https://www.wegmans.com/stores/west-cary-nc

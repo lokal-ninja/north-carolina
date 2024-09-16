@@ -1,11 +1,11 @@
 id: 191053318
-type: way
+type: node
 latitude: 35.14016
 longitude: -80.62393
 postcode: "28104"
 city: Stallings
-street: "Stevens Mill Road"
-housenumber: 7800
-phone: "+1 704-882-2749"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/stallings/stevens-mill-crossing/097/00039"
+street: Stevens Mill Road
+housenumber: "7800"
+phone: +1 704-882-2749
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.harristeeter.com/stores/grocery/nc/stallings/stevens-mill-crossing/097/00039

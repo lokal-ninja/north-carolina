@@ -1,11 +1,11 @@
 id: 882188677
-type: way
+type: node
 latitude: 35.13961
 longitude: -80.68372
-postcode: "28105-3632"
+postcode: 28105-3632
 city: Matthews
-street: "Matthews-Mint Hill Road"
-housenumber: 3611
-phone: "+1 980-262-6004"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/nc/matthews/2280/"
+street: Matthews-Mint Hill Road
+housenumber: "3611"
+phone: +1 980-262-6004
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/nc/matthews/2280/

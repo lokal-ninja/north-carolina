@@ -1,11 +1,11 @@
 id: 1036773920
-type: way
+type: node
 latitude: 35.29248
 longitude: -81.53957
 postcode: "28150"
 city: Shelby
-street: "North Lafayette Street"
-housenumber: 108
+street: North Lafayette Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

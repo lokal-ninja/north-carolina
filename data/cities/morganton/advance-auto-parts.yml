@@ -1,11 +1,11 @@
 id: 375971389
-type: way
+type: node
 latitude: 35.73425
 longitude: -81.68362
 postcode: "28655"
 city: Morganton
-street: "West Fleming Drive"
-housenumber: 405
+street: West Fleming Drive
+housenumber: "405"
 phone: "+18284381515"
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/morganton/405-w-fleming-dr"
+website: https://stores.advanceautoparts.com/nc/morganton/405-w-fleming-dr

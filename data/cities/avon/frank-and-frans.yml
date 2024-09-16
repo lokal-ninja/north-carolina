@@ -1,11 +1,11 @@
 id: 442119987
-type: way
+type: node
 latitude: 35.35858
 longitude: -75.50241
 postcode: "27915"
 city: Avon
-street: "North Carolina Highway 12"
-housenumber: 40210
-phone: "(252) 995-4171"
+street: North Carolina Highway 12
+housenumber: "40210"
+phone: (252) 995-4171
 opening_hours: ""
-website: "https://frankandfrans.vendecommerce.com"
+website: https://frankandfrans.vendecommerce.com

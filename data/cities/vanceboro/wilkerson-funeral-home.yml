@@ -1,11 +1,11 @@
 id: 1223315178
-type: way
+type: node
 latitude: 35.30138
 longitude: -77.15087
 postcode: "28586"
 city: Vanceboro
-street: "Farmlife Avenue"
-housenumber: 608
+street: Farmlife Avenue
+housenumber: "608"
 phone: ""
 opening_hours: ""
 website: ""

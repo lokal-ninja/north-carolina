@@ -1,11 +1,11 @@
 id: 148072822
-type: way
+type: node
 latitude: 35.35617
 longitude: -75.50295
 postcode: "27915"
 city: Avon
-street: "North Carolina Highway 12"
-housenumber: 40374
-phone: "(252) 995-3347"
+street: North Carolina Highway 12
+housenumber: "40374"
+phone: (252) 995-3347
 opening_hours: ""
-website: "https://breezethruobx.com/"
+website: https://breezethruobx.com/

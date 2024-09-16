@@ -1,11 +1,11 @@
 id: 115685524
-type: way
+type: node
 latitude: 36.00064
 longitude: -78.89072
 postcode: "27701"
 city: Durham
-street: "Dowd Street"
-housenumber: 419
+street: Dowd Street
+housenumber: "419"
 phone: ""
 opening_hours: ""
-website: "https://www.ellisdjones.com/"
+website: https://www.ellisdjones.com/

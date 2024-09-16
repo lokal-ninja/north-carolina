@@ -1,11 +1,11 @@
 id: 619283962
-type: way
+type: node
 latitude: 35.58254
 longitude: -77.36921
 postcode: ""
 city: Greenville
-street: "Red Banks Road"
-housenumber: 727
-phone: "+1-252-355-6714"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://jennik.com/"
+street: Red Banks Road
+housenumber: "727"
+phone: +1-252-355-6714
+opening_hours: Mo-Fr 10:00-18:00
+website: https://jennik.com/

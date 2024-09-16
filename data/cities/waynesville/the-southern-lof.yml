@@ -1,11 +1,11 @@
 id: 241090892
-type: way
+type: node
 latitude: 35.492
 longitude: -82.98681
 postcode: ""
 city: Waynesville
-street: "North Main Street"
-housenumber: 172
+street: North Main Street
+housenumber: "172"
 phone: ""
 opening_hours: ""
 website: ""

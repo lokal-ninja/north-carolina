@@ -1,11 +1,11 @@
 id: 645012991
-type: way
+type: node
 latitude: 36.38245
 longitude: -79.66667
 postcode: "27320"
 city: Reidsville
-street: "NC 14"
-housenumber: 1624
-phone: "+1 336-349-6569"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3304/reidsville-nc/whats-new"
+street: NC 14
+housenumber: "1624"
+phone: +1 336-349-6569
+opening_hours: 24/7
+website: https://www.walmart.com/store/3304/reidsville-nc/whats-new

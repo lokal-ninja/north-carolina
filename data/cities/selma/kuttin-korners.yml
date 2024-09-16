@@ -1,11 +1,11 @@
 id: 945648063
-type: way
+type: node
 latitude: 35.53462
 longitude: -78.28475
 postcode: "27576"
 city: Selma
-street: "East Dr Martin Luther King Jr Way"
-housenumber: 101
-phone: "(919) 239-6217"
+street: East Dr Martin Luther King Jr Way
+housenumber: "101"
+phone: (919) 239-6217
 opening_hours: ""
 website: ""

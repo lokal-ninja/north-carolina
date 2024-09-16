@@ -1,11 +1,11 @@
 id: 313647271
-type: way
+type: node
 latitude: 36.42743
 longitude: -77.63414
 postcode: "27870"
 city: Roanoke Rapids
-street: "Premier Boulevard"
-housenumber: 251
-phone: "+1 252-535-3151"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1502/roanoke-rapids-nc/whats-new"
+street: Premier Boulevard
+housenumber: "251"
+phone: +1 252-535-3151
+opening_hours: 24/7
+website: https://www.walmart.com/store/1502/roanoke-rapids-nc/whats-new

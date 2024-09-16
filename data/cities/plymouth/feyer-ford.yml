@@ -1,11 +1,11 @@
 id: 249217034
-type: way
+type: node
 latitude: 35.85445
 longitude: -76.75233
 postcode: "27962"
 city: Plymouth
-street: "US Highway 64 West"
-housenumber: 454
-phone: "+1 252 793 5123"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.feyerfordplymouth.net"
+street: US Highway 64 West
+housenumber: "454"
+phone: +1 252 793 5123
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.feyerfordplymouth.net

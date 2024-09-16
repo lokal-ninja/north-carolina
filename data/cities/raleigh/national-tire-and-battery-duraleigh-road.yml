@@ -1,11 +1,11 @@
 id: 47699062
-type: way
+type: node
 latitude: 35.86199
 longitude: -78.71187
 postcode: "27612"
 city: Raleigh
-street: "Duraleigh Road"
-housenumber: 6120
+street: Duraleigh Road
+housenumber: "6120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00, Su 09:00-16:00"
-website: "https://www.ntb.com/store/nc/raleigh/6120-duraleigh-rd-27612/4321"
+opening_hours: Mo-Sa 07:00-19:00, Su 09:00-16:00
+website: https://www.ntb.com/store/nc/raleigh/6120-duraleigh-rd-27612/4321

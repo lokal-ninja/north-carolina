@@ -1,11 +1,11 @@
 id: 1264530552
-type: way
+type: node
 latitude: 36.07201
 longitude: -81.87599
 postcode: "28646"
 city: Linville
-street: "Ruffin Street"
-housenumber: 77
-phone: "(828) 733-5213"
+street: Ruffin Street
+housenumber: "77"
+phone: (828) 733-5213
 opening_hours: ""
 website: ""

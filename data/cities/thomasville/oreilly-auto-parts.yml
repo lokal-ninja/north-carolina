@@ -1,11 +1,11 @@
 id: 283423503
-type: way
+type: node
 latitude: 35.87391
 longitude: -80.07566
 postcode: ""
 city: Thomasville
-street: "Randolph Street"
-housenumber: 701
+street: Randolph Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nc/thomasville/autoparts-1300.html"
+website: https://locations.oreillyauto.com/nc/thomasville/autoparts-1300.html

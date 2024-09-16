@@ -1,11 +1,11 @@
 id: 654395438
-type: way
+type: node
 latitude: 35.8248
 longitude: -82.5438
 postcode: "28754"
 city: Mars Hill
-street: "Carl Eller Road"
-housenumber: 225
+street: Carl Eller Road
+housenumber: "225"
 phone: "+18286895980"
 opening_hours: ""
 website: ""

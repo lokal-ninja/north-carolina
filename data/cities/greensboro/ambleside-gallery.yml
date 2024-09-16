@@ -1,11 +1,11 @@
 id: 207780184
-type: way
+type: node
 latitude: 36.06631
 longitude: -79.79087
 postcode: "27406"
 city: Greensboro
-street: "South Elm Street"
-housenumber: 528
-phone: "(336)-275-9844"
+street: South Elm Street
+housenumber: "528"
+phone: (336)-275-9844
 opening_hours: ""
-website: "http://www.amblesidearts.com"
+website: http://www.amblesidearts.com

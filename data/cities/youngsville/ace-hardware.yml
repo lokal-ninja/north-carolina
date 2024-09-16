@@ -1,11 +1,11 @@
 id: 562035580
-type: way
+type: node
 latitude: 36.03826
 longitude: -78.49764
-postcode: "27596-8607"
+postcode: 27596-8607
 city: Youngsville
-street: "Highway 1 North"
-housenumber: 1120
-phone: "+1 919-554-1541"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 11:00-17:00"
+street: Highway 1 North
+housenumber: "1120"
+phone: +1 919-554-1541
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 11:00-17:00
 website: ""

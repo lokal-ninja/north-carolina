@@ -1,11 +1,11 @@
 id: 1071726939
-type: way
+type: node
 latitude: 35.12208
 longitude: -80.7281
 postcode: "28105"
 city: Matthews
-street: "West John Street"
-housenumber: 668
+street: West John Street
+housenumber: "668"
 phone: ""
 opening_hours: ""
 website: ""

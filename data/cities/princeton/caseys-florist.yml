@@ -4,8 +4,8 @@ latitude: 35.46444
 longitude: -78.1601
 postcode: "27569"
 city: Princeton
-street: "South Center Street"
-housenumber: 201
+street: South Center Street
+housenumber: "201"
 phone: "+19199368801"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00
 website: ""

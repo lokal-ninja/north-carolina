@@ -1,11 +1,11 @@
 id: 897366525
-type: way
+type: node
 latitude: 34.23627
 longitude: -77.86977
 postcode: "28403"
 city: Wilmington
-street: "South College Road"
-housenumber: 309
-phone: "+1 910-790-2021"
+street: South College Road
+housenumber: "309"
+phone: +1 910-790-2021
 opening_hours: ""
-website: "https://stores.bestbuy.com/nc/wilmington/309-s-college-rd-378.html"
+website: https://stores.bestbuy.com/nc/wilmington/309-s-college-rd-378.html

@@ -1,11 +1,11 @@
 id: 913637488
-type: way
+type: node
 latitude: 35.57457
 longitude: -82.52025
 postcode: "28805"
 city: Asheville
-street: "River Hills Road"
-housenumber: 109
+street: River Hills Road
+housenumber: "109"
 phone: "+18284176143"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/nc/asheville/62/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/nc/asheville/62/

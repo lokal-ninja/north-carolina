@@ -1,11 +1,11 @@
 id: 871495830
-type: way
+type: node
 latitude: 35.17691
 longitude: -80.79822
 postcode: "28211"
 city: Charlotte
-street: "Colwick Road"
-housenumber: 4408
+street: Colwick Road
+housenumber: "4408"
 phone: ""
 opening_hours: ""
 website: ""

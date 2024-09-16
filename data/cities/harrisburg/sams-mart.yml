@@ -1,11 +1,11 @@
 id: 1254214173
-type: way
+type: node
 latitude: 35.32219
 longitude: -80.64306
 postcode: "28025"
 city: Harrisburg
-street: "NC 49"
-housenumber: 4025
+street: NC 49
+housenumber: "4025"
 phone: "+17044566267"
-opening_hours: "24/7"
-website: "https://www.samsmartinc.com/"
+opening_hours: 24/7
+website: https://www.samsmartinc.com/

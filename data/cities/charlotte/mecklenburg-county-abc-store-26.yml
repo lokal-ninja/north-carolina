@@ -1,11 +1,11 @@
 id: 548543820
-type: way
+type: node
 latitude: 35.32737
 longitude: -80.94535
 postcode: "28216"
 city: Charlotte
-street: "Callabridge Court"
-housenumber: 9737
+street: Callabridge Court
+housenumber: "9737"
 phone: ""
 opening_hours: ""
 website: ""

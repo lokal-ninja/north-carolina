@@ -1,11 +1,11 @@
 id: 230512869
-type: way
+type: node
 latitude: 35.67139
 longitude: -81.98738
 postcode: "28752"
 city: Marion
-street: "Rutherford Road"
-housenumber: 1612
-phone: "+1 828-652-3958"
-opening_hours: "Mo-Sa 07:30-18:00"
+street: Rutherford Road
+housenumber: "1612"
+phone: +1 828-652-3958
+opening_hours: Mo-Sa 07:30-18:00
 website: ""

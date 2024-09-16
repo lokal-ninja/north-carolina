@@ -1,11 +1,11 @@
 id: 760391329
-type: way
+type: node
 latitude: 35.35983
 longitude: -81.93558
 postcode: "28160"
 city: Spindale
-street: "West Main Street"
-housenumber: 278
+street: West Main Street
+housenumber: "278"
 phone: "+18282862229"
 opening_hours: ""
 website: ""

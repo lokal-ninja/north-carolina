@@ -1,11 +1,11 @@
 id: 827930804
-type: way
+type: node
 latitude: 35.29405
 longitude: -78.59699
 postcode: "28334"
 city: Dunn
-street: "East Cumberland Street"
-housenumber: 1110
+street: East Cumberland Street
+housenumber: "1110"
 phone: "+19108921800"
 opening_hours: ""
 website: ""

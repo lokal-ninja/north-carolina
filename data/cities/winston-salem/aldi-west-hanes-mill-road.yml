@@ -1,11 +1,11 @@
 id: 942412553
-type: way
+type: node
 latitude: 36.17391
 longitude: -80.27891
 postcode: "27105"
 city: Winston-Salem
-street: "West Hanes Mill Road"
-housenumber: 5622
-phone: "+1 833-466-1093"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/winston-salem/5622-w-hanes-mill-road"
+street: West Hanes Mill Road
+housenumber: "5622"
+phone: +1 833-466-1093
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/winston-salem/5622-w-hanes-mill-road

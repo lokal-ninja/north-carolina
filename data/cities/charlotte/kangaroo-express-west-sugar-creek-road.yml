@@ -1,11 +1,11 @@
 id: 602291800
-type: way
+type: node
 latitude: 35.33355
 longitude: -80.79799
 postcode: "28269"
 city: Charlotte
-street: "West Sugar Creek Road"
-housenumber: 6230
+street: West Sugar Creek Road
+housenumber: "6230"
 phone: ""
 opening_hours: ""
 website: ""

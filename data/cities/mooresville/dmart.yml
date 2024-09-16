@@ -1,11 +1,11 @@
 id: 202503477
-type: way
+type: node
 latitude: 35.60773
 longitude: -80.79187
-postcode: "28115-7949"
+postcode: 28115-7949
 city: Mooresville
-street: "Oak Ridge Farm Road"
-housenumber: 896
+street: Oak Ridge Farm Road
+housenumber: "896"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

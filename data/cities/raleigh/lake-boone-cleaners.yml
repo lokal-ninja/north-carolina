@@ -1,11 +1,11 @@
 id: 1166269041
-type: way
+type: node
 latitude: 35.81771
 longitude: -78.6928
 postcode: "27607"
 city: Raleigh
-street: "Wycliff Road"
-housenumber: 2508
-phone: "+1-919-781-9397"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed"
-website: "https://www.facebook.com/lakeboonecleaners/"
+street: Wycliff Road
+housenumber: "2508"
+phone: +1-919-781-9397
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed
+website: https://www.facebook.com/lakeboonecleaners/

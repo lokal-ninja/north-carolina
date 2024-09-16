@@ -1,11 +1,11 @@
 id: 1184725743
-type: way
+type: node
 latitude: 35.01677
 longitude: -78.50428
 postcode: "28385"
 city: Salemburg
-street: "West Clinton Street"
-housenumber: 200
+street: West Clinton Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/salemburg/11263"
+website: https://www.dollargeneral.com/store-directory/nc/salemburg/11263

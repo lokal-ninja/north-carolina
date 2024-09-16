@@ -1,11 +1,11 @@
 id: 1244934372
-type: way
+type: node
 latitude: 35.66643
 longitude: -78.49865
 postcode: "27520"
 city: Clayton
-street: "US 70 Business West"
-housenumber: 12984
+street: US 70 Business West
+housenumber: "12984"
 phone: "+19192430652"
 opening_hours: ""
 website: ""

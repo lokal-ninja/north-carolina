@@ -1,11 +1,11 @@
 id: 1134810847
-type: way
+type: node
 latitude: 36.09181
 longitude: -79.40248
 postcode: "27217"
 city: Burlington
-street: "South Graham Hopedale Road"
-housenumber: 530
-phone: "+1 336-226-1819"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3612/burlington-nc/whats-new"
+street: South Graham Hopedale Road
+housenumber: "530"
+phone: +1 336-226-1819
+opening_hours: 24/7
+website: https://www.walmart.com/store/3612/burlington-nc/whats-new

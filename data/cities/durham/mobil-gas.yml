@@ -1,11 +1,11 @@
 id: 83027533
-type: way
+type: node
 latitude: 36.08318
 longitude: -78.93072
 postcode: "27712"
 city: Durham
-street: "Guess Road"
-housenumber: 5100
+street: Guess Road
+housenumber: "5100"
 phone: ""
 opening_hours: ""
 website: ""

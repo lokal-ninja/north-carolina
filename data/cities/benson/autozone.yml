@@ -1,11 +1,11 @@
 id: 715552446
-type: way
+type: node
 latitude: 35.51713
 longitude: -78.56282
 postcode: "27504"
 city: Benson
-street: "NC 210 Highway"
-housenumber: 12350
+street: NC 210 Highway
+housenumber: "12350"
 phone: "+19192090167"
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/benson/12350-nc-highway-210.html"
+website: https://www.autozone.com/locations/nc/benson/12350-nc-highway-210.html

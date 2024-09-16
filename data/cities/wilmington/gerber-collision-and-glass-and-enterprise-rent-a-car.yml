@@ -1,11 +1,11 @@
 id: 321074087
-type: way
+type: node
 latitude: 34.29809
 longitude: -77.7951
 postcode: "28411"
 city: Wilmington
-street: "Market Street"
-housenumber: 8125
-phone: "+1 910 686 6233"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.gerbercollision.com/locations/wilmington-market-st-nc"
+street: Market Street
+housenumber: "8125"
+phone: +1 910 686 6233
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.gerbercollision.com/locations/wilmington-market-st-nc

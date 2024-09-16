@@ -1,11 +1,11 @@
 id: 588194626
-type: way
+type: node
 latitude: 35.48231
 longitude: -79.17754
 postcode: "27330"
 city: Sanford
-street: "Hawkins Avenue"
-housenumber: 104
+street: Hawkins Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

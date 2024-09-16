@@ -1,11 +1,11 @@
 id: 44318162
-type: way
+type: node
 latitude: 35.94609
 longitude: -79.01091
 postcode: "27514"
 city: Chapel Hill
-street: "Fordham Boulevard"
-housenumber: 1809
+street: Fordham Boulevard
+housenumber: "1809"
 phone: ""
 opening_hours: ""
 website: ""

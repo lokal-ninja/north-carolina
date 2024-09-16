@@ -1,11 +1,11 @@
 id: 323193307
-type: way
+type: node
 latitude: 35.21922
 longitude: -80.8104
 postcode: "28205"
 city: Charlotte
-street: "Central Avenue"
-housenumber: 1704
-phone: "+1 704-716-9458"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/charlotte/central-avenue/097/00401"
+street: Central Avenue
+housenumber: "1704"
+phone: +1 704-716-9458
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.harristeeter.com/stores/grocery/nc/charlotte/central-avenue/097/00401

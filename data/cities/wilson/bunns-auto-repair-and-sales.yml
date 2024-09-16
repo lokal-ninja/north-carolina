@@ -1,11 +1,11 @@
 id: 1022576711
-type: way
+type: node
 latitude: 35.70758
 longitude: -78.05674
 postcode: "27893"
 city: Wilson
-street: "Radio Tower Road"
-housenumber: 6573
+street: Radio Tower Road
+housenumber: "6573"
 phone: ""
 opening_hours: ""
-website: "http://bunnsauto.com/"
+website: http://bunnsauto.com/

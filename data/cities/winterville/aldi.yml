@@ -1,11 +1,11 @@
 id: 697338276
-type: way
+type: node
 latitude: 35.55596
 longitude: -77.40417
 postcode: "28590"
 city: Winterville
-street: "South Square Drive"
-housenumber: 655
-phone: "+1 833-480-4040"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/nc/winterville/655-s-square-drive"
+street: South Square Drive
+housenumber: "655"
+phone: +1 833-480-4040
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/nc/winterville/655-s-square-drive

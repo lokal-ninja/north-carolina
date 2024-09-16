@@ -1,11 +1,11 @@
 id: 30284476
-type: way
+type: node
 latitude: 36.00048
 longitude: -78.91019
 postcode: "27701"
 city: Durham
-street: "West Main Street"
-housenumber: 905
+street: West Main Street
+housenumber: "905"
 phone: ""
 opening_hours: ""
 website: ""

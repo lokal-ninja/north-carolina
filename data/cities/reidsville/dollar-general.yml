@@ -1,11 +1,11 @@
 id: 1067026448
-type: way
+type: node
 latitude: 36.36455
 longitude: -79.61849
 postcode: "27320"
 city: Reidsville
-street: "US-158"
-housenumber: 3413
+street: US-158
+housenumber: "3413"
 phone: "+13367916580"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/reidsville/16984"
+website: https://www.dollargeneral.com/store-directory/nc/reidsville/16984

@@ -1,11 +1,11 @@
 id: 857405048
-type: way
+type: node
 latitude: 35.33672
 longitude: -80.75439
 postcode: "28262"
 city: Charlotte
-street: "East Arbors Drive"
-housenumber: 1816
-phone: "+1 704-688-9578"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/nc/charlotte/743/"
+street: East Arbors Drive
+housenumber: "1816"
+phone: +1 704-688-9578
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/nc/charlotte/743/

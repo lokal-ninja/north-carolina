@@ -1,11 +1,11 @@
 id: 335278223
-type: way
+type: node
 latitude: 35.42149
 longitude: -80.67692
 postcode: ""
 city: Concord
-street: "Ashdale Court"
-housenumber: 546
+street: Ashdale Court
+housenumber: "546"
 phone: ""
 opening_hours: ""
 website: ""

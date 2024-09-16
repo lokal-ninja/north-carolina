@@ -1,11 +1,11 @@
 id: 1227610439
-type: way
+type: node
 latitude: 35.18656
 longitude: -77.31716
 postcode: "28523"
 city: Cove City
-street: "East Sunset Boulevard"
-housenumber: 209
+street: East Sunset Boulevard
+housenumber: "209"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/cove-city/21583"
+website: https://www.dollargeneral.com/store-directory/nc/cove-city/21583

@@ -1,11 +1,11 @@
 id: 581406833
-type: way
+type: node
 latitude: 36.4043
 longitude: -79.97793
 postcode: "27025"
 city: Madison
-street: "South Ayersville Road"
-housenumber: 916
+street: South Ayersville Road
+housenumber: "916"
 phone: "+13365486044"
 opening_hours: ""
 website: ""

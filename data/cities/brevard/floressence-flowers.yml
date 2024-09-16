@@ -1,11 +1,11 @@
 id: 449690450
-type: way
+type: node
 latitude: 35.21927
 longitude: -82.74913
 postcode: "28712"
 city: Brevard
-street: "Rosman Highway"
-housenumber: 859
-phone: "+1-828-490-1231"
+street: Rosman Highway
+housenumber: "859"
+phone: +1-828-490-1231
 opening_hours: ""
-website: "https://www.floressenceflowers.net/"
+website: https://www.floressenceflowers.net/

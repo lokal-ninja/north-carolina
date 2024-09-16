@@ -1,11 +1,11 @@
 id: 317758987
-type: way
+type: node
 latitude: 35.79161
 longitude: -77.63923
 postcode: "27864"
 city: Pinetops
-street: "West Hamlet Street"
-housenumber: 201
-phone: "+1-252-755-0703"
+street: West Hamlet Street
+housenumber: "201"
+phone: +1-252-755-0703
 opening_hours: ""
-website: "https://www.selectautosalesrr.com/"
+website: https://www.selectautosalesrr.com/

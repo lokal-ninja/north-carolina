@@ -1,11 +1,11 @@
 id: 1123481715
-type: way
+type: node
 latitude: 35.81295
 longitude: -79.08829
 postcode: "27312"
 city: Pittsboro
-street: "Ballentrae Court"
-housenumber: 70
+street: Ballentrae Court
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

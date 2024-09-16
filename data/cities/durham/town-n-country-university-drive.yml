@@ -1,11 +1,11 @@
 id: 239265449
-type: way
+type: node
 latitude: 35.96758
 longitude: -78.94026
 postcode: "27707"
 city: Durham
-street: "University Drive"
-housenumber: 3101
-phone: "+1-919-489-3887"
+street: University Drive
+housenumber: "3101"
+phone: +1-919-489-3887
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 35.795
 longitude: -78.50528
 postcode: "27545"
 city: Knightdale
-street: "Wide Waters Parkway"
-housenumber: 3001
-phone: "919-217-9184"
-opening_hours: "06:00-24:00"
-website: "https://www.lowesfoods.com/store-locator/store-189"
+street: Wide Waters Parkway
+housenumber: "3001"
+phone: 919-217-9184
+opening_hours: 06:00-24:00
+website: https://www.lowesfoods.com/store-locator/store-189

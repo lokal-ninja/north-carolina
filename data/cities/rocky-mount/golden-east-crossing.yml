@@ -1,11 +1,11 @@
 id: 88900487
-type: way
+type: node
 latitude: 35.97336
 longitude: -77.80799
 postcode: ""
 city: Rocky Mount
-street: "North Wesleyan Boulevard"
-housenumber: 1100
+street: North Wesleyan Boulevard
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.goldeneastcrossing.com/"
+website: https://www.goldeneastcrossing.com/

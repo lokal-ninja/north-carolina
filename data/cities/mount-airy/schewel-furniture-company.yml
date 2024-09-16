@@ -1,11 +1,11 @@
 id: 770730291
-type: way
+type: node
 latitude: 36.48349
 longitude: -80.61317
 postcode: "27030"
 city: Mount Airy
-street: "Rockford Street"
-housenumber: 1927
+street: Rockford Street
+housenumber: "1927"
 phone: "+13367895434"
 opening_hours: ""
-website: "https://www.schewels.com/"
+website: https://www.schewels.com/

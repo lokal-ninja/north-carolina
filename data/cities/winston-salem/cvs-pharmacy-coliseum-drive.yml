@@ -1,11 +1,11 @@
 id: 1021101242
-type: way
+type: node
 latitude: 36.1235
 longitude: -80.25921
 postcode: "27106"
 city: Winston-Salem
-street: "Coliseum Drive"
-housenumber: 606
+street: Coliseum Drive
+housenumber: "606"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/winston-salem-nc-pharmacies/606-coliseum-dr-winston-salem-nc-27106/storeid=1944"
+website: https://www.cvs.com/store-locator/winston-salem-nc-pharmacies/606-coliseum-dr-winston-salem-nc-27106/storeid=1944

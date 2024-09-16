@@ -1,11 +1,11 @@
 id: 1119282866
-type: way
+type: node
 latitude: 35.03667
 longitude: -76.69123
 postcode: "28571"
 city: Oriental
-street: "Broad Street"
-housenumber: 1104
+street: Broad Street
+housenumber: "1104"
 phone: ""
 opening_hours: ""
 website: ""

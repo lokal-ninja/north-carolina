@@ -1,11 +1,11 @@
 id: 396773385
-type: way
+type: node
 latitude: 36.0267
 longitude: -75.67143
 postcode: "27948"
 city: Kill Devil Hills
-street: "North Croatan Highway"
-housenumber: 1500
-phone: "+1 252-449-2060"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/nc-kill-devil-hills/3216"
+street: North Croatan Highway
+housenumber: "1500"
+phone: +1 252-449-2060
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/nc-kill-devil-hills/3216

@@ -1,11 +1,11 @@
 id: 743150127
-type: way
+type: node
 latitude: 35.27953
 longitude: -81.53292
 postcode: "28152"
 city: Shelby
-street: "Earl Road"
-housenumber: 425
+street: Earl Road
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

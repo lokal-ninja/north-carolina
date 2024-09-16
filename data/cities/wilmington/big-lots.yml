@@ -1,11 +1,11 @@
 id: 398301178
-type: way
+type: node
 latitude: 34.19754
 longitude: -77.89117
 postcode: "28403"
 city: Wilmington
-street: "Shipyard Boulevard"
-housenumber: 4310
-phone: "+1 910-791-8066"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/nc/wilmington/4310-shipyard-blvd"
+street: Shipyard Boulevard
+housenumber: "4310"
+phone: +1 910-791-8066
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/nc/wilmington/4310-shipyard-blvd

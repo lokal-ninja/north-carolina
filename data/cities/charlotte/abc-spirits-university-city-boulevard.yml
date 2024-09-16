@@ -1,11 +1,11 @@
 id: 690085621
-type: way
+type: node
 latitude: 35.30804
 longitude: -80.72005
 postcode: "28213"
 city: Charlotte
-street: "University City Boulevard"
-housenumber: 9740
+street: University City Boulevard
+housenumber: "9740"
 phone: ""
 opening_hours: ""
 website: ""

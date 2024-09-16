@@ -1,11 +1,11 @@
 id: 1183559530
-type: way
+type: node
 latitude: 35.56089
 longitude: -77.46535
 postcode: "27834"
 city: Greenville
-street: "Bell Arthur Road"
-housenumber: 3921
-phone: "+1-252-364-2851"
+street: Bell Arthur Road
+housenumber: "3921"
+phone: +1-252-364-2851
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 870467716
-type: way
+type: node
 latitude: 35.21289
 longitude: -80.81747
 postcode: "28204"
 city: Charlotte
-street: "Pecan Avenue"
-housenumber: 417
+street: Pecan Avenue
+housenumber: "417"
 phone: ""
 opening_hours: ""
-website: "https://www.heroesonline.com/"
+website: https://www.heroesonline.com/

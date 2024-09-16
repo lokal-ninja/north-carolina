@@ -1,11 +1,11 @@
 id: 1020160610
-type: way
+type: node
 latitude: 35.33917
 longitude: -80.17625
 postcode: "28001"
 city: Albemarle
-street: "Leonard Avenue"
-housenumber: 781
-phone: "+1 704-983-6830"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1133/albemarle-nc/whats-new"
+street: Leonard Avenue
+housenumber: "781"
+phone: +1 704-983-6830
+opening_hours: 24/7
+website: https://www.walmart.com/store/1133/albemarle-nc/whats-new

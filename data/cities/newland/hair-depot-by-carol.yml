@@ -1,11 +1,11 @@
 id: 891399826
-type: way
+type: node
 latitude: 36.08606
 longitude: -81.92829
 postcode: "28657"
 city: Newland
-street: "Pineola Street"
-housenumber: 310
+street: Pineola Street
+housenumber: "310"
 phone: "+18287330055"
 opening_hours: ""
 website: ""

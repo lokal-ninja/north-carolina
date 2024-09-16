@@ -1,11 +1,11 @@
 id: 515561862
-type: way
+type: node
 latitude: 36.09856
 longitude: -75.7169
 postcode: "27949"
 city: Kitty Hawk
-street: "North Croatan Highway"
-housenumber: 5300
-phone: "+1 252-261-4115"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/kitty-hawk/nc/kitty-hawk/27949/3650"
+street: North Croatan Highway
+housenumber: "5300"
+phone: +1 252-261-4115
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/kitty-hawk/nc/kitty-hawk/27949/3650

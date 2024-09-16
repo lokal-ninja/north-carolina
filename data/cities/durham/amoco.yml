@@ -1,11 +1,11 @@
 id: 154381363
-type: way
+type: node
 latitude: 36.0164
 longitude: -78.8887
 postcode: "27704"
 city: Durham
-street: "Avondale Drive"
-housenumber: 2108
-phone: "+1-919-220-4080"
+street: Avondale Drive
+housenumber: "2108"
+phone: +1-919-220-4080
 opening_hours: ""
 website: ""

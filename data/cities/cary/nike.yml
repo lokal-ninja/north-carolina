@@ -4,8 +4,8 @@ latitude: 35.78065
 longitude: -78.75805
 postcode: "27511"
 city: Cary
-street: "Fenton Main Street"
-housenumber: 4
+street: Fenton Main Street
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
 website: ""

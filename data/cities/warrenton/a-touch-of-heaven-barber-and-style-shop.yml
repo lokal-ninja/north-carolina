@@ -1,11 +1,11 @@
 id: 1235767449
-type: way
+type: node
 latitude: 36.3979
 longitude: -78.15601
 postcode: "27589"
 city: Warrenton
-street: "West Market Street"
-housenumber: 117
+street: West Market Street
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

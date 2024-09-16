@@ -1,11 +1,11 @@
 id: 323191961
-type: way
+type: node
 latitude: 35.24445
 longitude: -80.80337
 postcode: "28205"
 city: Charlotte
-street: "East 35th Street"
-housenumber: 800
+street: East 35th Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

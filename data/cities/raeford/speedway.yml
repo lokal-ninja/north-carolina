@@ -1,11 +1,11 @@
 id: 1019444827
-type: way
+type: node
 latitude: 34.98866
 longitude: -79.2509
 postcode: "28376"
 city: Raeford
-street: "Aberdeen Road"
-housenumber: 422
+street: Aberdeen Road
+housenumber: "422"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NC/Raeford/422-Aberdeen-Rd"
+website: https://www.speedway.com/locations/NC/Raeford/422-Aberdeen-Rd

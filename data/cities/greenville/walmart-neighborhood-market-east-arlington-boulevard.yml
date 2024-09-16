@@ -1,11 +1,11 @@
 id: 1017248408
-type: way
+type: node
 latitude: 35.56699
 longitude: -77.35788
 postcode: "27858"
 city: Greenville
-street: "East Arlington Boulevard"
-housenumber: 1826
-phone: "+1 252-917-6190"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7337/greenville-nc/whats-new"
+street: East Arlington Boulevard
+housenumber: "1826"
+phone: +1 252-917-6190
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7337/greenville-nc/whats-new

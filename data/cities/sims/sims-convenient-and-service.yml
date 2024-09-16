@@ -1,11 +1,11 @@
 id: 1018300122
-type: way
+type: node
 latitude: 35.75814
 longitude: -78.0449
 postcode: "27880"
 city: Sims
-street: "US 264 Alt"
-housenumber: 6060
+street: US 264 Alt
+housenumber: "6060"
 phone: ""
 opening_hours: ""
 website: ""

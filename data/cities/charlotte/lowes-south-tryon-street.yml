@@ -1,11 +1,11 @@
 id: 200858554
-type: way
+type: node
 latitude: 35.14659
 longitude: -80.93288
 postcode: "28273"
 city: Charlotte
-street: "South Tryon Street"
-housenumber: 8192
-phone: "+1 704-504-1147"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-charlotte/1060"
+street: South Tryon Street
+housenumber: "8192"
+phone: +1 704-504-1147
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-charlotte/1060

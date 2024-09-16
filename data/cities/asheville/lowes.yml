@@ -1,11 +1,11 @@
 id: 213772741
-type: way
+type: node
 latitude: 35.5786
 longitude: -82.52281
 postcode: "28805"
 city: Asheville
-street: "South Tunnel Road"
-housenumber: 89
-phone: "+1 828-299-3788"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-asheville/0617"
+street: South Tunnel Road
+housenumber: "89"
+phone: +1 828-299-3788
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-asheville/0617

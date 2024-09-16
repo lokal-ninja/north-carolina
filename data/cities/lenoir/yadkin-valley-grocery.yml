@@ -1,11 +1,11 @@
 id: 550711672
-type: way
+type: node
 latitude: 35.99534
 longitude: -81.54171
 postcode: "28645"
 city: Lenoir
-street: "NC 268"
-housenumber: 1601
+street: NC 268
+housenumber: "1601"
 phone: "+18287548855"
-opening_hours: "07:00-19:00"
+opening_hours: 07:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 332930231
-type: way
+type: node
 latitude: 34.80578
 longitude: -79.1682
 postcode: "28377"
 city: Red Springs
-street: "East 4th Avenue"
-housenumber: 926
-phone: "(866) 662-1260"
+street: East 4th Avenue
+housenumber: "926"
+phone: (866) 662-1260
 opening_hours: ""
 website: ""

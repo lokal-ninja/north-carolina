@@ -1,11 +1,11 @@
 id: 1069684599
-type: way
+type: node
 latitude: 34.9798
 longitude: -79.22425
 postcode: "28376"
 city: Raeford
-street: "North Main Street"
-housenumber: 129
+street: North Main Street
+housenumber: "129"
 phone: "+19108753475"
 opening_hours: ""
-website: "https://www.raefordhardware.com/"
+website: https://www.raefordhardware.com/

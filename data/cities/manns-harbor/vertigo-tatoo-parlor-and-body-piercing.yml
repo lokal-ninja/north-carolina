@@ -1,11 +1,11 @@
 id: 1165903226
-type: way
+type: node
 latitude: 35.88413
 longitude: -75.76178
 postcode: "27953"
 city: Manns Harbor
-street: "Shipyard Road"
-housenumber: 7594
+street: Shipyard Road
+housenumber: "7594"
 phone: ""
 opening_hours: ""
 website: ""

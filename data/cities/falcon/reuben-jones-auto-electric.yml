@@ -1,11 +1,11 @@
 id: 941791840
-type: way
+type: node
 latitude: 35.19518
 longitude: -78.64963
 postcode: ""
 city: Falcon
-street: "North West Street"
-housenumber: 7386
+street: North West Street
+housenumber: "7386"
 phone: ""
 opening_hours: ""
 website: ""

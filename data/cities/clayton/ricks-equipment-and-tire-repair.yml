@@ -1,11 +1,11 @@
 id: 254402690
-type: way
+type: node
 latitude: 35.59015
 longitude: -78.38561
 postcode: "27520"
 city: Clayton
-street: "Amy Drive"
-housenumber: 117
+street: Amy Drive
+housenumber: "117"
 phone: "+19199345544"
 opening_hours: ""
 website: ""

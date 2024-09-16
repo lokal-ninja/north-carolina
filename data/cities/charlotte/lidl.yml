@@ -1,11 +1,11 @@
 id: 1061214136
-type: way
+type: node
 latitude: 35.11464
 longitude: -80.96288
 postcode: "28273"
 city: Charlotte
-street: "South Tryon Street"
-housenumber: 11225
-phone: "+1 844-747-5435"
+street: South Tryon Street
+housenumber: "11225"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 687974299
-type: way
+type: node
 latitude: 35.6083
 longitude: -82.57757
 postcode: ""
 city: Asheville
-street: "Riverside Drive"
-housenumber: 702
+street: Riverside Drive
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

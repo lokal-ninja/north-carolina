@@ -1,11 +1,11 @@
 id: 575749745
-type: way
+type: node
 latitude: 35.74084
 longitude: -78.77634
 postcode: "27518"
 city: Cary
-street: "Colonades Way"
-housenumber: 421
+street: Colonades Way
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

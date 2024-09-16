@@ -4,8 +4,8 @@ latitude: 34.31099
 longitude: -77.87587
 postcode: "28405"
 city: Wilmington
-street: "Technology Drive"
-housenumber: 4505
+street: Technology Drive
+housenumber: "4505"
 phone: "9107934208"
-opening_hours: "09:00-17:00"
-website: "https://www.seasidelinen.com/"
+opening_hours: 09:00-17:00
+website: https://www.seasidelinen.com/

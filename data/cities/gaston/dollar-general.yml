@@ -1,11 +1,11 @@
 id: 1062910211
-type: way
+type: node
 latitude: 36.53631
 longitude: -77.79326
 postcode: "27832"
 city: Gaston
-street: "NC-46"
-housenumber: 512
+street: NC-46
+housenumber: "512"
 phone: "+19802853869"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/gaston/20310"
+website: https://www.dollargeneral.com/store-directory/nc/gaston/20310

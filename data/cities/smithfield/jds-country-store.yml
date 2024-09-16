@@ -1,11 +1,11 @@
 id: 1031033018
-type: way
+type: node
 latitude: 35.58207
 longitude: -78.35783
 postcode: "27577"
 city: Smithfield
-street: "Wilson's Mills Road"
-housenumber: 4549
-phone: "(919) 934-8939"
-opening_hours: "Mo-Sa 05:00-20:00"
+street: Wilson's Mills Road
+housenumber: "4549"
+phone: (919) 934-8939
+opening_hours: Mo-Sa 05:00-20:00
 website: ""

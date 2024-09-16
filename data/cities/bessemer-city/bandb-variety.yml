@@ -1,11 +1,11 @@
 id: 835397288
-type: way
+type: node
 latitude: 35.28434
 longitude: -81.28748
 postcode: "28016"
 city: Bessemer City
-street: "West Pennsylvania Avenue"
-housenumber: 215
-phone: "704-629-9399"
+street: West Pennsylvania Avenue
+housenumber: "215"
+phone: 704-629-9399
 opening_hours: ""
 website: ""

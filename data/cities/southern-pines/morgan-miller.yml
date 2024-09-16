@@ -1,11 +1,11 @@
 id: 993084507
-type: way
+type: node
 latitude: 35.17464
 longitude: -79.39124
 postcode: "28387"
 city: Southern Pines
-street: "Northwest Broad Street"
-housenumber: 166
+street: Northwest Broad Street
+housenumber: "166"
 phone: "+19106925356"
 opening_hours: ""
-website: "https://morganmillershop.com/"
+website: https://morganmillershop.com/

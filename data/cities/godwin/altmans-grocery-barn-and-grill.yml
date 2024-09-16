@@ -1,11 +1,11 @@
 id: 1058389008
-type: way
+type: node
 latitude: 35.1671
 longitude: -78.57749
 postcode: "28344"
 city: Godwin
-street: "Fayetteville Highway"
-housenumber: 5488
+street: Fayetteville Highway
+housenumber: "5488"
 phone: "+19105676795"
 opening_hours: ""
 website: ""

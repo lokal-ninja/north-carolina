@@ -1,11 +1,11 @@
 id: 548803617
-type: way
+type: node
 latitude: 34.97938
 longitude: -78.96445
 postcode: "28348"
 city: Hope Mills
-street: "North Main Street"
-housenumber: 3030
-phone: "+1 910-429-7401"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2929/hope-mills-nc"
+street: North Main Street
+housenumber: "3030"
+phone: +1 910-429-7401
+opening_hours: 24/7
+website: https://www.walmart.com/store/2929/hope-mills-nc

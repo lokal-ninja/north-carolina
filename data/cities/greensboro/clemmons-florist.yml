@@ -1,11 +1,11 @@
 id: 208264962
-type: way
+type: node
 latitude: 36.07331
 longitude: -79.79255
 postcode: "27401"
 city: Greensboro
-street: "West Friendly Avenue"
-housenumber: 219
+street: West Friendly Avenue
+housenumber: "219"
 phone: ""
 opening_hours: ""
-website: "https://www.clemmonsfloristinc.com/"
+website: https://www.clemmonsfloristinc.com/

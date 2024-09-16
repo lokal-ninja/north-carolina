@@ -1,11 +1,11 @@
 id: 611314805
-type: way
+type: node
 latitude: 35.98392
 longitude: -78.90609
 postcode: "27707"
 city: Durham
-street: "West Enterprise Street"
-housenumber: 114
+street: West Enterprise Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 688546965
-type: way
+type: node
 latitude: 35.77384
 longitude: -80.25888
 postcode: "27292"
 city: Lexington
-street: "Cotton Grove Road"
-housenumber: 1806
-phone: "+1-336-891-4076"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://martinmechanics.com/"
+street: Cotton Grove Road
+housenumber: "1806"
+phone: +1-336-891-4076
+opening_hours: Mo-Fr 08:00-17:00
+website: https://martinmechanics.com/

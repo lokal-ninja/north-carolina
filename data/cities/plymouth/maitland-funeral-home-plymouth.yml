@@ -1,11 +1,11 @@
 id: 633689883
-type: way
+type: node
 latitude: 35.85401
 longitude: -76.74976
 postcode: "27962"
 city: Plymouth
-street: "Latham Avenue"
-housenumber: 306
-phone: "+1 252 793 4137"
+street: Latham Avenue
+housenumber: "306"
+phone: +1 252 793 4137
 opening_hours: ""
-website: "https://www.maitlandfuneralhome.com"
+website: https://www.maitlandfuneralhome.com

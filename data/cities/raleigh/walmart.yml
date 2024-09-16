@@ -1,11 +1,11 @@
 id: 47699274
-type: way
+type: node
 latitude: 35.86214
 longitude: -78.70652
 postcode: "27612"
 city: Raleigh
-street: "Glenwood Avenue"
-housenumber: 6600
-phone: "+1 919-783-5552"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1751/raleigh-nc/whats-new"
+street: Glenwood Avenue
+housenumber: "6600"
+phone: +1 919-783-5552
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1751/raleigh-nc/whats-new

@@ -1,11 +1,11 @@
 id: 1060542004
-type: way
+type: node
 latitude: 35.65437
 longitude: -77.99149
 postcode: "27851"
 city: Lucama
-street: "US 301"
-housenumber: 5300
-phone: "252-239-7000"
+street: US 301
+housenumber: "5300"
+phone: 252-239-7000
 opening_hours: ""
-website: "https://www.lucamaselfstorage.com/"
+website: https://www.lucamaselfstorage.com/

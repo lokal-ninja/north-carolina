@@ -1,11 +1,11 @@
 id: 676719422
-type: way
+type: node
 latitude: 35.16611
 longitude: -80.74068
 postcode: "28227"
 city: Charlotte
-street: "East Independence Boulevard"
-housenumber: 7025
+street: East Independence Boulevard
+housenumber: "7025"
 phone: ""
 opening_hours: ""
 website: ""

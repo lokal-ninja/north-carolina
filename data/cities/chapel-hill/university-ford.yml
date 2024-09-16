@@ -1,11 +1,11 @@
 id: 44324749
-type: way
+type: node
 latitude: 35.93565
 longitude: -79.0224
 postcode: "27517"
 city: Chapel Hill
-street: "Ephesus Church Road"
-housenumber: 102
+street: Ephesus Church Road
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

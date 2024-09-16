@@ -1,11 +1,11 @@
 id: 47663042
-type: way
+type: node
 latitude: 35.73007
 longitude: -78.66116
 postcode: "27603"
 city: Raleigh
-street: "Withers Road"
-housenumber: 907
+street: Withers Road
+housenumber: "907"
 phone: ""
 opening_hours: ""
 website: ""

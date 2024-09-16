@@ -1,11 +1,11 @@
 id: 657092670
-type: way
+type: node
 latitude: 35.98699
 longitude: -78.53254
 postcode: "27587"
 city: Wake Forest
-street: "Capital Boulevard"
-housenumber: 12610
+street: Capital Boulevard
+housenumber: "12610"
 phone: ""
 opening_hours: ""
 website: ""

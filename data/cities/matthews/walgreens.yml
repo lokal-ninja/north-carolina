@@ -1,11 +1,11 @@
 id: 882188671
-type: way
+type: node
 latitude: 35.13718
 longitude: -80.68468
 postcode: "28105"
 city: Matthews
-street: "Matthews-Mint Hill Road"
-housenumber: 3431
+street: Matthews-Mint Hill Road
+housenumber: "3431"
 phone: "+17048448908"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-3431+matthews+mint+hill+rd-matthews-nc-28105/id=9084"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.walgreens.com/locator/walgreens-3431+matthews+mint+hill+rd-matthews-nc-28105/id=9084

@@ -1,11 +1,11 @@
 id: 227883691
-type: way
+type: node
 latitude: 34.14743
 longitude: -77.89631
 postcode: "28412"
 city: Wilmington
-street: "South College Road"
-housenumber: 5110
-phone: "+1 910-397-0137"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-wilmington/1138"
+street: South College Road
+housenumber: "5110"
+phone: +1 910-397-0137
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-wilmington/1138

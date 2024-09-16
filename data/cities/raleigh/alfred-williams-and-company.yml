@@ -1,11 +1,11 @@
 id: 47777501
-type: way
+type: node
 latitude: 35.81789
 longitude: -78.61931
 postcode: "27609"
 city: Raleigh
-street: "East Six Forks Road"
-housenumber: 800
+street: East Six Forks Road
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

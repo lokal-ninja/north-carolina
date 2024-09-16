@@ -1,11 +1,11 @@
 id: 89369914
-type: way
+type: node
 latitude: 35.96938
 longitude: -78.95622
 postcode: "27707"
 city: Durham
-street: "Durham-Chapel Hill Boulevard"
-housenumber: 4001
-phone: "+1 919-490-3092"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/nc/durham/office-depot-122"
+street: Durham-Chapel Hill Boulevard
+housenumber: "4001"
+phone: +1 919-490-3092
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/nc/durham/office-depot-122

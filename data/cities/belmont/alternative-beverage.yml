@@ -4,8 +4,8 @@ latitude: 35.23645
 longitude: -81.01585
 postcode: "28012"
 city: Belmont
-street: "River Drive"
-housenumber: 1500
-phone: "+1 704 527 2337"
-opening_hours: "Tu-Sa 10:00-17:30"
-website: "https://ebrew.com/"
+street: River Drive
+housenumber: "1500"
+phone: +1 704 527 2337
+opening_hours: Tu-Sa 10:00-17:30
+website: https://ebrew.com/

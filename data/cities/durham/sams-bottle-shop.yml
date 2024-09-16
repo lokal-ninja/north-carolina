@@ -1,11 +1,11 @@
 id: 451566212
-type: way
+type: node
 latitude: 35.92008
 longitude: -78.9582
 postcode: "27705"
 city: Durham
-street: "NC Highway 54"
-housenumber: 1112
+street: NC Highway 54
+housenumber: "1112"
 phone: ""
 opening_hours: ""
-website: "https://samsbottleshop.com/"
+website: https://samsbottleshop.com/

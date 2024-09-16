@@ -1,11 +1,11 @@
 id: 837562725
-type: way
+type: node
 latitude: 34.56232
 longitude: -77.91838
 postcode: "28425"
 city: Burgaw
-street: "NC Highway 53 East"
-housenumber: 908
-phone: "+1 910-789-6005"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/7243/burgaw-nc/whats-new"
+street: NC Highway 53 East
+housenumber: "908"
+phone: +1 910-789-6005
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/7243/burgaw-nc/whats-new

@@ -1,11 +1,11 @@
 id: 804772561
-type: way
+type: node
 latitude: 35.74517
 longitude: -78.87113
 postcode: "27502"
 city: Apex
-street: "West Williams Street"
-housenumber: 1150
+street: West Williams Street
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

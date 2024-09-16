@@ -1,11 +1,11 @@
 id: 892644985
-type: way
+type: node
 latitude: 35.05614
 longitude: -83.19596
 postcode: "28741"
 city: Highlands
-street: "Laurel Street"
-housenumber: 459
+street: Laurel Street
+housenumber: "459"
 phone: ""
 opening_hours: ""
 website: ""

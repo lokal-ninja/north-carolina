@@ -1,11 +1,11 @@
 id: 577602449
-type: way
+type: node
 latitude: 35.31226
 longitude: -80.71182
 postcode: "28262"
 city: Charlotte
-street: "Pavilion Boulevard"
-housenumber: 1901
+street: Pavilion Boulevard
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

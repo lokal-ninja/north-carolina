@@ -1,11 +1,11 @@
 id: 398834629
-type: way
+type: node
 latitude: 35.32433
 longitude: -80.64374
 postcode: "28075"
 city: Harrisburg
-street: "Main Street"
-housenumber: 3891
-phone: "+1 833-466-1033"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/harrisburg/3891-main-st"
+street: Main Street
+housenumber: "3891"
+phone: +1 833-466-1033
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/harrisburg/3891-main-st

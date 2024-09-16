@@ -1,11 +1,11 @@
 id: 1016425976
-type: way
+type: node
 latitude: 35.3067
 longitude: -82.45799
 postcode: "28792"
 city: Hendersonville
-street: "Spartanburg Highway"
-housenumber: 601
+street: Spartanburg Highway
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-601+spartanburg+hwy-hendersonville-nc-28792/id=9930"
+website: https://www.walgreens.com/locator/walgreens-601+spartanburg+hwy-hendersonville-nc-28792/id=9930

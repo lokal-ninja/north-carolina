@@ -1,11 +1,11 @@
 id: 1054418531
-type: way
+type: node
 latitude: 35.8496
 longitude: -81.49596
 postcode: "28638"
 city: Hudson
-street: "Main Street"
-housenumber: 485
+street: Main Street
+housenumber: "485"
 phone: "+18285726270"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 623904173
-type: way
+type: node
 latitude: 35.51508
 longitude: -78.35489
 postcode: "27577"
 city: Smithfield
-street: "West Market Street"
-housenumber: 429
-phone: "(919) 300-6295"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/nc/smithfield/3865"
+street: West Market Street
+housenumber: "429"
+phone: (919) 300-6295
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/nc/smithfield/3865

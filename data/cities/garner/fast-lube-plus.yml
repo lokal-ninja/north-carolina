@@ -1,11 +1,11 @@
 id: 205216243
-type: way
+type: node
 latitude: 35.60618
 longitude: -78.56894
 postcode: "27529"
 city: Garner
-street: "Technology Drive"
-housenumber: 40
-phone: "919 661 4040"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: Technology Drive
+housenumber: "40"
+phone: 919 661 4040
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

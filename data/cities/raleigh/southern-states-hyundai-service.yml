@@ -1,11 +1,11 @@
 id: 47917581
-type: way
+type: node
 latitude: 35.81698
 longitude: -78.62623
 postcode: "27609"
 city: Raleigh
-street: "Wake Forest Road"
-housenumber: 2511
+street: Wake Forest Road
+housenumber: "2511"
 phone: ""
 opening_hours: ""
 website: ""

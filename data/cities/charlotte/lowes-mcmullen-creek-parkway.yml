@@ -1,11 +1,11 @@
 id: 322411738
-type: way
+type: node
 latitude: 35.08963
 longitude: -80.85556
 postcode: "28226"
 city: Charlotte
-street: "McMullen Creek Parkway"
-housenumber: 10625
-phone: "+1 704-543-5600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-charlotte/0377"
+street: McMullen Creek Parkway
+housenumber: "10625"
+phone: +1 704-543-5600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-charlotte/0377

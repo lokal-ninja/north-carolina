@@ -1,11 +1,11 @@
 id: 550015352
-type: way
+type: node
 latitude: 34.9808
 longitude: -79.23691
 postcode: "28376"
 city: Raeford
-street: "Fayetteville Road"
-housenumber: 307
+street: Fayetteville Road
+housenumber: "307"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/raeford/307-fayetteville-rd"
+website: https://stores.advanceautoparts.com/nc/raeford/307-fayetteville-rd

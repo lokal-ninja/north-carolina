@@ -1,11 +1,11 @@
 id: 1086124307
-type: way
+type: node
 latitude: 35.87324
 longitude: -76.39636
 postcode: "27928"
 city: Creswell
-street: "US Highway 64 West"
-housenumber: 314
+street: US Highway 64 West
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

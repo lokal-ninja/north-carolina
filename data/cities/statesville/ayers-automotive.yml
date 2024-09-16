@@ -1,11 +1,11 @@
 id: 1148977963
-type: way
+type: node
 latitude: 35.77185
 longitude: -80.85948
 postcode: "28677"
 city: Statesville
-street: "Garner Bagnal Boulevard"
-housenumber: 1237
+street: Garner Bagnal Boulevard
+housenumber: "1237"
 phone: "+17048722120"
-opening_hours: "Mo-Fr 08:00-17:30"
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1105074468
-type: way
+type: node
 latitude: 35.66241
 longitude: -78.49788
 postcode: "27520"
 city: Clayton
-street: "Town Center Boulevard"
-housenumber: 805
-phone: "+1 919-550-5600"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5046/clayton-nc/whats-new"
+street: Town Center Boulevard
+housenumber: "805"
+phone: +1 919-550-5600
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5046/clayton-nc/whats-new

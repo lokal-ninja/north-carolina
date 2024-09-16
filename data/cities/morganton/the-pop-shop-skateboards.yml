@@ -1,11 +1,11 @@
 id: 301820078
-type: way
+type: node
 latitude: 35.74713
 longitude: -81.68938
 postcode: "28655"
 city: Morganton
-street: "N Green St"
-housenumber: 209
+street: N Green St
+housenumber: "209"
 phone: "+18284371957"
 opening_hours: ""
 website: ""

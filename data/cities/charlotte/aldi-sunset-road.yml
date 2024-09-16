@@ -1,11 +1,11 @@
 id: 544446260
-type: way
+type: node
 latitude: 35.3039
 longitude: -80.85949
 postcode: "28216"
 city: Charlotte
-street: "Sunset Road"
-housenumber: 4120
-phone: "+1 844-466-1016"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/charlotte/4120-sunset-road"
+street: Sunset Road
+housenumber: "4120"
+phone: +1 844-466-1016
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/charlotte/4120-sunset-road

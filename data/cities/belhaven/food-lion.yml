@@ -1,11 +1,11 @@
 id: 1013143502
-type: way
+type: node
 latitude: 35.55203
 longitude: -76.62424
 postcode: "27810"
 city: Belhaven
-street: "US Highway 264 Bypass"
-housenumber: 998
-phone: "252-943-3094"
-opening_hours: "Mo-Su 08:00-22:00"
+street: US Highway 264 Bypass
+housenumber: "998"
+phone: 252-943-3094
+opening_hours: Mo-Su 08:00-22:00
 website: ""

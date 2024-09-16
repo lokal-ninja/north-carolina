@@ -1,11 +1,11 @@
 id: 241090879
-type: way
+type: node
 latitude: 35.49064
 longitude: -82.9875
 postcode: ""
 city: Waynesville
-street: "North Main Street"
-housenumber: 66
-phone: "+1 828-452-4880"
-opening_hours: "Mo-Sa 10:00-18:00; Su 00:00-17:00"
-website: "http://www.oldebrickhouse.com/"
+street: North Main Street
+housenumber: "66"
+phone: +1 828-452-4880
+opening_hours: Mo-Sa 10:00-18:00; Su 00:00-17:00
+website: http://www.oldebrickhouse.com/

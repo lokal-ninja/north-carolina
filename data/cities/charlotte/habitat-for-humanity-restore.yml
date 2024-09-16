@@ -4,8 +4,8 @@ latitude: 35.19451
 longitude: -80.79514
 postcode: "28211"
 city: Charlotte
-street: "North Wendover Road"
-housenumber: 1133
+street: North Wendover Road
+housenumber: "1133"
 phone: ""
-opening_hours: "Mo-Sa 09:00-16:00"
-website: "https://www.cltregionrestore.org"
+opening_hours: Mo-Sa 09:00-16:00
+website: https://www.cltregionrestore.org

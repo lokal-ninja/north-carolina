@@ -1,11 +1,11 @@
 id: 1170796151
-type: way
+type: node
 latitude: 35.22068
 longitude: -80.81283
 postcode: "28205"
 city: Charlotte
-street: "Central Avenue"
-housenumber: 1515
+street: Central Avenue
+housenumber: "1515"
 phone: ""
 opening_hours: ""
-website: "https://www.sadupiercing.org"
+website: https://www.sadupiercing.org

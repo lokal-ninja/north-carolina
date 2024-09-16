@@ -1,11 +1,11 @@
 id: 728110623
-type: way
+type: node
 latitude: 35.84167
 longitude: -77.06136
 postcode: "27892"
 city: Williamston
-street: "East Boulevard"
-housenumber: 103
+street: East Boulevard
+housenumber: "103"
 phone: "+12527924192"
 opening_hours: ""
 website: ""

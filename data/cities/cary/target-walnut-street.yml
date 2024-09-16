@@ -1,11 +1,11 @@
 id: 1091859828
-type: way
+type: node
 latitude: 35.75712
 longitude: -78.73865
 postcode: "27518"
 city: Cary
-street: "Walnut Street"
-housenumber: 2021
+street: Walnut Street
+housenumber: "2021"
 phone: "+19192334451"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/cary/961"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/cary/961

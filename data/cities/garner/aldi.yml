@@ -1,11 +1,11 @@
 id: 605069732
-type: way
+type: node
 latitude: 35.6869
 longitude: -78.61548
 postcode: "27529"
 city: Garner
-street: "Timber Drive"
-housenumber: 750
-phone: "+1 833-466-1030"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/garner/750-timber-dr"
+street: Timber Drive
+housenumber: "750"
+phone: +1 833-466-1030
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/garner/750-timber-dr

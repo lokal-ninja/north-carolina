@@ -1,11 +1,11 @@
 id: 705828518
-type: way
+type: node
 latitude: 36.34029
 longitude: -76.24536
 postcode: "27909"
 city: Elizabeth City
-street: "North Road Street"
-housenumber: 1712
-phone: "252-338-5161"
+street: North Road Street
+housenumber: "1712"
+phone: 252-338-5161
 opening_hours: ""
-website: "http://nissanofelizabethcity.com"
+website: http://nissanofelizabethcity.com

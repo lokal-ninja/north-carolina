@@ -1,11 +1,11 @@
 id: 249218218
-type: way
+type: node
 latitude: 35.85816
 longitude: -76.7448
 postcode: "27962"
 city: Plymouth
-street: "US Highway 64 East"
-housenumber: 22
-phone: "+1 252 793 5884"
-opening_hours: "04:00-24:00"
-website: "https://www.duckthru.com/stores/duck-thru-49/"
+street: US Highway 64 East
+housenumber: "22"
+phone: +1 252 793 5884
+opening_hours: 04:00-24:00
+website: https://www.duckthru.com/stores/duck-thru-49/

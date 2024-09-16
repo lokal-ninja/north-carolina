@@ -1,11 +1,11 @@
 id: 596641311
-type: way
+type: node
 latitude: 35.44597
 longitude: -82.53168
 postcode: "28704"
 city: Arden
-street: "Airport Road"
-housenumber: 419
+street: Airport Road
+housenumber: "419"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

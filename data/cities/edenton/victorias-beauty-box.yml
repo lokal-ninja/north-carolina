@@ -1,11 +1,11 @@
 id: 1167166899
-type: way
+type: node
 latitude: 36.05696
 longitude: -76.63071
 postcode: "27932"
 city: Edenton
-street: "West Queen Street"
-housenumber: 806
+street: West Queen Street
+housenumber: "806"
 phone: ""
 opening_hours: ""
 website: ""

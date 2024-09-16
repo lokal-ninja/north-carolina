@@ -1,11 +1,11 @@
 id: 1123477583
-type: way
+type: node
 latitude: 35.72053
 longitude: -79.17443
 postcode: "27312"
 city: Pittsboro
-street: "East Street"
-housenumber: 163
+street: East Street
+housenumber: "163"
 phone: "+19197262026"
 opening_hours: ""
 website: ""

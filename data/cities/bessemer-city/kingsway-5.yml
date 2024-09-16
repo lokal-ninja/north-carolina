@@ -1,11 +1,11 @@
 id: 835397285
-type: way
+type: node
 latitude: 35.2841
 longitude: -81.28835
 postcode: "28016"
 city: Bessemer City
-street: "South 14th Street"
-housenumber: 201
-phone: "704-629-4896"
+street: South 14th Street
+housenumber: "201"
+phone: 704-629-4896
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 630359663
-type: way
+type: node
 latitude: 35.46236
 longitude: -79.05921
 postcode: "27505"
 city: Broadway
-street: "North Main Street"
-housenumber: 305
+street: North Main Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

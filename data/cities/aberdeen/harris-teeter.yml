@@ -4,8 +4,8 @@ latitude: 35.15621
 longitude: -79.4168
 postcode: "28315"
 city: Aberdeen
-street: "US 15, US 501, US 211"
-housenumber: 11109
-phone: "+1 910-692-7029"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/aberdeen/center-park/097/00029"
+street: US 15, US 501, US 211
+housenumber: "11109"
+phone: +1 910-692-7029
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.harristeeter.com/stores/grocery/nc/aberdeen/center-park/097/00029

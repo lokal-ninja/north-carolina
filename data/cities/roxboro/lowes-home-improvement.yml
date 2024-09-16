@@ -4,8 +4,8 @@ latitude: 36.36665
 longitude: -78.98501
 postcode: "27573"
 city: Roxboro
-street: "Durham Road"
-housenumber: 2044
-phone: "+1 336-330-2100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2210"
+street: Durham Road
+housenumber: "2044"
+phone: +1 336-330-2100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2210

@@ -1,11 +1,11 @@
 id: 544436948
-type: way
+type: node
 latitude: 35.70403
 longitude: -80.8911
 postcode: "28166"
 city: Troutman
-street: "North Main Street"
-housenumber: 225
+street: North Main Street
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

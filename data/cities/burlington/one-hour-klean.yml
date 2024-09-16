@@ -1,11 +1,11 @@
 id: 653774628
-type: way
+type: node
 latitude: 36.1089
 longitude: -79.46267
 postcode: "27217"
 city: Burlington
-street: "West Webb Avenue"
-housenumber: 1785
+street: West Webb Avenue
+housenumber: "1785"
 phone: ""
 opening_hours: ""
 website: ""

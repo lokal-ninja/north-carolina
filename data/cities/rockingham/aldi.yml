@@ -1,11 +1,11 @@
 id: 941946634
-type: way
+type: node
 latitude: 34.91673
 longitude: -79.73443
 postcode: "28379"
 city: Rockingham
-street: "US Highway 74 East"
-housenumber: 723
-phone: "+1 833-466-1029"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/rockingham/723-us-hwy-74e"
+street: US Highway 74 East
+housenumber: "723"
+phone: +1 833-466-1029
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/rockingham/723-us-hwy-74e

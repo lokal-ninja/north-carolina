@@ -4,8 +4,8 @@ latitude: 36.06327
 longitude: -79.83951
 postcode: "27402"
 city: Greensboro
-street: "Spring Garden Street"
-housenumber: 2823
-phone: "+1-336-763-9322"
-opening_hours: "Mo,We,Th,Sa 12:00-20:00; Tu 12:00-22:00; Fr 12:00-23:00; Su 12:00-18:00"
-website: "https://www.thecomicdimension.com"
+street: Spring Garden Street
+housenumber: "2823"
+phone: +1-336-763-9322
+opening_hours: Mo,We,Th,Sa 12:00-20:00; Tu 12:00-22:00; Fr 12:00-23:00; Su 12:00-18:00
+website: https://www.thecomicdimension.com

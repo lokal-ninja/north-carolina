@@ -1,11 +1,11 @@
 id: 1234679738
-type: way
+type: node
 latitude: 35.26498
 longitude: -79.58582
 postcode: "27376"
 city: West End
-street: "Grant Street"
-housenumber: 115
+street: Grant Street
+housenumber: "115"
 phone: ""
-opening_hours: "9am-6pm Seven Days a Week"
+opening_hours: 9am-6pm Seven Days a Week
 website: ""

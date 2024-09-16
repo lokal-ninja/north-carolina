@@ -1,11 +1,11 @@
 id: 334211878
-type: way
+type: node
 latitude: 36.05287
 longitude: -79.88772
 postcode: "27407"
 city: Greensboro
-street: "South 40 Drive"
-housenumber: 1705
-phone: "+1 336-369-0600"
+street: South 40 Drive
+housenumber: "1705"
+phone: +1 336-369-0600
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/north-carolina/greensboro/7710000249/"
+website: https://stores.ashleyfurniture.com/store/us/north-carolina/greensboro/7710000249/

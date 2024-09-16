@@ -1,11 +1,11 @@
 id: 256931104
-type: way
+type: node
 latitude: 36.06681
 longitude: -79.30306
 postcode: "27302"
 city: Mebane
-street: "Lowes Boulevard"
-housenumber: 200
-phone: "+1 919-304-9401"
-opening_hours: "Mo-Sa 07:00-21:00;Su 09:00-20:00"
-website: "https://www.lowes.com/store/nc-mebane/2517"
+street: Lowes Boulevard
+housenumber: "200"
+phone: +1 919-304-9401
+opening_hours: Mo-Sa 07:00-21:00;Su 09:00-20:00
+website: https://www.lowes.com/store/nc-mebane/2517

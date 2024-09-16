@@ -1,11 +1,11 @@
 id: 544429764
-type: way
+type: node
 latitude: 35.70105
 longitude: -80.88804
 postcode: "28166"
 city: Troutman
-street: "South Main Street"
-housenumber: 144
+street: South Main Street
+housenumber: "144"
 phone: "+19802763045"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/troutman/6512"
+website: https://www.dollargeneral.com/store-directory/nc/troutman/6512

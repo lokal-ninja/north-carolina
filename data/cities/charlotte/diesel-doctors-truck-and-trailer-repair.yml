@@ -1,11 +1,11 @@
 id: 740070971
-type: way
+type: node
 latitude: 35.27178
 longitude: -80.89682
 postcode: "28208"
 city: Charlotte
-street: "Hovis Road"
-housenumber: 5232
+street: Hovis Road
+housenumber: "5232"
 phone: ""
 opening_hours: ""
 website: ""

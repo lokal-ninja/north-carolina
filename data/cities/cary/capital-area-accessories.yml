@@ -1,11 +1,11 @@
 id: 32075362
-type: way
+type: node
 latitude: 35.73672
 longitude: -78.80645
 postcode: "27511"
 city: Cary
-street: "Gregson Drive"
-housenumber: 222
+street: Gregson Drive
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

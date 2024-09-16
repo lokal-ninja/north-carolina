@@ -1,11 +1,11 @@
 id: 1090571528
-type: way
+type: node
 latitude: 35.29119
 longitude: -80.75935
 postcode: "28262"
 city: Charlotte
-street: "University City Boulevard"
-housenumber: 7307
+street: University City Boulevard
+housenumber: "7307"
 phone: ""
 opening_hours: ""
 website: ""

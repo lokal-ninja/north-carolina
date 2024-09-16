@@ -1,11 +1,11 @@
 id: 902177347
-type: way
+type: node
 latitude: 35.38127
 longitude: -77.93061
 postcode: "27534"
 city: Goldsboro
-street: "North Berkeley Boulevard"
-housenumber: 1204
+street: North Berkeley Boulevard
+housenumber: "1204"
 phone: "+19199470920"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 820303174
-type: way
+type: node
 latitude: 35.97404
 longitude: -78.93009
 postcode: "27707"
 city: Durham
-street: "Durham-Chapel Hill Boulevard"
-housenumber: 2659
+street: Durham-Chapel Hill Boulevard
+housenumber: "2659"
 phone: "+19194015777"
 opening_hours: ""
 website: ""

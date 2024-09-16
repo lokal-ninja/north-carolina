@@ -1,11 +1,11 @@
 id: 1021013839
-type: way
+type: node
 latitude: 36.02663
 longitude: -80.26268
 postcode: "27127"
 city: Winston-Salem
-street: "Parkway Village Courts"
-housenumber: 3475
-phone: "+1 336-771-1011"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3626/winston-salem-nc/whats-new"
+street: Parkway Village Courts
+housenumber: "3475"
+phone: +1 336-771-1011
+opening_hours: 24/7
+website: https://www.walmart.com/store/3626/winston-salem-nc/whats-new

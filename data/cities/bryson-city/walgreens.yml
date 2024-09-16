@@ -1,11 +1,11 @@
 id: 1150270164
-type: way
+type: node
 latitude: 35.4271
 longitude: -83.44848
 postcode: "28713"
 city: Bryson City
-street: "Highway 19 South"
-housenumber: 50
+street: Highway 19 South
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-50+highway+19-bryson+city-nc-28713/id=16103"
+website: https://www.walgreens.com/locator/walgreens-50+highway+19-bryson+city-nc-28713/id=16103

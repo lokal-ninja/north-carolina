@@ -1,11 +1,11 @@
 id: 677329110
-type: way
+type: node
 latitude: 35.79705
 longitude: -78.55325
 postcode: "27610"
 city: Raleigh
-street: "New Bern Avenue"
-housenumber: 4901
+street: New Bern Avenue
+housenumber: "4901"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nc/raleigh/autoparts-2153.html"
+website: https://locations.oreillyauto.com/nc/raleigh/autoparts-2153.html

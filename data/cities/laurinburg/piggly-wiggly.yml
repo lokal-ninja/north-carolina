@@ -1,11 +1,11 @@
 id: 1231923025
-type: way
+type: node
 latitude: 34.77301
 longitude: -79.46106
 postcode: "28352"
 city: Laurinburg
-street: "East Church Street"
-housenumber: 229
-phone: "+1 910-277-8165"
+street: East Church Street
+housenumber: "229"
+phone: +1 910-277-8165
 opening_hours: ""
 website: ""

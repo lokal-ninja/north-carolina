@@ -1,11 +1,11 @@
 id: 1261874827
-type: way
+type: node
 latitude: 35.91777
 longitude: -76.25354
 postcode: "27925"
 city: Columbia
-street: "Main Street"
-housenumber: 208
+street: Main Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

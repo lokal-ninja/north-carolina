@@ -1,11 +1,11 @@
 id: 893759261
-type: way
+type: node
 latitude: 35.3925
 longitude: -80.6214
 postcode: "28027"
 city: Concord
-street: "Concord Parkway South"
-housenumber: 961
-phone: "+1 833-466-1095"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/concord/961-concord-parkway-south"
+street: Concord Parkway South
+housenumber: "961"
+phone: +1 833-466-1095
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/concord/961-concord-parkway-south

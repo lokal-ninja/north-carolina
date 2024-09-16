@@ -1,11 +1,11 @@
 id: 814166771
-type: way
+type: node
 latitude: 36.27719
 longitude: -76.97851
 postcode: "27910"
 city: Ahoskie
-street: "Memorial Drive East"
-housenumber: 1007
-phone: "+1 252-332-6265"
+street: Memorial Drive East
+housenumber: "1007"
+phone: +1 252-332-6265
 opening_hours: ""
 website: ""

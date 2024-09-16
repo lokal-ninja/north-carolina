@@ -1,11 +1,11 @@
 id: 340025056
-type: way
+type: node
 latitude: 36.16974
 longitude: -80.15826
 postcode: "27051"
 city: Walkertown
-street: "NC-66"
-housenumber: 2700
-phone: "+1 336-595-2241"
-opening_hours: "Mo-Sa 07:00-19:15; Su 09:45-18:15"
+street: NC-66
+housenumber: "2700"
+phone: +1 336-595-2241
+opening_hours: Mo-Sa 07:00-19:15; Su 09:45-18:15
 website: ""

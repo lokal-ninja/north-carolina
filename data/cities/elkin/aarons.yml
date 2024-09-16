@@ -1,11 +1,11 @@
 id: 607059301
-type: way
+type: node
 latitude: 36.27522
 longitude: -80.84486
 postcode: "28621"
 city: Elkin
-street: "CC Camp Road"
-housenumber: 471
+street: CC Camp Road
+housenumber: "471"
 phone: "+13368353225"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/nc/elkin/471-cc-camp-rd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/nc/elkin/471-cc-camp-rd

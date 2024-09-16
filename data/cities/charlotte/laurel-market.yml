@@ -1,11 +1,11 @@
 id: 497738307
-type: way
+type: node
 latitude: 35.20222
 longitude: -80.82434
 postcode: "28207"
 city: Charlotte
-street: "Cherokee Road"
-housenumber: 114
+street: Cherokee Road
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

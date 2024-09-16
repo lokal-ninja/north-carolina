@@ -1,11 +1,11 @@
 id: 676929740
-type: way
+type: node
 latitude: 35.72565
 longitude: -78.58141
 postcode: "27529"
 city: Garner
-street: "Jones Sausage Road"
-housenumber: 4020
+street: Jones Sausage Road
+housenumber: "4020"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NC/Garner/4020-Jones-Sausage-Road"
+website: https://www.speedway.com/locations/NC/Garner/4020-Jones-Sausage-Road

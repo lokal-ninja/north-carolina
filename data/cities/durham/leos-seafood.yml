@@ -1,11 +1,11 @@
 id: 123483125
-type: way
+type: node
 latitude: 35.99235
 longitude: -78.88652
 postcode: ""
 city: Durham
-street: "North Alston Avenue"
-housenumber: 902
+street: North Alston Avenue
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

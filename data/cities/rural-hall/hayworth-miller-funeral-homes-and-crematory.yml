@@ -1,11 +1,11 @@
 id: 323859112
-type: way
+type: node
 latitude: 36.23919
 longitude: -80.2971
 postcode: "27045"
 city: Rural Hall
-street: "Bethania Rural Hall Road"
-housenumber: 305
+street: Bethania Rural Hall Road
+housenumber: "305"
 phone: "+13369695593"
 opening_hours: ""
 website: ""

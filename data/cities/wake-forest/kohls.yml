@@ -1,11 +1,11 @@
 id: 657058222
-type: way
+type: node
 latitude: 35.98668
 longitude: -78.53122
 postcode: "27587"
 city: Wake Forest
-street: "Capital Boulevard"
-housenumber: 12620
-phone: "+1 919-556-1712"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/nc/wakeforest-1322.shtml"
+street: Capital Boulevard
+housenumber: "12620"
+phone: +1 919-556-1712
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/nc/wakeforest-1322.shtml

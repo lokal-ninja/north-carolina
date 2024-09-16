@@ -4,8 +4,8 @@ latitude: 35.76488
 longitude: -78.74267
 postcode: "27606"
 city: Raleigh
-street: "Buck Jones Road"
-housenumber: 1303
+street: Buck Jones Road
+housenumber: "1303"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.southhillsbarbershop.com"
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.southhillsbarbershop.com

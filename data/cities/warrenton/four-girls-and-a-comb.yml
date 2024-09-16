@@ -1,11 +1,11 @@
 id: 1235344988
-type: way
+type: node
 latitude: 36.39701
 longitude: -78.15543
 postcode: "27589"
 city: Warrenton
-street: "South Main Street"
-housenumber: 144
+street: South Main Street
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

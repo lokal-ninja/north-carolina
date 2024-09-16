@@ -1,11 +1,11 @@
 id: 780491162
-type: way
+type: node
 latitude: 35.35861
 longitude: -79.89675
 postcode: "27371"
 city: Troy
-street: "Albemarle Road"
-housenumber: 104
+street: Albemarle Road
+housenumber: "104"
 phone: "+19105765681"
 opening_hours: ""
 website: ""

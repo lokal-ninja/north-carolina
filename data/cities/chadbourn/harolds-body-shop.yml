@@ -1,11 +1,11 @@
 id: 697899448
-type: way
+type: node
 latitude: 34.32536
 longitude: -78.82693
 postcode: "28431"
 city: Chadbourn
-street: "North Brown Street"
-housenumber: 317
-phone: "(910) 654-4771"
+street: North Brown Street
+housenumber: "317"
+phone: (910) 654-4771
 opening_hours: ""
 website: ""

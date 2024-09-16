@@ -1,11 +1,11 @@
 id: 310584472
-type: way
+type: node
 latitude: 34.30457
 longitude: -78.71712
 postcode: "28472"
 city: Whiteville
-street: "South Madison Street"
-housenumber: 1718
+street: South Madison Street
+housenumber: "1718"
 phone: ""
 opening_hours: ""
 website: ""

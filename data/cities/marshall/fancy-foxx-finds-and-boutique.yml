@@ -1,11 +1,11 @@
 id: 681001706
-type: way
+type: node
 latitude: 35.80717
 longitude: -82.66842
 postcode: "28753"
 city: Marshall
-street: "US Hwy 25-70 Bypass"
-housenumber: 5145
+street: US Hwy 25-70 Bypass
+housenumber: "5145"
 phone: ""
 opening_hours: ""
 website: ""

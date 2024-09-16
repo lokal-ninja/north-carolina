@@ -1,11 +1,11 @@
 id: 659156788
-type: way
+type: node
 latitude: 35.97912
 longitude: -78.54279
 postcode: "27587"
 city: Wake Forest
-street: "Capital Boulevard"
-housenumber: 12205
+street: Capital Boulevard
+housenumber: "12205"
 phone: ""
 opening_hours: ""
-website: "https://www.myeyedr.com/"
+website: https://www.myeyedr.com/

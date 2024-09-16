@@ -1,11 +1,11 @@
 id: 883459363
-type: way
+type: node
 latitude: 34.982
 longitude: -79.22477
 postcode: "28376"
 city: Raeford
-street: "Campus Avenue"
-housenumber: 106
+street: Campus Avenue
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

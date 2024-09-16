@@ -1,11 +1,11 @@
 id: 442949460
-type: way
+type: node
 latitude: 35.2612
 longitude: -75.58207
 postcode: "27936"
 city: Frisco
-street: "North Carolina Highway 12"
-housenumber: 50392
+street: North Carolina Highway 12
+housenumber: "50392"
 phone: ""
 opening_hours: ""
 website: ""

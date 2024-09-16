@@ -1,11 +1,11 @@
 id: 675701825
-type: way
+type: node
 latitude: 36.12134
 longitude: -80.66053
 postcode: "27055"
 city: Yadkinville
-street: "South State Street"
-housenumber: 724
+street: South State Street
+housenumber: "724"
 phone: "+13366771775"
 opening_hours: ""
 website: ""

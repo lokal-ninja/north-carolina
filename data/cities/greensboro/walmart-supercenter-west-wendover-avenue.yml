@@ -1,11 +1,11 @@
 id: 334207288
-type: way
+type: node
 latitude: 36.05757
 longitude: -79.90206
 postcode: "27407"
 city: Greensboro
-street: "West Wendover Avenue"
-housenumber: 4424
-phone: "+1 336-292-5070"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1842-greensboro-nc"
+street: West Wendover Avenue
+housenumber: "4424"
+phone: +1 336-292-5070
+opening_hours: 24/7
+website: https://www.walmart.com/store/1842-greensboro-nc

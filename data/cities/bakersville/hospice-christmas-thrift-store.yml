@@ -1,11 +1,11 @@
 id: 614147572
-type: way
+type: node
 latitude: 36.01124
 longitude: -82.15489
 postcode: "28705"
 city: Bakersville
-street: "South Mitchell Avenue"
-housenumber: 433
+street: South Mitchell Avenue
+housenumber: "433"
 phone: "+18286886400"
 opening_hours: ""
 website: ""

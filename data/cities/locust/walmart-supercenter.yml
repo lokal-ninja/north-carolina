@@ -1,11 +1,11 @@
 id: 1311891079
-type: way
+type: node
 latitude: 35.25594
 longitude: -80.45758
 postcode: "28097"
 city: Locust
-street: "Main Street West"
-housenumber: 1876
-phone: "+1 704-781-0426"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5747/locust-nc/whats-new"
+street: Main Street West
+housenumber: "1876"
+phone: +1 704-781-0426
+opening_hours: 24/7
+website: https://www.walmart.com/store/5747/locust-nc/whats-new

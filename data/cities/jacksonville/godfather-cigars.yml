@@ -1,11 +1,11 @@
 id: 968008195
-type: way
+type: node
 latitude: 34.77356
 longitude: -77.38914
 postcode: "28546"
 city: Jacksonville
-street: "Western Boulevard"
-housenumber: 102
+street: Western Boulevard
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

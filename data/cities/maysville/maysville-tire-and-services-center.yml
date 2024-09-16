@@ -1,11 +1,11 @@
 id: 1273089433
-type: way
+type: node
 latitude: 34.90141
 longitude: -77.23037
 postcode: "28555"
 city: Maysville
-street: "Eighth Street"
-housenumber: 503
+street: Eighth Street
+housenumber: "503"
 phone: "+19107439940"
 opening_hours: ""
 website: ""

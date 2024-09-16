@@ -1,11 +1,11 @@
 id: 547790515
-type: way
+type: node
 latitude: 35.65549
 longitude: -78.85888
 postcode: "27540"
 city: Holly Springs
-street: "Thomas Mill Road"
-housenumber: 205
+street: Thomas Mill Road
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

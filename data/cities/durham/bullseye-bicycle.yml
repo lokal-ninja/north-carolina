@@ -4,8 +4,8 @@ latitude: 35.99717
 longitude: -78.90375
 postcode: "27701"
 city: Durham
-street: "Morris St,"
-housenumber: 102
+street: Morris St,
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00 - 17:00"
-website: "https://bullseyebicycle.com/"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00 - 17:00
+website: https://bullseyebicycle.com/

@@ -1,11 +1,11 @@
 id: 794664049
-type: way
+type: node
 latitude: 34.69942
 longitude: -77.15121
 postcode: "28584"
 city: Swansboro
-street: "West Corbett Avenue"
-housenumber: 1109
-phone: "+1 910-708-5010"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/7179-swansboro-nc"
+street: West Corbett Avenue
+housenumber: "1109"
+phone: +1 910-708-5010
+opening_hours: 24/7
+website: https://www.walmart.com/store/7179-swansboro-nc

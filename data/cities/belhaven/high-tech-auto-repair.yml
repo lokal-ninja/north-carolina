@@ -1,11 +1,11 @@
 id: 1013184692
-type: way
+type: node
 latitude: 35.55556
 longitude: -76.63918
 postcode: ""
 city: Belhaven
-street: "US 264"
-housenumber: 28693
+street: US 264
+housenumber: "28693"
 phone: ""
 opening_hours: ""
 website: ""

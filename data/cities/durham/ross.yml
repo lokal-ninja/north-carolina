@@ -4,8 +4,8 @@ latitude: 35.96657
 longitude: -78.95783
 postcode: "27707"
 city: Durham
-street: "Durham Chapel Hill Boulevard"
-housenumber: 4021
-phone: "+1 919-493-6314"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 08:30-22:00; Su 09:30-22:00"
+street: Durham Chapel Hill Boulevard
+housenumber: "4021"
+phone: +1 919-493-6314
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 08:30-22:00; Su 09:30-22:00
 website: ""

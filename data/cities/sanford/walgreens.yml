@@ -1,11 +1,11 @@
 id: 630079345
-type: way
+type: node
 latitude: 35.43734
 longitude: -79.22003
 postcode: "27330"
 city: Sanford
-street: "Jefferson Davis Highway"
-housenumber: 2286
+street: Jefferson Davis Highway
+housenumber: "2286"
 phone: "+19197775983"
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2286+jefferson+davis+hwy-sanford-nc-27330/id=12078"
+website: https://www.walgreens.com/locator/walgreens-2286+jefferson+davis+hwy-sanford-nc-27330/id=12078

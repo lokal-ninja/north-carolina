@@ -1,11 +1,11 @@
 id: 325585999
-type: way
+type: node
 latitude: 35.90295
 longitude: -75.67286
 postcode: "27954"
 city: Manteo
-street: "South US 64"
-housenumber: 212
+street: South US 64
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

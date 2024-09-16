@@ -1,11 +1,11 @@
 id: 639208531
-type: way
+type: node
 latitude: 36.44458
 longitude: -78.20114
 postcode: "27563"
 city: Norlina
-street: "US-1"
-housenumber: 114
-phone: "(252) 456-2540"
+street: US-1
+housenumber: "114"
+phone: (252) 456-2540
 opening_hours: ""
 website: ""

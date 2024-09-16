@@ -1,11 +1,11 @@
 id: 335053456
-type: way
+type: node
 latitude: 35.86296
 longitude: -80.07283
 postcode: ""
 city: Thomasville
-street: "Randolph Street"
-housenumber: 1042
+street: Randolph Street
+housenumber: "1042"
 phone: ""
 opening_hours: ""
 website: ""

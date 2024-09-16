@@ -1,11 +1,11 @@
 id: 47838132
-type: way
+type: node
 latitude: 35.81926
 longitude: -78.59696
 postcode: "27604"
 city: Raleigh
-street: "Capital Boulevard"
-housenumber: 2821
-phone: "+1 919-872-2213"
+street: Capital Boulevard
+housenumber: "2821"
+phone: +1 919-872-2213
 opening_hours: ""
 website: ""

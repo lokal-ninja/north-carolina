@@ -1,11 +1,11 @@
 id: 695529711
-type: way
+type: node
 latitude: 35.24021
 longitude: -80.88679
 postcode: "28208"
 city: Charlotte
-street: "Freedom Drive"
-housenumber: 2907
+street: Freedom Drive
+housenumber: "2907"
 phone: ""
 opening_hours: ""
 website: ""

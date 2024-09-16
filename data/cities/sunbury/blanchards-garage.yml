@@ -1,11 +1,11 @@
 id: 1285601387
-type: way
+type: node
 latitude: 36.44183
 longitude: -76.60617
 postcode: "27979"
 city: Sunbury
-street: "US 158"
-housenumber: 1070
+street: US 158
+housenumber: "1070"
 phone: ""
 opening_hours: ""
 website: ""

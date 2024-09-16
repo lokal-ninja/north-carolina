@@ -1,11 +1,11 @@
 id: 416505851
-type: way
+type: node
 latitude: 36.10455
 longitude: -78.29316
 postcode: "27549"
 city: Louisburg
-street: "North Bickett Boulevard"
-housenumber: 605
-phone: "(919) 496-3631"
+street: North Bickett Boulevard
+housenumber: "605"
+phone: (919) 496-3631
 opening_hours: ""
 website: ""

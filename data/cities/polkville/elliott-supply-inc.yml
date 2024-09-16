@@ -1,11 +1,11 @@
 id: 1298491196
-type: way
+type: node
 latitude: 35.41651
 longitude: -81.64014
 postcode: "28136"
 city: Polkville
-street: "West Stage Coach Trail"
-housenumber: 2301
+street: West Stage Coach Trail
+housenumber: "2301"
 phone: "+17045388661"
 opening_hours: ""
 website: ""

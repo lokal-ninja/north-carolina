@@ -1,11 +1,11 @@
 id: 577247976
-type: way
+type: node
 latitude: 35.21161
 longitude: -80.68564
 postcode: "28227"
 city: Charlotte
-street: "Albemarle Road"
-housenumber: 9315
+street: Albemarle Road
+housenumber: "9315"
 phone: ""
 opening_hours: ""
 website: ""

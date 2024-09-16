@@ -1,11 +1,11 @@
 id: 515059426
-type: way
+type: node
 latitude: 35.04966
 longitude: -80.76885
 postcode: "28277"
 city: Charlotte
-street: "Houston Field Court"
-housenumber: 4916
-phone: "+1 704-993-8158"
+street: Houston Field Court
+housenumber: "4916"
+phone: +1 704-993-8158
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/nc/charlotte/024062/"
+website: https://www.mattressfirm.com/en-us/stores/nc/charlotte/024062/

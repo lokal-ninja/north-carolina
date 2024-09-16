@@ -1,11 +1,11 @@
 id: 265727847
-type: way
+type: node
 latitude: 36.48632
 longitude: -80.74682
 postcode: "27030"
 city: Mount Airy
-street: "Plaza Lane"
-housenumber: 125
+street: Plaza Lane
+housenumber: "125"
 phone: ""
-opening_hours: "24/7"
-website: "https://locations.pilotflyingj.com/us/nc/mount-airy/125-plaza-lane"
+opening_hours: 24/7
+website: https://locations.pilotflyingj.com/us/nc/mount-airy/125-plaza-lane

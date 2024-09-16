@@ -1,11 +1,11 @@
 id: 698703424
-type: way
+type: node
 latitude: 35.29774
 longitude: -81.01551
 postcode: "28120"
 city: Mount Holly
-street: "East Charlotte Avenue"
-housenumber: 117
+street: East Charlotte Avenue
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 440398689
-type: way
+type: node
 latitude: 35.59145
 longitude: -78.78385
 postcode: "27526"
 city: Fuquay-Varina
-street: "North Main Street"
-housenumber: 1120
+street: North Main Street
+housenumber: "1120"
 phone: "+19195576749"
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/fuquay-varina/1120-n-main-st.html"
+website: https://www.autozone.com/locations/nc/fuquay-varina/1120-n-main-st.html

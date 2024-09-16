@@ -1,11 +1,11 @@
 id: 687470993
-type: way
+type: node
 latitude: 35.34348
 longitude: -79.39568
 postcode: "28327"
 city: Carthage
-street: "US 15, US 501"
-housenumber: 3836
+street: US 15, US 501
+housenumber: "3836"
 phone: "+19109471047"
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/carthage/3836-u-s-highway-15-501"
+website: https://stores.advanceautoparts.com/nc/carthage/3836-u-s-highway-15-501

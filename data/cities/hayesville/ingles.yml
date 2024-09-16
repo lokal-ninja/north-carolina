@@ -1,11 +1,11 @@
 id: 652982306
-type: way
+type: node
 latitude: 35.03335
 longitude: -83.81568
 postcode: "28904"
 city: Hayesville
-street: "US 64"
-housenumber: 230
-phone: "+1 828 389 4460"
+street: US 64
+housenumber: "230"
+phone: +1 828 389 4460
 opening_hours: ""
 website: ""

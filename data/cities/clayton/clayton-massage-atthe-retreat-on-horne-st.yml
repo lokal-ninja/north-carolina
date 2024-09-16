@@ -1,11 +1,11 @@
 id: 341223299
-type: way
+type: node
 latitude: 35.64973
 longitude: -78.45906
 postcode: "27520"
 city: Clayton
-street: "East Horne Street"
-housenumber: 313
+street: East Horne Street
+housenumber: "313"
 phone: "+19195857515"
 opening_hours: ""
 website: ""

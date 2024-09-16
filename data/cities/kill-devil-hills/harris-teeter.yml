@@ -1,11 +1,11 @@
 id: 515542988
-type: way
+type: node
 latitude: 35.99299
 longitude: -75.6515
 postcode: "27948"
 city: Kill Devil Hills
-street: "South Croatan Highway"
-housenumber: 2012
-phone: "+1 252-449-9191"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/kill-devil-hills/kill-devil-hills/097/00175"
+street: South Croatan Highway
+housenumber: "2012"
+phone: +1 252-449-9191
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/kill-devil-hills/kill-devil-hills/097/00175

@@ -1,11 +1,11 @@
 id: 807257007
-type: way
+type: node
 latitude: 35.53852
 longitude: -76.62142
 postcode: "27810"
 city: Belhaven
-street: "East Main Street"
-housenumber: 254
+street: East Main Street
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

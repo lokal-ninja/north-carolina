@@ -1,11 +1,11 @@
 id: 556914813
-type: way
+type: node
 latitude: 35.07976
 longitude: -80.65021
 postcode: "28079"
 city: Indian Trail
-street: "Younts Road"
-housenumber: 2101
-phone: "+1-704-882-5566;+1 704-882-6245"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3700/indian-trail-nc/whats-new;http://prestigenailsandspa.net"
+street: Younts Road
+housenumber: "2101"
+phone: +1-704-882-5566;+1 704-882-6245
+opening_hours: 24/7
+website: https://www.walmart.com/store/3700/indian-trail-nc/whats-new;http://prestigenailsandspa.net

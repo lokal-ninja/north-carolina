@@ -1,11 +1,11 @@
 id: 1015669871
-type: way
+type: node
 latitude: 35.37702
 longitude: -77.9643
 postcode: "27530"
 city: Goldsboro
-street: "North Randolph Street"
-housenumber: 300
+street: North Randolph Street
+housenumber: "300"
 phone: "+19197785207"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 249315324
-type: way
+type: node
 latitude: 35.85238
 longitude: -76.75412
 postcode: "27962"
 city: Plymouth
-street: "US Highway 64 West"
-housenumber: 640
+street: US Highway 64 West
+housenumber: "640"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1058389018
-type: way
+type: node
 latitude: 35.31925
 longitude: -78.63027
 postcode: "28334"
 city: Dunn
-street: "North Powell Avenue"
-housenumber: 100
+street: North Powell Avenue
+housenumber: "100"
 phone: "+19108921324"
 opening_hours: ""
 website: ""

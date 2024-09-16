@@ -1,11 +1,11 @@
 id: 1006575381
-type: way
+type: node
 latitude: 35.65447
 longitude: -78.34612
 postcode: "27527"
 city: Clayton
-street: "Village Center Drive"
-housenumber: 32
-phone: "(919) 550-2494"
-opening_hours: "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/clayton-nc-pharmacies/32-village-center-dr-clayton-nc-27527/storeid=10481"
+street: Village Center Drive
+housenumber: "32"
+phone: (919) 550-2494
+opening_hours: Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/clayton-nc-pharmacies/32-village-center-dr-clayton-nc-27527/storeid=10481

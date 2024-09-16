@@ -1,11 +1,11 @@
 id: 734170169
-type: way
+type: node
 latitude: 35.86725
 longitude: -76.75158
 postcode: "27962"
 city: Plymouth
-street: "West Water Street"
-housenumber: 105
+street: West Water Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

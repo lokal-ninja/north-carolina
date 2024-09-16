@@ -1,11 +1,11 @@
 id: 580953613
-type: way
+type: node
 latitude: 36.35078
 longitude: -78.98311
 postcode: "27573"
 city: Roxboro
-street: "Durham Road"
-housenumber: 3146
+street: Durham Road
+housenumber: "3146"
 phone: "+13365993787"
 opening_hours: ""
 website: ""

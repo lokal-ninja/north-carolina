@@ -1,11 +1,11 @@
 id: 634314308
-type: way
+type: node
 latitude: 35.84918
 longitude: -76.7416
 postcode: "27962"
 city: Plymouth
-street: "State Highway 32 South"
-housenumber: 685
+street: State Highway 32 South
+housenumber: "685"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 146580523
-type: way
+type: node
 latitude: 35.94975
 longitude: -78.99414
 postcode: "27707"
 city: Durham
-street: "Mount Moriah Road"
-housenumber: 3701
-phone: "+1 919-419-0208"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/durham/nc/durham/27707/3620"
+street: Mount Moriah Road
+housenumber: "3701"
+phone: +1 919-419-0208
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/durham/nc/durham/27707/3620

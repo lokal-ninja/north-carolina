@@ -1,11 +1,11 @@
 id: 232036047
-type: way
+type: node
 latitude: 35.82095
 longitude: -78.84889
 postcode: "27560"
 city: Morrisville
-street: "Davis Drive"
-housenumber: 3601
+street: Davis Drive
+housenumber: "3601"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-3601+davis+dr-morrisville-nc-27560/id=10276"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-3601+davis+dr-morrisville-nc-27560/id=10276

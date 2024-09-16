@@ -1,11 +1,11 @@
 id: 726190787
-type: way
+type: node
 latitude: 35.41997
 longitude: -82.57487
 postcode: "28759"
 city: Mills River
-street: "Old Haywood Road"
-housenumber: 5455
+street: Old Haywood Road
+housenumber: "5455"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

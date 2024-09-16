@@ -1,11 +1,11 @@
 id: 713822653
-type: way
+type: node
 latitude: 34.24508
 longitude: -77.82944
-postcode: "28405-4178"
+postcode: 28405-4178
 city: Wilmington
-street: "Monument Drive"
-housenumber: 6881
-phone: "+1 910-256-5112"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/nc/wilmington/4716"
+street: Monument Drive
+housenumber: "6881"
+phone: +1 910-256-5112
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/nc/wilmington/4716

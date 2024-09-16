@@ -1,11 +1,11 @@
 id: 1136713842
-type: way
+type: node
 latitude: 35.37128
 longitude: -83.50433
 postcode: "28713"
 city: Bryson City
 street: ""
-housenumber: 80
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

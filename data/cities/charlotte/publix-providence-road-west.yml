@@ -1,11 +1,11 @@
 id: 554942514
-type: way
+type: node
 latitude: 35.04299
 longitude: -80.84998
 postcode: "28277"
 city: Charlotte
-street: "Providence Road West"
-housenumber: 11222
-phone: "+1 704-716-2344"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1442"
+street: Providence Road West
+housenumber: "11222"
+phone: +1 704-716-2344
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1442

@@ -1,11 +1,11 @@
 id: 1061215657
-type: way
+type: node
 latitude: 35.26351
 longitude: -81.1956
 postcode: "28052"
 city: Gastonia
-street: "West Franklin Boulevard"
-housenumber: 814
+street: West Franklin Boulevard
+housenumber: "814"
 phone: ""
 opening_hours: ""
 website: ""

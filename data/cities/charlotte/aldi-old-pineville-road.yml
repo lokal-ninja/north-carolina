@@ -1,11 +1,11 @@
 id: 432923307
-type: way
+type: node
 latitude: 35.16464
 longitude: -80.87906
 postcode: "28217"
 city: Charlotte
-street: "Old Pineville Road"
-housenumber: 5550
-phone: "+1 833-466-1086"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/charlotte/5550-old-pineville-road"
+street: Old Pineville Road
+housenumber: "5550"
+phone: +1 833-466-1086
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/charlotte/5550-old-pineville-road

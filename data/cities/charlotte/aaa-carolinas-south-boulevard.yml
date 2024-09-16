@@ -1,11 +1,11 @@
 id: 547159154
-type: way
+type: node
 latitude: 35.20349
 longitude: -80.86353
 postcode: "28203"
 city: Charlotte
-street: "South Boulevard"
-housenumber: 2421
-phone: "+1-704-532-9480"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
-website: "https://locator.carolinas.aaa.com/nc/charlotte/1039"
+street: South Boulevard
+housenumber: "2421"
+phone: +1-704-532-9480
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
+website: https://locator.carolinas.aaa.com/nc/charlotte/1039

@@ -1,11 +1,11 @@
 id: 707893600
-type: way
+type: node
 latitude: 35.96227
 longitude: -78.51766
 postcode: "27587"
 city: Wake Forest
-street: "South Main Street"
-housenumber: 1241
-phone: "(919) 263-8618"
+street: South Main Street
+housenumber: "1241"
+phone: (919) 263-8618
 opening_hours: ""
 website: ""

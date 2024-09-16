@@ -1,11 +1,11 @@
 id: 1069001964
-type: way
+type: node
 latitude: 35.87674
 longitude: -76.61675
 postcode: "27970"
 city: Roper
-street: "West Buncombe Street"
-housenumber: 401
+street: West Buncombe Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

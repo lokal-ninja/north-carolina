@@ -1,11 +1,11 @@
 id: 1093694544
-type: way
+type: node
 latitude: 35.58688
 longitude: -82.56555
 postcode: "28801"
 city: Asheville
-street: "Park Avenue North"
-housenumber: 20
+street: Park Avenue North
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

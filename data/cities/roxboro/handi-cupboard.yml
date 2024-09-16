@@ -1,11 +1,11 @@
 id: 630722599
-type: way
+type: node
 latitude: 36.35384
 longitude: -78.9829
 postcode: "27573"
 city: Roxboro
-street: "Durham Road"
-housenumber: 2932
-phone: "(336) 599-9996"
+street: Durham Road
+housenumber: "2932"
+phone: (336) 599-9996
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 323915982
-type: way
+type: node
 latitude: 36.11465
 longitude: -79.87588
-postcode: "27410-2048"
+postcode: 27410-2048
 city: Greensboro
-street: "Highwoods Boulevard"
-housenumber: 1628
-phone: "+1 336-455-9900"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/greensboro-new-garden/2108"
+street: Highwoods Boulevard
+housenumber: "1628"
+phone: +1 336-455-9900
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/greensboro-new-garden/2108

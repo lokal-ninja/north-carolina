@@ -1,11 +1,11 @@
 id: 269011373
-type: way
+type: node
 latitude: 35.59298
 longitude: -82.4822
 postcode: "28815"
 city: Asheville
-street: "Blue Ridge Parkway"
-housenumber: 382
+street: Blue Ridge Parkway
+housenumber: "382"
 phone: "+18282987928"
 opening_hours: ""
 website: ""

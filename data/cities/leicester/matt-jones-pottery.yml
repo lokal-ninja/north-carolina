@@ -1,11 +1,11 @@
 id: 987495827
-type: way
+type: node
 latitude: 35.67694
 longitude: -82.79758
 postcode: "28748"
 city: Leicester
-street: "Big Sandy Mush Road"
-housenumber: 209
+street: Big Sandy Mush Road
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

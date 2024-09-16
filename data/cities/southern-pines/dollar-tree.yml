@@ -1,11 +1,11 @@
 id: 682187285
-type: way
+type: node
 latitude: 35.1721
 longitude: -79.42102
 postcode: "28387"
 city: Southern Pines
-street: "Brucewood Road"
-housenumber: 154
+street: Brucewood Road
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/nc/southern-pines/790/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/nc/southern-pines/790/

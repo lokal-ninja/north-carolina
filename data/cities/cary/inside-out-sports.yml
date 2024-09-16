@@ -1,11 +1,11 @@
 id: 200334593
-type: way
+type: node
 latitude: 35.80039
 longitude: -78.81573
 postcode: "27513"
 city: Cary
-street: "Grisdale Lane"
-housenumber: 2002
+street: Grisdale Lane
+housenumber: "2002"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 13:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 13:00-17:00
 website: ""

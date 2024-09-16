@@ -1,11 +1,11 @@
 id: 591626266
-type: way
+type: node
 latitude: 35.72612
 longitude: -79.4609
 postcode: "27344"
 city: Siler City
-street: "East 3rd Street"
-housenumber: 314
+street: East 3rd Street
+housenumber: "314"
 phone: "9196635553"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 35.7896
 longitude: -78.6586
 postcode: "27605"
 city: Raleigh
-street: "Woodburn Road"
-housenumber: 400
+street: Woodburn Road
+housenumber: "400"
 phone: ""
-opening_hours: "08:00-21:00"
-website: "https://www.thefreshmarket.com/"
+opening_hours: 08:00-21:00
+website: https://www.thefreshmarket.com/

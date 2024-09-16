@@ -1,11 +1,11 @@
 id: 389455907
-type: way
+type: node
 latitude: 35.73827
 longitude: -78.81069
 postcode: "27511"
 city: Cary
-street: "Old Raleigh Road"
-housenumber: 3630
+street: Old Raleigh Road
+housenumber: "3630"
 phone: ""
 opening_hours: ""
 website: ""

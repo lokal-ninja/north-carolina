@@ -1,11 +1,11 @@
 id: 500294084
-type: way
+type: node
 latitude: 35.37795
 longitude: -80.7255
 postcode: "28027"
 city: Concord
-street: "Thunder Road"
-housenumber: 5825
-phone: "+1 704-979-2540"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4574/concord-nc/whats-new"
+street: Thunder Road
+housenumber: "5825"
+phone: +1 704-979-2540
+opening_hours: 24/7
+website: https://www.walmart.com/store/4574/concord-nc/whats-new

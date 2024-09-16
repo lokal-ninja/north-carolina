@@ -1,11 +1,11 @@
 id: 696048766
-type: way
+type: node
 latitude: 35.24579
 longitude: -75.61431
 postcode: "27936"
 city: Frisco
-street: "North Carolina Highway 12"
-housenumber: 52570
-phone: "(252) 995-3229"
+street: North Carolina Highway 12
+housenumber: "52570"
+phone: (252) 995-3229
 opening_hours: ""
-website: "http://friscotackle.com"
+website: http://friscotackle.com

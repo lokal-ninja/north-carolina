@@ -1,11 +1,11 @@
 id: 757481636
-type: way
+type: node
 latitude: 35.90449
 longitude: -82.17991
 postcode: "28714"
 city: Burnsville
-street: "US-19 East"
-housenumber: 
+street: US-19 East
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1055079238
-type: way
+type: node
 latitude: 35.53667
 longitude: -81.37567
 postcode: "28168"
 city: Vale
-street: "Plateau Road"
-housenumber: 2673
+street: Plateau Road
+housenumber: "2673"
 phone: "+17042762662"
 opening_hours: ""
 website: ""

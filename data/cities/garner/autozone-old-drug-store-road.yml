@@ -1,11 +1,11 @@
 id: 860874531
-type: way
+type: node
 latitude: 35.60064
 longitude: -78.57403
 postcode: "27529"
 city: Garner
-street: "Old Drug Store Road"
-housenumber: 280
-phone: "(919) 779-2340"
-opening_hours: "Mo-Su 07:30-22:00"
-website: "https://www.autozone.com/locations/nc/garner/280-old-drug-store-rd.html"
+street: Old Drug Store Road
+housenumber: "280"
+phone: (919) 779-2340
+opening_hours: Mo-Su 07:30-22:00
+website: https://www.autozone.com/locations/nc/garner/280-old-drug-store-rd.html

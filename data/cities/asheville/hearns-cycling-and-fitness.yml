@@ -1,11 +1,11 @@
 id: 380248567
-type: way
+type: node
 latitude: 35.59353
 longitude: -82.55624
 postcode: "28801"
 city: Asheville
-street: "Asheland Avenue"
-housenumber: 28
-phone: "+1 828 253 4800"
+street: Asheland Avenue
+housenumber: "28"
+phone: +1 828 253 4800
 opening_hours: ""
 website: ""

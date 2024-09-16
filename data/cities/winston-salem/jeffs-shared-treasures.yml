@@ -4,8 +4,8 @@ latitude: 36.10999
 longitude: -80.21326
 postcode: "27101"
 city: Winston-Salem
-street: "New Walkertown Road Northeast"
-housenumber: 2608
-phone: "+1-336-703-1778"
-opening_hours: "Mo-Fr by appointment; Sa 10:00-15:00"
-website: "https://jeffssharedtreasures.com/"
+street: New Walkertown Road Northeast
+housenumber: "2608"
+phone: +1-336-703-1778
+opening_hours: Mo-Fr "by appointment"; Sa 10:00-15:00
+website: https://jeffssharedtreasures.com/

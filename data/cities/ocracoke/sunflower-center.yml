@@ -1,11 +1,11 @@
 id: 409634750
-type: way
+type: node
 latitude: 35.1118
 longitude: -75.97636
 postcode: "27960"
 city: Ocracoke
-street: "Back Road"
-housenumber: 170
+street: Back Road
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

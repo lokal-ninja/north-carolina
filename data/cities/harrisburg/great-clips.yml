@@ -1,11 +1,11 @@
 id: 385196895
-type: way
+type: node
 latitude: 35.32065
 longitude: -80.65141
 postcode: "28075"
 city: Harrisburg
-street: "School House Commons"
-housenumber: 4445
+street: School House Commons
+housenumber: "4445"
 phone: ""
 opening_hours: ""
 website: ""

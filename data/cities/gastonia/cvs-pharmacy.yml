@@ -1,11 +1,11 @@
 id: 1020164098
-type: way
+type: node
 latitude: 35.26016
 longitude: -81.21552
 postcode: "28052"
 city: Gastonia
-street: "West Franklin Boulevard"
-housenumber: 1850
+street: West Franklin Boulevard
+housenumber: "1850"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/gastonia-nc-pharmacies/1850-west-franklin-boulevard-gastonia-nc-28052/storeid=3823"
+website: https://www.cvs.com/store-locator/gastonia-nc-pharmacies/1850-west-franklin-boulevard-gastonia-nc-28052/storeid=3823

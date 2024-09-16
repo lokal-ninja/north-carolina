@@ -1,11 +1,11 @@
 id: 1119381351
-type: way
+type: node
 latitude: 35.04033
 longitude: -76.69214
 postcode: "28571"
 city: Oriental
-street: "Broad Street"
-housenumber: 1403
+street: Broad Street
+housenumber: "1403"
 phone: "+12522495470"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/nc/oriental/11223"
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.dollargeneral.com/store-directory/nc/oriental/11223

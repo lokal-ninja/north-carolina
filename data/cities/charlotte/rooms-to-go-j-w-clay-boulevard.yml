@@ -1,11 +1,11 @@
 id: 1105085147
-type: way
+type: node
 latitude: 35.30905
 longitude: -80.75331
 postcode: "28262"
 city: Charlotte
-street: "J W Clay Boulevard"
-housenumber: 8620
+street: J W Clay Boulevard
+housenumber: "8620"
 phone: ""
 opening_hours: ""
 website: ""

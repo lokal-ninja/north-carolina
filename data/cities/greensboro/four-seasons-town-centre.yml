@@ -1,11 +1,11 @@
 id: 282779944
-type: way
+type: node
 latitude: 36.04058
 longitude: -79.83872
 postcode: ""
 city: Greensboro
-street: "Four Seasons Boulevard"
-housenumber: 410
+street: Four Seasons Boulevard
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

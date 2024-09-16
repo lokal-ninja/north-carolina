@@ -1,11 +1,11 @@
 id: 989242859
-type: way
+type: node
 latitude: 36.07538
 longitude: -80.39066
 postcode: "27012"
 city: Clemmons
-street: "River Ridge Drive"
-housenumber: 1465
+street: River Ridge Drive
+housenumber: "1465"
 phone: ""
 opening_hours: ""
 website: ""

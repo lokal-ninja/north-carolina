@@ -1,11 +1,11 @@
 id: 795318704
-type: way
+type: node
 latitude: 35.51477
 longitude: -80.14371
 postcode: "27239"
 city: Denton
-street: "NC-49"
-housenumber: 2714
-phone: "(336) 859-5472"
+street: NC-49
+housenumber: "2714"
+phone: (336) 859-5472
 opening_hours: ""
 website: ""

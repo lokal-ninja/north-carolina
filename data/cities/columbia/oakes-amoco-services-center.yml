@@ -1,11 +1,11 @@
 id: 1266225892
-type: way
+type: node
 latitude: 35.91614
 longitude: -76.2514
 postcode: "27925"
 city: Columbia
-street: "Scuppernong Drive"
-housenumber: 403
+street: Scuppernong Drive
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

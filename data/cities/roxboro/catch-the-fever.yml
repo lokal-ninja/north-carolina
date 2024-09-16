@@ -1,11 +1,11 @@
 id: 382891290
-type: way
+type: node
 latitude: 36.35964
 longitude: -78.98222
 postcode: "27573"
 city: Roxboro
-street: "Old Durham Road"
-housenumber: 1458
+street: Old Durham Road
+housenumber: "1458"
 phone: "+19842349634"
 opening_hours: ""
 website: ""

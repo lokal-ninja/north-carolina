@@ -1,11 +1,11 @@
 id: 412722296
-type: way
+type: node
 latitude: 35.3704
 longitude: -80.82849
 postcode: "28078"
 city: Huntersville
-street: "Bryton Town Center Drive"
-housenumber: 11145
-phone: "+1 704-977-2040"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5879/huntersville-nc/whats-new"
+street: Bryton Town Center Drive
+housenumber: "11145"
+phone: +1 704-977-2040
+opening_hours: 24/7
+website: https://www.walmart.com/store/5879/huntersville-nc/whats-new

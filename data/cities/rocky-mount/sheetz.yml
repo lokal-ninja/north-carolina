@@ -1,11 +1,11 @@
 id: 558013694
-type: way
+type: node
 latitude: 35.97174
 longitude: -77.89572
 postcode: "27804"
 city: Rocky Mount
-street: "North Old Carriage Road"
-housenumber: 157
-phone: "+1 252-442-2025"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/504"
+street: North Old Carriage Road
+housenumber: "157"
+phone: +1 252-442-2025
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/504

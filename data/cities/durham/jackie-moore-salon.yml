@@ -4,8 +4,8 @@ latitude: 35.99959
 longitude: -78.91035
 postcode: "27701"
 city: Durham
-street: "West Main Street"
-housenumber: 905
-phone: "+1-919-687-7777"
+street: West Main Street
+housenumber: "905"
+phone: +1-919-687-7777
 opening_hours: ""
-website: "http://jackiemoorestyle.com"
+website: http://jackiemoorestyle.com

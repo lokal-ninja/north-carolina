@@ -4,8 +4,8 @@ latitude: 35.2185
 longitude: -80.8098
 postcode: "28205"
 city: Charlotte
-street: "McClintock Rd."
-housenumber: 2128
-phone: "980-433-2979"
-opening_hours: "Mon, Wed & Fri : 8 AM–6 PM || Tue, Thu: 9 AM–6 PM || Sat & Sun : Closed"
-website: "https://fullcirclelaundry.com/"
+street: McClintock Rd.
+housenumber: "2128"
+phone: 980-433-2979
+opening_hours: 'Mon, Wed & Fri : 8 AM–6 PM || Tue, Thu: 9 AM–6 PM || Sat & Sun : Closed'
+website: https://fullcirclelaundry.com/

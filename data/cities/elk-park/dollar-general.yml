@@ -1,11 +1,11 @@
 id: 693480069
-type: way
+type: node
 latitude: 36.15742
 longitude: -81.98108
 postcode: "28622"
 city: Elk Park
-street: "Winters Street"
-housenumber: 117
-phone: "(828) 528-1574"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/nc/elk-park/16643.html"
+street: Winters Street
+housenumber: "117"
+phone: (828) 528-1574
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/nc/elk-park/16643.html

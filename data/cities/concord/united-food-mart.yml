@@ -1,11 +1,11 @@
 id: 997303788
-type: way
+type: node
 latitude: 35.40953
 longitude: -80.58332
 postcode: "28025"
 city: Concord
-street: "Cabarrus Avenue West"
-housenumber: 50
+street: Cabarrus Avenue West
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

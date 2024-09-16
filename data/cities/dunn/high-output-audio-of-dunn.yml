@@ -1,11 +1,11 @@
 id: 827914071
-type: way
+type: node
 latitude: 35.30362
 longitude: -78.61202
 postcode: "28334"
 city: Dunn
-street: "South Clinton Avenue"
-housenumber: 500
+street: South Clinton Avenue
+housenumber: "500"
 phone: "+19108928161"
 opening_hours: ""
 website: ""

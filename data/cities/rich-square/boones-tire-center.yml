@@ -1,11 +1,11 @@
 id: 1101838156
-type: way
+type: node
 latitude: 36.27211
 longitude: -77.27445
 postcode: "27869"
 city: Rich Square
-street: "East Jackson Street"
-housenumber: 413
+street: East Jackson Street
+housenumber: "413"
 phone: "+12525392597"
 opening_hours: ""
 website: ""

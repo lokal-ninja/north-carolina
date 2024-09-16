@@ -1,11 +1,11 @@
 id: 1090702292
-type: way
+type: node
 latitude: 35.91564
 longitude: -82.28204
-postcode: "28714-3303"
+postcode: 28714-3303
 city: Burnsville
-street: "East Bypass"
-housenumber: 19
-phone: "+1 828-682-3033"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
+street: East Bypass
+housenumber: "19"
+phone: +1 828-682-3033
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
 website: ""

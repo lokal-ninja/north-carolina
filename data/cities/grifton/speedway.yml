@@ -1,11 +1,11 @@
 id: 1017020818
-type: way
+type: node
 latitude: 35.37539
 longitude: -77.43807
 postcode: "28530"
 city: Grifton
-street: "West Queen Street"
-housenumber: 431
+street: West Queen Street
+housenumber: "431"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NC/Grifton/431-West-Queen-Street"
+website: https://www.speedway.com/locations/NC/Grifton/431-West-Queen-Street

@@ -1,11 +1,11 @@
 id: 1088005856
-type: way
+type: node
 latitude: 35.16522
 longitude: -79.42334
 postcode: "28387"
 city: Southern Pines
-street: "US 15/501"
-housenumber: 10760
+street: US 15/501
+housenumber: "10760"
 phone: ""
 opening_hours: ""
 website: ""

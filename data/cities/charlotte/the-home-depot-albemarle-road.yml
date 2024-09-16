@@ -1,11 +1,11 @@
 id: 577247979
-type: way
+type: node
 latitude: 35.21243
 longitude: -80.68279
 postcode: "28227"
 city: Charlotte
-street: "Albemarle Road"
-housenumber: 9501
-phone: "+1 704-535-6982"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/e-charlotte/nc/charlotte/28227/3639"
+street: Albemarle Road
+housenumber: "9501"
+phone: +1 704-535-6982
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/e-charlotte/nc/charlotte/28227/3639

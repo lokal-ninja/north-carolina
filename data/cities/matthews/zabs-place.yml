@@ -4,8 +4,8 @@ latitude: 35.11597
 longitude: -80.72213
 postcode: "28105"
 city: Matthews
-street: "North Trade Street"
-housenumber: 100
+street: North Trade Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://zabsplace.org"
+website: https://zabsplace.org

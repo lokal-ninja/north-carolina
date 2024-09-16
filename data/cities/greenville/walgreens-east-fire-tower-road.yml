@@ -1,11 +1,11 @@
 id: 547787311
-type: way
+type: node
 latitude: 35.56792
 longitude: -77.35013
 postcode: "27858"
 city: Greenville
-street: "East Fire Tower Road"
-housenumber: 2105
+street: East Fire Tower Road
+housenumber: "2105"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2105+e+fire+tower+rd-greenville-nc-27858/id=6616"
+website: https://www.walgreens.com/locator/walgreens-2105+e+fire+tower+rd-greenville-nc-27858/id=6616

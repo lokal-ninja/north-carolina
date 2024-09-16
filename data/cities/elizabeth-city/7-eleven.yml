@@ -1,11 +1,11 @@
 id: 388805040
-type: way
+type: node
 latitude: 36.29341
 longitude: -76.29005
 postcode: "27909"
 city: Elizabeth City
-street: "Patrick Way"
-housenumber: 3800
+street: Patrick Way
+housenumber: "3800"
 phone: "+12523312622"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1163481889
-type: way
+type: node
 latitude: 35.19288
 longitude: -80.78165
 postcode: "28205"
 city: Charlotte
-street: "Monroe Road"
-housenumber: 4726
+street: Monroe Road
+housenumber: "4726"
 phone: ""
 opening_hours: ""
 website: ""

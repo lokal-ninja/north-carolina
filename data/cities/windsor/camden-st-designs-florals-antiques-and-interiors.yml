@@ -1,11 +1,11 @@
 id: 306634720
-type: way
+type: node
 latitude: 35.99899
 longitude: -76.94856
 postcode: "27983"
 city: Windsor
-street: "East Camden Street"
-housenumber: 108
+street: East Camden Street
+housenumber: "108"
 phone: "+12527943182"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 606482755
-type: way
+type: node
 latitude: 35.3251
 longitude: -83.80728
 postcode: "28771"
 city: Robbinsville
-street: "North Main Street"
-housenumber: 140
+street: North Main Street
+housenumber: "140"
 phone: "+18284793038"
 opening_hours: ""
 website: ""

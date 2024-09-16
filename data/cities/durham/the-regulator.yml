@@ -1,11 +1,11 @@
 id: 28000217
-type: way
+type: node
 latitude: 36.0085
 longitude: -78.92167
 postcode: "27705"
 city: Durham
-street: "9th Street"
-housenumber: 720
+street: 9th Street
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

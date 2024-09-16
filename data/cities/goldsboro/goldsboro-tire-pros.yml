@@ -1,11 +1,11 @@
 id: 372416350
-type: way
+type: node
 latitude: 35.38772
 longitude: -77.9992
 postcode: "27530"
 city: Goldsboro
-street: "North George Street"
-housenumber: 317
+street: North George Street
+housenumber: "317"
 phone: "+19197351321"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 681982766
-type: way
+type: node
 latitude: 34.12511
 longitude: -77.90212
 postcode: "28412"
 city: Wilmington
-street: "Carolina Beach Road"
-housenumber: 5920
-phone: "+1 910-796-3091"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/wilmington/beau-rivage-marketplace/097/00096"
+street: Carolina Beach Road
+housenumber: "5920"
+phone: +1 910-796-3091
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/wilmington/beau-rivage-marketplace/097/00096

@@ -1,11 +1,11 @@
 id: 23120192
-type: way
+type: node
 latitude: 35.90375
 longitude: -78.94878
 postcode: "27713"
 city: Durham
-street: "Fayetteville Road"
-housenumber: 6910
-phone: "+1-919-572-8808"
+street: Fayetteville Road
+housenumber: "6910"
+phone: +1-919-572-8808
 opening_hours: ""
-website: "https://www.streetsatsouthpoint.com/en.html"
+website: https://www.streetsatsouthpoint.com/en.html

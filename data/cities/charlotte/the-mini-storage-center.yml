@@ -1,11 +1,11 @@
 id: 921778377
-type: way
+type: node
 latitude: 35.19419
 longitude: -80.78461
 postcode: "28205"
 city: Charlotte
-street: "Monroe Road"
-housenumber: 4500
+street: Monroe Road
+housenumber: "4500"
 phone: ""
 opening_hours: ""
-website: "https://ministoragecarolina.com/location/charlotte-monroe-mini-storage/"
+website: https://ministoragecarolina.com/location/charlotte-monroe-mini-storage/

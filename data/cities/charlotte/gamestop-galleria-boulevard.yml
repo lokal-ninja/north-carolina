@@ -1,11 +1,11 @@
 id: 323177807
-type: way
+type: node
 latitude: 35.13776
 longitude: -80.7341
 postcode: "28270"
 city: Charlotte
-street: "Galleria Boulevard"
-housenumber: 1824
+street: Galleria Boulevard
+housenumber: "1824"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/nc/charlotte/2751/the-galleria-gamestop"
+website: https://www.gamestop.com/store/us/nc/charlotte/2751/the-galleria-gamestop

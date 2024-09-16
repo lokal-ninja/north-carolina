@@ -1,11 +1,11 @@
 id: 582020799
-type: way
+type: node
 latitude: 35.81873
 longitude: -80.87843
 postcode: "28625"
 city: Statesville
-street: "Venture Lane"
-housenumber: 134
-phone: "+1 704-878-4073"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1539"
+street: Venture Lane
+housenumber: "134"
+phone: +1 704-878-4073
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1539

@@ -1,11 +1,11 @@
 id: 651886742
-type: way
+type: node
 latitude: 36.10117
 longitude: -78.46599
 postcode: "27525"
 city: Franklinton
-street: "US Highway 1"
-housenumber: 3422
+street: US Highway 1
+housenumber: "3422"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3410+us+1+hwy-franklinton-nc-27525/id=21413"
+website: https://www.walgreens.com/locator/walgreens-3410+us+1+hwy-franklinton-nc-27525/id=21413

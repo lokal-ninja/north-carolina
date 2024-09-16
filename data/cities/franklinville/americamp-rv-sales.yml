@@ -1,11 +1,11 @@
 id: 202503441
-type: way
+type: node
 latitude: 35.72845
 longitude: -79.68841
 postcode: "27248"
 city: Franklinville
-street: "Faith Rock Road"
-housenumber: 144
+street: Faith Rock Road
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

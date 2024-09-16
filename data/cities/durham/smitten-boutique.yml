@@ -1,11 +1,11 @@
 id: 45743949
-type: way
+type: node
 latitude: 36.01204
 longitude: -78.93032
 postcode: "27705"
 city: Durham
-street: "Hillsborough Road"
-housenumber: 2702
+street: Hillsborough Road
+housenumber: "2702"
 phone: ""
 opening_hours: ""
-website: "https://thesmittenboutique.com/"
+website: https://thesmittenboutique.com/

@@ -1,11 +1,11 @@
 id: 576353773
-type: way
+type: node
 latitude: 35.97023
 longitude: -77.93484
 postcode: "27856"
 city: Nashville
-street: "Eastern Avenue"
-housenumber: 1205
-phone: "+1 252-459-0020"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4459/nashville-nc/whats-new"
+street: Eastern Avenue
+housenumber: "1205"
+phone: +1 252-459-0020
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4459/nashville-nc/whats-new

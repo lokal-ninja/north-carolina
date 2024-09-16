@@ -1,11 +1,11 @@
 id: 863030533
-type: way
+type: node
 latitude: 35.44857
 longitude: -82.27726
 postcode: "28746"
 city: Lake Lure
-street: "Lake Lure Highway"
-housenumber: 400
+street: Lake Lure Highway
+housenumber: "400"
 phone: "+18286069068"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 771048211
-type: way
+type: node
 latitude: 34.73251
 longitude: -78.79003
 postcode: "28392"
 city: Tar Heel
-street: "NC-87"
-housenumber: 14511
+street: NC-87
+housenumber: "14511"
 phone: "+19108625579"
 opening_hours: ""
 website: ""

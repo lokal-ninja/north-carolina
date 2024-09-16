@@ -1,11 +1,11 @@
 id: 605097404
-type: way
+type: node
 latitude: 35.74309
 longitude: -78.82054
 postcode: "27502"
 city: Apex
-street: "U. S. 64"
-housenumber: 835
+street: U. S. 64
+housenumber: "835"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00, Su 13:00-17:00"
+opening_hours: Mo-Sa 09:30-19:00, Su 13:00-17:00
 website: ""

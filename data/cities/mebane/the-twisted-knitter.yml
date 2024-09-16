@@ -1,11 +1,11 @@
 id: 361426982
-type: way
+type: node
 latitude: 36.09739
 longitude: -79.26955
 postcode: "27302"
 city: Mebane
-street: "North 3rd Street"
-housenumber: 109
-phone: "+1 919 563 2468"
-opening_hours: "Tu 10:00-16:00; We-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "https://www.thetwistedknitter.com/"
+street: North 3rd Street
+housenumber: "109"
+phone: +1 919 563 2468
+opening_hours: Tu 10:00-16:00; We-Fr 10:00-17:00; Sa 10:00-16:00
+website: https://www.thetwistedknitter.com/

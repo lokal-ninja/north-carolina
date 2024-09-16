@@ -1,11 +1,11 @@
 id: 1058316996
-type: way
+type: node
 latitude: 34.80553
 longitude: -78.96738
 postcode: "28384"
 city: St. Pauls
-street: "East Broad Street"
-housenumber: 406
-phone: "+1 910-865-3236"
+street: East Broad Street
+housenumber: "406"
+phone: +1 910-865-3236
 opening_hours: ""
 website: ""

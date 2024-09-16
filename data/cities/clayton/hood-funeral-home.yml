@@ -1,11 +1,11 @@
 id: 834312883
-type: way
+type: node
 latitude: 35.65263
 longitude: -78.45671
 postcode: "27520"
 city: Clayton
-street: "East Front Street"
-housenumber: 230
-phone: "(919) 553-6366"
+street: East Front Street
+housenumber: "230"
+phone: (919) 553-6366
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1189060702
-type: way
+type: node
 latitude: 35.17532
 longitude: -78.96582
 postcode: "28390"
 city: Spring Lake
-street: "Lillington Highway"
-housenumber: 670
-phone: "+1 910-436-1199"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1312/spring-lake-nc/whats-new"
+street: Lillington Highway
+housenumber: "670"
+phone: +1 910-436-1199
+opening_hours: 24/7
+website: https://www.walmart.com/store/1312/spring-lake-nc/whats-new

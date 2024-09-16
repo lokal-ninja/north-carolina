@@ -1,11 +1,11 @@
 id: 589925121
-type: way
+type: node
 latitude: 35.09975
 longitude: -77.08791
 postcode: "28562"
 city: New Bern
-street: "Lowes Boulevard"
-housenumber: 1400
-phone: "+1 252-638-6777"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/NC-New-Bern/0566"
+street: Lowes Boulevard
+housenumber: "1400"
+phone: +1 252-638-6777
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/NC-New-Bern/0566

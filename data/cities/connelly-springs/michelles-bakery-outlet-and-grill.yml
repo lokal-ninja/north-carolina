@@ -1,11 +1,11 @@
 id: 1245041502
-type: way
+type: node
 latitude: 35.73385
 longitude: -81.52803
 postcode: "28612"
 city: Connelly Springs
-street: "Fashion Avenue"
-housenumber: 101
+street: Fashion Avenue
+housenumber: "101"
 phone: "+18285221093"
 opening_hours: ""
 website: ""

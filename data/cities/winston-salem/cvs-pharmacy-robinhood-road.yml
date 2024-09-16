@@ -1,11 +1,11 @@
 id: 383159727
-type: way
+type: node
 latitude: 36.11652
 longitude: -80.31232
 postcode: "27106"
 city: Winston-Salem
-street: "Robinhood Road"
-housenumber: 3325
+street: Robinhood Road
+housenumber: "3325"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/winston-salem-nc-pharmacies/3325-robinhood-rd-winston-salem-nc-27106/storeid=3516"
+website: https://www.cvs.com/store-locator/winston-salem-nc-pharmacies/3325-robinhood-rd-winston-salem-nc-27106/storeid=3516

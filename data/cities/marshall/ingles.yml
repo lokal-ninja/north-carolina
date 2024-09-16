@@ -1,11 +1,11 @@
 id: 659225873
-type: way
+type: node
 latitude: 35.81343
 longitude: -82.6714
 postcode: "28753"
 city: Marshall
-street: "US Highway 25-70"
-housenumber: 5580
+street: US Highway 25-70
+housenumber: "5580"
 phone: "+18286492255"
 opening_hours: ""
 website: ""

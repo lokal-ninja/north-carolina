@@ -1,11 +1,11 @@
 id: 1013248218
-type: way
+type: node
 latitude: 35.5497
 longitude: -76.63254
 postcode: "27810"
 city: Belhaven
-street: "California Street"
-housenumber: 386
-phone: "252-943-3411"
+street: California Street
+housenumber: "386"
+phone: 252-943-3411
 opening_hours: ""
 website: ""

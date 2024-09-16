@@ -1,11 +1,11 @@
 id: 1312134556
-type: way
+type: node
 latitude: 35.17762
 longitude: -80.65188
 postcode: "28227"
 city: Mint Hill
-street: "Matthews-Mint Hill Road"
-housenumber: 7609
+street: Matthews-Mint Hill Road
+housenumber: "7609"
 phone: "+17045735100"
-opening_hours: "Tu-Fr 10:00-17:00; Sa 9:00-13:00; Su, Mo off"
-website: "https://www.daphnesbakery.com/"
+opening_hours: Tu-Fr 10:00-17:00; Sa 9:00-13:00; Su, Mo off
+website: https://www.daphnesbakery.com/

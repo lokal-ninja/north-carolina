@@ -4,8 +4,8 @@ latitude: 35.98044
 longitude: -78.54022
 postcode: "27587"
 city: Wake Forest
-street: "Capital Boulevard"
-housenumber: 12269
-phone: "919-570-8292"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 12:00-18:00"
-website: "https://www.goodwill.org/location/?store=e348bb93-458a-e111-8dde-005056934050%20&lat=%2035.98349%20&lng=%20-78.53812"
+street: Capital Boulevard
+housenumber: "12269"
+phone: 919-570-8292
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 12:00-18:00
+website: https://www.goodwill.org/location/?store=e348bb93-458a-e111-8dde-005056934050%20&lat=%2035.98349%20&lng=%20-78.53812

@@ -1,11 +1,11 @@
 id: 770719145
-type: way
+type: node
 latitude: 36.47959
 longitude: -80.61725
 postcode: "27030"
 city: Mount Airy
-street: "Rockford Street"
-housenumber: 2038
+street: Rockford Street
+housenumber: "2038"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/mount-airy/2038-rockford-st"
+website: https://stores.advanceautoparts.com/nc/mount-airy/2038-rockford-st

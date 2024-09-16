@@ -1,11 +1,11 @@
 id: 617692758
-type: way
+type: node
 latitude: 36.11025
 longitude: -80.08667
 postcode: "27284"
 city: Kernersville
-street: "South Main Street"
-housenumber: 819
-phone: "+1 833-466-1021"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/kernersville/819-s-main-st"
+street: South Main Street
+housenumber: "819"
+phone: +1 833-466-1021
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/kernersville/819-s-main-st

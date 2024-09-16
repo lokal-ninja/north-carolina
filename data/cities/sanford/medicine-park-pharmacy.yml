@@ -1,11 +1,11 @@
 id: 1033582495
-type: way
+type: node
 latitude: 35.47552
 longitude: -79.18789
 postcode: "27330"
 city: Sanford
-street: "Park Avenue"
-housenumber: 100
-phone: "919-776-9715"
+street: Park Avenue
+housenumber: "100"
+phone: 919-776-9715
 opening_hours: ""
-website: "https://medicineparkpharmacy.com"
+website: https://medicineparkpharmacy.com

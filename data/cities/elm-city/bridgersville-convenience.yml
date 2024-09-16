@@ -4,8 +4,8 @@ latitude: 35.75627
 longitude: -77.75095
 postcode: "27822"
 city: Elm City
-street: "NC-42"
-housenumber: 6502
-phone: "(252) 291-1682"
-opening_hours: "Mo-Sa 06:00-21:00; Su 06:00-15:00"
+street: NC-42
+housenumber: "6502"
+phone: (252) 291-1682
+opening_hours: Mo-Sa 06:00-21:00; Su 06:00-15:00
 website: ""

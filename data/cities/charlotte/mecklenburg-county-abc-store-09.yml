@@ -1,11 +1,11 @@
 id: 324609765
-type: way
+type: node
 latitude: 35.2434
 longitude: -80.83324
 postcode: "28206"
 city: Charlotte
-street: "North Graham Street"
-housenumber: 1609
+street: North Graham Street
+housenumber: "1609"
 phone: ""
 opening_hours: ""
-website: "https://www.meckabc.com/"
+website: https://www.meckabc.com/

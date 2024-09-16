@@ -1,11 +1,11 @@
 id: 449484217
-type: way
+type: node
 latitude: 35.61995
 longitude: -82.31592
 postcode: "28711"
 city: Black Mountain
-street: "East State Street"
-housenumber: 440
-phone: "(828) 669-6931"
+street: East State Street
+housenumber: "440"
+phone: (828) 669-6931
 opening_hours: ""
 website: ""

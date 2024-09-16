@@ -1,11 +1,11 @@
 id: 588241317
-type: way
+type: node
 latitude: 35.48096
 longitude: -79.15805
 postcode: "27330"
 city: Sanford
-street: "Bragg Street"
-housenumber: 607
+street: Bragg Street
+housenumber: "607"
 phone: ""
 opening_hours: ""
 website: ""

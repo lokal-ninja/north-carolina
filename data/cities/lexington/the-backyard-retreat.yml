@@ -4,8 +4,8 @@ latitude: 35.82335
 longitude: -80.2544
 postcode: "27292"
 city: Lexington
-street: "South Main Street"
-housenumber: 106
-phone: "+1-336-242-1860"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "http://thebackyardretreat.com/"
+street: South Main Street
+housenumber: "106"
+phone: +1-336-242-1860
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
+website: http://thebackyardretreat.com/

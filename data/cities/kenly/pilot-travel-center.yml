@@ -1,11 +1,11 @@
 id: 220150713
-type: way
+type: node
 latitude: 35.58286
 longitude: -78.14778
 postcode: "27542"
 city: Kenly
-street: "Truckstop Road"
-housenumber: 1000
+street: Truckstop Road
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 610052494
-type: way
+type: node
 latitude: 36.27618
 longitude: -80.83586
 postcode: "28621"
 city: Elkin
-street: "CC Camp Road"
-housenumber: 544
+street: CC Camp Road
+housenumber: "544"
 phone: "+13365271944"
 opening_hours: ""
 website: ""

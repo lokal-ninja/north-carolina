@@ -1,11 +1,11 @@
 id: 550711673
-type: way
+type: node
 latitude: 35.98045
 longitude: -81.56602
 postcode: "28645"
 city: Lenoir
-street: "Blowing Rock Boulevard"
-housenumber: 2689
-phone: "828-758-1173"
+street: Blowing Rock Boulevard
+housenumber: "2689"
+phone: 828-758-1173
 opening_hours: ""
 website: ""

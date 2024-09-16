@@ -1,11 +1,11 @@
 id: 601165631
-type: way
+type: node
 latitude: 36.02319
 longitude: -80.38245
 postcode: "27012"
 city: Clemmons
-street: "Lewisville Clemmons Road"
-housenumber: 2750
-phone: "+1-336-283-9552"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/clemmons/nc/6211/"
+street: Lewisville Clemmons Road
+housenumber: "2750"
+phone: +1-336-283-9552
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.expressoil.com/stores/clemmons/nc/6211/

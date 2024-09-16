@@ -1,11 +1,11 @@
 id: 287793995
-type: way
+type: node
 latitude: 35.97094
 longitude: -80.01603
 postcode: ""
 city: High Point
-street: "North Main Street"
-housenumber: 1234
+street: North Main Street
+housenumber: "1234"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 260368092
-type: way
+type: node
 latitude: 35.15368
 longitude: -79.41532
 postcode: "28315"
 city: Aberdeen
-street: "North Sandhills Boulevard"
-housenumber: 1706
+street: North Sandhills Boulevard
+housenumber: "1706"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1706+n+sandhills+blvd-aberdeen-nc-28315/id=7096"
+website: https://www.walgreens.com/locator/walgreens-1706+n+sandhills+blvd-aberdeen-nc-28315/id=7096

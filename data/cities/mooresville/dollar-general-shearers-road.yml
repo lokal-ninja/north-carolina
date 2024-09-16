@@ -1,11 +1,11 @@
 id: 1165429625
-type: way
+type: node
 latitude: 35.53451
 longitude: -80.80171
-postcode: "28115-7778"
+postcode: 28115-7778
 city: Mooresville
-street: "Shearers Road"
-housenumber: 1342
-phone: "+1 704-746-3707"
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/nc/mooresville/19359"
+street: Shearers Road
+housenumber: "1342"
+phone: +1 704-746-3707
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/nc/mooresville/19359

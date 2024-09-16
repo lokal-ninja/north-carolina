@@ -1,11 +1,11 @@
 id: 754286150
-type: way
+type: node
 latitude: 36.05748
 longitude: -79.87018
 postcode: "27407"
 city: Greensboro
-street: "Norwalk Street"
-housenumber: 825
+street: Norwalk Street
+housenumber: "825"
 phone: ""
 opening_hours: ""
-website: "https://www.flowlexusofgreensboro.com/"
+website: https://www.flowlexusofgreensboro.com/

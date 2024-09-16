@@ -1,11 +1,11 @@
 id: 47758883
-type: way
+type: node
 latitude: 35.7239
 longitude: -78.65032
 postcode: "27529"
 city: Garner
-street: "US 70 Highway"
-housenumber: 1575
-phone: "+1 919-772-4466"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-garner/0488"
+street: US 70 Highway
+housenumber: "1575"
+phone: +1 919-772-4466
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-garner/0488

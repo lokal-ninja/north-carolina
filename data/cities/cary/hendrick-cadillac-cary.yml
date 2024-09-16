@@ -1,11 +1,11 @@
 id: 389455543
-type: way
+type: node
 latitude: 35.73984
 longitude: -78.81754
 postcode: "27511"
 city: Cary
-street: "Team Hendrick Way"
-housenumber: 101
+street: Team Hendrick Way
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

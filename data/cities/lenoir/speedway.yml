@@ -1,11 +1,11 @@
 id: 1020429760
-type: way
+type: node
 latitude: 35.91639
 longitude: -81.51607
 postcode: "28645"
 city: Lenoir
-street: "Wilkesboro Boulevard Southeast"
-housenumber: 502
-phone: "+1 828 754 6851"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.speedway.com/locations/NC/Lenoir/502-Wilkesboro-Blvd-Se"
+street: Wilkesboro Boulevard Southeast
+housenumber: "502"
+phone: +1 828 754 6851
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.speedway.com/locations/NC/Lenoir/502-Wilkesboro-Blvd-Se

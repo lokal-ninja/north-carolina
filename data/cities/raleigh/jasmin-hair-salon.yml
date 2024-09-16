@@ -1,11 +1,11 @@
 id: 585544292
-type: way
+type: node
 latitude: 35.72292
 longitude: -78.65542
 postcode: "27603"
 city: Raleigh
-street: "Garner Station Boulevard"
-housenumber: 1475
+street: Garner Station Boulevard
+housenumber: "1475"
 phone: ""
 opening_hours: ""
 website: ""

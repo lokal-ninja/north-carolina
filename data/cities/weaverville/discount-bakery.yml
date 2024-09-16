@@ -1,11 +1,11 @@
 id: 1231638848
-type: way
+type: node
 latitude: 35.72998
 longitude: -82.55573
 postcode: "28787"
 city: Weaverville
-street: "Murphy Hill Road"
-housenumber: 20
+street: Murphy Hill Road
+housenumber: "20"
 phone: "+18286459993"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 682543114
-type: way
+type: node
 latitude: 35.67799
 longitude: -78.10734
 postcode: "27542"
 city: Kenly
-street: "NC 42"
-housenumber: 8067
-phone: "(919) 284-2828"
+street: NC 42
+housenumber: "8067"
+phone: (919) 284-2828
 opening_hours: ""
 website: ""

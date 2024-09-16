@@ -1,11 +1,11 @@
 id: 146313020
-type: way
+type: node
 latitude: 36.05604
 longitude: -78.92997
 postcode: "27705"
 city: Durham
-street: "Guess Road"
-housenumber: 3785
-phone: "+1-919-471-6557"
+street: Guess Road
+housenumber: "3785"
+phone: +1-919-471-6557
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1232488521
-type: way
+type: node
 latitude: 35.74007
 longitude: -81.52688
 postcode: "28612"
 city: Connelly Springs
-street: "US-70"
-housenumber: 301
+street: US-70
+housenumber: "301"
 phone: "+18288742119"
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/valdese-nc-pharmacies/301-us-70-e-valdese-nc-28690/storeid=3120"
+website: https://www.cvs.com/store-locator/valdese-nc-pharmacies/301-us-70-e-valdese-nc-28690/storeid=3120

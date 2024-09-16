@@ -1,11 +1,11 @@
 id: 835616477
-type: way
+type: node
 latitude: 35.85352
 longitude: -79.57089
 postcode: "27298"
 city: Liberty
-street: "West Swannanoa Avenue"
-housenumber: 101
+street: West Swannanoa Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

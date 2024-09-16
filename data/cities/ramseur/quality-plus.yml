@@ -1,11 +1,11 @@
 id: 202503504
-type: way
+type: node
 latitude: 35.73026
 longitude: -79.68081
 postcode: "27316"
 city: Ramseur
-street: "US-64"
-housenumber: 5635
+street: US-64
+housenumber: "5635"
 phone: "+13368242590"
 opening_hours: ""
 website: ""

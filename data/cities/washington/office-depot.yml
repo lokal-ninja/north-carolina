@@ -4,8 +4,8 @@ latitude: 35.5615
 longitude: -77.06425
 postcode: "27889"
 city: Washington
-street: "Pamlico Plaza"
-housenumber: 470
-phone: "+1 252-975-6000"
-opening_hours: "Mo-Fr 08:30-19:30; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/nc/washington/office-depot-2177"
+street: Pamlico Plaza
+housenumber: "470"
+phone: +1 252-975-6000
+opening_hours: Mo-Fr 08:30-19:30; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/nc/washington/office-depot-2177

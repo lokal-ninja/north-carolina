@@ -1,11 +1,11 @@
 id: 1016692254
-type: way
+type: node
 latitude: 35.31151
 longitude: -77.15968
 postcode: "28586"
 city: Vanceboro
-street: "Nc Highway 43"
-housenumber: 370
+street: Nc Highway 43
+housenumber: "370"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NC/Vanceboro/370-Nc-Hwy-43"
+website: https://www.speedway.com/locations/NC/Vanceboro/370-Nc-Hwy-43

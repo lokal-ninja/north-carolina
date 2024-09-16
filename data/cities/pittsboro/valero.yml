@@ -1,11 +1,11 @@
 id: 202503486
-type: way
+type: node
 latitude: 35.73765
 longitude: -79.08403
-postcode: "27312-6614"
+postcode: 27312-6614
 city: Pittsboro
-street: "US 64 East"
-housenumber: 5871
+street: US 64 East
+housenumber: "5871"
 phone: ""
 opening_hours: ""
 website: ""

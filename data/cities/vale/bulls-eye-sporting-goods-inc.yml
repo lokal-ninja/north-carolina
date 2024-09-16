@@ -1,11 +1,11 @@
 id: 1056490352
-type: way
+type: node
 latitude: 35.55756
 longitude: -81.49477
 postcode: "28168"
 city: Vale
-street: "NC-10"
-housenumber: 9176
+street: NC-10
+housenumber: "9176"
 phone: "+17044621948"
 opening_hours: ""
 website: ""

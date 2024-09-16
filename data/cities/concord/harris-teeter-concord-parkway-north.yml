@@ -1,11 +1,11 @@
 id: 468010837
-type: way
+type: node
 latitude: 35.43231
 longitude: -80.6059
 postcode: "28025"
 city: Concord
-street: "Concord Parkway North"
-housenumber: 1245
-phone: "+1 704-795-9868"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/concord/shoppes-at-davidson-corner/097/00202"
+street: Concord Parkway North
+housenumber: "1245"
+phone: +1 704-795-9868
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/concord/shoppes-at-davidson-corner/097/00202

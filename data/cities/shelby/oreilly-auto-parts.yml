@@ -1,11 +1,11 @@
 id: 773022699
-type: way
+type: node
 latitude: 35.28069
 longitude: -81.54172
 postcode: "28150"
 city: Shelby
-street: "South Lafayette Street"
-housenumber: 750
+street: South Lafayette Street
+housenumber: "750"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nc/shelby/autoparts-2298.html"
+website: https://locations.oreillyauto.com/nc/shelby/autoparts-2298.html

@@ -1,11 +1,11 @@
 id: 1149463830
-type: way
+type: node
 latitude: 34.99412
 longitude: -78.30832
 postcode: "28328"
 city: Clinton
-street: "Southeast Boulevard"
-housenumber: 601
+street: Southeast Boulevard
+housenumber: "601"
 phone: "+19105927656"
 opening_hours: ""
 website: ""

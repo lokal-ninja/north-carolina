@@ -1,11 +1,11 @@
 id: 591684120
-type: way
+type: node
 latitude: 35.48008
 longitude: -79.17801
 postcode: "27330"
 city: Sanford
-street: "South Steele Street"
-housenumber: 147
+street: South Steele Street
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

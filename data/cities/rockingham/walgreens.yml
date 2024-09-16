@@ -1,11 +1,11 @@
 id: 988354249
-type: way
+type: node
 latitude: 34.91997
 longitude: -79.74794
 postcode: "28379"
 city: Rockingham
-street: "East Broad Avenue"
-housenumber: 1500
+street: East Broad Avenue
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1500+e+broad+ave-rockingham-nc-28379/id=11088"
+website: https://www.walgreens.com/locator/walgreens-1500+e+broad+ave-rockingham-nc-28379/id=11088

@@ -1,11 +1,11 @@
 id: 775709214
-type: way
+type: node
 latitude: 34.06551
 longitude: -78.15017
 postcode: "28422"
 city: Bolivia
-street: "17 E"
-housenumber: 3843
+street: 17 E
+housenumber: "3843"
 phone: ""
 opening_hours: ""
 website: ""

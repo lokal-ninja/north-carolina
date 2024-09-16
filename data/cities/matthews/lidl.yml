@@ -1,11 +1,11 @@
 id: 804780114
-type: way
+type: node
 latitude: 35.17253
 longitude: -80.70692
 postcode: "28105"
 city: Matthews
-street: "Margaret Wallace Road"
-housenumber: 4520
-phone: "+1 844-747-5435"
+street: Margaret Wallace Road
+housenumber: "4520"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

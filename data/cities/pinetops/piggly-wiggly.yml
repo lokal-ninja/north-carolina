@@ -1,11 +1,11 @@
 id: 317758983
-type: way
+type: node
 latitude: 35.78965
 longitude: -77.6383
 postcode: "27864"
 city: Pinetops
-street: "South 1st Street"
-housenumber: 205
-phone: "+1 252-827-4859"
+street: South 1st Street
+housenumber: "205"
+phone: +1 252-827-4859
 opening_hours: ""
 website: ""

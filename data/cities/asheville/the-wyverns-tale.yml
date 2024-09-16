@@ -1,11 +1,11 @@
 id: 378466721
-type: way
+type: node
 latitude: 35.61099
 longitude: -82.55473
 postcode: "28801"
 city: Asheville
-street: "Merrimon Avenue"
-housenumber: 347
-phone: "+1 828 505 7887"
+street: Merrimon Avenue
+housenumber: "347"
+phone: +1 828 505 7887
 opening_hours: ""
-website: "https://www.thewyvernstaleavl.com/"
+website: https://www.thewyvernstaleavl.com/

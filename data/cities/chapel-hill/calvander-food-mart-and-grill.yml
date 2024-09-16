@@ -1,11 +1,11 @@
 id: 44262989
-type: way
+type: node
 latitude: 35.94247
 longitude: -79.11012
 postcode: "27516"
 city: Chapel Hill
-street: "Dairyland Road"
-housenumber: 108
+street: Dairyland Road
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

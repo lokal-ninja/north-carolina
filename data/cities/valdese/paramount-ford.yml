@@ -1,11 +1,11 @@
 id: 1232463552
-type: way
+type: node
 latitude: 35.73554
 longitude: -81.53078
 postcode: "28690"
 city: Valdese
-street: "Perkins Road Southeast"
-housenumber: 809
+street: Perkins Road Southeast
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

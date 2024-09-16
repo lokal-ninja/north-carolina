@@ -1,11 +1,11 @@
 id: 1020144048
-type: way
+type: node
 latitude: 34.9629
 longitude: -80.05782
 postcode: "28170"
 city: Wadesboro
-street: "East Caswell Street"
-housenumber: 1156
+street: East Caswell Street
+housenumber: "1156"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/wadesboro-nc-pharmacies/1156-e-caswell-street-wadesboro-nc-28170/storeid=3815"
+website: https://www.cvs.com/store-locator/wadesboro-nc-pharmacies/1156-e-caswell-street-wadesboro-nc-28170/storeid=3815

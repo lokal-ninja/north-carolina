@@ -1,11 +1,11 @@
 id: 47758869
-type: way
+type: node
 latitude: 35.72339
 longitude: -78.64736
 postcode: "27529"
 city: Garner
-street: "US 70"
-housenumber: 1537
+street: US 70
+housenumber: "1537"
 phone: ""
 opening_hours: ""
 website: ""

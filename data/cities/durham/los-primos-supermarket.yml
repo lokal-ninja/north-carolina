@@ -1,11 +1,11 @@
 id: 123483007
-type: way
+type: node
 latitude: 35.98802
 longitude: -78.88803
 postcode: "27701"
 city: Durham
-street: "East Main Street"
-housenumber: 1109
+street: East Main Street
+housenumber: "1109"
 phone: ""
 opening_hours: ""
 website: ""

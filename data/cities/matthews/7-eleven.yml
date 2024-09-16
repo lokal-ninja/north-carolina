@@ -1,11 +1,11 @@
 id: 323180431
-type: way
+type: node
 latitude: 35.11792
 longitude: -80.69819
 postcode: "28105"
 city: Matthews
-street: "East Independence Boulevard"
-housenumber: 11208
+street: East Independence Boulevard
+housenumber: "11208"
 phone: ""
 opening_hours: ""
 website: ""

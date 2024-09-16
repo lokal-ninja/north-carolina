@@ -1,11 +1,11 @@
 id: 635448859
-type: way
+type: node
 latitude: 36.49165
 longitude: -81.10375
 postcode: "28675"
 city: Sparta
-street: "US 21"
-housenumber: 1433
+street: US 21
+housenumber: "1433"
 phone: "+13363724507"
 opening_hours: ""
 website: ""

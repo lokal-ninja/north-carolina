@@ -4,8 +4,8 @@ latitude: 35.24752
 longitude: -78.35436
 postcode: "28366"
 city: Newton Grove
-street: "Main Street"
-housenumber: 308
+street: Main Street
+housenumber: "308"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-16:00
 website: ""

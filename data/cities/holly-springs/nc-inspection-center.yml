@@ -1,11 +1,11 @@
 id: 597911933
-type: way
+type: node
 latitude: 35.65198
 longitude: -78.83374
 postcode: "27540"
 city: Holly Springs
-street: "North Main Street"
-housenumber: 115
+street: North Main Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

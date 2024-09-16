@@ -1,11 +1,11 @@
 id: 835365515
-type: way
+type: node
 latitude: 35.77721
 longitude: -78.36232
 postcode: "27591"
 city: Wendell
-street: "South Selma Road"
-housenumber: 226
+street: South Selma Road
+housenumber: "226"
 phone: "+19196164042"
 opening_hours: ""
 website: ""

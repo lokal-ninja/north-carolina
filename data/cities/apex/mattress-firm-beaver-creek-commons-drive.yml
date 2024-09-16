@@ -1,11 +1,11 @@
 id: 202215328
-type: way
+type: node
 latitude: 35.74633
 longitude: -78.87589
 postcode: "27502"
 city: Apex
-street: "Beaver Creek Commons Drive"
-housenumber: 1140
-phone: "+1 919-387-5728"
+street: Beaver Creek Commons Drive
+housenumber: "1140"
+phone: +1 919-387-5728
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/nc/apex/013179/"
+website: https://www.mattressfirm.com/en-us/stores/nc/apex/013179/

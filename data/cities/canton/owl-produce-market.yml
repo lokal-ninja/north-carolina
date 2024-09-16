@@ -1,11 +1,11 @@
 id: 1031532317
-type: way
+type: node
 latitude: 35.53758
 longitude: -82.78234
 postcode: "28716"
 city: Canton
-street: "US-23"
-housenumber: 
+street: US-23
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

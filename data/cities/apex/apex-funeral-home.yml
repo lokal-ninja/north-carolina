@@ -1,11 +1,11 @@
 id: 262789363
-type: way
+type: node
 latitude: 35.73411
 longitude: -78.86142
 postcode: "27502"
 city: Apex
-street: "West Williams Street"
-housenumber: 550
-phone: "(919) 362-8233"
+street: West Williams Street
+housenumber: "550"
+phone: (919) 362-8233
 opening_hours: ""
-website: "https://www.dignitymemorial.com/apex-funeral-home/en-us/index.page"
+website: https://www.dignitymemorial.com/apex-funeral-home/en-us/index.page

@@ -1,11 +1,11 @@
 id: 836622460
-type: way
+type: node
 latitude: 35.84934
 longitude: -79.56789
 postcode: "27298"
 city: Liberty
-street: "East Dameron Avenue"
-housenumber: 211
+street: East Dameron Avenue
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

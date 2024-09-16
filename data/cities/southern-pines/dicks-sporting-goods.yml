@@ -1,11 +1,11 @@
 id: 1271310274
-type: way
+type: node
 latitude: 35.16655
 longitude: -79.41844
 postcode: "28387"
 city: Southern Pines
-street: "Carolina Green Parkway"
-housenumber: 335
-phone: "+1 910-992-3258"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/nc/southern-pines/5205/"
+street: Carolina Green Parkway
+housenumber: "335"
+phone: +1 910-992-3258
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/nc/southern-pines/5205/

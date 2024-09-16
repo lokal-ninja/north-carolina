@@ -1,11 +1,11 @@
 id: 1197147297
-type: way
+type: node
 latitude: 35.11686
 longitude: -77.01271
 postcode: "28560"
 city: New Bern
-street: "Blueberry Lane"
-housenumber: 160
+street: Blueberry Lane
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

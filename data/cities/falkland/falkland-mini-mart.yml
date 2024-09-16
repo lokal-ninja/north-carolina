@@ -1,11 +1,11 @@
 id: 695813130
-type: way
+type: node
 latitude: 35.69689
 longitude: -77.51101
 postcode: "27827"
 city: Falkland
-street: "South Main Street"
-housenumber: 5967
+street: South Main Street
+housenumber: "5967"
 phone: ""
 opening_hours: ""
 website: ""

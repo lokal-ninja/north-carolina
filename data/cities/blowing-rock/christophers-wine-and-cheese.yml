@@ -1,11 +1,11 @@
 id: 230068458
-type: way
+type: node
 latitude: 36.13271
 longitude: -81.67782
 postcode: "28605"
 city: Blowing Rock
-street: "Sunset Drive"
-housenumber: 110
+street: Sunset Drive
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

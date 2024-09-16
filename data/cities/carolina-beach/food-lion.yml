@@ -1,11 +1,11 @@
 id: 832333475
-type: way
+type: node
 latitude: 34.05184
 longitude: -77.90124
 postcode: "28428"
 city: Carolina Beach
-street: "North Lake Park Boulevard"
-housenumber: 1401
-phone: "910-458-5410"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://stores.foodlion.com/nc/carolina-beach/1401-n-lake-park-blvd"
+street: North Lake Park Boulevard
+housenumber: "1401"
+phone: 910-458-5410
+opening_hours: Mo-Su 06:00-24:00
+website: https://stores.foodlion.com/nc/carolina-beach/1401-n-lake-park-blvd

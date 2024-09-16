@@ -1,11 +1,11 @@
 id: 964439146
-type: way
+type: node
 latitude: 35.56863
 longitude: -77.4069
 postcode: "27834"
 city: Greenville
-street: "Galleria Drive"
-housenumber: 3500
-phone: "+1 252-329-0241"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/nc/greenville/1066/"
+street: Galleria Drive
+housenumber: "3500"
+phone: +1 252-329-0241
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/nc/greenville/1066/

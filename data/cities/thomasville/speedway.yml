@@ -1,11 +1,11 @@
 id: 233456572
-type: way
+type: node
 latitude: 35.8637
 longitude: -80.07189
 postcode: "27360"
 city: Thomasville
-street: "Randolph Street"
-housenumber: 1031
-phone: "+1 336 472 7106"
+street: Randolph Street
+housenumber: "1031"
+phone: +1 336 472 7106
 opening_hours: ""
-website: "https://www.speedway.com/locations/store/7927"
+website: https://www.speedway.com/locations/store/7927

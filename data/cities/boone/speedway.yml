@@ -1,11 +1,11 @@
 id: 230055490
-type: way
+type: node
 latitude: 36.21973
 longitude: -81.65659
 postcode: "28607"
 city: Boone
-street: "Old East King Street"
-housenumber: 159
-phone: "+1 828 262 5819"
-opening_hours: "06:00-24:00"
-website: "https://www.speedway.com/locations/store/7922"
+street: Old East King Street
+housenumber: "159"
+phone: +1 828 262 5819
+opening_hours: 06:00-24:00
+website: https://www.speedway.com/locations/store/7922

@@ -1,11 +1,11 @@
 id: 515542345
-type: way
+type: node
 latitude: 36.00197
 longitude: -75.65445
 postcode: "27948"
 city: Kill Devil Hills
-street: "South Croatan Highway"
-housenumber: 1222
+street: South Croatan Highway
+housenumber: "1222"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/kill-devil-hills/1214-s-croatan-hwy.html"
+website: https://www.autozone.com/locations/nc/kill-devil-hills/1214-s-croatan-hwy.html

@@ -1,11 +1,11 @@
 id: 1255410079
-type: way
+type: node
 latitude: 36.34148
 longitude: -79.66232
 postcode: "27320"
 city: Reidsville
-street: "South Scales Street"
-housenumber: 1531
+street: South Scales Street
+housenumber: "1531"
 phone: "+13363497166"
 opening_hours: ""
 website: ""

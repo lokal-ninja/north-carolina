@@ -1,11 +1,11 @@
 id: 237874668
-type: way
+type: node
 latitude: 35.83561
 longitude: -78.85823
 postcode: "27560"
 city: Morrisville
-street: "Davis Drive"
-housenumber: 4093
-phone: "+1 919-380-3385"
-opening_hours: "24/7"
-website: "https://www.harristeeter.com/stores/grocery/nc/morrisville/mccrimmon-corners/097/00104"
+street: Davis Drive
+housenumber: "4093"
+phone: +1 919-380-3385
+opening_hours: 24/7
+website: https://www.harristeeter.com/stores/grocery/nc/morrisville/mccrimmon-corners/097/00104

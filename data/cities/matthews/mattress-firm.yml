@@ -1,11 +1,11 @@
 id: 323179357
-type: way
+type: node
 latitude: 35.12524
 longitude: -80.70693
 postcode: "28105"
 city: Matthews
-street: "Matthews Township Parkway"
-housenumber: 2021
-phone: "+1 704-849-0065"
+street: Matthews Township Parkway
+housenumber: "2021"
+phone: +1 704-849-0065
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/nc/matthews/024016/"
+website: https://www.mattressfirm.com/en-us/stores/nc/matthews/024016/

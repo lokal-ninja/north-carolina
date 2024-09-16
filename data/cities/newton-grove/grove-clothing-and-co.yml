@@ -1,11 +1,11 @@
 id: 1219393866
-type: way
+type: node
 latitude: 35.24931
 longitude: -78.36802
 postcode: "28366"
 city: Newton Grove
-street: "Raleigh Street"
-housenumber: 708
+street: Raleigh Street
+housenumber: "708"
 phone: ""
 opening_hours: ""
 website: ""

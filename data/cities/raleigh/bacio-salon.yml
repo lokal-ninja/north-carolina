@@ -1,11 +1,11 @@
 id: 47880021
-type: way
+type: node
 latitude: 35.89687
 longitude: -78.67976
 postcode: "27613"
 city: Raleigh
-street: "Creedmoor Road"
-housenumber: 8020
+street: Creedmoor Road
+housenumber: "8020"
 phone: ""
 opening_hours: ""
 website: ""

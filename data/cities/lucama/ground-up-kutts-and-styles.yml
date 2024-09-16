@@ -1,11 +1,11 @@
 id: 1208881146
-type: way
+type: node
 latitude: 35.64616
 longitude: -78.01014
 postcode: "27851"
 city: Lucama
-street: "North Main Street"
-housenumber: 106
+street: North Main Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

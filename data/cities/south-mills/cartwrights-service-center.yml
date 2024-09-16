@@ -1,11 +1,11 @@
 id: 1307757741
-type: way
+type: node
 latitude: 36.44631
 longitude: -76.32665
 postcode: "27976"
 city: South Mills
-street: "Main Street"
-housenumber: 114
+street: Main Street
+housenumber: "114"
 phone: "+12527712658"
 opening_hours: ""
 website: ""

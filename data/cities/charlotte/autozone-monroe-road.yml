@@ -1,11 +1,11 @@
 id: 1193788367
-type: way
+type: node
 latitude: 35.1999
 longitude: -80.79734
 postcode: "28205"
 city: Charlotte
-street: "Monroe Road"
-housenumber: 3714
+street: Monroe Road
+housenumber: "3714"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/charlotte/3714-monroe-rd.html"
+website: https://www.autozone.com/locations/nc/charlotte/3714-monroe-rd.html

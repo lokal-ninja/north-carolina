@@ -1,11 +1,11 @@
 id: 900412902
-type: way
+type: node
 latitude: 35.80558
 longitude: -76.89941
 postcode: "27846"
 city: Jamesville
-street: "Andrews Street"
-housenumber: 1071
+street: Andrews Street
+housenumber: "1071"
 phone: "+12525089181"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/jamesville/15402"
+website: https://www.dollargeneral.com/store-directory/nc/jamesville/15402

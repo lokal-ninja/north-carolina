@@ -1,11 +1,11 @@
 id: 1016692234
-type: way
+type: node
 latitude: 35.31134
 longitude: -77.16105
 postcode: "28586"
 city: Vanceboro
-street: "NC-43"
-housenumber: 381
-phone: "+1 252 244 0476"
+street: NC-43
+housenumber: "381"
+phone: +1 252 244 0476
 opening_hours: ""
 website: ""

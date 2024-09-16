@@ -1,11 +1,11 @@
 id: 582011792
-type: way
+type: node
 latitude: 35.8084
 longitude: -80.87363
 postcode: "28625"
 city: Statesville
-street: "Glenway Drive"
-housenumber: 1032
+street: Glenway Drive
+housenumber: "1032"
 phone: ""
 opening_hours: ""
 website: ""

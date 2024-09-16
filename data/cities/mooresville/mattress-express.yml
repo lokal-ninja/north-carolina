@@ -1,11 +1,11 @@
 id: 721070588
-type: way
+type: node
 latitude: 35.59608
 longitude: -80.87854
 postcode: "28117"
 city: Mooresville
-street: "River Highway"
-housenumber: 689
+street: River Highway
+housenumber: "689"
 phone: ""
 opening_hours: ""
 website: ""

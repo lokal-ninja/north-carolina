@@ -1,11 +1,11 @@
 id: 933472067
-type: way
+type: node
 latitude: 35.47634
 longitude: -76.80822
 postcode: "27808"
 city: Bath
-street: "Carteret Street"
-housenumber: 320
-phone: "(252) 923-4041"
+street: Carteret Street
+housenumber: "320"
+phone: (252) 923-4041
 opening_hours: ""
 website: ""

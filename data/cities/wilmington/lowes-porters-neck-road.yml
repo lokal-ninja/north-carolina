@@ -1,11 +1,11 @@
 id: 320907539
-type: way
+type: node
 latitude: 34.30312
 longitude: -77.78985
 postcode: "28411"
 city: Wilmington
-street: "Porters Neck Road"
-housenumber: 191
-phone: "+1 910-319-5000"
-opening_hours: "Mo-Sa 06:00-21:00;Su 08:00-20:00"
-website: "https://www.lowes.com/"
+street: Porters Neck Road
+housenumber: "191"
+phone: +1 910-319-5000
+opening_hours: Mo-Sa 06:00-21:00;Su 08:00-20:00
+website: https://www.lowes.com/

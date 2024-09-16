@@ -1,11 +1,11 @@
 id: 1231638847
-type: way
+type: node
 latitude: 35.72925
 longitude: -82.55724
 postcode: "28787"
 city: Weaverville
-street: "Old Mars Hill Highway"
-housenumber: 60
+street: Old Mars Hill Highway
+housenumber: "60"
 phone: "+18284842612"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/weaverville/20626"
+website: https://www.dollargeneral.com/store-directory/nc/weaverville/20626

@@ -1,11 +1,11 @@
 id: 305341481
-type: way
+type: node
 latitude: 35.60025
 longitude: -77.33224
 postcode: "27858"
 city: Greenville
-street: "East 10th Street"
-housenumber: 3195
+street: East 10th Street
+housenumber: "3195"
 phone: "2526896021"
 opening_hours: ""
 website: ""

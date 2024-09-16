@@ -1,11 +1,11 @@
 id: 230068466
-type: way
+type: node
 latitude: 36.13131
 longitude: -81.67838
 postcode: "28605"
 city: Blowing Rock
-street: "Main Street"
-housenumber: 1165
+street: Main Street
+housenumber: "1165"
 phone: ""
 opening_hours: ""
 website: ""

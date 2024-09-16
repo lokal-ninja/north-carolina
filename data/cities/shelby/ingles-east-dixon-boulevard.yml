@@ -1,11 +1,11 @@
 id: 758270644
-type: way
+type: node
 latitude: 35.27322
 longitude: -81.52944
 postcode: "28152"
 city: Shelby
-street: "East Dixon Boulevard"
-housenumber: 706
+street: East Dixon Boulevard
+housenumber: "706"
 phone: ""
 opening_hours: ""
 website: ""

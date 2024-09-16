@@ -1,11 +1,11 @@
 id: 1284914651
-type: way
+type: node
 latitude: 36.44227
 longitude: -76.61159
 postcode: "27979"
 city: Sunbury
-street: "West Bank Road"
-housenumber: 1
-phone: "1-252-357-1383"
+street: West Bank Road
+housenumber: "1"
+phone: 1-252-357-1383
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 268732897
-type: way
+type: node
 latitude: 35.57522
 longitude: -82.51274
 postcode: "28805"
 city: Asheville
-street: "Bleachery Boulevard"
-housenumber: 150
-phone: "+1 828-298-5670"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/nc/asheville-store1208.html"
+street: Bleachery Boulevard
+housenumber: "150"
+phone: +1 828-298-5670
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/nc/asheville-store1208.html

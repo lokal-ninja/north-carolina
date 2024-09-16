@@ -1,11 +1,11 @@
 id: 1028455631
-type: way
+type: node
 latitude: 36.07769
 longitude: -80.28446
 postcode: "27103"
 city: Winston-Salem
-street: "S Hawthorne Rd"
-housenumber: 1311
-phone: "+1-336-725-3279"
-opening_hours: "Mo 09:00-17:00; Tu-Fr 08:00-19:00; Sa 07:00-14:00"
-website: "https://www.ardmorebarbershop.com/"
+street: S Hawthorne Rd
+housenumber: "1311"
+phone: +1-336-725-3279
+opening_hours: Mo 09:00-17:00; Tu-Fr 08:00-19:00; Sa 07:00-14:00
+website: https://www.ardmorebarbershop.com/

@@ -1,11 +1,11 @@
 id: 77908327
-type: way
+type: node
 latitude: 36.01675
 longitude: -78.91145
 postcode: "27701"
 city: Durham
-street: "West Club Boulevard"
-housenumber: 1143
+street: West Club Boulevard
+housenumber: "1143"
 phone: ""
 opening_hours: ""
 website: ""

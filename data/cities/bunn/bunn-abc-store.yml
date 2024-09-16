@@ -1,11 +1,11 @@
 id: 232195905
-type: way
+type: node
 latitude: 35.95792
 longitude: -78.2503
 postcode: "27508"
 city: Bunn
-street: "NC-39"
-housenumber: 5435
+street: NC-39
+housenumber: "5435"
 phone: "+19194964500"
 opening_hours: ""
 website: ""

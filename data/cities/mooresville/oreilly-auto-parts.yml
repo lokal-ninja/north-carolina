@@ -1,11 +1,11 @@
 id: 744529403
-type: way
+type: node
 latitude: 35.59233
 longitude: -80.82255
 postcode: "28115"
 city: Mooresville
-street: "East Plaza Drive"
-housenumber: 345
+street: East Plaza Drive
+housenumber: "345"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nc/mooresville/autoparts-2068.html"
+website: https://locations.oreillyauto.com/nc/mooresville/autoparts-2068.html

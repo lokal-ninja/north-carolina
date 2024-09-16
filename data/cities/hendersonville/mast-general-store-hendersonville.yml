@@ -1,11 +1,11 @@
 id: 241305226
-type: way
+type: node
 latitude: 35.31804
 longitude: -82.4611
 postcode: "28792"
 city: Hendersonville
-street: "North Main Street"
-housenumber: 527
-phone: "1-866-367-6278"
-opening_hours: "Mo-Fr 9:00-17:00"
-website: "https://www.mastgeneralstore.com/"
+street: North Main Street
+housenumber: "527"
+phone: 1-866-367-6278
+opening_hours: Mo-Fr 9:00-17:00
+website: https://www.mastgeneralstore.com/

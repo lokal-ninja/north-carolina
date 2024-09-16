@@ -1,11 +1,11 @@
 id: 605961597
-type: way
+type: node
 latitude: 35.71978
 longitude: -78.63199
 postcode: "27529"
 city: Garner
-street: "Mechanical Boulevard"
-housenumber: 1445
+street: Mechanical Boulevard
+housenumber: "1445"
 phone: ""
 opening_hours: ""
 website: ""

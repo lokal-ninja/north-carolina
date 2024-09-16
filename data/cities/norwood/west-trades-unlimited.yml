@@ -1,11 +1,11 @@
 id: 778833891
-type: way
+type: node
 latitude: 35.23683
 longitude: -80.14056
 postcode: "28128"
 city: Norwood
-street: "US-52"
-housenumber: 12367
+street: US-52
+housenumber: "12367"
 phone: "+17044590235"
 opening_hours: ""
 website: ""

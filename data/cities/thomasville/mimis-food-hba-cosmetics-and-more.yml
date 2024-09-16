@@ -1,11 +1,11 @@
 id: 1104555594
-type: way
+type: node
 latitude: 35.88374
 longitude: -80.08159
 postcode: ""
 city: Thomasville
-street: "East Main Street"
-housenumber: 16
+street: East Main Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

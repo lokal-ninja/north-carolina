@@ -1,11 +1,11 @@
 id: 949874040
-type: way
+type: node
 latitude: 34.5522
 longitude: -77.41959
 postcode: "28460"
 city: Sneads Ferry
-street: "NC-172"
-housenumber: 2145
-phone: "910-327-3070"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://garysautosales.com/"
+street: NC-172
+housenumber: "2145"
+phone: 910-327-3070
+opening_hours: Mo-Sa 09:00-19:00
+website: https://garysautosales.com/

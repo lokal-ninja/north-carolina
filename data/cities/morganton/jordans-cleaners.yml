@@ -1,11 +1,11 @@
 id: 316891803
-type: way
+type: node
 latitude: 35.74151
 longitude: -81.6876
 postcode: "28655"
 city: Morganton
-street: "South College Street"
-housenumber: 302
+street: South College Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

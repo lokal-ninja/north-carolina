@@ -1,11 +1,11 @@
 id: 792373035
-type: way
+type: node
 latitude: 35.24398
 longitude: -81.40574
 postcode: "28086"
 city: Kings Mountain
-street: "Shelby Road"
-housenumber: 1011
+street: Shelby Road
+housenumber: "1011"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 322786025
-type: way
+type: node
 latitude: 35.08439
 longitude: -80.7332
 postcode: "28105"
 city: Matthews
-street: "Plantation Center Drive"
-housenumber: 2515
+street: Plantation Center Drive
+housenumber: "2515"
 phone: ""
 opening_hours: ""
 website: ""

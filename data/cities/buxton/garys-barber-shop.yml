@@ -1,11 +1,11 @@
 id: 1068693660
-type: way
+type: node
 latitude: 35.26802
 longitude: -75.53425
 postcode: "27920"
 city: Buxton
-street: "Light Plant Road"
-housenumber: 47096
-phone: "+1-252-996-0505"
+street: Light Plant Road
+housenumber: "47096"
+phone: +1-252-996-0505
 opening_hours: ""
 website: ""

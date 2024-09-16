@@ -1,11 +1,11 @@
 id: 129424294
-type: way
+type: node
 latitude: 35.7399
 longitude: -78.86348
 postcode: "27502"
 city: Apex
-street: "Apex Peakway"
-housenumber: 1101
-phone: "(919) 249-2120"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
-website: "https://locator.carolinas.aaa.com/nc/apex/1008"
+street: Apex Peakway
+housenumber: "1101"
+phone: (919) 249-2120
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
+website: https://locator.carolinas.aaa.com/nc/apex/1008

@@ -1,11 +1,11 @@
 id: 351037854
-type: way
+type: node
 latitude: 35.75446
 longitude: -81.71488
 postcode: "28655"
 city: Morganton
-street: "Bost Road"
-housenumber: 118
+street: Bost Road
+housenumber: "118"
 phone: "+18284334557"
 opening_hours: ""
 website: ""

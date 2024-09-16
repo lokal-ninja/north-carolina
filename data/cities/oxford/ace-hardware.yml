@@ -2,10 +2,10 @@ id: 5847577595
 type: node
 latitude: 36.31121
 longitude: -78.58944
-postcode: "27565-3211"
+postcode: 27565-3211
 city: Oxford
-street: "Hillsboro Street"
-housenumber: 119
-phone: "+1 919-693-1126"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-17:00"
+street: Hillsboro Street
+housenumber: "119"
+phone: +1 919-693-1126
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-17:00
 website: ""

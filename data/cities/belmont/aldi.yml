@@ -1,11 +1,11 @@
 id: 577920296
-type: way
+type: node
 latitude: 35.25186
 longitude: -81.04575
 postcode: "28012"
 city: Belmont
-street: "Wilkinson Boulevard"
-housenumber: 6402
-phone: "+1 844-466-1009"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/belmont/6402-wilkinson-blvd"
+street: Wilkinson Boulevard
+housenumber: "6402"
+phone: +1 844-466-1009
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/belmont/6402-wilkinson-blvd

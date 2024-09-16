@@ -1,11 +1,11 @@
 id: 334397701
-type: way
+type: node
 latitude: 35.40869
 longitude: -80.86481
 postcode: "28078"
 city: Huntersville
-street: "Rose Commons Drive"
-housenumber: 9815
-phone: "+1 704-948-4801"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1481-market-square"
+street: Rose Commons Drive
+housenumber: "9815"
+phone: +1 704-948-4801
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1481-market-square

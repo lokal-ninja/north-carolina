@@ -1,11 +1,11 @@
 id: 381122848
-type: way
+type: node
 latitude: 35.57826
 longitude: -82.58071
 postcode: "28806"
 city: Asheville
-street: "Haywood Road"
-housenumber: 415
+street: Haywood Road
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

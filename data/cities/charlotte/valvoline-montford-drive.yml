@@ -1,11 +1,11 @@
 id: 1042364258
-type: way
+type: node
 latitude: 35.1713
 longitude: -80.84691
 postcode: "28209"
 city: Charlotte
-street: "Montford Drive"
-housenumber: 1821
+street: Montford Drive
+housenumber: "1821"
 phone: ""
 opening_hours: ""
 website: ""

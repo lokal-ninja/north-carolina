@@ -1,11 +1,11 @@
 id: 618996045
-type: way
+type: node
 latitude: 35.77907
 longitude: -78.79854
 postcode: "27511"
 city: Cary
-street: "West Chatham Street"
-housenumber: 920
+street: West Chatham Street
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

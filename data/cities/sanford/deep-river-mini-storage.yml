@@ -1,11 +1,11 @@
 id: 590856231
-type: way
+type: node
 latitude: 35.58292
 longitude: -79.15509
 postcode: "27330"
 city: Sanford
-street: "Deep River Road"
-housenumber: 3098
+street: Deep River Road
+housenumber: "3098"
 phone: ""
 opening_hours: ""
 website: ""

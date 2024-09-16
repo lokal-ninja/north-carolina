@@ -1,11 +1,11 @@
 id: 695253505
-type: way
+type: node
 latitude: 35.24701
 longitude: -80.93779
 postcode: "28214"
 city: Charlotte
-street: "Little Rock Road"
-housenumber: 2400
+street: Little Rock Road
+housenumber: "2400"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2400+little+rock+rd-charlotte-nc-28214/id=18121"
+website: https://www.walgreens.com/locator/walgreens-2400+little+rock+rd-charlotte-nc-28214/id=18121

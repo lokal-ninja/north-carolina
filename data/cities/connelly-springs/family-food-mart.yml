@@ -1,11 +1,11 @@
 id: 1232941179
-type: way
+type: node
 latitude: 35.74112
 longitude: -81.52531
 postcode: "28612"
 city: Connelly Springs
-street: "Malcolm Boulevard"
-housenumber: 300
+street: Malcolm Boulevard
+housenumber: "300"
 phone: "+18284748893"
 opening_hours: ""
 website: ""

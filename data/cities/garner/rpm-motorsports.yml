@@ -1,11 +1,11 @@
 id: 462395855
-type: way
+type: node
 latitude: 35.59218
 longitude: -78.5726
 postcode: "27529"
 city: Garner
-street: "Shipwash Drive"
-housenumber: 310
+street: Shipwash Drive
+housenumber: "310"
 phone: "+19196617947"
 opening_hours: ""
 website: ""

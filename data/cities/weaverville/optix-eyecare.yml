@@ -1,11 +1,11 @@
 id: 670071247
-type: way
+type: node
 latitude: 35.71484
 longitude: -82.5597
 postcode: "28787"
 city: Weaverville
-street: "North Buncombe School Road"
-housenumber: 49
+street: North Buncombe School Road
+housenumber: "49"
 phone: "+18286450061"
 opening_hours: ""
 website: ""

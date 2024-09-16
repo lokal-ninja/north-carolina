@@ -1,11 +1,11 @@
 id: 62334608
-type: way
+type: node
 latitude: 35.33576
 longitude: -80.75455
 postcode: "28262"
 city: Charlotte
-street: "East Arbors Drive"
-housenumber: 1809
+street: East Arbors Drive
+housenumber: "1809"
 phone: ""
 opening_hours: ""
 website: ""

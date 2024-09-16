@@ -1,11 +1,11 @@
 id: 1159213355
-type: way
+type: node
 latitude: 35.15324
 longitude: -80.82589
 postcode: "28211"
 city: Charlotte
-street: "Carnegie Boulevard"
-housenumber: 6701
-phone: "+1 704-364-9043"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/charlotte/morrocroft-village/097/00160"
+street: Carnegie Boulevard
+housenumber: "6701"
+phone: +1 704-364-9043
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/charlotte/morrocroft-village/097/00160

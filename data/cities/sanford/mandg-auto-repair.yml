@@ -1,11 +1,11 @@
 id: 587297939
-type: way
+type: node
 latitude: 35.45915
 longitude: -79.14911
 postcode: "27332"
 city: Sanford
-street: "Dalrymple Street"
-housenumber: 2404
+street: Dalrymple Street
+housenumber: "2404"
 phone: "+19197755980"
 opening_hours: ""
 website: ""

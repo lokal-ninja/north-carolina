@@ -1,11 +1,11 @@
 id: 1311889171
-type: way
+type: node
 latitude: 34.30313
 longitude: -78.72603
 postcode: "28472"
 city: Whiteville
-street: "Columbus Corner Drive"
-housenumber: 200
-phone: "+1 910-640-1393"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1268/whiteville-nc/whats-new"
+street: Columbus Corner Drive
+housenumber: "200"
+phone: +1 910-640-1393
+opening_hours: 24/7
+website: https://www.walmart.com/store/1268/whiteville-nc/whats-new

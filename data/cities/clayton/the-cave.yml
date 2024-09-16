@@ -4,8 +4,8 @@ latitude: 35.66336
 longitude: -78.49952
 postcode: "27520"
 city: Clayton
-street: "Town Centre Boulevard"
-housenumber: 865
+street: Town Centre Boulevard
+housenumber: "865"
 phone: "9195530786"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-16:00"
-website: "https://www.thecavenc.com"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-16:00
+website: https://www.thecavenc.com

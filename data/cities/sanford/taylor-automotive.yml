@@ -1,11 +1,11 @@
 id: 360394364
-type: way
+type: node
 latitude: 35.4941
 longitude: -79.18089
 postcode: "27330"
 city: Sanford
-street: "Hawkins Avenue"
-housenumber: 1007
-phone: "(919) 774-4037"
+street: Hawkins Avenue
+housenumber: "1007"
+phone: (919) 774-4037
 opening_hours: ""
-website: "https://www.taylorautomotive.com/"
+website: https://www.taylorautomotive.com/

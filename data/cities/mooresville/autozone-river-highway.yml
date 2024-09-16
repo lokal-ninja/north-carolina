@@ -1,11 +1,11 @@
 id: 721070586
-type: way
+type: node
 latitude: 35.59583
 longitude: -80.87666
 postcode: "28117"
 city: Mooresville
-street: "River Highway"
-housenumber: 663
+street: River Highway
+housenumber: "663"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/mooresville/663-river-hwy.html"
+website: https://www.autozone.com/locations/nc/mooresville/663-river-hwy.html

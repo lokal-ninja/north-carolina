@@ -1,11 +1,11 @@
 id: 742368303
-type: way
+type: node
 latitude: 35.32974
 longitude: -82.45065
 postcode: "28792"
 city: Hendersonville
-street: "7th Avenue East"
-housenumber: 1415
-phone: "+1 828-696-4900"
-opening_hours: "Mo-Sa 06:00-21:00, Su 08:00-19:00"
-website: "https://www.lowes.com/store/nc-hendersonville/0031"
+street: 7th Avenue East
+housenumber: "1415"
+phone: +1 828-696-4900
+opening_hours: Mo-Sa 06:00-21:00, Su 08:00-19:00
+website: https://www.lowes.com/store/nc-hendersonville/0031

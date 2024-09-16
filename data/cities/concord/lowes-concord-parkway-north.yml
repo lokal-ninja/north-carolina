@@ -1,11 +1,11 @@
 id: 695709973
-type: way
+type: node
 latitude: 35.42606
 longitude: -80.6135
 postcode: "28027"
 city: Concord
-street: "Concord Parkway North"
-housenumber: 940
-phone: "+1 704-720-9000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0697"
+street: Concord Parkway North
+housenumber: "940"
+phone: +1 704-720-9000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0697

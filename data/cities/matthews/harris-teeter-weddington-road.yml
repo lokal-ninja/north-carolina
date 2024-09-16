@@ -1,11 +1,11 @@
 id: 322788813
-type: way
+type: node
 latitude: 35.08312
 longitude: -80.73289
 postcode: "28105"
 city: Matthews
-street: "Weddington Road"
-housenumber: 3100
-phone: "+1 704-841-1810"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/matthews/plantation-market/097/00147"
+street: Weddington Road
+housenumber: "3100"
+phone: +1 704-841-1810
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/matthews/plantation-market/097/00147

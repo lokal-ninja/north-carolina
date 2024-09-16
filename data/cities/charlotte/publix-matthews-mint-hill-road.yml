@@ -1,11 +1,11 @@
 id: 770687474
-type: way
+type: node
 latitude: 35.17102
 longitude: -80.66003
 postcode: "28227"
 city: Charlotte
-street: "Matthews-Mint Hill Road"
-housenumber: 6828
-phone: "+1 704-573-0234"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1470"
+street: Matthews-Mint Hill Road
+housenumber: "6828"
+phone: +1 704-573-0234
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1470

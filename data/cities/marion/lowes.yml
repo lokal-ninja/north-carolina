@@ -4,8 +4,8 @@ latitude: 35.70323
 longitude: -82.04156
 postcode: "28752"
 city: Marion
-street: "US 70 West"
-housenumber: 480
-phone: "+1 828-659-5960"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-marion/1922"
+street: US 70 West
+housenumber: "480"
+phone: +1 828-659-5960
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-marion/1922

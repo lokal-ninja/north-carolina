@@ -1,11 +1,11 @@
 id: 612179099
-type: way
+type: node
 latitude: 36.27169
 longitude: -80.85039
 postcode: "28621"
 city: Elkin
-street: "CC Camp Road"
-housenumber: 419
+street: CC Camp Road
+housenumber: "419"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/nc/elkin/419-cc-camp-rd"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/nc/elkin/419-cc-camp-rd

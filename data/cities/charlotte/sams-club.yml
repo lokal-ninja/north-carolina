@@ -1,11 +1,11 @@
 id: 577781111
-type: way
+type: node
 latitude: 35.31458
 longitude: -80.75537
 postcode: "28262"
 city: Charlotte
-street: "J W Clay Boulevard"
-housenumber: 8909
-phone: "+1 704-593-0227"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/charlotte-nc-sams-club/6540"
+street: J W Clay Boulevard
+housenumber: "8909"
+phone: +1 704-593-0227
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/charlotte-nc-sams-club/6540

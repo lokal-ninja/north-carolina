@@ -1,11 +1,11 @@
 id: 323198605
-type: way
+type: node
 latitude: 35.24131
 longitude: -80.81329
 postcode: "28205"
 city: Charlotte
-street: "North Davidson Street"
-housenumber: 2401
+street: North Davidson Street
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

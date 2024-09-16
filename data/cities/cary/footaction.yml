@@ -1,11 +1,11 @@
 id: 32066445
-type: way
+type: node
 latitude: 35.76225
 longitude: -78.74184
 postcode: "27518"
 city: Cary
-street: "Crossroads Boulevard"
-housenumber: 151
+street: Crossroads Boulevard
+housenumber: "151"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-18:00; We 08:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-18:00; We 08:00-19:00; Sa 10:00-17:00
 website: ""

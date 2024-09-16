@@ -1,11 +1,11 @@
 id: 213202815
-type: way
+type: node
 latitude: 35.59695
 longitude: -78.75814
 postcode: "27526"
 city: Fuquay-Varina
-street: "North Main Street"
-housenumber: 1720
+street: North Main Street
+housenumber: "1720"
 phone: ""
 opening_hours: ""
 website: ""

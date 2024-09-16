@@ -1,11 +1,11 @@
 id: 564970075
-type: way
+type: node
 latitude: 35.32331
 longitude: -75.50916
 postcode: "27915"
 city: Avon
-street: "North Carolina Highway 12"
-housenumber: 42676
+street: North Carolina Highway 12
+housenumber: "42676"
 phone: ""
 opening_hours: ""
 website: ""

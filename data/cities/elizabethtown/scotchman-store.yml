@@ -1,11 +1,11 @@
 id: 310577773
-type: way
+type: node
 latitude: 34.62907
 longitude: -78.60552
 postcode: "28337"
 city: Elizabethtown
-street: "East Broad Street"
-housenumber: 101
+street: East Broad Street
+housenumber: "101"
 phone: "+19108624995"
 opening_hours: ""
 website: ""

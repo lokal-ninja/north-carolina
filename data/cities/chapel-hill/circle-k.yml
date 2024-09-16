@@ -1,11 +1,11 @@
 id: 44325220
-type: way
+type: node
 latitude: 35.9297
 longitude: -79.03464
 postcode: "27514"
 city: Chapel Hill
-street: "East Franklin Street"
-housenumber: 1501
+street: East Franklin Street
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

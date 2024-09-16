@@ -1,11 +1,11 @@
 id: 747423440
-type: way
+type: node
 latitude: 36.50353
 longitude: -81.12351
 postcode: "28675"
 city: Sparta
-street: "Womble Street"
-housenumber: 25
-phone: "336-372-5959"
+street: Womble Street
+housenumber: "25"
+phone: 336-372-5959
 opening_hours: ""
 website: ""

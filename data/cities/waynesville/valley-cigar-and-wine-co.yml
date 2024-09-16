@@ -1,11 +1,11 @@
 id: 1206036298
-type: way
+type: node
 latitude: 35.52366
 longitude: -83.01794
 postcode: "28786"
 city: Waynesville
-street: "Swanger Lane"
-housenumber: 20
+street: Swanger Lane
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

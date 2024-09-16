@@ -1,11 +1,11 @@
 id: 897347986
-type: way
+type: node
 latitude: 34.24933
 longitude: -77.87336
-postcode: "28405-3091"
+postcode: 28405-3091
 city: Wilmington
-street: "Gingerwood Drive"
-housenumber: 5351
-phone: "+1 910-798-3250"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/wilmington-nc-635.html"
+street: Gingerwood Drive
+housenumber: "5351"
+phone: +1 910-798-3250
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/wilmington-nc-635.html

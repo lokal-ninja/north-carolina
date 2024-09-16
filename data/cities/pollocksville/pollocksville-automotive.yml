@@ -1,11 +1,11 @@
 id: 1266853016
-type: way
+type: node
 latitude: 35.00369
 longitude: -77.22265
 postcode: "28573"
 city: Pollocksville
-street: "Main Street"
-housenumber: 504
+street: Main Street
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

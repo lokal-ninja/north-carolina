@@ -1,11 +1,11 @@
 id: 47134595
-type: way
+type: node
 latitude: 36.01927
 longitude: -78.94525
 postcode: "27705"
 city: Durham
-street: "North Lasalle Street"
-housenumber: 200
-phone: "+1-919-383-5591"
+street: North Lasalle Street
+housenumber: "200"
+phone: +1-919-383-5591
 opening_hours: ""
 website: ""

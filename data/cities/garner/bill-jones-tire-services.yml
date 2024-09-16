@@ -1,11 +1,11 @@
 id: 614926340
-type: way
+type: node
 latitude: 35.71214
 longitude: -78.62158
 postcode: "27529"
 city: Garner
-street: "Vandora Springs Road"
-housenumber: 200
+street: Vandora Springs Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

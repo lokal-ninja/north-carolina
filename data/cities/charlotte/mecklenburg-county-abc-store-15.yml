@@ -1,11 +1,11 @@
 id: 324518795
-type: way
+type: node
 latitude: 35.10741
 longitude: -80.88228
 postcode: "28273"
 city: Charlotte
-street: "South Boulevard"
-housenumber: 9500
+street: South Boulevard
+housenumber: "9500"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

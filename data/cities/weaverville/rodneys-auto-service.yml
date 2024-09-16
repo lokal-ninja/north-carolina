@@ -1,11 +1,11 @@
 id: 670071259
-type: way
+type: node
 latitude: 35.69784
 longitude: -82.56037
 postcode: "28787"
 city: Weaverville
-street: "North Main Street"
-housenumber: 37
+street: North Main Street
+housenumber: "37"
 phone: "+18286458163"
 opening_hours: ""
 website: ""

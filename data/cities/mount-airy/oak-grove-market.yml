@@ -1,11 +1,11 @@
 id: 1291341823
-type: way
+type: node
 latitude: 36.48195
 longitude: -80.76094
 postcode: "27030"
 city: Mount Airy
-street: "West Pine Street"
-housenumber: 5104
+street: West Pine Street
+housenumber: "5104"
 phone: ""
 opening_hours: ""
 website: ""

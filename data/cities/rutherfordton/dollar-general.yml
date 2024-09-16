@@ -1,11 +1,11 @@
 id: 553777712
-type: way
+type: node
 latitude: 35.4044
 longitude: -81.96823
 postcode: "28139"
 city: Rutherfordton
-street: "US-221"
-housenumber: 783
+street: US-221
+housenumber: "783"
 phone: "+18283513555"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/rutherfordton/15164"
+website: https://www.dollargeneral.com/store-directory/nc/rutherfordton/15164

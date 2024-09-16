@@ -1,11 +1,11 @@
 id: 1292390490
-type: way
+type: node
 latitude: 36.54003
 longitude: -76.57674
 postcode: "27926"
 city: Corapeake
-street: "NC-32"
-housenumber: 1479
-phone: "(252) 465-4181"
+street: NC-32
+housenumber: "1479"
+phone: (252) 465-4181
 opening_hours: ""
 website: ""

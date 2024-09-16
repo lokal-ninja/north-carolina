@@ -1,11 +1,11 @@
 id: 324525734
-type: way
+type: node
 latitude: 35.08095
 longitude: -80.87678
 postcode: "28134"
 city: Pineville
-street: "Carolina Place Parkway"
-housenumber: 11067
-phone: "+1-704-341-7405"
+street: Carolina Place Parkway
+housenumber: "11067"
+phone: +1-704-341-7405
 opening_hours: ""
-website: "https://www.rei.com/stores/pineville"
+website: https://www.rei.com/stores/pineville

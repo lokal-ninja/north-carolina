@@ -1,11 +1,11 @@
 id: 902348687
-type: way
+type: node
 latitude: 35.34457
 longitude: -79.41494
 postcode: "28327"
 city: Carthage
-street: "Monroe Street"
-housenumber: 207
-phone: "+1-910-947-5294"
+street: Monroe Street
+housenumber: "207"
+phone: +1-910-947-5294
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1230674636
-type: way
+type: node
 latitude: 35.11987
 longitude: -77.01805
 postcode: "28519"
 city: Bridgeton
-street: "North D Street"
-housenumber: 401
+street: North D Street
+housenumber: "401"
 phone: "+12526315180"
 opening_hours: ""
 website: ""

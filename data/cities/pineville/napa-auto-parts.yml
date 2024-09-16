@@ -1,11 +1,11 @@
 id: 324520429
-type: way
+type: node
 latitude: 35.09312
 longitude: -80.88498
 postcode: "28134"
 city: Pineville
-street: "North Polk Street"
-housenumber: 931
+street: North Polk Street
+housenumber: "931"
 phone: ""
 opening_hours: ""
 website: ""

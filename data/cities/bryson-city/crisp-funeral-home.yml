@@ -1,11 +1,11 @@
 id: 1151058305
-type: way
+type: node
 latitude: 35.41941
 longitude: -83.45611
 postcode: "28713"
 city: Bryson City
-street: "Highway 19 South"
-housenumber: 669
+street: Highway 19 South
+housenumber: "669"
 phone: ""
 opening_hours: ""
 website: ""

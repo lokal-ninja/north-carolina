@@ -1,11 +1,11 @@
 id: 47837940
-type: way
+type: node
 latitude: 35.88901
 longitude: -78.56214
 postcode: "27616"
 city: Raleigh
-street: "Paragon Park Road"
-housenumber: 4600
+street: Paragon Park Road
+housenumber: "4600"
 phone: "+19195616208"
 opening_hours: ""
 website: ""

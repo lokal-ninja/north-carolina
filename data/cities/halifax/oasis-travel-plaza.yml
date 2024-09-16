@@ -1,11 +1,11 @@
 id: 683476127
-type: way
+type: node
 latitude: 36.36611
 longitude: -77.67476
 postcode: "27839"
 city: Halifax
-street: "NC-903"
-housenumber: 10401
+street: NC-903
+housenumber: "10401"
 phone: "+12525380007"
 opening_hours: ""
 website: ""

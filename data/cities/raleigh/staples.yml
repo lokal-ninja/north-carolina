@@ -1,11 +1,11 @@
 id: 426000554
-type: way
+type: node
 latitude: 35.82404
 longitude: -78.62038
 postcode: "27609"
 city: Raleigh
-street: "Wake Forest Road"
-housenumber: 3064
+street: Wake Forest Road
+housenumber: "3064"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://stores.staples.com/nc/raleigh/3064-wake-forest-road"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 11:00-18:00
+website: https://stores.staples.com/nc/raleigh/3064-wake-forest-road

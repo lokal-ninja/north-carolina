@@ -1,11 +1,11 @@
 id: 208194322
-type: way
+type: node
 latitude: 36.0695
 longitude: -79.7904
 postcode: "27401"
 city: Greensboro
-street: "South Elm Street"
-housenumber: 323
-phone: "+1 336-314-7264"
+street: South Elm Street
+housenumber: "323"
+phone: +1 336-314-7264
 opening_hours: ""
-website: "http://www.facebook.com/pages/Marys-Jewelry-Box/279832135369557"
+website: http://www.facebook.com/pages/Marys-Jewelry-Box/279832135369557

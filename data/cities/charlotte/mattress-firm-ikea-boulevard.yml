@@ -1,11 +1,11 @@
 id: 1090581909
-type: way
+type: node
 latitude: 35.2951
 longitude: -80.76196
 postcode: "28262"
 city: Charlotte
-street: "IKEA Boulevard"
-housenumber: 8203
-phone: "+1 704-921-8788"
+street: IKEA Boulevard
+housenumber: "8203"
+phone: +1 704-921-8788
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/nc/charlotte/024040/"
+website: https://www.mattressfirm.com/en-us/stores/nc/charlotte/024040/

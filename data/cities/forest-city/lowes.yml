@@ -1,11 +1,11 @@
 id: 760571921
-type: way
+type: node
 latitude: 35.33923
 longitude: -81.89654
 postcode: "28043"
 city: Forest City
-street: "LOWE'S Boulevard"
-housenumber: 184
-phone: "+1 828-351-1023"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-forest-city/1788"
+street: LOWE'S Boulevard
+housenumber: "184"
+phone: +1 828-351-1023
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-forest-city/1788

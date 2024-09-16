@@ -1,11 +1,11 @@
 id: 608189623
-type: way
+type: node
 latitude: 35.64315
 longitude: -79.00598
 postcode: "27559"
 city: Moncure
-street: "Old US 1"
-housenumber: 5873
+street: Old US 1
+housenumber: "5873"
 phone: ""
 opening_hours: ""
 website: ""

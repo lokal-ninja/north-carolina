@@ -1,11 +1,11 @@
 id: 672369007
-type: way
+type: node
 latitude: 35.06284
 longitude: -80.77423
 postcode: "28277"
 city: Charlotte
-street: "Ballantyne Commons Parkway"
-housenumber: 5415
-phone: "+1 704-814-6131"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/South-Charlotte/NC/Charlotte/28277/3640"
+street: Ballantyne Commons Parkway
+housenumber: "5415"
+phone: +1 704-814-6131
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/South-Charlotte/NC/Charlotte/28277/3640

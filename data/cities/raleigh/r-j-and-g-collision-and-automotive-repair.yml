@@ -1,11 +1,11 @@
 id: 47776885
-type: way
+type: node
 latitude: 35.78736
 longitude: -78.73677
 postcode: "27606"
 city: Raleigh
-street: "Hillsborough Street"
-housenumber: 6215
+street: Hillsborough Street
+housenumber: "6215"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

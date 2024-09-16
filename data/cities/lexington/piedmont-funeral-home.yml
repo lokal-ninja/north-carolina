@@ -1,11 +1,11 @@
 id: 427934508
-type: way
+type: node
 latitude: 35.82087
 longitude: -80.25654
 postcode: "27292"
 city: Lexington
-street: "South Main Street"
-housenumber: 405
-phone: "+1-336-248-2366"
+street: South Main Street
+housenumber: "405"
+phone: +1-336-248-2366
 opening_hours: ""
-website: "https://www.piedmontfuneralhome.com/"
+website: https://www.piedmontfuneralhome.com/

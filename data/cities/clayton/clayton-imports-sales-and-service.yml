@@ -1,11 +1,11 @@
 id: 221395677
-type: way
+type: node
 latitude: 35.6418
 longitude: -78.47965
 postcode: "27520"
 city: Clayton
-street: "Guy Road"
-housenumber: 211
+street: Guy Road
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

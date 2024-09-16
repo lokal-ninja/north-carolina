@@ -1,11 +1,11 @@
 id: 306634268
-type: way
+type: node
 latitude: 36.00855
 longitude: -76.95592
 postcode: "27983"
 city: Windsor
-street: "US-13"
-housenumber: 109
+street: US-13
+housenumber: "109"
 phone: "+12527943500"
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/windsor/109a-us-highway-13-n"
+website: https://stores.advanceautoparts.com/nc/windsor/109a-us-highway-13-n

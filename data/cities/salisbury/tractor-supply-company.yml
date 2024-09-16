@@ -1,11 +1,11 @@
 id: 485439674
-type: way
+type: node
 latitude: 35.64717
 longitude: -80.49376
 postcode: "28147"
 city: Salisbury
-street: "Jake Alexander Boulevard South"
-housenumber: 405
-phone: "+1 704-797-9511"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Jake Alexander Boulevard South
+housenumber: "405"
+phone: +1 704-797-9511
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

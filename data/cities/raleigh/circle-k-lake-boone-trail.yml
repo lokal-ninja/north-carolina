@@ -1,11 +1,11 @@
 id: 47933416
-type: way
+type: node
 latitude: 35.81602
 longitude: -78.69254
 postcode: "27607"
 city: Raleigh
-street: "Lake Boone Trail"
-housenumber: 3600
-phone: "+1-919-571-0820"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/raleigh/3600-lake-boone-trl/2706119"
+street: Lake Boone Trail
+housenumber: "3600"
+phone: +1-919-571-0820
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/raleigh/3600-lake-boone-trl/2706119

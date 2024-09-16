@@ -1,11 +1,11 @@
 id: 44264102
-type: way
+type: node
 latitude: 35.91186
 longitude: -79.08357
 postcode: "27510"
 city: Carrboro
-street: "Fidelity Street"
-housenumber: 124
+street: Fidelity Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

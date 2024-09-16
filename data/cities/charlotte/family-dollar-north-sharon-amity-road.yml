@@ -1,11 +1,11 @@
 id: 1160541881
-type: way
+type: node
 latitude: 35.22839
 longitude: -80.74263
 postcode: "28215"
 city: Charlotte
-street: "North Sharon Amity Road"
-housenumber: 5240
+street: North Sharon Amity Road
+housenumber: "5240"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
 website: ""

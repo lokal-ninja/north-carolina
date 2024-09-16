@@ -1,11 +1,11 @@
 id: 207540528
-type: way
+type: node
 latitude: 35.81838
 longitude: -78.84455
 postcode: "27560"
 city: Morrisville
-street: "Davis Drive"
-housenumber: 3560
-phone: "+1 919-337-9859"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4147-morrisville-nc"
+street: Davis Drive
+housenumber: "3560"
+phone: +1 919-337-9859
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4147-morrisville-nc

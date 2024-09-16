@@ -1,11 +1,11 @@
 id: 690083107
-type: way
+type: node
 latitude: 35.46958
 longitude: -80.58799
 postcode: "28083"
 city: Kannapolis
-street: "Dale Earnhardt Boulevard"
-housenumber: 3025
-phone: "+1 704-720-9810"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-kannapolis/2368"
+street: Dale Earnhardt Boulevard
+housenumber: "3025"
+phone: +1 704-720-9810
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-kannapolis/2368

@@ -1,11 +1,11 @@
 id: 942412528
-type: way
+type: node
 latitude: 36.17062
 longitude: -80.27825
 postcode: "27105"
 city: Winston-Salem
-street: "University Parkway"
-housenumber: 5496
+street: University Parkway
+housenumber: "5496"
 phone: ""
 opening_hours: ""
 website: ""

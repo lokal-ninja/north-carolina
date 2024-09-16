@@ -1,11 +1,11 @@
 id: 1127566016
-type: way
+type: node
 latitude: 36.02276
 longitude: -80.37777
 postcode: "27012"
 city: Clemmons
-street: "Clemmons Road"
-housenumber: 3560
+street: Clemmons Road
+housenumber: "3560"
 phone: ""
 opening_hours: ""
 website: ""

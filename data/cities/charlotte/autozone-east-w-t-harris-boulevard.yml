@@ -1,11 +1,11 @@
 id: 324389536
-type: way
+type: node
 latitude: 35.18485
 longitude: -80.73085
 postcode: "28212"
 city: Charlotte
-street: "East W T Harris Boulevard"
-housenumber: 10100
+street: East W T Harris Boulevard
+housenumber: "10100"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/charlotte/10100-e-w-t--harris-blvd.html"
+website: https://www.autozone.com/locations/nc/charlotte/10100-e-w-t--harris-blvd.html

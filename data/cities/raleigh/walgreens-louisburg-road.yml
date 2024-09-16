@@ -1,11 +1,11 @@
 id: 47932379
-type: way
+type: node
 latitude: 35.87702
 longitude: -78.54018
 postcode: "27616"
 city: Raleigh
-street: "Louisburg Road"
-housenumber: 7505
+street: Louisburg Road
+housenumber: "7505"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7505+louisburg+rd-raleigh-nc-27616/id=18038"
+website: https://www.walgreens.com/locator/walgreens-7505+louisburg+rd-raleigh-nc-27616/id=18038

@@ -1,11 +1,11 @@
 id: 874135360
-type: way
+type: node
 latitude: 36.07038
 longitude: -79.27049
 postcode: "27302"
 city: Mebane
-street: "Mebane Oaks Road"
-housenumber: 1237
-phone: "+1 919-304-9536"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/380"
+street: Mebane Oaks Road
+housenumber: "1237"
+phone: +1 919-304-9536
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/380

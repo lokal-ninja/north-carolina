@@ -1,11 +1,11 @@
 id: 817952325
-type: way
+type: node
 latitude: 35.59778
 longitude: -78.80022
 postcode: "27526"
 city: Fuquay Varina
-street: "Wake Chapel Road"
-housenumber: 908
+street: Wake Chapel Road
+housenumber: "908"
 phone: "+19195521090"
 opening_hours: ""
-website: "https://store.vioc.com/nc/fuquayvarina/oil-change-gz0008.html"
+website: https://store.vioc.com/nc/fuquayvarina/oil-change-gz0008.html

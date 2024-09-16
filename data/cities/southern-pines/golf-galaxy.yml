@@ -1,11 +1,11 @@
 id: 1271310273
-type: way
+type: node
 latitude: 35.16711
 longitude: -79.41874
 postcode: "28387"
 city: Southern Pines
-street: "Carolina Green Parkway"
-housenumber: 345
+street: Carolina Green Parkway
+housenumber: "345"
 phone: ""
 opening_hours: ""
 website: ""

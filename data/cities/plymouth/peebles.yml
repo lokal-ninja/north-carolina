@@ -4,8 +4,8 @@ latitude: 35.86122
 longitude: -76.73176
 postcode: "27962"
 city: Plymouth
-street: "U.S. Highway 64 East"
-housenumber: 774
-phone: "+1 252 793 6461"
-opening_hours: "Su 13:00-18:00; Mo-We 10:00-19:00; Th-Sa 10:00-20:00"
-website: "https://stores.stage.com/nc-plymouth-5021"
+street: U.S. Highway 64 East
+housenumber: "774"
+phone: +1 252 793 6461
+opening_hours: Su 13:00-18:00; Mo-We 10:00-19:00; Th-Sa 10:00-20:00
+website: https://stores.stage.com/nc-plymouth-5021

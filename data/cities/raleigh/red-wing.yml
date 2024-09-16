@@ -1,11 +1,11 @@
 id: 544834468
-type: way
+type: node
 latitude: 35.73376
 longitude: -78.65188
 postcode: "27603"
 city: Raleigh
-street: "Olympia Drive"
-housenumber: 3408
+street: Olympia Drive
+housenumber: "3408"
 phone: ""
 opening_hours: ""
 website: ""

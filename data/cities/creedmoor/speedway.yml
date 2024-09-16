@@ -1,11 +1,11 @@
 id: 586982792
-type: way
+type: node
 latitude: 36.14622
 longitude: -78.7229
 postcode: "27522"
 city: Creedmoor
-street: "NC 56"
-housenumber: 1545
+street: NC 56
+housenumber: "1545"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NC/Creedmoor/1545-Nc-Highway-56"
+website: https://www.speedway.com/locations/NC/Creedmoor/1545-Nc-Highway-56

@@ -1,11 +1,11 @@
 id: 485395183
-type: way
+type: node
 latitude: 35.03603
 longitude: -80.8065
 postcode: "28277"
 city: Charlotte
-street: "Rea Road"
-housenumber: 9720
-phone: "+1 704-752-1013"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/charlotte/blakeney/097/00027"
+street: Rea Road
+housenumber: "9720"
+phone: +1 704-752-1013
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/charlotte/blakeney/097/00027

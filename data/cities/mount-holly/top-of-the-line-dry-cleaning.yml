@@ -1,11 +1,11 @@
 id: 698008701
-type: way
+type: node
 latitude: 35.29751
 longitude: -81.01654
 postcode: "28120"
 city: Mount Holly
-street: "South Main Street"
-housenumber: 100
+street: South Main Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

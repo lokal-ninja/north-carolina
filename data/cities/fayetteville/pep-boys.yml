@@ -1,11 +1,11 @@
 id: 548254314
-type: way
+type: node
 latitude: 34.98122
 longitude: -79.01236
 postcode: "28306"
 city: Fayetteville
-street: "Town Center Dr"
-housenumber: 2961
+street: Town Center Dr
+housenumber: "2961"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 798113231
-type: way
+type: node
 latitude: 35.90374
 longitude: -79.65252
 postcode: "27406"
 city: Greensboro
-street: "Folger Road"
-housenumber: 4497
+street: Folger Road
+housenumber: "4497"
 phone: ""
 opening_hours: ""
 website: ""

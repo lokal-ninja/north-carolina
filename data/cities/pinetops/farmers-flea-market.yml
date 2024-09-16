@@ -1,11 +1,11 @@
 id: 1226757779
-type: way
+type: node
 latitude: 35.79073
 longitude: -77.63681
 postcode: "27864"
 city: Pinetops
-street: "East Hamlet Street"
-housenumber: 120
+street: East Hamlet Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 35.83049
 longitude: -78.77117
 postcode: "27513"
 city: Cary
-street: "Bass Pro Lane"
-housenumber: 801
-phone: "(919) 677-5100"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&appID=94&storeID=90&tab=3"
+street: Bass Pro Lane
+housenumber: "801"
+phone: (919) 677-5100
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.basspro.com/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&appID=94&storeID=90&tab=3

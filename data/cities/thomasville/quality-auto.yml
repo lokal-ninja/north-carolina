@@ -1,11 +1,11 @@
 id: 283423499
-type: way
+type: node
 latitude: 35.87058
 longitude: -80.07492
 postcode: "27360"
 city: Thomasville
-street: "Randolph Street"
-housenumber: 900
-phone: "+1-336-475-2392"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-14:00"
-website: "https://qualitytireandautomotive.com/"
+street: Randolph Street
+housenumber: "900"
+phone: +1-336-475-2392
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-14:00
+website: https://qualitytireandautomotive.com/

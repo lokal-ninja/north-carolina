@@ -4,8 +4,8 @@ latitude: 35.3811
 longitude: -77.93429
 postcode: "27534"
 city: Goldsboro
-street: "North Berkeley Boulevard"
-housenumber: 1101
-phone: "+1 919-759-3016"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/nc/goldsboro/1101-n-berkeley-blvd"
+street: North Berkeley Boulevard
+housenumber: "1101"
+phone: +1 919-759-3016
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/nc/goldsboro/1101-n-berkeley-blvd

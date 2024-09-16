@@ -1,11 +1,11 @@
 id: 1280651553
-type: way
+type: node
 latitude: 34.90576
 longitude: -77.23089
 postcode: "28555"
 city: Maysville
-street: "Fifth Street"
-housenumber: 506
+street: Fifth Street
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

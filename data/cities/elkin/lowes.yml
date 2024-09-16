@@ -1,11 +1,11 @@
 id: 489108254
-type: way
+type: node
 latitude: 36.27311
 longitude: -80.84151
 postcode: "28621"
 city: Elkin
-street: "CC Camp Road"
-housenumber: 492
-phone: "+1 336-526-6550"
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-19:00"
-website: "https://www.lowes.com/store/nc-elkin/1653"
+street: CC Camp Road
+housenumber: "492"
+phone: +1 336-526-6550
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-19:00
+website: https://www.lowes.com/store/nc-elkin/1653

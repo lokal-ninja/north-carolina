@@ -1,11 +1,11 @@
 id: 1284191232
-type: way
+type: node
 latitude: 36.45595
 longitude: -76.60488
 postcode: "27979"
 city: Sunbury
-street: "Kellogg Fork Road"
-housenumber: 16
+street: Kellogg Fork Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

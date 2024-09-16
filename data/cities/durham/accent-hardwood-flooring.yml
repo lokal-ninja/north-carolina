@@ -1,11 +1,11 @@
 id: 36887968
-type: way
+type: node
 latitude: 36.00206
 longitude: -78.90168
 postcode: "27701"
 city: Durham
-street: "Foster Street"
-housenumber: 601
+street: Foster Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "http://accenthardwoodflooring.com"
+website: http://accenthardwoodflooring.com

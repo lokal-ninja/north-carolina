@@ -1,11 +1,11 @@
 id: 335273351
-type: way
+type: node
 latitude: 35.41852
 longitude: -80.67772
 postcode: "28027"
 city: Concord
-street: "Bayfield Parkway"
-housenumber: 6080
-phone: "+1 704-262-7373"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/nc/concord/4438/"
+street: Bayfield Parkway
+housenumber: "6080"
+phone: +1 704-262-7373
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/nc/concord/4438/

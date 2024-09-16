@@ -1,11 +1,11 @@
 id: 728096693
-type: way
+type: node
 latitude: 35.84208
 longitude: -77.06924
 postcode: "27892"
 city: Williamston
-street: "West Boulevard"
-housenumber: 206
+street: West Boulevard
+housenumber: "206"
 phone: "+12527924189"
 opening_hours: ""
 website: ""

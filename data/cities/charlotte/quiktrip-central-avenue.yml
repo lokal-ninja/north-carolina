@@ -1,11 +1,11 @@
 id: 594260381
-type: way
+type: node
 latitude: 35.21028
 longitude: -80.75618
 postcode: "28205"
 city: Charlotte
-street: "Central Avenue"
-housenumber: 5209
+street: Central Avenue
+housenumber: "5209"
 phone: ""
 opening_hours: ""
 website: ""

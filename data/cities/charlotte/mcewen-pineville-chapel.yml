@@ -1,11 +1,11 @@
 id: 642613749
-type: way
+type: node
 latitude: 35.09337
 longitude: -80.86933
 postcode: "28210"
 city: Charlotte
-street: "Park Road"
-housenumber: 10500
+street: Park Road
+housenumber: "10500"
 phone: ""
 opening_hours: ""
 website: ""

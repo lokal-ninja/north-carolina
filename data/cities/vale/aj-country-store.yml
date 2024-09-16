@@ -1,11 +1,11 @@
 id: 1055079432
-type: way
+type: node
 latitude: 35.51084
 longitude: -81.34982
 postcode: "28168"
 city: Vale
-street: "Reepsville Road"
-housenumber: 4259
+street: Reepsville Road
+housenumber: "4259"
 phone: "+17042403333"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 631685372
-type: way
+type: node
 latitude: 35.60393
 longitude: -77.34087
 postcode: ""
 city: Greenville
-street: "East 10th Street"
-housenumber: 2815
-phone: "+1 252 752 6110"
+street: East 10th Street
+housenumber: "2815"
+phone: +1 252 752 6110
 opening_hours: ""
 website: ""

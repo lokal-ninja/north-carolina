@@ -1,11 +1,11 @@
 id: 792726520
-type: way
+type: node
 latitude: 35.29304
 longitude: -81.54109
 postcode: "28150"
 city: Shelby
-street: "North Trade Street"
-housenumber: 125
+street: North Trade Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

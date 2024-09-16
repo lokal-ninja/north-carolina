@@ -1,11 +1,11 @@
 id: 334211877
-type: way
+type: node
 latitude: 36.05395
 longitude: -79.88715
 postcode: "27407"
 city: Greensboro
-street: "South 40 Drive"
-housenumber: 1703
-phone: "+1 336-292-4813"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-greensboro/0404"
+street: South 40 Drive
+housenumber: "1703"
+phone: +1 336-292-4813
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-greensboro/0404

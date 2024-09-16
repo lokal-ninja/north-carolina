@@ -1,11 +1,11 @@
 id: 311956993
-type: way
+type: node
 latitude: 35.32569
 longitude: -78.64625
 postcode: "28339"
 city: Erwin
-street: "East Jackson Boulevard"
-housenumber: 524
-phone: "+1 910-897-1120"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/nc-erwin/1777"
+street: East Jackson Boulevard
+housenumber: "524"
+phone: +1 910-897-1120
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/nc-erwin/1777

@@ -1,11 +1,11 @@
 id: 454014361
-type: way
+type: node
 latitude: 35.45052
 longitude: -82.52901
 postcode: "28704"
 city: Arden
-street: "Airport Road"
-housenumber: 330
-phone: "+1 844-476-1072"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/nc/arden/330-airport-road"
+street: Airport Road
+housenumber: "330"
+phone: +1 844-476-1072
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/nc/arden/330-airport-road

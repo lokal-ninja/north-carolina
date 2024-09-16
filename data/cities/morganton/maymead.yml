@@ -1,11 +1,11 @@
 id: 370506718
-type: way
+type: node
 latitude: 35.74875
 longitude: -81.5966
 postcode: "28655"
 city: Morganton
-street: "US-70"
-housenumber: 1504
+street: US-70
+housenumber: "1504"
 phone: ""
 opening_hours: ""
 website: ""

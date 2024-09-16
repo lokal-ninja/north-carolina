@@ -1,11 +1,11 @@
 id: 1128321398
-type: way
+type: node
 latitude: 35.06024
 longitude: -80.81706
 postcode: "28277"
 city: Charlotte
-street: "Rea Road"
-housenumber: 7852
-phone: "+1 704-542-5737"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/charlotte/stonecrest/097/00066"
+street: Rea Road
+housenumber: "7852"
+phone: +1 704-542-5737
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/charlotte/stonecrest/097/00066

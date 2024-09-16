@@ -1,11 +1,11 @@
 id: 561024586
-type: way
+type: node
 latitude: 36.43562
 longitude: -78.18527
 postcode: "27563"
 city: Norlina
-street: "Yancey Road"
-housenumber: 100
-phone: "(252) 456-2970"
+street: Yancey Road
+housenumber: "100"
+phone: (252) 456-2970
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/norlina/100-yancey-rd.html"
+website: https://www.autozone.com/locations/nc/norlina/100-yancey-rd.html

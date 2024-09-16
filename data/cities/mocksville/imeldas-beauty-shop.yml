@@ -1,11 +1,11 @@
 id: 1005941263
-type: way
+type: node
 latitude: 35.90356
 longitude: -80.68899
 postcode: "27028"
 city: Mocksville
-street: "Davie Academy Road"
-housenumber: 2590
+street: Davie Academy Road
+housenumber: "2590"
 phone: "+13364922215"
 opening_hours: ""
 website: ""

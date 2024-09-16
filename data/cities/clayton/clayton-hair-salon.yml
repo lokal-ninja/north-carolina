@@ -1,11 +1,11 @@
 id: 341222959
-type: way
+type: node
 latitude: 35.65153
 longitude: -78.45882
 postcode: "27520"
 city: Clayton
-street: "East 2nd Street"
-housenumber: 214
+street: East 2nd Street
+housenumber: "214"
 phone: "+19197956742"
 opening_hours: ""
 website: ""

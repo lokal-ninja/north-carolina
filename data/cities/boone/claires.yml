@@ -1,11 +1,11 @@
 id: 1210298292
-type: way
+type: node
 latitude: 36.20181
 longitude: -81.66779
 postcode: "28607"
 city: Boone
-street: "Blowing Rock Road"
-housenumber: 1180
-phone: "+1-828-262-5759"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:30"
-website: "https://stores.claires.com/us/nc/boone/6236.html"
+street: Blowing Rock Road
+housenumber: "1180"
+phone: +1-828-262-5759
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:30
+website: https://stores.claires.com/us/nc/boone/6236.html

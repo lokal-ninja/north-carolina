@@ -1,11 +1,11 @@
 id: 1220099686
-type: way
+type: node
 latitude: 35.30868
 longitude: -77.15776
 postcode: "28586"
 city: Vanceboro
-street: "NC-43"
-housenumber: 210
+street: NC-43
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

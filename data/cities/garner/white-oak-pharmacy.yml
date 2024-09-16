@@ -1,11 +1,11 @@
 id: 442199815
-type: way
+type: node
 latitude: 35.68512
 longitude: -78.57626
 postcode: "27529"
 city: Garner
-street: "Health Park Drive"
-housenumber: 501
-phone: "(919) 803-6417"
+street: Health Park Drive
+housenumber: "501"
+phone: (919) 803-6417
 opening_hours: ""
 website: ""

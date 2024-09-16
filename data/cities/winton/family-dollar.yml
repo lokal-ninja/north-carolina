@@ -1,11 +1,11 @@
 id: 947951506
-type: way
+type: node
 latitude: 36.39048
 longitude: -76.93712
 postcode: "27986"
 city: Winton
-street: "Main Street"
-housenumber: 104
+street: Main Street
+housenumber: "104"
 phone: "+12526216091"
 opening_hours: ""
 website: ""

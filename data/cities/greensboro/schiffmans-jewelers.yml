@@ -1,11 +1,11 @@
 id: 208189139
-type: way
+type: node
 latitude: 36.07067
 longitude: -79.7898
 postcode: "27401"
 city: Greensboro
-street: "South Elm Street"
-housenumber: 225
+street: South Elm Street
+housenumber: "225"
 phone: ""
 opening_hours: ""
-website: "https://www.schiffmans.com/"
+website: https://www.schiffmans.com/

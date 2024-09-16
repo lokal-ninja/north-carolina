@@ -1,11 +1,11 @@
 id: 993318800
-type: way
+type: node
 latitude: 35.26401
 longitude: -81.17909
 postcode: "28052"
 city: Gastonia
-street: "East Main Avenue"
-housenumber: 250
+street: East Main Avenue
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

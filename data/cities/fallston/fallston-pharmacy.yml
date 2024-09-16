@@ -1,11 +1,11 @@
 id: 377648813
-type: way
+type: node
 latitude: 35.43395
 longitude: -81.50243
 postcode: "28042"
 city: Fallston
-street: "Fallston Road"
-housenumber: 5011
+street: Fallston Road
+housenumber: "5011"
 phone: "+17045383021"
 opening_hours: ""
 website: ""

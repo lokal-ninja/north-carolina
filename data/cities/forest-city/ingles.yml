@@ -1,11 +1,11 @@
 id: 546186524
-type: way
+type: node
 latitude: 35.32213
 longitude: -81.88265
 postcode: "28043"
 city: Forest City
-street: "South Church Street"
-housenumber: 720
+street: South Church Street
+housenumber: "720"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

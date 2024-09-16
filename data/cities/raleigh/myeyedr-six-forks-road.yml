@@ -1,11 +1,11 @@
 id: 47680925
-type: way
+type: node
 latitude: 35.87566
 longitude: -78.64431
 postcode: "27615"
 city: Raleigh
-street: "Six Forks Road"
-housenumber: 7020
+street: Six Forks Road
+housenumber: "7020"
 phone: ""
 opening_hours: ""
-website: "https://www.myeyedr.com/"
+website: https://www.myeyedr.com/

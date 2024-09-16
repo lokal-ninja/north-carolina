@@ -1,11 +1,11 @@
 id: 694619428
-type: way
+type: node
 latitude: 35.2802
 longitude: -81.54436
 postcode: "28150"
 city: Shelby
-street: "West Dixon Boulevard"
-housenumber: 200
+street: West Dixon Boulevard
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

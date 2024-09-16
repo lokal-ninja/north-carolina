@@ -1,11 +1,11 @@
 id: 1075009927
-type: way
+type: node
 latitude: 35.60289
 longitude: -82.54705
 postcode: "28801"
 city: Asheville
-street: "Charlotte Street"
-housenumber: 100
+street: Charlotte Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.chopshopbutchery.com/"
+website: https://www.chopshopbutchery.com/

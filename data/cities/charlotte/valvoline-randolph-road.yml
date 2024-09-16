@@ -1,11 +1,11 @@
 id: 871495825
-type: way
+type: node
 latitude: 35.17536
 longitude: -80.7977
 postcode: "28211"
 city: Charlotte
-street: "Randolph Road"
-housenumber: 4511
+street: Randolph Road
+housenumber: "4511"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/nc/charlotte/oil-change-bd2901.html"
+website: https://store.vioc.com/nc/charlotte/oil-change-bd2901.html

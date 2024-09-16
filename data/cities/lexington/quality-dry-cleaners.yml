@@ -1,11 +1,11 @@
 id: 427932779
-type: way
+type: node
 latitude: 35.8252
 longitude: -80.25164
 postcode: ""
 city: Lexington
-street: "North Main Street"
-housenumber: 201
+street: North Main Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

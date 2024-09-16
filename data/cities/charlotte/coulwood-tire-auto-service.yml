@@ -1,11 +1,11 @@
 id: 830978372
-type: way
+type: node
 latitude: 35.30169
 longitude: -80.93626
 postcode: "28216"
 city: Charlotte
-street: "Bellhaven Boulevard"
-housenumber: 8101
+street: Bellhaven Boulevard
+housenumber: "8101"
 phone: ""
 opening_hours: ""
 website: ""

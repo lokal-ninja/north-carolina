@@ -1,11 +1,11 @@
 id: 940786939
-type: way
+type: node
 latitude: 36.41518
 longitude: -79.94061
 postcode: "27027"
 city: Mayodan
-street: "NC 135"
-housenumber: 6860
-phone: "+1 (336) 445-0036"
+street: NC 135
+housenumber: "6860"
+phone: +1 (336) 445-0036
 opening_hours: ""
-website: "https://www.autozone.com/locations/nc/mayodan/6860-nc-highway-135.html"
+website: https://www.autozone.com/locations/nc/mayodan/6860-nc-highway-135.html

@@ -1,11 +1,11 @@
 id: 549216135
-type: way
+type: node
 latitude: 35.49311
 longitude: -81.2476
 postcode: "28092"
 city: Lincolnton
-street: "North Generals Boulevard"
-housenumber: 529
-phone: "+1 833-466-1081"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/nc/lincolnton/529-north-generals-blvd"
+street: North Generals Boulevard
+housenumber: "529"
+phone: +1 833-466-1081
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/nc/lincolnton/529-north-generals-blvd

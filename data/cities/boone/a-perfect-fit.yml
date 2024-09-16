@@ -4,8 +4,8 @@ latitude: 36.20031
 longitude: -81.65792
 postcode: "28607"
 city: Boone
-street: "Boone Heights Drive"
-housenumber: 184
-phone: "+1-828-386-6250"
-opening_hours: "Mo-Fr 09:00-17:00; Sa by appointment; Su closed"
-website: "https://www.aperfectfitboone.com"
+street: Boone Heights Drive
+housenumber: "184"
+phone: +1-828-386-6250
+opening_hours: Mo-Fr 09:00-17:00; Sa "by appointment"; Su closed
+website: https://www.aperfectfitboone.com

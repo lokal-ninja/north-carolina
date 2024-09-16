@@ -1,11 +1,11 @@
 id: 836908502
-type: way
+type: node
 latitude: 35.19311
 longitude: -80.79046
 postcode: "28211"
 city: Charlotte
-street: "McAlway Road"
-housenumber: 1118
+street: McAlway Road
+housenumber: "1118"
 phone: ""
 opening_hours: ""
-website: "https://kirkbrownandsons.mechanicnet.com"
+website: https://kirkbrownandsons.mechanicnet.com

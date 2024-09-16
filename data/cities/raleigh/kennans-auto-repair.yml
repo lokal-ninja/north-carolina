@@ -1,11 +1,11 @@
 id: 47759194
-type: way
+type: node
 latitude: 35.73294
 longitude: -78.64969
 postcode: "27603"
 city: Raleigh
-street: "Circle Lane"
-housenumber: 312
+street: Circle Lane
+housenumber: "312"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

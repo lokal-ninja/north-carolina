@@ -1,11 +1,11 @@
 id: 217792554
-type: way
+type: node
 latitude: 35.58853
 longitude: -80.8546
 postcode: "28117"
 city: Mooresville
-street: "Norman Station Boulevard"
-housenumber: 169
-phone: "+1 704-664-5238"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1156/mooresville-nc/whats-new"
+street: Norman Station Boulevard
+housenumber: "169"
+phone: +1 704-664-5238
+opening_hours: 24/7
+website: https://www.walmart.com/store/1156/mooresville-nc/whats-new

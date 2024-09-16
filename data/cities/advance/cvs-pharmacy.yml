@@ -1,11 +1,11 @@
 id: 773663050
-type: way
+type: node
 latitude: 36.00594
 longitude: -80.43922
 postcode: "27006"
 city: Advance
-street: "NC Highway 801 North"
-housenumber: 110
+street: NC Highway 801 North
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/advance-nc-pharmacies/110-nc-hwy-801-north-advance-nc-27006/storeid=5379"
+website: https://www.cvs.com/store-locator/advance-nc-pharmacies/110-nc-hwy-801-north-advance-nc-27006/storeid=5379

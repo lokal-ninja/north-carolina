@@ -1,11 +1,11 @@
 id: 653778577
-type: way
+type: node
 latitude: 36.07999
 longitude: -79.51932
 postcode: "27215"
 city: Burlington
-street: "South Church Street"
-housenumber: 3740
+street: South Church Street
+housenumber: "3740"
 phone: ""
 opening_hours: ""
 website: ""

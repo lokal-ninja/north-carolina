@@ -1,11 +1,11 @@
 id: 1000411442
-type: way
+type: node
 latitude: 35.98045
 longitude: -79.07966
 postcode: "27516"
 city: Chapel Hill
-street: "Millhouse Road"
-housenumber: 6805
+street: Millhouse Road
+housenumber: "6805"
 phone: ""
 opening_hours: ""
 website: ""

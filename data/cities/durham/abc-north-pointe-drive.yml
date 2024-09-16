@@ -1,11 +1,11 @@
 id: 143699135
-type: way
+type: node
 latitude: 36.02759
 longitude: -78.91515
 postcode: "27705"
 city: Durham
-street: "North Pointe Drive"
-housenumber: 1515
+street: North Pointe Drive
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

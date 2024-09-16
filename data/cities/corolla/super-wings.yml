@@ -1,11 +1,11 @@
 id: 299906281
-type: way
+type: node
 latitude: 36.32963
 longitude: -75.81696
 postcode: "27927"
 city: Corolla
-street: "Ocean Trail"
-housenumber: 818
+street: Ocean Trail
+housenumber: "818"
 phone: "+12524539744"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 833909297
-type: way
+type: node
 latitude: 35.26292
 longitude: -80.77083
 postcode: "28213"
 city: Charlotte
-street: "North Tryon Street"
-housenumber: 5700
+street: North Tryon Street
+housenumber: "5700"
 phone: ""
 opening_hours: ""
 website: ""

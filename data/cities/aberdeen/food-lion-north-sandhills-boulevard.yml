@@ -1,11 +1,11 @@
 id: 260368089
-type: way
+type: node
 latitude: 35.15552
 longitude: -79.41345
 postcode: "28315"
 city: Aberdeen
-street: "North Sandhills Boulevard"
-housenumber: 1832
+street: North Sandhills Boulevard
+housenumber: "1832"
 phone: ""
 opening_hours: ""
 website: ""

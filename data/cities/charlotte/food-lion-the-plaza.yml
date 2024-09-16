@@ -1,11 +1,11 @@
 id: 323191884
-type: way
+type: node
 latitude: 35.23884
 longitude: -80.7999
 postcode: "28205"
 city: Charlotte
-street: "The Plaza"
-housenumber: 3009
+street: The Plaza
+housenumber: "3009"
 phone: ""
 opening_hours: ""
 website: ""

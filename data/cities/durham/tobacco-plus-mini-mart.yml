@@ -1,11 +1,11 @@
 id: 203395647
-type: way
+type: node
 latitude: 35.98627
 longitude: -78.92784
 postcode: "27707"
 city: Durham
-street: "Chapel Hill Road"
-housenumber: 2017
+street: Chapel Hill Road
+housenumber: "2017"
 phone: ""
 opening_hours: ""
 website: ""

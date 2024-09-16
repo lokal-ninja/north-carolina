@@ -1,11 +1,11 @@
 id: 677495920
-type: way
+type: node
 latitude: 35.35936
 longitude: -79.7827
 postcode: "27209"
 city: Biscoe
-street: "West Main Street"
-housenumber: 121
+street: West Main Street
+housenumber: "121"
 phone: "+14347932011"
 opening_hours: ""
 website: ""

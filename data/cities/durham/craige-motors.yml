@@ -1,11 +1,11 @@
 id: 357501954
-type: way
+type: node
 latitude: 35.98669
 longitude: -78.90984
 postcode: "27707"
 city: Durham
-street: "South Duke Street"
-housenumber: 1100
+street: South Duke Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

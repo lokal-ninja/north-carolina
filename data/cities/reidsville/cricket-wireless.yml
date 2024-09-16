@@ -1,11 +1,11 @@
 id: 1307526370
-type: way
+type: node
 latitude: 36.32608
 longitude: -79.68486
 postcode: "27320"
 city: Reidsville
-street: "Freeway Drive"
-housenumber: 1130
+street: Freeway Drive
+housenumber: "1130"
 phone: ""
 opening_hours: ""
 website: ""

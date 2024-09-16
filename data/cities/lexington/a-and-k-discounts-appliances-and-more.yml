@@ -1,11 +1,11 @@
 id: 456824888
-type: way
+type: node
 latitude: 35.81554
 longitude: -80.24674
 postcode: "27292"
 city: Lexington
-street: "East Center Street"
-housenumber: 545
-phone: "+1-336-843-1944"
+street: East Center Street
+housenumber: "545"
+phone: +1-336-843-1944
 opening_hours: ""
 website: ""

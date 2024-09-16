@@ -1,11 +1,11 @@
 id: 373139005
-type: way
+type: node
 latitude: 36.06748
 longitude: -79.29682
 postcode: "27302"
 city: Mebane
-street: "Spring Forest Drive"
-housenumber: 135
+street: Spring Forest Drive
+housenumber: "135"
 phone: "+19193049932"
 opening_hours: ""
 website: ""

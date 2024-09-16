@@ -1,11 +1,11 @@
 id: 836626777
-type: way
+type: node
 latitude: 35.20182
 longitude: -80.78899
 postcode: "28205"
 city: Charlotte
-street: "East Independence Expressway"
-housenumber: 3220
+street: East Independence Expressway
+housenumber: "3220"
 phone: ""
 opening_hours: ""
 website: ""

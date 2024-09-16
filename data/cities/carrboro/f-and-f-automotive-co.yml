@@ -1,11 +1,11 @@
 id: 44265080
-type: way
+type: node
 latitude: 35.91075
 longitude: -79.07329
 postcode: "27510"
 city: Carrboro
-street: "West Weaver Street"
-housenumber: 107
+street: West Weaver Street
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://fandfauto.com/"
+opening_hours: Mo-Fr 07:30-17:30
+website: https://fandfauto.com/

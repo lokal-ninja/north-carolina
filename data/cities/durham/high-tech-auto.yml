@@ -1,11 +1,11 @@
 id: 146306463
-type: way
+type: node
 latitude: 36.03202
 longitude: -78.98102
 postcode: "27705"
 city: Durham
-street: "Hillsborough Road"
-housenumber: 4647
+street: Hillsborough Road
+housenumber: "4647"
 phone: ""
 opening_hours: ""
 website: ""

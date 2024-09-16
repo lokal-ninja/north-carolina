@@ -1,11 +1,11 @@
 id: 435090340
-type: way
+type: node
 latitude: 34.98145
 longitude: -80.10509
 postcode: "28170"
 city: Wadesboro
-street: "US Highway 74 West"
-housenumber: 2004
-phone: "+1 704-694-6530"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1127/wadesboro-nc/whats-new"
+street: US Highway 74 West
+housenumber: "2004"
+phone: +1 704-694-6530
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1127/wadesboro-nc/whats-new

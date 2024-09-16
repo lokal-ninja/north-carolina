@@ -1,11 +1,11 @@
 id: 1118121343
-type: way
+type: node
 latitude: 36.04338
 longitude: -78.90557
 postcode: "27704"
 city: Durham
-street: "North Duke Street"
-housenumber: 3208
-phone: "+1 919-908-1292"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/676"
+street: North Duke Street
+housenumber: "3208"
+phone: +1 919-908-1292
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/676

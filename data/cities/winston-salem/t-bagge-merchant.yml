@@ -1,11 +1,11 @@
 id: 168186791
-type: way
+type: node
 latitude: 36.08684
 longitude: -80.24206
 postcode: "27101"
 city: Winston-Salem
-street: "South Main Street"
-housenumber: 626
+street: South Main Street
+housenumber: "626"
 phone: ""
 opening_hours: ""
-website: "https://www.oldsalem.org/"
+website: https://www.oldsalem.org/

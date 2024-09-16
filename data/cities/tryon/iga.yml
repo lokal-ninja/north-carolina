@@ -1,11 +1,11 @@
 id: 762038923
-type: way
+type: node
 latitude: 35.20368
 longitude: -82.23855
 postcode: "28782"
 city: Tryon
-street: "South Trade Street"
-housenumber: 370
-phone: "+1 817-237-7684"
+street: South Trade Street
+housenumber: "370"
+phone: +1 817-237-7684
 opening_hours: ""
 website: ""

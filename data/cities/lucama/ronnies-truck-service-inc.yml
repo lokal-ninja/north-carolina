@@ -1,11 +1,11 @@
 id: 1060894740
-type: way
+type: node
 latitude: 35.66424
 longitude: -77.96944
 postcode: "27851"
 city: Lucama
-street: "US 301"
-housenumber: 4542
+street: US 301
+housenumber: "4542"
 phone: ""
 opening_hours: ""
 website: ""

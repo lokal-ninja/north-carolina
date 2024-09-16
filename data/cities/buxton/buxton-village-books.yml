@@ -1,11 +1,11 @@
 id: 475551368
-type: way
+type: node
 latitude: 35.26908
 longitude: -75.53974
 postcode: "27920"
 city: Buxton
-street: "North Carolina Highway 12"
-housenumber: 47918
-phone: "+1 252 995 4240"
-opening_hours: "10:00-18:00"
-website: "https://www.buxtonvillagebooks.com"
+street: North Carolina Highway 12
+housenumber: "47918"
+phone: +1 252 995 4240
+opening_hours: 10:00-18:00
+website: https://www.buxtonvillagebooks.com

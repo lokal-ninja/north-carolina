@@ -1,11 +1,11 @@
 id: 323176469
-type: way
+type: node
 latitude: 35.13882
 longitude: -80.73486
-postcode: "28270-2475"
+postcode: 28270-2475
 city: Charlotte
-street: "Galleria Boulevard"
-housenumber: 1848
-phone: "+1 980-262-6003"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-21:00"
-website: "https://www.dollartree.com/locations/nc/charlotte/1859/"
+street: Galleria Boulevard
+housenumber: "1848"
+phone: +1 980-262-6003
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-21:00
+website: https://www.dollartree.com/locations/nc/charlotte/1859/

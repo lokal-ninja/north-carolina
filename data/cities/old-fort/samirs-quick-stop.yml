@@ -1,11 +1,11 @@
 id: 957604321
-type: way
+type: node
 latitude: 35.63147
 longitude: -82.17593
 postcode: "28762"
 city: Old Fort
-street: "East Main Street"
-housenumber: 342
+street: East Main Street
+housenumber: "342"
 phone: "+18286687439"
 opening_hours: ""
 website: ""

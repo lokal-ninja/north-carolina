@@ -1,11 +1,11 @@
 id: 693404969
-type: way
+type: node
 latitude: 36.20048
 longitude: -81.65255
 postcode: "28607"
 city: Boone
-street: "State Farm Road"
-housenumber: 1230
-phone: "+1 828-264-0053"
-opening_hours: "24/7"
+street: State Farm Road
+housenumber: "1230"
+phone: +1 828-264-0053
+opening_hours: 24/7
 website: ""

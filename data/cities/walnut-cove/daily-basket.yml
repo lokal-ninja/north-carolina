@@ -1,11 +1,11 @@
 id: 323184572
-type: way
+type: node
 latitude: 36.26173
 longitude: -80.23187
 postcode: "27052"
 city: Walnut Cove
-street: "NC-8"
-housenumber: 3561
+street: NC-8
+housenumber: "3561"
 phone: "+13369695525"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1056421143
-type: way
+type: node
 latitude: 35.53768
 longitude: -78.28207
 postcode: "27576"
 city: Selma
-street: "North Raiford Street"
-housenumber: 301
+street: North Raiford Street
+housenumber: "301"
 phone: "+19193510008"
 opening_hours: ""
 website: ""

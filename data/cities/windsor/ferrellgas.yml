@@ -1,11 +1,11 @@
 id: 306635665
-type: way
+type: node
 latitude: 35.98941
 longitude: -76.93521
 postcode: "27983"
 city: Windsor
-street: "South King Street"
-housenumber: 1107
+street: South King Street
+housenumber: "1107"
 phone: "+18883377355"
 opening_hours: ""
 website: ""

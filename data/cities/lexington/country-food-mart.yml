@@ -1,11 +1,11 @@
 id: 1212574404
-type: way
+type: node
 latitude: 35.85744
 longitude: -80.38244
 postcode: "27295"
 city: Lexington
-street: "US-64 South"
-housenumber: 6861
+street: US-64 South
+housenumber: "6861"
 phone: "+13367875806"
 opening_hours: ""
 website: ""

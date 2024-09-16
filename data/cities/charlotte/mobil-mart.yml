@@ -1,11 +1,11 @@
 id: 768159266
-type: way
+type: node
 latitude: 35.16381
 longitude: -80.96988
 postcode: "28273"
 city: Charlotte
-street: "Steele Creek Road"
-housenumber: 9308
+street: Steele Creek Road
+housenumber: "9308"
 phone: ""
 opening_hours: ""
 website: ""

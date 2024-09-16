@@ -1,11 +1,11 @@
 id: 654504304
-type: way
+type: node
 latitude: 35.83598
 longitude: -82.54231
 postcode: "28754"
 city: Mars Hill
-street: "North Main Street"
-housenumber: 800
+street: North Main Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

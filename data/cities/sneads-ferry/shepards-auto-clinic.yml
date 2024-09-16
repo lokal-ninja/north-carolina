@@ -1,11 +1,11 @@
 id: 949775571
-type: way
+type: node
 latitude: 34.54875
 longitude: -77.43153
 postcode: "28460"
 city: Sneads Ferry
-street: "Sugar Lane"
-housenumber: 134
-phone: "910-327-3066"
+street: Sugar Lane
+housenumber: "134"
+phone: 910-327-3066
 opening_hours: ""
 website: ""

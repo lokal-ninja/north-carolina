@@ -1,11 +1,11 @@
 id: 319135020
-type: way
+type: node
 latitude: 35.54365
 longitude: -82.75345
 postcode: "28715"
 city: Candler
-street: "Wiggins Road"
-housenumber: 150
+street: Wiggins Road
+housenumber: "150"
 phone: "+18286651873"
 opening_hours: ""
 website: ""

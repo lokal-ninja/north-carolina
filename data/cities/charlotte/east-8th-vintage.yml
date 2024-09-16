@@ -1,11 +1,11 @@
 id: 836169446
-type: way
+type: node
 latitude: 35.21344
 longitude: -80.81736
 postcode: "28204"
 city: Charlotte
-street: "East 8th Street"
-housenumber: 1950
+street: East 8th Street
+housenumber: "1950"
 phone: ""
 opening_hours: ""
 website: ""

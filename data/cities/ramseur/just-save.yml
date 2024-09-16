@@ -1,11 +1,11 @@
 id: 602749328
-type: way
+type: node
 latitude: 35.73858
 longitude: -79.6564
 postcode: "27316"
 city: Ramseur
-street: "North Brady Street"
-housenumber: 135
-phone: "(336) 824-5145"
+street: North Brady Street
+housenumber: "135"
+phone: (336) 824-5145
 opening_hours: ""
 website: ""

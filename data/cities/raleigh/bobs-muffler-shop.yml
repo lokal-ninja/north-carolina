@@ -1,11 +1,11 @@
 id: 47663050
-type: way
+type: node
 latitude: 35.73024
 longitude: -78.65749
 postcode: "27603"
 city: Raleigh
-street: "Junction Boulevard"
-housenumber: 3621
+street: Junction Boulevard
+housenumber: "3621"
 phone: ""
 opening_hours: ""
 website: ""

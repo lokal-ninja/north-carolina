@@ -1,11 +1,11 @@
 id: 201532638
-type: way
+type: node
 latitude: 35.60989
 longitude: -77.3726
 postcode: "27858"
 city: Greenville
-street: "Cotanche Street"
-housenumber: 630
+street: Cotanche Street
+housenumber: "630"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.bicyclepost.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.bicyclepost.com/

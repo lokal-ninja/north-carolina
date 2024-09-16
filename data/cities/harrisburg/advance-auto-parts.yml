@@ -1,11 +1,11 @@
 id: 435994332
-type: way
+type: node
 latitude: 35.32318
 longitude: -80.64459
 postcode: "28075"
 city: Harrisburg
-street: "Main Street"
-housenumber: 3900
+street: Main Street
+housenumber: "3900"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/nc/harrisburg/3900-main-st"
+website: https://stores.advanceautoparts.com/nc/harrisburg/3900-main-st

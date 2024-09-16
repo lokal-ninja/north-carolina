@@ -1,11 +1,11 @@
 id: 839380291
-type: way
+type: node
 latitude: 35.85534
 longitude: -79.572
 postcode: "27298"
 city: Liberty
-street: "North Greensboro Street"
-housenumber: 204
+street: North Greensboro Street
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

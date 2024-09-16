@@ -1,11 +1,11 @@
 id: 415141195
-type: way
+type: node
 latitude: 35.88507
 longitude: -80.08173
 postcode: "27360"
 city: Thomasville
-street: "East Guilford Street"
-housenumber: 12
-phone: "+1-336-687-5366"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://www.blmakersmarket.com/"
+street: East Guilford Street
+housenumber: "12"
+phone: +1-336-687-5366
+opening_hours: Tu-Sa 10:00-18:00
+website: https://www.blmakersmarket.com/

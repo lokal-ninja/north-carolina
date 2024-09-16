@@ -1,11 +1,11 @@
 id: 320911058
-type: way
+type: node
 latitude: 36.38859
 longitude: -77.42401
 postcode: "27845"
 city: Jackson
-street: "West Jefferson Street"
-housenumber: 
+street: West Jefferson Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

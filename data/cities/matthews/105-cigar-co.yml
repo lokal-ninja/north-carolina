@@ -1,11 +1,11 @@
 id: 323175759
-type: way
+type: node
 latitude: 35.11764
 longitude: -80.72114
 postcode: "28105"
 city: Matthews
-street: "North Trade Street"
-housenumber: 217
+street: North Trade Street
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

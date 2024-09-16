@@ -1,11 +1,11 @@
 id: 322177390
-type: way
+type: node
 latitude: 35.19313
 longitude: -80.79173
 postcode: "28211"
 city: Charlotte
-street: "North Wendover Road"
-housenumber: 1220
-phone: "+1 704-365-1291"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Wendover/NC/Charlotte/28211/3608"
+street: North Wendover Road
+housenumber: "1220"
+phone: +1 704-365-1291
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Wendover/NC/Charlotte/28211/3608

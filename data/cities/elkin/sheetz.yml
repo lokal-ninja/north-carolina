@@ -1,11 +1,11 @@
 id: 612179164
-type: way
+type: node
 latitude: 36.27095
 longitude: -80.85269
 postcode: "28621"
 city: Elkin
-street: "CC Camp Road"
-housenumber: 401
-phone: "+1 336-258-8041"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/535"
+street: CC Camp Road
+housenumber: "401"
+phone: +1 336-258-8041
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/535

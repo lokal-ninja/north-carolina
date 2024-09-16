@@ -1,11 +1,11 @@
 id: 643142706
-type: way
+type: node
 latitude: 35.98127
 longitude: -78.61369
 postcode: "27587"
 city: Wake Forest
-street: "Durham Road"
-housenumber: 2713
+street: Durham Road
+housenumber: "2713"
 phone: ""
 opening_hours: ""
 website: ""

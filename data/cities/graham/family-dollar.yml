@@ -1,11 +1,11 @@
 id: 481348920
-type: way
+type: node
 latitude: 36.07125
 longitude: -79.39891
 postcode: "27253"
 city: Graham
-street: "East Harden Street"
-housenumber: 116
+street: East Harden Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

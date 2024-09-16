@@ -1,11 +1,11 @@
 id: 231405703
-type: way
+type: node
 latitude: 36.20909
 longitude: -81.67227
 postcode: "28607"
 city: Boone
-street: "Blowing Rock Road"
-housenumber: 683
-phone: "+1 828 264 7100"
+street: Blowing Rock Road
+housenumber: "683"
+phone: +1 828 264 7100
 opening_hours: ""
-website: "http://hamptonfuneralnc.com/"
+website: http://hamptonfuneralnc.com/

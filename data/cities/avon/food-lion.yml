@@ -1,11 +1,11 @@
 id: 148073311
-type: way
+type: node
 latitude: 35.33488
 longitude: -75.50788
 postcode: "27915"
 city: Avon
-street: "North Carolina Highway 12"
-housenumber: 41934
-phone: "252-995-4488"
-opening_hours: "05:00-23:00"
-website: "https://www.foodlion.com/stores/nc/avon/685/"
+street: North Carolina Highway 12
+housenumber: "41934"
+phone: 252-995-4488
+opening_hours: 05:00-23:00
+website: https://www.foodlion.com/stores/nc/avon/685/

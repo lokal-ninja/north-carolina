@@ -1,11 +1,11 @@
 id: 830373067
-type: way
+type: node
 latitude: 35.32141
 longitude: -80.95387
 postcode: "28214"
 city: Charlotte
-street: "Rozzelles Ferry Road"
-housenumber: 10307
+street: Rozzelles Ferry Road
+housenumber: "10307"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nc/charlotte/autoparts-5331.html"
+website: https://locations.oreillyauto.com/nc/charlotte/autoparts-5331.html

@@ -1,11 +1,11 @@
 id: 996684971
-type: way
+type: node
 latitude: 35.20235
 longitude: -80.84496
 postcode: "28203"
 city: Charlotte
-street: "East Boulevard"
-housenumber: 1257
+street: East Boulevard
+housenumber: "1257"
 phone: ""
 opening_hours: ""
 website: ""

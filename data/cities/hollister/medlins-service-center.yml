@@ -1,11 +1,11 @@
 id: 544602481
-type: way
+type: node
 latitude: 36.25527
 longitude: -77.94438
 postcode: "27844"
 city: Hollister
-street: "NC-561"
-housenumber: 37637
+street: NC-561
+housenumber: "37637"
 phone: "+12525863240"
 opening_hours: ""
 website: ""

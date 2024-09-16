@@ -1,11 +1,11 @@
 id: 1291330916
-type: way
+type: node
 latitude: 36.48516
 longitude: -80.74513
 postcode: "27030"
 city: Mount Airy
-street: "Graceland Lane"
-housenumber: 110
+street: Graceland Lane
+housenumber: "110"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

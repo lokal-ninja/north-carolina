@@ -1,11 +1,11 @@
 id: 630359717
-type: way
+type: node
 latitude: 35.45974
 longitude: -79.0527
 postcode: "27505"
 city: Broadway
-street: "North Main Street"
-housenumber: 112
+street: North Main Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nc/broadway/9478"
+website: https://www.dollargeneral.com/store-directory/nc/broadway/9478

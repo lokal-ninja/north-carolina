@@ -1,11 +1,11 @@
 id: 922753794
-type: way
+type: node
 latitude: 34.63891
 longitude: -79.35081
 postcode: "28364"
 city: Raemon
-street: "US 501"
-housenumber: 9361
+street: US 501
+housenumber: "9361"
 phone: ""
 opening_hours: ""
 website: ""

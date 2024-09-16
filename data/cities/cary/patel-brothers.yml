@@ -1,11 +1,11 @@
 id: 32076810
-type: way
+type: node
 latitude: 35.79089
 longitude: -78.7633
 postcode: "27511"
 city: Cary
-street: "East Chatham Street"
-housenumber: 802
+street: East Chatham Street
+housenumber: "802"
 phone: ""
 opening_hours: ""
 website: ""

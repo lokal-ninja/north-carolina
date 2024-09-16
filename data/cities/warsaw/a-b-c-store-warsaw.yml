@@ -1,11 +1,11 @@
 id: 1220652558
-type: way
+type: node
 latitude: 34.99861
 longitude: -78.0916
 postcode: "28398"
 city: Warsaw
-street: "South Pine Street"
-housenumber: 114
+street: South Pine Street
+housenumber: "114"
 phone: "+19102934656"
 opening_hours: ""
 website: ""

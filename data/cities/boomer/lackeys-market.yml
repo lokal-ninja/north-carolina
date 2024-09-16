@@ -1,11 +1,11 @@
 id: 1251780793
-type: way
+type: node
 latitude: 36.06555
 longitude: -81.25731
 postcode: "28606"
 city: Boomer
-street: "NC-18"
-housenumber: 5217
-phone: "+1-336-921-3341"
+street: NC-18
+housenumber: "5217"
+phone: +1-336-921-3341
 opening_hours: ""
 website: ""

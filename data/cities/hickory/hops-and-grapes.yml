@@ -1,11 +1,11 @@
 id: 544590706
-type: way
+type: node
 latitude: 35.76429
 longitude: -81.33136
 postcode: "28601"
 city: Hickory
-street: "North Center Street"
-housenumber: 2420
+street: North Center Street
+housenumber: "2420"
 phone: ""
 opening_hours: ""
 website: ""

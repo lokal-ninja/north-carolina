@@ -1,11 +1,11 @@
 id: 47933560
-type: way
+type: node
 latitude: 35.7919
 longitude: -78.66132
 postcode: "27605"
 city: Raleigh
-street: "Oberlin Road"
-housenumber: 500
-phone: "+1 919-828-9216"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/raleigh/village-district/097/00021"
+street: Oberlin Road
+housenumber: "500"
+phone: +1 919-828-9216
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/raleigh/village-district/097/00021

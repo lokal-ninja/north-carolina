@@ -1,11 +1,11 @@
 id: 1054196913
-type: way
+type: node
 latitude: 35.4642
 longitude: -78.14749
 postcode: "27569"
 city: Princeton
-street: "Edwards Road"
-housenumber: 1037
+street: Edwards Road
+housenumber: "1037"
 phone: "+16464094371"
 opening_hours: ""
 website: ""

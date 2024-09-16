@@ -1,11 +1,11 @@
 id: 891399825
-type: way
+type: node
 latitude: 36.0862
 longitude: -81.92862
 postcode: "28657"
 city: Newland
-street: "Mitchell Street"
-housenumber: 231
+street: Mitchell Street
+housenumber: "231"
 phone: "+18287331368"
 opening_hours: ""
 website: ""

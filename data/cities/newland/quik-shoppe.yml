@@ -1,11 +1,11 @@
 id: 628464694
-type: way
+type: node
 latitude: 36.08084
 longitude: -81.92796
 postcode: "28657"
 city: Newland
-street: "Pineola Street"
-housenumber: 713
-phone: "(828) 733-0294"
-opening_hours: "24/7"
+street: Pineola Street
+housenumber: "713"
+phone: (828) 733-0294
+opening_hours: 24/7
 website: ""

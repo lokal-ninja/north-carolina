@@ -1,11 +1,11 @@
 id: 343293804
-type: way
+type: node
 latitude: 35.05583
 longitude: -80.8514
 postcode: "28277"
 city: Charlotte
-street: "Conlan Circle"
-housenumber: 13845
+street: Conlan Circle
+housenumber: "13845"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/charlotte-nc-pharmacies/13845-conlan-circle-charlotte-nc-28277/storeid=7157"
+website: https://www.cvs.com/store-locator/charlotte-nc-pharmacies/13845-conlan-circle-charlotte-nc-28277/storeid=7157

@@ -1,11 +1,11 @@
 id: 745352828
-type: way
+type: node
 latitude: 35.98928
 longitude: -78.85239
 postcode: "27703"
 city: Durham
-street: "Holloway Street"
-housenumber: 2627
+street: Holloway Street
+housenumber: "2627"
 phone: ""
 opening_hours: ""
 website: ""

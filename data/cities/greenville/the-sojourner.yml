@@ -1,11 +1,11 @@
 id: 201484629
-type: way
+type: node
 latitude: 35.61163
 longitude: -77.37302
 postcode: "27858"
 city: Greenville
-street: "South Evans Street"
-housenumber: 414
+street: South Evans Street
+housenumber: "414"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00; Su 13:00-18:00"
+opening_hours: Mo-Sa 11:00-18:00; Su 13:00-18:00
 website: ""

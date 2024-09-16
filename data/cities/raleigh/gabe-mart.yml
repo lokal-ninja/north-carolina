@@ -1,11 +1,11 @@
 id: 47730048
-type: way
+type: node
 latitude: 35.77889
 longitude: -78.72113
 postcode: "27606"
 city: Raleigh
-street: "Jones Franklin Road"
-housenumber: 305
+street: Jones Franklin Road
+housenumber: "305"
 phone: ""
-opening_hours: "Mo-Su 05:00-24:00"
+opening_hours: Mo-Su 05:00-24:00
 website: ""

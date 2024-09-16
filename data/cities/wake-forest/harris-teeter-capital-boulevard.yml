@@ -1,11 +1,11 @@
 id: 656371055
-type: way
+type: node
 latitude: 36.00576
 longitude: -78.5184
 postcode: "27587"
 city: Wake Forest
-street: "Capital Boulevard"
-housenumber: 13686
-phone: "+1 919-554-3608"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/wake-forest/harris-crossing/097/00353"
+street: Capital Boulevard
+housenumber: "13686"
+phone: +1 919-554-3608
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/nc/wake-forest/harris-crossing/097/00353

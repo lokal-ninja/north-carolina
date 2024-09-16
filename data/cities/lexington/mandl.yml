@@ -1,11 +1,11 @@
 id: 410969066
-type: way
+type: node
 latitude: 35.83642
 longitude: -80.24593
 postcode: "27295"
 city: Lexington
-street: "Piedmont Drive"
-housenumber: 406
-phone: "+1-336-525-9578"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.mlchryslerdodgejeepramlexington.com/"
+street: Piedmont Drive
+housenumber: "406"
+phone: +1-336-525-9578
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.mlchryslerdodgejeepramlexington.com/

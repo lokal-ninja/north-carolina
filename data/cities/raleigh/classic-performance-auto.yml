@@ -1,11 +1,11 @@
 id: 47662498
-type: way
+type: node
 latitude: 35.79291
 longitude: -78.75071
 postcode: "27607"
 city: Raleigh
-street: "Trinity Road"
-housenumber: 1012
+street: Trinity Road
+housenumber: "1012"
 phone: ""
 opening_hours: ""
 website: ""

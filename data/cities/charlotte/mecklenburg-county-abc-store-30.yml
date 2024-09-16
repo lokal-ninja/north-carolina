@@ -1,11 +1,11 @@
 id: 1227714376
-type: way
+type: node
 latitude: 35.09923
 longitude: -80.99029
 postcode: "28273"
 city: Charlotte
-street: "Steelecroft Parkway"
-housenumber: 13720
+street: Steelecroft Parkway
+housenumber: "13720"
 phone: ""
 opening_hours: ""
 website: ""

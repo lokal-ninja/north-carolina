@@ -1,11 +1,11 @@
 id: 1235796069
-type: way
+type: node
 latitude: 35.76829
 longitude: -80.85494
 postcode: "28677"
 city: Statesville
-street: "Salisbury Highway"
-housenumber: 1532
-phone: "+1 980-223-8809"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/621"
+street: Salisbury Highway
+housenumber: "1532"
+phone: +1 980-223-8809
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/621

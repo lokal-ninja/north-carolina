@@ -1,11 +1,11 @@
 id: 274580714
-type: way
+type: node
 latitude: 35.3309
 longitude: -83.59205
 postcode: "28713"
 city: Bryson City
-street: "US 19 West"
-housenumber: 13077
-phone: "1 828 488 3167"
+street: US 19 West
+housenumber: "13077"
+phone: 1 828 488 3167
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 207924787
-type: way
+type: node
 latitude: 35.7143
 longitude: -78.84361
 postcode: "27502"
 city: Apex
-street: "Apex Peakway"
-housenumber: 3151
-phone: "+1 919-362-3737"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3889/apex-nc/whats-new"
+street: Apex Peakway
+housenumber: "3151"
+phone: +1 919-362-3737
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3889/apex-nc/whats-new

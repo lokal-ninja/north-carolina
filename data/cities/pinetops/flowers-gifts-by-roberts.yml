@@ -1,11 +1,11 @@
 id: 1226757777
-type: way
+type: node
 latitude: 35.79079
 longitude: -77.63697
 postcode: "27864"
 city: Pinetops
-street: "East Hamlet Street"
-housenumber: 116
-phone: "(252) 827-5616"
+street: East Hamlet Street
+housenumber: "116"
+phone: (252) 827-5616
 opening_hours: ""
 website: ""

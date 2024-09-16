@@ -1,11 +1,11 @@
 id: 683017480
-type: way
+type: node
 latitude: 35.77946
 longitude: -78.115
 postcode: "27807"
 city: Bailey
-street: "Jackson Street"
-housenumber: 12457
+street: Jackson Street
+housenumber: "12457"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1140078211
-type: way
+type: node
 latitude: 35.60548
 longitude: -77.40009
 postcode: "27834"
 city: Greenville
-street: "Moye Boulevard"
-housenumber: 701
-phone: "+1 252-689-3634"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/688"
+street: Moye Boulevard
+housenumber: "701"
+phone: +1 252-689-3634
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/688

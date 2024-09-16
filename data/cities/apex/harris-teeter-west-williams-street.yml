@@ -1,11 +1,11 @@
 id: 262936014
-type: way
+type: node
 latitude: 35.73797
 longitude: -78.86216
 postcode: "27502"
 city: Apex
-street: "West Williams Street"
-housenumber: 750
-phone: "+1 919-362-3782"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/nc/apex/haddon-hall-commons/097/00058"
+street: West Williams Street
+housenumber: "750"
+phone: +1 919-362-3782
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.harristeeter.com/stores/grocery/nc/apex/haddon-hall-commons/097/00058

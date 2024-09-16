@@ -1,11 +1,11 @@
 id: 109864284
-type: way
+type: node
 latitude: 35.9535
 longitude: -78.99802
 postcode: "27707"
 city: Durham
-street: "New Hope Commons Drive"
-housenumber: 5458
-phone: "+1 919-973-1697"
+street: New Hope Commons Drive
+housenumber: "5458"
+phone: +1 919-973-1697
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/north-carolina/durham/7710000246/"
+website: https://stores.ashleyfurniture.com/store/us/north-carolina/durham/7710000246/
