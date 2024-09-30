@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
-url: /durham/harris-teeter-hillsborough-road-2/
+url: /durham/harris-teeter-nc-highway-54/
 shop: supermarket
 ---
