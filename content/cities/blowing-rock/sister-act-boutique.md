@@ -1,5 +1,5 @@
 ---
 title: "Sister Act Boutique"
 url: /blowing-rock/sister-act-boutique/
-shop: boutique
+shop: clothes
 ---

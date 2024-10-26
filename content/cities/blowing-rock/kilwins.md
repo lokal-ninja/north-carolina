@@ -1,5 +1,5 @@
 ---
-title: "Kilwin's"
+title: "Kilwins"
 url: /blowing-rock/kilwins/
 shop: confectionery
 ---
