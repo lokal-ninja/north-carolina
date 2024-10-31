@@ -1,6 +1,6 @@
 ---
 title: Dunn
 url: /dunn/
-latitude: 35.312
-longitude: -78.619
+latitude: 35.317
+longitude: -78.626
 ---
