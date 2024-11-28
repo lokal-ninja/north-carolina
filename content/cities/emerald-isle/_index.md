@@ -1,6 +1,6 @@
 ---
 title: Emerald Isle
 url: /emerald-isle/
-latitude: 34.662
-longitude: -77.049
+latitude: 34.665
+longitude: -77.034
 ---
