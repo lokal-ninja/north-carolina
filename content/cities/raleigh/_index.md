@@ -1,6 +1,6 @@
 ---
 title: Raleigh
 url: /raleigh/
-latitude: 35.865
-longitude: -78.618
+latitude: 35.789
+longitude: -78.65
 ---
