@@ -1,6 +1,6 @@
 ---
 title: Rolesville
 url: /rolesville/
-latitude: 35.919
-longitude: -78.466
+latitude: 35.917
+longitude: -78.468
 ---
