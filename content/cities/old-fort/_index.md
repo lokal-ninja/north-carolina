@@ -1,6 +1,6 @@
 ---
 title: Old Fort
 url: /old-fort/
-latitude: 35.621
-longitude: -82.18
+latitude: 35.625
+longitude: -82.181
 ---

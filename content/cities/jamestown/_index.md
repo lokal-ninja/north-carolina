@@ -1,6 +1,6 @@
 ---
 title: Jamestown
 url: /jamestown/
-latitude: 36.04
-longitude: -79.921
+latitude: 36.044
+longitude: -79.925
 ---
