@@ -2,5 +2,5 @@
 title: McAdenville
 url: /mcadenville/
 latitude: 35.259
-longitude: -81.078
+longitude: -81.077
 ---

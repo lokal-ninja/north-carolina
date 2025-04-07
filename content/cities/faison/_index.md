@@ -1,6 +1,6 @@
 ---
 title: Faison
 url: /faison/
-latitude: 35.12
-longitude: -78.134
+latitude: 35.117
+longitude: -78.137
 ---
