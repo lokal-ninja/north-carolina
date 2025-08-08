@@ -1,5 +1,5 @@
 ---
-title: "JAMESVILLE MINI MART and Grill"
+title: "Jamesville Mini Mart and Grill"
 url: /jamesville/jamesville-mini-mart-and-grill/
 shop: convenience
 ---
