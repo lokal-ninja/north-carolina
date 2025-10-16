@@ -1,6 +1,6 @@
 ---
 title: Wade
 url: /wade/
-latitude: 35.132
-longitude: -78.697
+latitude: 35.16
+longitude: -78.718
 ---
