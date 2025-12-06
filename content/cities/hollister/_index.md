@@ -1,6 +1,6 @@
 ---
 title: Hollister
 url: /hollister/
-latitude: 36.247
-longitude: -77.957
+latitude: 36.262
+longitude: -77.936
 ---
