@@ -1,6 +1,6 @@
 ---
 title: Zebulon
 url: /zebulon/
-latitude: 35.705
-longitude: -78.327
+latitude: 35.69
+longitude: -78.276
 ---
