@@ -1,6 +1,6 @@
 ---
 title: Pilot Mountain
 url: /pilot-mountain/
-latitude: 36.384
-longitude: -80.465
+latitude: 36.38
+longitude: -80.478
 ---
