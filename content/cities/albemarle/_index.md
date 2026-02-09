@@ -1,6 +1,6 @@
 ---
 title: Albemarle
 url: /albemarle/
-latitude: 35.344
-longitude: -80.177
+latitude: 35.343
+longitude: -80.174
 ---
