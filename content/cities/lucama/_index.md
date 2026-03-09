@@ -1,6 +1,6 @@
 ---
 title: Lucama
 url: /lucama/
-latitude: 35.689
-longitude: -78.072
+latitude: 35.651
+longitude: -78.004
 ---
