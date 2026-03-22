@@ -1,6 +1,6 @@
 ---
 title: Autryville
 url: /autryville/
-latitude: 34.998
-longitude: -78.641
+latitude: 35
+longitude: -78.645
 ---
