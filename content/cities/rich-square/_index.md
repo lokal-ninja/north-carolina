@@ -1,6 +1,6 @@
 ---
 title: Rich Square
 url: /rich-square/
-latitude: 36.284
-longitude: -77.279
+latitude: 36.274
+longitude: -77.285
 ---
