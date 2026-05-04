@@ -1,6 +1,6 @@
 ---
 title: Harrisburg
 url: /harrisburg/
-latitude: 35.323
-longitude: -80.661
+latitude: 35.322
+longitude: -80.656
 ---
