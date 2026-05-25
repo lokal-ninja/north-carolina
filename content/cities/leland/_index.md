@@ -1,6 +1,6 @@
 ---
 title: Leland
 url: /leland/
-latitude: 34.219
-longitude: -78.019
+latitude: 34.202
+longitude: -78.047
 ---
