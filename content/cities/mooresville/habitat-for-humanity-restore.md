@@ -1,5 +1,5 @@
 ---
-title: "Habitat for Humanity - Restore"
+title: "Habitat for Humanity ReStore"
 url: /mooresville/habitat-for-humanity-restore/
-shop: furniture
+shop: charity
 ---
