@@ -1,6 +1,6 @@
 ---
 title: Piney Creek
 url: /piney-creek/
-latitude: 36.551
-longitude: -81.298
+latitude: 36.516
+longitude: -81.299
 ---

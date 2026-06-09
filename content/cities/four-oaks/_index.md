@@ -1,6 +1,6 @@
 ---
 title: Four Oaks
 url: /four-oaks/
-latitude: 35.455
-longitude: -78.388
+latitude: 35.446
+longitude: -78.426
 ---
