@@ -1,6 +1,6 @@
 ---
 title: Vass
 url: /vass/
-latitude: 35.257
-longitude: -79.281
+latitude: 35.259
+longitude: -79.282
 ---

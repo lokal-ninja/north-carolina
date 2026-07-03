@@ -1,6 +1,6 @@
 ---
 title: Rocky Point
 url: /rocky-point/
-latitude: 34.387
-longitude: -77.895
+latitude: 34.389
+longitude: -77.894
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pisgah Forest
 url: /pisgah-forest/
-latitude: 35.277
-longitude: -82.704
+latitude: 35.274
+longitude: -82.702
 ---
