@@ -7,5 +7,5 @@ city: Carrboro
 street: Hillsborough Road
 housenumber: "1120"
 phone: ""
-opening_hours: Sa[1,3] 10:00-14:00; Su[1,3] 10:00-14:00
+opening_hours: Sa 10:00-14:00
 website: https://www.recyclery.org

@@ -1,6 +1,6 @@
 ---
 title: Elon
 url: /elon/
-latitude: 36.161
-longitude: -79.507
+latitude: 36.114
+longitude: -79.475
 ---

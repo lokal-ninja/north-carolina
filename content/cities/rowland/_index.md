@@ -1,6 +1,6 @@
 ---
 title: Rowland
 url: /rowland/
-latitude: 34.539
-longitude: -79.289
+latitude: 34.535
+longitude: -79.292
 ---

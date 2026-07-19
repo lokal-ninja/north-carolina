@@ -1,6 +1,6 @@
 ---
 title: Bear Creek
 url: /bear-creek/
-latitude: 35.604
-longitude: -79.403
+latitude: 35.546
+longitude: -79.477
 ---

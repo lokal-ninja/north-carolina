@@ -1,6 +1,6 @@
 ---
 title: Stokesdale
 url: /stokesdale/
-latitude: 36.295
-longitude: -79.94
+latitude: 36.239
+longitude: -79.981
 ---
