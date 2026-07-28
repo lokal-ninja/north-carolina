@@ -1,6 +1,6 @@
 ---
 title: Ramseur
 url: /ramseur/
-latitude: 35.736
-longitude: -79.657
+latitude: 35.741
+longitude: -79.646
 ---
