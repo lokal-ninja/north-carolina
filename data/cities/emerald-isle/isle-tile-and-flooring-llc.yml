@@ -7,5 +7,5 @@ city: Emerald Isle
 street: Emerald Drive
 housenumber: "8002"
 phone: +1-252-723-7625
-opening_hours: Tu-Fr 08:30-17:00 Sa 08:30-14:00
+opening_hours: Tu-Fr 08:30-17:00; Sa 08:30-14:00
 website: ""

@@ -7,7 +7,5 @@ city: Aberdeen
 street: 102 S Sandhills Blvd
 housenumber: ""
 phone: +1-910-637-0139
-opening_hours: 'Sunday: 1:00PM to 6:00PM Monday: 10:00AM to 7:00PM Tuesday: 9:00AM
-    to 7:00PM Wednesday: 9:00AM to 7:00PM Thursday: 9:00AM to 7:00PM Friday: 9:00AM
-    to 7:00PM Saturday: 10:00AM to 7:00PM'
+opening_hours: Mo,Sa 10:00-19:00; Tu-Fr 09:00-19:00; Su 13:00-18:00
 website: https://tnsbeauty.com

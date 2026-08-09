@@ -1,6 +1,6 @@
 ---
 title: Maysville
 url: /maysville/
-latitude: 34.901
-longitude: -77.231
+latitude: 34.898
+longitude: -77.233
 ---

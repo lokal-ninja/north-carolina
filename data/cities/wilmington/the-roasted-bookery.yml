@@ -7,6 +7,5 @@ city: Wilmington
 street: Castle Street
 housenumber: "1102"
 phone: ""
-opening_hours: Mo-Wednesday 9:00 AM - 4:00 PM, Thursday - Friday 9:00 AM - 6:00 PM,
-    Saturday 10:00 AM - 6:00 PM, Sunday 10:00 AM - 4:00 PM
+opening_hours: Mo-We 09:00-16:00; Th-Fr 09:00-18:00; Sa 10:00-18:00; Su 10:00-16:00
 website: https://www.theroastedbookery.com
