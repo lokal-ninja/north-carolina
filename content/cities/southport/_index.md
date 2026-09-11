@@ -1,6 +1,6 @@
 ---
 title: Southport
 url: /southport/
-latitude: 33.928
-longitude: -78.022
+latitude: 33.927
+longitude: -78.021
 ---

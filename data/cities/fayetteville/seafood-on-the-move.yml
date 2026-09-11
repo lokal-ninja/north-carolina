@@ -2,7 +2,7 @@ id: 13322138586
 type: node
 latitude: 35.06256
 longitude: -78.88451
-postcode: 28301,
+postcode: "28301"
 city: Fayetteville
 street: Hillsboro Street
 housenumber: "505"

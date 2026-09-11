@@ -1,6 +1,6 @@
 ---
 title: Manteo
 url: /manteo/
-latitude: 35.902
-longitude: -75.673
+latitude: 35.909
+longitude: -75.67
 ---

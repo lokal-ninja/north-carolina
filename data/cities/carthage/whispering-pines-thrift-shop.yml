@@ -6,6 +6,6 @@ postcode: "28327"
 city: Carthage
 street: Vass-Carthage Road
 housenumber: "3199"
-phone: "+19109492800"
-opening_hours: 'Receiving: Mo-Tu 09:00-11:00; Shopping: We-Sa 10:00-13:00'
+phone: +1 910-949-2800
+opening_hours: Mo-Tu 09:00-11:00 "Receiving"; We-Sa 10:00-13:00 "Shopping"
 website: ""
