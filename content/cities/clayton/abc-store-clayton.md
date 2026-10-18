@@ -1,5 +1,5 @@
 ---
-title: "ABC Store-Clayton"
+title: "ABC Store Clayton"
 url: /clayton/abc-store-clayton/
 shop: alcohol
 ---
