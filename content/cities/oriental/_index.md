@@ -1,6 +1,6 @@
 ---
 title: Oriental
 url: /oriental/
-latitude: 35.024
-longitude: -76.696
+latitude: 35.082
+longitude: -76.715
 ---

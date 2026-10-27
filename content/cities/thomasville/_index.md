@@ -2,5 +2,5 @@
 title: Thomasville
 url: /thomasville/
 latitude: 35.872
-longitude: -80.076
+longitude: -80.075
 ---

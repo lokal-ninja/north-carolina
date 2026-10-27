@@ -1,6 +1,6 @@
 ---
 title: Durham
 url: /durham/
-latitude: 36.019
-longitude: -78.949
+latitude: 36.007
+longitude: -78.921
 ---
