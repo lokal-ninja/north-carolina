@@ -1,6 +1,6 @@
 ---
 title: Pinnacle
 url: /pinnacle/
-latitude: 36.316
-longitude: -80.44
+latitude: 36.332
+longitude: -80.435
 ---
